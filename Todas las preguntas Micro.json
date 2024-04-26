@@ -3,7 +3,7 @@
 "answers": ["Naranja de acridina",
 "Verde malaquita",
 "Gram",
-"Tinta china", ],
+"Tinta china"],
 "correctAnswer":"Naranja de acridina"
 },
 {
@@ -11,15 +11,15 @@
 "answers": ["Bacterias",
 "Hongos",
 "Parásitos",
-"Virus", ],
+"Virus"],
 "correctAnswer":"Virus"
 },
 {
 "question":"¿Qué principio de la microbiología se aplica para establecer que un microorganismo es causante de una enfermedad?",
-answers: ["Postulado de Hansen",
+"answers": ["Postulado de Hansen",
 "Principio de etiología",
 "Postulado de Koch",
-"Principio de causalidad", ],
+"Principio de causalidad"],
 "correctAnswer":"Postulado de Koch"
 },
 {
@@ -27,7 +27,7 @@ answers: ["Postulado de Hansen",
 "answers": ["Gram",
 "Papanicolau",
 "Verde malaquita",
-"Ziehl-Neelsen", ],
+"Ziehl-Neelsen"],
 "correctAnswer":"Ziehl-Neelsen"
 },
 {
@@ -35,7 +35,7 @@ answers: ["Postulado de Hansen",
 "answers": ["Bacterias",
 "Hongos",
 "Virus",
-"Parásitos", ],
+"Parásitos"],
 "correctAnswer":"Hongos"
 },
 ,
