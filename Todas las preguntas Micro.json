@@ -1,4 +1,4 @@
-var questions = [
+[
     {
         "question": "¿Cuál de las siguientes tinciones es fluorescente?",
         "answers": ["Naranja de acridina", "Verde malaquita", "Gram", "Tinta china"],
@@ -24,4 +24,4 @@ var questions = [
         "answers": ["Bacterias", "Hongos", "Virus", "Parásitos"],
         "correctAnswer": "Hongos"
     }
-];
+]
