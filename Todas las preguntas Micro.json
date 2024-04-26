@@ -5,7 +5,7 @@
         "correctAnswer": "Naranja de acridina"
     },
     {
-        "question": "¿Cuál de los siguientes microorganismo no se consideran como seres vivos?",
+        "question": "¿Cuál de los siguientes microorganismos no se consideran como seres vivos?",
         "answers": ["Bacterias", "Hongos", "Parásitos", "Virus"],
         "correctAnswer": "Virus"
     },
@@ -15,7 +15,7 @@
         "correctAnswer": "Postulado de Koch"
     },
     {
-        "question": "¿Qué tinción se utiliza para observar microorganismos acido-alcohol resistentes?",
+        "question": "¿Qué tinción se utiliza para observar microorganismos ácido-alcohol resistentes?",
         "answers": ["Gram", "Papanicolau", "Verde malaquita", "Ziehl-Neelsen"],
         "correctAnswer": "Ziehl-Neelsen"
     },
@@ -23,5 +23,90 @@
         "question": "¿Qué tipo de microorganismos son unicelulares o pluricelulares, eucariotas y con capacidad de penetrar en los tejidos formando estructuras ramificadas?",
         "answers": ["Bacterias", "Hongos", "Virus", "Parásitos"],
         "correctAnswer": "Hongos"
+    },
+    {
+        "question": "Cuando nombramos un microorganismo, la primera palabra de su nombre científico indica:",
+        "answers": ["Especie", "Taxón", "Género", "Ninguna es correcta."],
+        "correctAnswer": "Género"
+    },
+    {
+        "question": "Cuando observamos los microorganismos sin teñirlos y procurando alterarlos lo menos posible, estamos realizando un examen:",
+        "answers": ["En fresco", "In vivo", "Al natural", "Todas son correctas"],
+        "correctAnswer": "En fresco"
+    },
+    {
+        "question": "El conjunto de medidas llevadas a cabo para evitar el contacto del cuerpo humano con microorganismos patógenos se conoce como:",
+        "answers": ["Asepsia", "Profilaxis", "Esterilidad", "Todas son correctas"],
+        "correctAnswer": "Profilaxis"
+    },
+    {
+        "question": "La ciencia que se dedica a clasificar los seres vivos en función de sus características es la:",
+        "answers": ["Microbiología", "Ficología", "Taxonomía", "Genética"],
+        "correctAnswer": "Taxonomía"
+    },
+    {
+        "question": "Las bacterias con forma curvada, similar a un riñón o una alubia son:",
+        "answers": ["Cocos", "Bacilos", "Vibrios", "Espirilos"],
+        "correctAnswer": "Vibrios"
+    },
+    {
+        "question": "¿Qué tipo de factor de los medios de cultivo previene el crecimiento de microorganismos no deseados?",
+        "answers": ["De crecimiento", "De arranque", "Inhibidores", "Solidificantes"],
+        "correctAnswer": "Inhibidores"
+    },
+    {
+        "question": "¿Qué tipo de medios resaltan características específicas de microorganismos?",
+        "answers": ["Selectivos", "Diferenciales", "Generales", "Ninguno de los anteriores"],
+        "correctAnswer": "Diferenciales"
+    },
+    {
+        "question": "¿Qué tipo de medios son fabricados a partir de un medio natural al que se le añaden componentes en cantidades conocidas?",
+        "answers": ["Sintéticos", "Naturales", "Semisintéticos", "Complejos"],
+        "correctAnswer": "Semisintéticos"
+    },
+    {
+        "question": "Cuando los medios de cultivo tienen componentes termolábiles, se esterilizarán mediante…:",
+        "answers": ["Autoclave", "Llama", "Desinfectantes", "Filtración"],
+        "correctAnswer": "Filtración"
+    },
+    {
+        "question": "El Agar Sabouraud es un medio selectivo para:",
+        "answers": ["Coliformes", "Virus", "Hongos", "Rickettsias"],
+        "correctAnswer": "Hongos"
+    },
+    {
+        "question": "El primer paso a la hora de preparar medios de cultivo es:",
+        "answers": ["Esterilización", "Preparación de la mezcla", "Fraccionamiento", "Ninguna de las anteriores es correcta."],
+        "correctAnswer": "Preparación de la mezcla"
+    },
+    {
+        "question": "Los carragenatos y alginatos son factores...:",
+        "answers": ["De crecimiento", "De arranque", "Inhibidores", "Solidificantes"],
+        "correctAnswer": "Solidificantes"
+    },
+    {
+        "question": "¿Cuál de los siguientes no es un componente básico de los medios de cultivo?",
+        "answers": ["Fuente de Carbono", "Fuente de Fósforo", "Fuente de Nitrógeno", "Fuente de Hidrógeno"],
+        "correctAnswer": "Fuente de Hidrógeno"
+    },
+    {
+        "question": "¿Qué medio de cultivo es similar al agar sangre, pero contiene glóbulos rojos lisados?",
+        "answers": ["Agar MacConkey", "Agar Schaedler", "Agar Chocolate", "Agar Chapman"],
+        "correctAnswer": "Agar Chocolate"
+    },
+    {
+        "question": "¿Qué tipo de hemólisis se observa como un halo verdoso alrededor de las colonias bacterianas?",
+        "answers": ["Alfahemólisis (α-hemólisis)", "Betahemólisis (β-hemólisis)", "Gammahemólisis (γ-hemólisis)", "Ninguna es correcta"],
+        "correctAnswer": "Alfahemólisis (α-hemólisis)"
+    },
+    {
+        "question": "¿Cómo se denominan los cultivos en los que solo encontramos una especie de microorganismos?",
+        "answers": ["Mixtos", "Tipológicos", "Axénicos", "Todas son correctas"],
+        "correctAnswer": "Axénicos"
+    },
+    {
+        "question": "¿Cuál es el propósito del agar sangre en un medio de cultivo?",
+        "answers": ["Diferenciar bacterias grampositivas y gramnegativas", "Determinar la hemólisis de bacterias", "Contar colonias bacterianas", "Estimular el crecimiento bacteriano"],
+        "correctAnswer": "Determinar la hemólisis de bacterias"
     }
 ]
