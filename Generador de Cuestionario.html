@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cuestionario Analisis</title>
+    <style>
+        body {
+            background-color: darkslateblue;
+            color: white;
+            margin-right: 100px; /* Ajuste para dejar espacio para los marcadores */
+        }
+
+        .correct { color: green; }
+        .incorrect { color: red; }
+        .question { margin-bottom: 30px; }
+        .questionanswer { margin-right: 20px; }
+        .answer-input { margin-left: 30px; margin-right: 10px; }
+        .marker-container {
+            position: fixed;
+            top: 50px;
+            right: 10px;
+            display: flex;
+            flex-direction: column;
+            overflow-y: auto;
+            max-height: calc(100vh - 100px); /* Altura máxima del contenedor */
+        }
+        .marker {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            width: 30px; /* Ancho suficiente para contener el número de pregunta y el ícono */
+            height: 20px;
+            border-radius: 50%;
+            margin-bottom: 10px;
+            cursor: pointer;
+            padding: 0 10px; /* Espaciado alrededor del ícono */
+        }
+        .marker.correct {questionNumber}, .marker.correct {background-color: green; }
+        .marker.incorrect {questionNumber}, .marker.incorrect {background-color: red; }
+        #timer {
+            position: fixed;
+            top: 10px;
+            right: 80px;
+            font-size: 18px;
+        }
+        #timer2 {
+            display: none; /* Ocultar el segundo cronómetro inicialmente */
+            position: fixed;
+            top: 40px; /* Ajustar la posición del segundo cronómetro */
+            right: 80px; /* Ajustar la posición del segundo cronómetro */
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Cuestionario Analisis</h1>
+<div id="timer">00:00</div> <!-- Primer cronómetro -->
+
+<div class="marker-container">
+    <!-- Marcadores para las preguntas -->
+</div>
+
+<form id="quizForm">
+    <!-- Preguntas se agregarán aquí -->
+</form>
+
+<script>
+   
+    window.onload = function() {
+        fetch('https://github.com/Josemlg993/MagicTest/blob/main/Todas%20las%20preguntas%20Micro.json') // Reemplaza 'questions.json' con la ruta correcta al archivo JSON
+            .then(response => response.json())
+            .then(data => {
+        console.log(data); // Imprime los datos del JSON en la consola para verificar si se ha cargado correctamente
+        generateQuiz(data);
+    })
+    .catch(error => {
+        console.error('Error al cargar el archivo JSON:', error);
+    })
+    };
+
+    function generateQuiz(questions) {
+        // Genera las preguntas y respuestas dinámicamente
+        // El código de generación de preguntas y respuestas puede ir aquí
+    }
+    
+    // Define las opciones correctas que deben mantenerse en orden y las respuestas asociadas
+        var correctOptionsToPreserveOrder = {
+            "A y B son correctas": ["A", "B"],
+            "A y C son correctas": ["A", "C"],
+            "A y D son correctas": ["A", "D"],
+            "B y C son correctas": ["B", "C"],
+            "B y D son correctas": ["B", "D"],
+            // Agregar más opciones correctas aquí según sea necesario
+        };
+
+        // Función para verificar si una pregunta tiene opciones correctas que deben mantenerse en orden
+        function hasOptionsToPreserveOrder(correctAnswer) {
+            return correctOptionsToPreserveOrder.hasOwnProperty(correctAnswer);
+        }
+
+        // Función para obtener las opciones correctas que deben mantenerse en orden para una pregunta dada
+        function getOptionsToPreserveOrder(correctAnswer) {
+            return correctOptionsToPreserveOrder[correctAnswer];
+        }
+
+        // Función para mezclar solo las respuestas de las preguntas que no deben mantener el orden
+        function shuffleAnswersIfNeeded(correctAnswer, answers) {
+            if (!hasOptionsToPreserveOrder(correctAnswer)) {
+                shuffle(answers);
+            }
+        }
+
+        // Función para barajar un array
+        function shuffle(array) {
+            for (var i = array.length - 1; i > 0; i--) {
+                var j = Math.floor(Math.random() * (i + 1));
+                var temp = array[i];
+                array[i] = array[j];
+                array[j] = temp;
+            }
+            return array;
+        }
+
+        // Modifica la parte del código donde se mezclan las respuestas para usar la nueva función
+        questions.forEach(function (item, index) {
+            var questionNumber = index + 1;
+            var questionHTML = "<div id='question" + questionNumber + "' class='question'>";
+            questionHTML += "<h2>Pregunta " + questionNumber + ":</h2>";
+            questionHTML += "<p>" + item.question + "</p>";
+            var answersCopy = item.answers.slice(); // Copia las respuestas para mantener el orden si es necesario
+            shuffleAnswersIfNeeded(item.correctAnswer, answersCopy); // Mezcla las respuestas si es necesario
+            answersCopy.forEach(function (answer) {
+                questionHTML += '<input type="radio" class="answer-input" name="q' + questionNumber + '" value="' + answer + '" onclick="checkAnswer(' + questionNumber + ', \'' + item.correctAnswer + '\', \'' + answer + '\')"> ' + answer + '<br>';
+            });
+            questionHTML += "<p id='result" + questionNumber + "' style='display:none'></p>";
+            questionHTML += "</div>";
+            document.getElementById("quizForm").innerHTML += questionHTML;
+        });
+
+        // Genera los marcadores de preguntas
+        var markerContainer = document.querySelector(".marker-container");
+        questions.forEach(function(item, index) {
+            var marker = document.createElement("div");
+            marker.classList.add("marker");
+            marker.textContent = index + 1;
+            marker.addEventListener("click", function() {
+                scrollToQuestion(index + 1);
+            });
+            markerContainer.appendChild(marker);
+        });
+
+        var startTime = new Date();
+        var timerInterval;
+        var isFirstTimerStopped = false;
+        var answeredQuestionsCount = 0;
+
+        window.onload = function() {
+            startTimer();
+        };
+
+        function startTimer() {
+            timerInterval = setInterval(updateTimer, 1000);
+        }
+
+        function updateTimer() {
+            if (!isFirstTimerStopped) {
+                var currentTime = new Date();
+                var elapsedTime = Math.floor((currentTime - startTime) / 1000);
+                var timerElement = document.getElementById("timer");
+                timerElement.textContent = formatTime(elapsedTime);
+            }
+            checkQuestionsAnswered();
+        }
+
+        function questionAnswered() {
+            answeredQuestionsCount++;
+            if (answeredQuestionsCount === 41) {
+                answeredQuestionsCount = 1;
+                isFirstTimerStopped = false;
+                startTime = new Date();
+                startTimer();
+            }
+        }
+
+        function checkAnswer(questionNumber, correctAnswer, selectedAnswer) {
+            var resultElement = document.getElementById("result" + questionNumber);
+            var marker = document.querySelector(".marker-container").children[questionNumber - 1];
+
+            if (selectedAnswer === correctAnswer) {
+                resultElement.innerHTML = "Respuesta correcta";
+                resultElement.className = "correct";
+                marker.innerHTML = questionNumber + "✅";
+                marker.classList.add("correct");
+            } else {
+                resultElement.innerHTML = "Respuesta incorrecta";
+                resultElement.className = "incorrect";
+                marker.innerHTML = questionNumber + "❌";
+                marker.classList.add("incorrect");
+
+                setTimeout(function() {
+                    resetQuestion(questionNumber);
+                }, 60000); // Reiniciar después de 1 minuto en caso de respuesta incorrecta
+            }
+            resultElement.style.display = "block";
+            answeredQuestionsCount++;
+            var currentTime = new Date();
+            var elapsedTime = Math.floor((currentTime - startTime) / 1000);
+            var timerElement = document.getElementById("timer");
+            timerElement.textContent = formatTime(elapsedTime);
+            checkQuestionsAnswered();
+        }
+
+        function formatTime(seconds) {
+            var minutes = Math.floor(seconds / 60);
+            var remainingSeconds = seconds % 60;
+            return padZero(minutes) + ":" + padZero(remainingSeconds);
+        }
+
+        function padZero(num) {
+            return (num < 10 ? "0" : "") + num;
+        }
+
+        function resetQuestion(questionNumber) {
+            var marker = document.querySelector(".marker-container").children[questionNumber - 1];
+            var resultElement = document.getElementById("result" + questionNumber);
+
+            marker.innerHTML = questionNumber;
+            marker.classList.remove("correct", "incorrect");
+
+            if (resultElement) {
+                resultElement.style.display = "none";
+            }
+
+            var questionElement = document.getElementById("question" + questionNumber);
+            var radioInputs = questionElement.querySelectorAll(".answer-input");
+            radioInputs.forEach(function(input) {
+                input.checked = false;
+            });
+        }
+
+        function scrollToQuestion(questionNumber) {
+            var questionElement = document.getElementById("question" + questionNumber);
+            questionElement.scrollIntoView({ behavior: 'smooth' });
+        }
+
+        function checkQuestionsAnswered() {
+            var totalQuestions = questions.length;
+            if (answeredQuestionsCount === totalQuestions) {
+                clearInterval(timerInterval);
+                isFirstTimerStopped = true;
+            }
+        }
+    </script>
+</body>
+</html>
