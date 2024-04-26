@@ -104,9 +104,4 @@
         "answers": ["Mixtos", "Tipológicos", "Axénicos", "Todas son correctas"],
         "correctAnswer": "Axénicos"
     },
-    {
-        "question": "¿Cuál es el propósito del agar sangre en un medio de cultivo?",
-        "answers": ["Diferenciar bacterias grampositivas y gramnegativas", "Determinar la hemólisis de bacterias", "Contar colonias bacterianas", "Estimular el crecimiento bacteriano"],
-        "correctAnswer": "Determinar la hemólisis de bacterias"
-    }
 ]
