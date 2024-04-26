@@ -1,17 +1,8 @@
-var Questions = [
-    {			
-        question: "¿Cuál de las siguientes tinciones es fluorescente?",
-        answers: ["Naranja de acridina", "Verde malaquita", "Gram", "Tinta china"],
-        correctAnswer: "Naranja de acridina"
-    },			
-    {			
-        question: "¿Cuál de los siguientes microorganismos no se consideran como seres vivos?",
+var Questions = [{question: "¿Cuál de las siguientes tinciones es fluorescente?",answers: ["Naranja de acridina", "Verde malaquita", "Gram", "Tinta china"],correctAnswer: "Naranja de acridina"},			
+    {question: "¿Cuál de los siguientes microorganismos no se consideran como seres vivos?",
         answers: ["Bacterias", "Hongos", "Parásitos", "Virus"],
-        correctAnswer: "Virus"
-    },			
-    {			
-        question: "¿Qué principio de la microbiología se aplica para establecer que un microorganismo es causante de una enfermedad?",
-        answers: ["Postulado de Hansen", "Principio de etiología", "Postulado de Koch", "Principio de causalidad"],
+        correctAnswer: "Virus"},			
+    {question: "¿Qué principio de la microbiología se aplica para establecer que un microorganismo es causante de una enfermedad?",answers: ["Postulado de Hansen", "Principio de etiología", "Postulado de Koch", "Principio de causalidad"],
         correctAnswer: "Postulado de Koch"
     },			
     {			
