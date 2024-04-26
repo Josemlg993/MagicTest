@@ -28,7 +28,7 @@ var Questions = [
         "question": "Cuando nombramos un microorganismo, la primera palabra de su nombre científico indica:",
         "answers": ["Especie", "Taxón", "Género", "Ninguna es correcta."],
         "correctAnswer": "Género"
-    }	
+    }	];
 {			
 question:	"	Cuando observamos los microorganismos sin teñirlos y procurando alterarlos lo menos posible, estamos realizando un examen:	",
 answers: [	"	En fresco	",
