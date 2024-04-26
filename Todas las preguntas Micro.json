@@ -1,11 +1,11 @@
 var Questions = [
 {			
-question:	"	¿Cuál de las siguientes tinciones es fluorescente?	",
-answers: [	"	Naranja de acridina	",
-	"	Verde malaquita	",
-	"	Gram	",
-	"	Tinta china	", ],
-correctAnswer:	"	Naranja de acridina	"
+question:"¿Cuál de las siguientes tinciones es fluorescente?",
+answers: ["Naranja de acridina",
+	"Verde malaquita",
+	"Gram",
+	"Tinta china", ],
+correctAnswer:	"Naranja de acridina"
 },			
 {			
 question:	"	¿Cuál de los siguientes microorganismo no se consideran como seres vivos?	",
