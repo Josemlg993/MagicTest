@@ -1,41 +1,41 @@
 {
-question:"¿Cuál de las siguientes tinciones es fluorescente?",
-answers: ["Naranja de acridina",
+"question":"¿Cuál de las siguientes tinciones es fluorescente?",
+"answers": ["Naranja de acridina",
 "Verde malaquita",
 "Gram",
 "Tinta china", ],
-correctAnswer:"Naranja de acridina"
+"correctAnswer":"Naranja de acridina"
 },
 {
-question:"¿Cuál de los siguientes microorganismo no se consideran como seres vivos?",
-answers: ["Bacterias",
+"question":"¿Cuál de los siguientes microorganismo no se consideran como seres vivos?",
+"answers": ["Bacterias",
 "Hongos",
 "Parásitos",
 "Virus", ],
-correctAnswer:"Virus"
+"correctAnswer":"Virus"
 },
 {
-question:"¿Qué principio de la microbiología se aplica para establecer que un microorganismo es causante de una enfermedad?",
+"question":"¿Qué principio de la microbiología se aplica para establecer que un microorganismo es causante de una enfermedad?",
 answers: ["Postulado de Hansen",
 "Principio de etiología",
 "Postulado de Koch",
 "Principio de causalidad", ],
-correctAnswer:"Postulado de Koch"
+"correctAnswer":"Postulado de Koch"
 },
 {
-question:"¿Qué tinción se utiliza para observar microorganismos acido-alcohol resistentes?",
-answers: ["Gram",
+"question":"¿Qué tinción se utiliza para observar microorganismos acido-alcohol resistentes?",
+"answers": ["Gram",
 "Papanicolau",
 "Verde malaquita",
 "Ziehl-Neelsen", ],
-correctAnswer:"Ziehl-Neelsen"
+"correctAnswer":"Ziehl-Neelsen"
 },
 {
-question:"¿Qué tipo de microorganismos son unicelulares o pluricelulares, eucariotas y con capacidad de penetrar en los tejidos formando estructuras ramificadas?",
-answers: ["Bacterias",
+"question":"¿Qué tipo de microorganismos son unicelulares o pluricelulares, eucariotas y con capacidad de penetrar en los tejidos formando estructuras ramificadas?",
+"answers": ["Bacterias",
 "Hongos",
 "Virus",
 "Parásitos", ],
-correctAnswer:"Hongos"
+"correctAnswer":"Hongos"
 },
 ,
