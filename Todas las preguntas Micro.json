@@ -4,7 +4,7 @@
 "answers": ["Naranja de acridina",
 "Verde malaquita",
 "Gram",
-"Tinta china", ],
+"Tinta china"  ],
 "correctAnswer":"Naranja de acridina"
 },
 {
@@ -12,7 +12,7 @@
 "answers": ["Bacterias",
 "Hongos",
 "Parásitos",
-"Virus", ],
+"Virus"  ],
 "correctAnswer":"Virus"
 },
 {
@@ -20,7 +20,7 @@
 "answers": ["Postulado de Hansen",
 "Principio de etiología",
 "Postulado de Koch",
-"Principio de causalidad", ],
+"Principio de causalidad"  ],
 "correctAnswer":"Postulado de Koch"
 },
 {
@@ -28,7 +28,7 @@
 "answers": ["Gram",
 "Papanicolau",
 "Verde malaquita",
-"Ziehl-Neelsen", ],
+"Ziehl-Neelsen"  ],
 "correctAnswer":"Ziehl-Neelsen"
 },
 {
@@ -36,7 +36,7 @@
 "answers": ["Bacterias",
 "Hongos",
 "Virus",
-"Parásitos", ],
+"Parásitos"  ],
 "correctAnswer":"Hongos"
 },
 {
@@ -44,7 +44,7 @@
 "answers": ["Especie",
 "Taxón",
 "Género",
-"Ninguna es correcta.", ],
+"Ninguna es correcta."  ],
 "correctAnswer":"Género"
 },
 {
@@ -52,7 +52,7 @@
 "answers": ["En fresco",
 "In vivo",
 "Al natural",
-"Todas son correctas", ],
+"Todas son correctas"  ],
 "correctAnswer":"En fresco"
 },
 {
@@ -60,7 +60,7 @@
 "answers": ["Asepsia",
 "Profilaxis",
 "Esterilidad",
-"Todas son correctas", ],
+"Todas son correctas"  ],
 "correctAnswer":"Profilaxis"
 },
 {
@@ -68,7 +68,7 @@
 "answers": ["Microbiología",
 "Ficología",
 "Taxonomía",
-"Genética", ],
+"Genética"  ],
 "correctAnswer":"Taxonomía"
 },
 {
@@ -76,7 +76,7 @@
 "answers": ["Cocos",
 "Bacilos",
 "Vibrios",
-"Espirilos", ],
+"Espirilos"  ],
 "correctAnswer":"Vibrios"
 },
 {
@@ -84,7 +84,7 @@
 "answers": ["De crecimento",
 "De arranque",
 "Inhibidores",
-"Solidificantes", ],
+"Solidificantes"  ],
 "correctAnswer":"Inhibidores"
 },
 {
@@ -92,7 +92,7 @@
 "answers": ["Selectivos",
 "Diferenciales",
 "Generales",
-"Ninguno de los anteriores", ],
+"Ninguno de los anteriores"  ],
 "correctAnswer":"Diferenciales"
 },
 {
@@ -100,7 +100,7 @@
 "answers": ["Sintéticos",
 "Naturales",
 "Semisintéticos",
-"Complejos", ],
+"Complejos"  ],
 "correctAnswer":"Semisintéticos"
 },
 {
@@ -108,7 +108,7 @@
 "answers": ["Autoclave",
 "Llama",
 "Desinfectantes",
-"Filtración", ],
+"Filtración"  ],
 "correctAnswer":"Filtración"
 },
 {
@@ -116,7 +116,7 @@
 "answers": ["Coliformes",
 "Virus",
 "Hongos",
-"Rickettsias", ],
+"Rickettsias"  ],
 "correctAnswer":"Hongos"
 },
 {
@@ -124,7 +124,7 @@
 "answers": ["Esterilización",
 "Preparación de la mezcla",
 "Fraccionamiento",
-"Ninguna de las anteriores es correcta.", ],
+"Ninguna de las anteriores es correcta."  ],
 "correctAnswer":"Preparación de la mezcla"
 },
 {
@@ -132,7 +132,7 @@
 "answers": ["De crecimento",
 "De arranque",
 "Inhibidores",
-"Solidificantes", ],
+"Solidificantes"  ],
 "correctAnswer":"Solidificantes"
 },
 {
@@ -140,7 +140,7 @@
 "answers": ["Fuente de Carbono",
 "Fuente Fósforo",
 "Fuente de Nitrógeno",
-"Fuente de Hidrógeno", ],
+"Fuente de Hidrógeno"  ],
 "correctAnswer":"Fuente de Hidrógeno"
 },
 {
@@ -148,7 +148,7 @@
 "answers": ["Agar MacConkey",
 "Agar Schaedler",
 "Agar Chocolate",
-"Agar Chapman", ],
+"Agar Chapman"  ],
 "correctAnswer":"Agar Chocolate"
 },
 {
@@ -156,7 +156,7 @@
 "answers": ["Alfahemólisis (α-hemólisis)",
 "Betahemólisis (β-hemólisis)",
 "Gammahemólisis (γ-hemólisis)",
-"Ninguna es correcta", ],
+"Ninguna es correcta"  ],
 "correctAnswer":"Alfahemólisis (α-hemólisis)"
 },
 {
@@ -164,7 +164,7 @@
 "answers": ["Mixtos",
 "Tipológicos",
 "Axénicos",
-"Todas son correctas", ],
+"Todas son correctas"  ],
 "correctAnswer":"Axénicos"
 },
 {
@@ -172,7 +172,7 @@
 "answers": ["Por extensión",
 "Por picadura",
 "Por agotamiento en estrías",
-"Todas son técnicas de siembra", ],
+"Todas son técnicas de siembra"  ],
 "correctAnswer":"Todas son técnicas de siembra"
 },
 {
@@ -180,7 +180,7 @@
 "answers": ["Tiempo",
 "Presión",
 "Temperatura",
-"Cantidad de nutrientes", ],
+"Cantidad de nutrientes"  ],
 "correctAnswer":"Presión"
 },
 {
@@ -188,7 +188,7 @@
 "answers": ["Recuento de viables en placa",
 "Cámaras de recuento",
 "Turbidimetría",
-"Contadores automáticos", ],
+"Contadores automáticos"  ],
 "correctAnswer":"Recuento de viables en placa"
 },
 {
@@ -196,7 +196,7 @@
 "answers": ["De 24 a 48 horas",
 "Alrededor de 1 semana",
 "Entre 2 y 3 semanas",
-"Entre 3 y 4 semanas", ],
+"Entre 3 y 4 semanas"  ],
 "correctAnswer":"Entre 3 y 4 semanas"
 },
 {
@@ -204,7 +204,7 @@
 "answers": ["Cultivo",
 "Colonia",
 "Siembra",
-"Incubación", ],
+"Incubación"  ],
 "correctAnswer":"Siembra"
 },
 {
@@ -212,7 +212,7 @@
 "answers": ["Ausencia de oxígeno",
 "Recipientes herméticos",
 "Concentración baja de oxígeno",
-"Todas las anteriores son incorrectas", ],
+"Todas las anteriores son incorrectas"  ],
 "correctAnswer":"Concentración baja de oxígeno"
 },
 {
@@ -220,7 +220,7 @@
 "answers": ["Colonias",
 "Gérmenes",
 "Inóculos",
-"Ninguna de las anteriores es correcta", ],
+"Ninguna de las anteriores es correcta"  ],
 "correctAnswer":"Colonias"
 },
 {
@@ -228,7 +228,7 @@
 "answers": ["Por agotamiento en estrías",
 "En medios líquidos",
 "Por picadura",
-"Por extensión", ],
+"Por extensión"  ],
 "correctAnswer":"Por extensión"
 },
 {
@@ -236,7 +236,7 @@
 "answers": ["Pretratamiento de muestras",
 "Esterilización del material",
 "Cultivos mixtos",
-"Ninguna de las anteriores es correcta", ],
+"Ninguna de las anteriores es correcta"  ],
 "correctAnswer":"Cultivos mixtos"
 },
 {
@@ -244,7 +244,7 @@
 "answers": ["Staphylococcus",
 "Neisseria",
 "Streptococcus",
-"Ninguna es correcta", ],
+"Ninguna es correcta"  ],
 "correctAnswer":"Neisseria"
 },
 {
@@ -252,7 +252,7 @@
 "answers": ["S. Aureus",
 "S. epidermidis",
 "S. saprophyticus",
-"Ninguna es correcta.", ],
+"Ninguna es correcta."  ],
 "correctAnswer":"S. saprophyticus"
 },
 {
@@ -260,7 +260,7 @@
 "answers": ["Streptococcus y Enterococcus",
 "Micrococcus y Staphylococcus",
 "Escerichia y Bacillus",
-"Ninguna es correcta", ],
+"Ninguna es correcta"  ],
 "correctAnswer":"Micrococcus y Staphylococcus"
 },
 {
@@ -268,7 +268,7 @@
 "answers": ["Staphylococcus epidermidis",
 "Staphylococcus hominis",
 "Staphylococcus aureus",
-"Todas las anteriores son incorrectas.", ],
+"Todas las anteriores son incorrectas."  ],
 "correctAnswer":"Staphylococcus aureus"
 },
 {
@@ -276,7 +276,7 @@
 "answers": ["Catalasa",
 "Citocromo C oxidasa",
 "Oxidasa",
-"Ureasa", ],
+"Ureasa"  ],
 "correctAnswer":"Oxidasa"
 },
 {
@@ -284,7 +284,7 @@
 "answers": ["Coagulasa y ureasa",
 "PYR y bilis/esculina",
 "Coagulasa, novobiocina y hemólisis",
-"Glucosa, maltosa, lactosa y fructosa", ],
+"Glucosa, maltosa, lactosa y fructosa"  ],
 "correctAnswer":"Coagulasa, novobiocina y hemólisis"
 },
 {
@@ -292,7 +292,7 @@
 "answers": ["Antibiogramas",
 "Cultivos de resistencia",
 "Pruebas bioquímicas",
-"Todas son correctas.", ],
+"Todas son correctas."  ],
 "correctAnswer":"Antibiogramas"
 },
 {
@@ -300,7 +300,7 @@
 "answers": ["Ziehl-Neelsen",
 "Gram",
 "Verde malaquita",
-"Ninguna de las anteriores es correcta.", ],
+"Ninguna de las anteriores es correcta."  ],
 "correctAnswer":"Gram"
 },
 {
@@ -308,7 +308,7 @@
 "answers": ["Aparición de halos de inhibición",
 "Ausencia de halos de inhibición",
 "Aparición de conos de inhibición",
-"Ninguna es correcta.", ],
+"Ninguna es correcta."  ],
 "correctAnswer":"Ausencia de halos de inhibición"
 },
 {
@@ -316,7 +316,7 @@
 "answers": ["Microbicidas",
 "Microbiopáusicos",
 "Microbiostáticos",
-"Todas son incorrectas.", ],
+"Todas son incorrectas."  ],
 "correctAnswer":"Microbiostáticos"
 },
 {
@@ -324,7 +324,7 @@
 "answers": ["Esporas",
 "Exosporas",
 "Endosporas",
-"Todas son correctas", ],
+"Todas son correctas"  ],
 "correctAnswer":"Endosporas"
 },
 {
@@ -332,7 +332,7 @@
 "answers": ["Listeria monocytogenes",
 "Klebsiella Pneumoniae",
 "Pseudomonas aeruginosa",
-"Ninguna es correcta", ],
+"Ninguna es correcta"  ],
 "correctAnswer":"Listeria monocytogenes"
 },
 {
@@ -340,7 +340,7 @@
 "answers": ["Salmonella",
 "Shigella",
 "Escerichia",
-"Bacillus", ],
+"Bacillus"  ],
 "correctAnswer":"Bacillus"
 },
 {
@@ -348,7 +348,7 @@
 "answers": ["Chlamydia",
 "Haemophylus",
 "Yersinia",
-"Ninguna es cultivable", ],
+"Ninguna es cultivable"  ],
 "correctAnswer":"Chlamydia"
 },
 {
@@ -356,7 +356,7 @@
 "answers": ["Enterobacterias",
 "Kinetobacterias",
 "Micobacterias",
-"Aldobacterias", ],
+"Aldobacterias"  ],
 "correctAnswer":"Enterobacterias"
 },
 {
@@ -364,7 +364,7 @@
 "answers": ["Salmonella typhi",
 "Yersinia pestis",
 "Shigella dysenteriae",
-"Escherichia coli", ],
+"Escherichia coli"  ],
 "correctAnswer":"Escherichia coli"
 },
 {
@@ -372,7 +372,7 @@
 "answers": ["Clostridium",
 "Actinomyces",
 "Campylobacter",
-"Mycobacterium", ],
+"Mycobacterium"  ],
 "correctAnswer":"Mycobacterium"
 },
 {
@@ -380,7 +380,7 @@
 "answers": ["Gram",
 "Verde malaquita",
 "Ziehl-Neelsen",
-"Ninguna de las anteriores es correcta", ],
+"Ninguna de las anteriores es correcta"  ],
 "correctAnswer":"Verde malaquita"
 },
 {
@@ -388,7 +388,7 @@
 "answers": ["Anaerobias facultativas",
 "Anaerobias estrictas",
 "Aerotolerantes",
-"Todas son correctas", ],
+"Todas son correctas"  ],
 "correctAnswer":"Anaerobias estrictas"
 },
 {
@@ -396,7 +396,7 @@
 "answers": ["Micobacterias",
 "Micoplasmas",
 "Micogérmenes",
-"Todas son incorrectas", ],
+"Todas son incorrectas"  ],
 "correctAnswer":"Micoplasmas"
 },
 {
@@ -404,7 +404,7 @@
 "answers": ["Ciclo parasitario",
 "Ciclo biológico",
 "Ciclo reproductor",
-"Ninguna de las anteriores es correcta.", ],
+"Ninguna de las anteriores es correcta."  ],
 "correctAnswer":"Ciclo biológico"
 },
 {
@@ -412,7 +412,7 @@
 "answers": ["Protistas",
 "Helmintos",
 "Artrópodos",
-"Todas son correctas", ],
+"Todas son correctas"  ],
 "correctAnswer":"Todas son correctas"
 },
 {
@@ -420,7 +420,7 @@
 "answers": ["Protistas",
 "Artrópodos",
 "Helmintos",
-"Todas son correctas", ],
+"Todas son correctas"  ],
 "correctAnswer":"Helmintos"
 },
 {
@@ -428,7 +428,7 @@
 "answers": ["Mohos",
 "Levaduras",
 "Filamentos micóticos",
-"Mixomicetos", ],
+"Mixomicetos"  ],
 "correctAnswer":"Mohos"
 },
 {
@@ -436,7 +436,7 @@
 "answers": ["Un parásito",
 "Un moho",
 "Una levadura",
-"Un protista", ],
+"Un protista"  ],
 "correctAnswer":"Una levadura"
 },
 {
@@ -444,7 +444,7 @@
 "answers": ["La toxoplasmosis",
 "La triquinosis",
 "La teniasis",
-"La malaria", ],
+"La malaria"  ],
 "correctAnswer":"La malaria"
 },
 {
@@ -452,7 +452,7 @@
 "answers": ["Micosis",
 "Zoonosis",
 "Contagio",
-"Fitosis", ],
+"Fitosis"  ],
 "correctAnswer":"Zoonosis"
 },
 {
@@ -460,7 +460,7 @@
 "answers": ["De Gram",
 "Con Giemsa",
 "Con tinta china",
-"Ninguna es correcta.", ],
+"Ninguna es correcta."  ],
 "correctAnswer":"Con Giemsa"
 },
 {
@@ -468,7 +468,7 @@
 "answers": ["De 7 a 14 días",
 "De 14 a 21 días",
 "De 21 a 30 días",
-"De 30 a 40 días", ],
+"De 30 a 40 días"  ],
 "correctAnswer":"De 21 a 30 días"
 },
 {
@@ -476,7 +476,7 @@
 "answers": ["Intestinal",
 "Urogenital",
 "De la sangre",
-"Ninguna de las anteriores es correcta", ],
+"Ninguna de las anteriores es correcta"  ],
 "correctAnswer":"Urogenital"
 },
 {
@@ -484,7 +484,7 @@
 "answers": ["Mononucleosis infecciosa",
 "Virus del ébola",
 "Resfriado común",
-"Rabia", ],
+"Rabia"  ],
 "correctAnswer":"Rabia"
 },
 {
@@ -492,7 +492,7 @@
 "answers": ["Lítico",
 "Lisógeno",
 "Lisogénico",
-"Límbico", ],
+"Límbico"  ],
 "correctAnswer":"Lisogénico"
 },
 {
@@ -500,7 +500,7 @@
 "answers": ["Citología e histología",
 "Microscopía óptica",
 "Inmunodiagnóstico",
-"Técnicas moleculares", ],
+"Técnicas moleculares"  ],
 "correctAnswer":"Microscopía óptica"
 },
 {
@@ -508,7 +508,7 @@
 "answers": ["Crecimiento aumentado de células",
 "Espacios vacíos en la capa de células",
 "Formación de precipitados",
-"Ninguna es correcta.", ],
+"Ninguna es correcta."  ],
 "correctAnswer":"Espacios vacíos en la capa de células"
 },
 {
@@ -516,7 +516,7 @@
 "answers": ["ARN monocatenario",
 "ARN bicatenario",
 "ARN tricaternario",
-"Las células carecen de ARN", ],
+"Las células carecen de ARN"  ],
 "correctAnswer":"ARN monocatenario"
 },
 {
@@ -524,7 +524,7 @@
 "answers": ["Bacteriófagos",
 "Micófagos",
 "Parásitos celulares",
-"Todas son correctas", ],
+"Todas son correctas"  ],
 "correctAnswer":"Bacteriófagos"
 },
 {
@@ -532,7 +532,7 @@
 "answers": ["A temperatura ambiente, durante 2 días máximo",
 "En refrigeración, de 3 a 5 días máximo",
 "En congelación, siempre",
-"Las muestras de virus se analizan siempre inmediatamente después de tomar la muestra", ],
+"Las muestras de virus se analizan siempre inmediatamente después de tomar la muestra"  ],
 "correctAnswer":"En refrigeración, de 3 a 5 días máximo"
 },
 {
@@ -540,7 +540,7 @@
 "answers": ["De espiral",
 "Icosaédrica",
 "Cilíndrica",
-"Todas son incorrectas.", ],
+"Todas son incorrectas."  ],
 "correctAnswer":"Cilíndrica"
 },
 {
@@ -548,7 +548,7 @@
 "answers": ["Icosaédrica",
 "Ovoide",
 "Cilíndrica",
-"Ninguna de las anteriores es correcta.", ],
+"Ninguna de las anteriores es correcta."  ],
 "correctAnswer":"Ninguna de las anteriores es correcta."
 },
 {
@@ -556,7 +556,7 @@
 "answers": ["Virus ARN monocatenario positivo ((+)ssARN)",
 "Virus ARN monocatenario negativo ((-)ssARN)",
 "Virus ARN monocatenario retrotranscrito (ssRNA-RT)",
-"Ninguna es correcta", ],
+"Ninguna es correcta"  ],
 "correctAnswer":"Virus ARN monocatenario positivo ((+)ssARN)"
 },
 {
@@ -564,7 +564,7 @@
 "answers": ["Microfiltros",
 "Filtros HEPA",
 "Filtros de alta eficacia",
-"Todas son correctas", ],
+"Todas son correctas"  ],
 "correctAnswer":"Filtros HEPA"
 },
 {
@@ -572,7 +572,7 @@
 "answers": ["Cabinas microbiológicas",
 "Cabinas de seguridad biológica",
 "Cabinas de biomapnipulación",
-"Todas son incorrectas.", ],
+"Todas son incorrectas."  ],
 "correctAnswer":"Cabinas de seguridad biológica"
 },
 {
@@ -580,7 +580,7 @@
 "answers": ["No pipetear con la boca",
 "Presuponer que todas las muestras son potencialmente peligrosas",
 "No beber ni fumar en las zonas de trabajo",
-"Todas son medidas de seguridad estándar", ],
+"Todas son medidas de seguridad estándar"  ],
 "correctAnswer":"Todas son medidas de seguridad estándar"
 },
 {
@@ -588,7 +588,7 @@
 "answers": ["Residuos asimilables urbanos",
 "Residuos citotóxicos",
 "Residuos contaminados por sustancias radiactivas",
-"Residuos generales", ],
+"Residuos generales"  ],
 "correctAnswer":"Residuos contaminados por sustancias radiactivas"
 },
 {
@@ -596,7 +596,7 @@
 "answers": ["1",
 "2",
 "3",
-"4", ],
+"4"  ],
 "correctAnswer":"4"
 },
 {
@@ -604,7 +604,7 @@
 "answers": ["Grupos de riesgo",
 "Niveles de bioseguridad",
 "Grados de peligrosidad",
-"Todas son correctas.", ],
+"Todas son correctas."  ],
 "correctAnswer":"Grupos de riesgo"
 },
 {
@@ -612,7 +612,7 @@
 "answers": ["Equipos de Protección Individual (EPI)",
 "Bandas Laterales Anti-Boquetes (BLAS)",
 "Indumentaria Protectora contra Infecciones (IPI)",
-"Ninguna de las anteriores es correcta.", ],
+"Ninguna de las anteriores es correcta."  ],
 "correctAnswer":"Equipos de Protección Individual (EPI)"
 },
 {
@@ -620,7 +620,7 @@
 "answers": ["Autoclave",
 "Incineración",
 "Descontaminación química",
-"Todas las anteriores son correctas", ],
+"Todas las anteriores son correctas"  ],
 "correctAnswer":"Todas las anteriores son correctas"
 },
 {
@@ -628,7 +628,7 @@
 "answers": ["Autoclave",
 "Incineración",
 "Descontaminación química",
-"Todas las anteriores son correctas", ],
+"Todas las anteriores son correctas"  ],
 "correctAnswer":"Incineración"
 },
 {
@@ -636,7 +636,6 @@
 "answers": ["I",
 "II",
 "III",
-"IV", ],
+"IV"  ],
 "correctAnswer":"III"
 }
-]
