@@ -1,4 +1,5 @@
- var questions; // Esta variable almacenará las preguntas cargadas desde el JSON
+<script>
+        var questions; // Esta variable almacenará las preguntas cargadas desde el JSON
 
         function checkAnswer(questionNumber, correctAnswer, selectedAnswer) {
             var resultElement = document.getElementById("result" + questionNumber);
@@ -101,3 +102,4 @@
         }
 
         window.onload = loadQuiz;
+    </script>
