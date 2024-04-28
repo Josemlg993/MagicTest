@@ -3,75 +3,54 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Magic Test</title>
-    <link href="https://assets.jwwb.nl/assets/website-rendering/styles.a0115ee46dc5487527c7.css?bust=a0115ee46dc5487527c7" media="screen" rel="stylesheet" type="text/css">
-    <link type="text/css" rel="stylesheet" href="https://primary.jwwb.nl/public/r/q/q/temp-dmsdigievaaklrjuztsk/style.css?bust=1714205582">
+    <title>Cuestionario Análisis</title>
     <style>
-        /* Estilos CSS personalizados */
-        .h1 {
-            color: darkslateblue;
-            font-size: 3em;
-        }
-        .jw-btn-style-flat.jw-btn__default-color {
+        body {
             background-color: darkslateblue;
+            color: white;
+            margin-right: 100px; /* Ajuste para dejar espacio para los marcadores */
         }
-        header {
-            width: 100%;
-            overflow: hidden;
+
+        .correct { color: green; }
+        .incorrect { color: red; }
+        .question { margin-bottom: 30px; }
+        .questionanswer { margin-right: 20px; }
+        .answer-input { margin-left: 30px; margin-right: 10px; }
+        .marker-container {
+            position: fixed;
+            top: 50px;
+            right: 10px;
+            display: flex;
+            flex-direction: column;
+            overflow-y: auto;
+            max-height: calc(100vh - 100px); /* Altura máxima del contenedor */
         }
-        .clearfix::after {
-            content: "";
-            clear: both;
-            display: table;
+        .marker {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            width: 30px; /* Ancho suficiente para contener el número de pregunta y el ícono */
+            height: 20px;
+            border-radius: 50%;
+            margin-bottom: 10px;
+            cursor: pointer;
+            padding: 0 10px; /* Espaciado alrededor del ícono */
         }
-        @media screen and (max-width: 600px) {
-            .h1 {
-                font-size: 2em;
-            }
-        }
+        .marker.correct {background-color: green; }
+        .marker.incorrect {background-color: red; }
+        
     </style>
 </head>
 <body>
-    <div class="jw-background"></div>
-    <div class="jw-body">
-        <header>
-            <div class="clearfix header-wrap">
-                <div class="logo">
-                    <h1 id="h1" class="h1">Cuestionarios Ana</h1>
-                </div>
-            </div>
-        </header>
-        <div class="text-wrap">
-            <div class="jw-btn-is-center">
-                <a id="empresas-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded" href="https://josemlg993.github.io/MagicTest/Cuestionario%20Empresas">Empresas e Iniciativa Emprendedora</a>
-            </div>
-            </div><br>
-            <div>
-            <div class="jw-btn-is-center">
-                <a id="analisis-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded" href="https://josemlg993.github.io/MagicTest/Cuestionario%20Analisis">Analisis Bioquímico</a>
-            </div>
-            </div><br>
-            <div>
-            <div class="jw-btn-is-center">
-                <a id="ingles-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded" href="https://josemlg993.github.io/MagicTest/Cuestionario%20Ingles">Inglés</a>
-            </div>
-            </div><br>
-            <div>
-            <div class="jw-btn-is-center">
-                <a id="inmuno-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded" href="https://josemlg993.github.io/MagicTest/Cuestionario%20Inmuno">Técnicas de Inmunodiagnóstico</a>
-            </div>
-            </div><br>
-            <div>
-            <div class="jw-btn-is-center">
-                <a id="microbiology-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded" href="https://josemlg993.github.io/MagicTest/Cuestionario%20Micro">Microbiología Clínica</a>
-            </div><br>
-            <div>
-            </div>
-            <div class="jw-btn-is-center">
-                <a id="hematologico-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded" href="https://josemlg993.github.io/MagicTest/Cuestionario%20Hemato">Técnicas de análisis hematológico</a>
-            </div>
-        </div>
+    <h1>Cuestionario Análisis</h1>
+    <div id="quizForm">
+        <!-- Aquí se agregarán las preguntas y respuestas dinámicamente -->
+    </div>
+    <div class="marker-container">
+        <!-- Aquí se agregarán los marcadores de pregunta dinámicamente -->
     </div>
 
+    
+        <script src="https://raw.githubusercontent.com/Josemlg993/MagicTest/Script/Script.js"></script>
 </body>
 </html>
