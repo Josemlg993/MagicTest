@@ -1,33 +1,49 @@
 body {
-            background-color: darkslateblue;
-            color: white;
-            margin-right: 100px; /* Ajuste para dejar espacio para los marcadores */
-        }
+    background-color: darkslateblue;
+    color: white;
+    margin-right: 100px; /* Ajuste para dejar espacio para los marcadores */
+    position: relative; /* Establecer posición relativa para que los elementos hijos puedan posicionarse de manera absoluta */
+}
 
-        .correct { color: green; }
-        .incorrect { color: red; }
-        .question { margin-bottom: 30px; }
-        .questionanswer { margin-right: 20px; }
-        .answer-input { margin-left: 30px; margin-right: 10px; }
-        .marker-container {
-            position: fixed;
-            top: 50px;
-            right: 10px;
-            display: flex;
-            flex-direction: column;
-            overflow-y: auto;
-            max-height: calc(100vh - 100px); /* Altura máxima del contenedor */
-        }
-        .marker {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            width: 30px; /* Ancho suficiente para contener el número de pregunta y el ícono */
-            height: 20px;
-            border-radius: 50%;
-            margin-bottom: 10px;
-            cursor: pointer;
-            padding: 0 10px; /* Espaciado alrededor del ícono */
-        }
-        .marker.correct {questionNumber}, .marker.correct {background-color: green; }
-        .marker.incorrect {questionNumber}, .marker.incorrect {background-color: red; }
+.correct { color: green; }
+.incorrect { color: red; }
+.question { margin-bottom: 30px; }
+.questionanswer { margin-right: 20px; }
+.answer-input { margin-left: 30px; margin-right: 10px; }
+.search-container {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    display: flex;
+}
+.search-container input[type="text"] {
+    margin-right: 10px;
+}
+.marker-container {
+    position: fixed;
+    top: 50px;
+    right: 10px;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+    max-height: calc(100vh - 100px); /* Altura máxima del contenedor */
+}
+.marker {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 30px; /* Ancho suficiente para contener el número de pregunta y el ícono */
+    height: 20px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+    cursor: pointer;
+    padding: 0 10px; /* Espaciado alrededor del ícono */
+}
+.marker.correct {background-color: green; }
+.marker.incorrect {background-color: red; }
+
+/* Estilos para resaltar la búsqueda */
+.highlight {
+    background-color: yellow;
+    color: black;
+}
