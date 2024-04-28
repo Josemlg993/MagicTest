@@ -10,15 +10,19 @@ body {
 .question { margin-bottom: 30px; }
 .questionanswer { margin-right: 20px; }
 .answer-input { margin-left: 30px; margin-right: 10px; }
+
+/* Estilos para la barra de búsqueda */
 .search-container {
     position: fixed;
     top: 10px;
     right: 10px;
     display: flex;
 }
+
 .search-container input[type="text"] {
     margin-right: 10px;
 }
+
 .marker-container {
     position: fixed;
     top: 50px;
@@ -28,6 +32,7 @@ body {
     overflow-y: auto;
     max-height: calc(100vh - 100px); /* Altura máxima del contenedor */
 }
+
 .marker {
     display: flex;
     align-items: center;
@@ -39,6 +44,7 @@ body {
     cursor: pointer;
     padding: 0 10px; /* Espaciado alrededor del ícono */
 }
+
 .marker.correct {background-color: green; }
 .marker.incorrect {background-color: red; }
 
@@ -46,4 +52,5 @@ body {
 .highlight {
     background-color: yellow;
     color: black;
+
 }
