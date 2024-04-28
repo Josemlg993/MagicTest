@@ -14,8 +14,27 @@
     
     <!-- CSS para cambiar el color de fondo de los botones -->
     <style>
+        .jw-header-title {
+            color: darkslateblue;
+        }
         .jw-btn-style-flat.jw-btn__default-color {
             background-color: darkslateblue;
+        }
+
+        .content-wrap {
+            background-image:transparent );
+            background-size: cover; /* Ajusta el tamaño del fondo al tamaño del contenedor */
+            background-repeat: no-repeat;
+            background-position: center center;
+        }
+        /* Estilos para el contenedor de la imagen */
+        .logo-container {
+            float: left; /* Alinea el contenedor a la izquierda */
+            margin-right: 20px; /* Espacio entre la imagen y el texto */
+        }
+        .logo-container img {
+            width: 50px; /* Tamaño deseado para la imagen */
+            height: auto; /* Altura automática para mantener la proporción */
         }
     </style>
 </head>
@@ -39,35 +58,40 @@
                 </span>
             </a>
         </div>
+        
         <div class="wrapper js-topbar-content-container">
             <header>
                 <div class="clearfix header-wrap">
+                    <!-- Contenedor de la imagen -->
+                    <div class="logo-container">
+                        
+                    </div>
                     <div class="logo">
                         <div class="jw-header-logo">
                             <div class="jw-header jw-header-title-container jw-header-text jw-header-text-toggle" data-stylable="true">
-                                <h1 id="jw-header-title" class="jw-header-title">
-                                Cuestionarios Ana</h1>
+                                <h2 id="jw-header-title" class="jw-header-title">
+                                Cuestionarios Ana</h2>
                             </div>
                         </div>
                     </div>
                 </div>
             </header>
-            <div class="content-wrap">
-                <div class="slider-wrapper jw-slideshow-toggle">
+            
+                <div class="text-wrap">
                 </div>
                 <div class="text-wrap">
-                    <div id="jw-element-312553059" data-jw-element-id="312553059" class="jw-tree-node jw-element jw-button jw-node-is-first-child">
-                        <div class="jw-btn-container jw-btn-is-center">
-                            <a class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded">
-                                <div class="jw-btn-caption">
+                    
+                        <div class=" jw-btn-is-center">
+                            <a id="empresas-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded">
+                                
                                     Empresas e Iniciativa Emprendedora            
-                                </div>
+                                
                             </a>
                         </div>
                     </div>
                     <div id="jw-element-312553895" data-jw-element-id="312553895" class="jw-tree-node jw-element jw-button">
-                        <div class="jw-btn-container jw-btn-is-center">
-                            <a class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded">
+                        <div class=" jw-btn-is-center">
+                            <a id="analisis-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded">
                                 <div class="jw-btn-caption">
                                     Analisis Bioquímico            
                                 </div>
@@ -75,8 +99,8 @@
                         </div>
                     </div>
                     <div id="jw-element-312553945" data-jw-element-id="312553945" class="jw-tree-node jw-element jw-button">
-                        <div class="jw-btn-container jw-btn-is-center">
-                            <a class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded">
+                        <div class=" jw-btn-is-center">
+                            <a id="ingles-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded">
                                 <div class="jw-btn-caption">
                                     Ingés            
                                 </div>
@@ -84,8 +108,8 @@
                         </div>
                     </div>
                     <div id="jw-element-312553957" data-jw-element-id="312553957" class="jw-tree-node jw-element jw-button">
-                        <div class="jw-btn-container jw-btn-is-center">
-                            <a class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded">
+                        <div class=" jw-btn-is-center">
+                            <a id="inmuno-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded">
                                 <div class="jw-btn-caption">
                                     Técnicas de Inmunodiagnóstico            
                                 </div>
@@ -93,7 +117,7 @@
                         </div>
                     </div>
                     <div id="jw-element-312553961" data-jw-element-id="312553961" class="jw-tree-node jw-element jw-button">
-                        <div class="jw-btn-container jw-btn-is-center">
+                        <div class=" jw-btn-is-center">
                             <a id="microbiology-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded">
                                 <div class="jw-btn-caption">
                                     Microbiología Clínica            
@@ -102,11 +126,11 @@
                         </div>
                     </div>
                     <div id="jw-element-312554384" data-jw-element-id="312554384" class="jw-tree-node jw-element jw-button jw-node-is-last-child">
-                        <div class="jw-btn-container jw-btn-is-center">
-                            <a class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded">
-                                <div class="jw-btn-caption">
+                        <div class=" jw-btn-is-center">
+                            <a id="hematologico-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded">
+                                
                                     Tecnicas de análisis hematológico            
-                                </div>
+                                
                             </a>
                         </div>
                     </div>
@@ -115,21 +139,32 @@
         </div>
     </div>
 
+
     <!-- Script para cambiar el contenido HTML por el de GitHub -->
-    <script>
-        document.getElementById('microbiology-button').addEventListener('click', function() {
-            var githubHtmlUrl = 'https://raw.githubusercontent.com/Josemlg993/MagicTest/html/Cuestionario%20Micro.html';
-            var xhr = new XMLHttpRequest();
-            xhr.open('GET', githubHtmlUrl, true);
-            xhr.onreadystatechange = function() {
-                if (xhr.readyState === 4 && xhr.status === 200) {
-                    document.open();
-                    document.write(xhr.responseText);
-                    document.close();
-                }
-            };
-            xhr.send();
-        });
+     <script>
+        // Función para cargar el contenido de GitHub
+        function loadGitHubContent(buttonId, githubHtmlUrl) {
+            document.getElementById(buttonId).addEventListener('click', function() {
+                var xhr = new XMLHttpRequest();
+                xhr.open('GET', githubHtmlUrl, true);
+                xhr.onreadystatechange = function() {
+                    if (xhr.readyState === 4 && xhr.status === 200) {
+                        document.open();
+                        document.write(xhr.responseText);
+                        document.close();
+                    }
+                };
+                xhr.send();
+            });
+        }
+
+        // Carga el contenido de GitHub para cada botón
+        loadGitHubContent('empresas-button', 'https://raw.githubusercontent.com/Josemlg993/MagicTest/HTML/Cuestionario%20Empresas.html');
+        loadGitHubContent('analisis-button', 'https://raw.githubusercontent.com/Josemlg993/MagicTest/HTML/Cuestionario%20Analisis.html');
+        loadGitHubContent('ingles-button', 'https://raw.githubusercontent.com/Josemlg993/MagicTest/HTML/Cuestionario%20Ingles.html');
+        loadGitHubContent('inmuno-button', 'https://raw.githubusercontent.com/Josemlg993/MagicTest/HTML/Cuestionario%20Inmuno.html');
+        loadGitHubContent('microbiology-button', 'https://raw.githubusercontent.com/Josemlg993/MagicTest/HTML/Cuestionario%20Micro.html');
+        loadGitHubContent('hematologico-button', 'https://raw.githubusercontent.com/Josemlg993/MagicTest/HTML/Cuestionario%20Hemato.html');
     </script>
 </body>
 </html>
