@@ -1,4 +1,16 @@
-        var questions; // Esta variable almacenará las preguntas cargadas desde el JSON
+// Obtener el elemento <h1> por su id
+var h1Titulo = document.getElementById("tituloCuestionario");
+
+// Hacer una solicitud HTTP para obtener el JSON
+fetch('cuestionario.json')
+  .then(response => response.json())
+  .then(data => {
+    // Obtener el título del JSON y actualizar el contenido del <h1>
+    h1Titulo.textContent = data.titulo;
+  })
+  .catch(error => console.error('Error al cargar el JSON:', error));
+
+var questions; // Esta variable almacenará las preguntas cargadas desde el JSON
 
         function checkAnswer(questionNumber, correctAnswer, selectedAnswer) {
             var resultElement = document.getElementById("result" + questionNumber);
