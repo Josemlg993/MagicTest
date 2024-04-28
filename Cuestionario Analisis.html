@@ -166,6 +166,23 @@
         }
 
         window.onload = loadQuiz;
+
+        // Manejar el evento popstate para retroceder al enlace anterior al presionar el botón de retroceso
+        window.onpopstate = function(event) {
+            if (event.state && event.state.url) {
+                window.location.href = event.state.url;
+            }
+        };
+
+        // Guardar el estado de navegación al cambiar de página
+        function saveNavigationState(url) {
+            history.pushState({ url: url }, document.title, url);
+        }
+
+        // Cuando se carga la página, guardar el estado de navegación
+        document.addEventListener("DOMContentLoaded", function() {
+            saveNavigationState(window.location.href);
+        });
     </script>
 </body>
 </html>
