@@ -1,171 +1,159 @@
 <!DOCTYPE html>
-<htmllang="es">
-<cabeza>
-    <meta juego de caracteres="UTF-8">
-    <meta nombre="viewport" content="ancho=ancho-dispositivo, escala-inicial=1.0">
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cuestionario Análisis</title>
-    <estilo>
-        cuerpo {
-            color de fondo: azul pizarra oscuro;
-            color blanco;
-            margen derecho: 100px; /* Ajuste para dejar espacio para los marcadores */
+    <style>
+        body {
+            background-color: darkslateblue;
+            color: white;
+            margin-right: 100px; /* Ajuste para dejar espacio para los marcadores */
         }
 
-        .correcto { color: verde; }
-        .incorrecto {color: rojo; }
-        .pregunta { margen inferior: 30px; }
-        .questionanswer { margen derecho: 20px; }
-        .answer-input { margen izquierdo: 30px; margen derecho: 10px; }
-        .contenedor-marcador {
-            posición: fija;
-            arriba: 50px;
-            derecha: 10px;
-            pantalla: flexible;
-            dirección flexible: columna;
-            desbordamiento-y: automático;
-            altura máxima: calc(100vh - 100px); /* Altura máxima del contenedor */
+        .correct { color: green; }
+        .incorrect { color: red; }
+        .question { margin-bottom: 30px; }
+        .questionanswer { margin-right: 20px; }
+        .answer-input { margin-left: 30px; margin-right: 10px; }
+        .marker-container {
+            position: fixed;
+            top: 50px;
+            right: 10px;
+            display: flex;
+            flex-direction: column;
+            overflow-y: auto;
+            max-height: calc(100vh - 100px); /* Altura máxima del contenedor */
         }
-        .marcador {
-            pantalla: flexible;
-            alinear elementos: centro;
-            justificar contenido: espacio entre;
-            ancho: 30px; /* Ancho suficiente para contener el número de pregunta y el ícono */
-            altura: 20 píxeles;
-            radio fronterizo: 50%;
-            margen inferior: 10px;
-            cursor: puntero;
-            relleno: 0 10px; /* Espaciado alrededor del ícono */
+        .marker {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            width: 30px; /* Ancho suficiente para contener el número de pregunta y el ícono */
+            height: 20px;
+            border-radius: 50%;
+            margin-bottom: 10px;
+            cursor: pointer;
+            padding: 0 10px; /* Espaciado alrededor del ícono */
         }
-        .marker.correct {número de pregunta}, .marker.correct {color de fondo: verde; }
-        .marker.incorrect {número de pregunta}, .marker.incorrect {color de fondo: rojo; }
-        #Temporizador {
-            posición: fija;
-            arriba: 10px;
-            derecha: 80px;
-            tamaño de fuente: 18px;
-        }
-        #temporizador2 {
-            pantalla: ninguna; /* Ocultar el segundo cronómetro inicialmente */
-            posición: fija;
-            arriba: 40px; /* Ajustar la posición del segundo cronómetro */
-            derecha: 80px; /* Ajustar la posición del segundo cronómetro */
-            tamaño de fuente: 18px;
-        }
-    </estilo>
-</cabeza>
-<cuerpo>
-    <h1>Análisis del Cuestionario</h1>
-    <div id="cuestionario">
+        .marker.correct {questionNumber}, .marker.correct {background-color: green; }
+        .marker.incorrect {questionNumber}, .marker.incorrect {background-color: red; }
+        
+    </style>
+</head>
+<body>
+    <h1>Cuestionario Análisis</h1>
+    <div id="quizForm">
         <!-- Aquí se agregarán las preguntas y respuestas dinámicamente -->
     </div>
-    <div class="contenedor-marcador">
+    <div class="marker-container">
         <!-- Aquí se agregarán los marcadores de pregunta dinámicamente -->
     </div>
 
-    <guión>
-        preguntas var; // Esta variable almacenará las preguntas cargadas desde el JSON
+    <script>
+        var questions; // Esta variable almacenará las preguntas cargadas desde el JSON
 
-        función verificarRespuesta(NúmeroPregunta, RespuestaCorrecta, RespuestaSeleccionada) {
-            var resultElement = document.getElementById("resultado" + questionNumber);
-            var marcador = document.querySelector(".marker-container").children[númeroPregunta - 1];
+        function checkAnswer(questionNumber, correctAnswer, selectedAnswer) {
+            var resultElement = document.getElementById("result" + questionNumber);
+            var marker = document.querySelector(".marker-container").children[questionNumber - 1];
 
-            if (respuesta seleccionada === respuesta correcta) {
+            if (selectedAnswer === correctAnswer) {
                 resultElement.innerHTML = "Respuesta correcta";
-                resultElement.className = "correcto";
-                marcador.innerHTML = númeroPregunta + "✅";
-                marcador.classList.add("correcto");
-            } demás {
+                resultElement.className = "correct";
+                marker.innerHTML = questionNumber + "✅";
+                marker.classList.add("correct");
+            } else {
                 resultElement.innerHTML = "Respuesta incorrecta";
-                resultElement.className = "incorrecto";
-                marcador.innerHTML = númeroPregunta + "❌";
-                marcador.classList.add("incorrecto");
+                resultElement.className = "incorrect";
+                marker.innerHTML = questionNumber + "❌";
+                marker.classList.add("incorrect");
 
-                setTimeout(función() {
-                    restablecerPregunta(NúmeroPregunta);
+                setTimeout(function() {
+                    resetQuestion(questionNumber);
                 }, 60000);
             }
-            resultElement.style.display = "bloque";
+            resultElement.style.display = "block";
         }
 
-        función restablecerPregunta(númeroPregunta) {
-            var marcador = document.querySelector(".marker-container").children[númeroPregunta - 1];
-            var resultElement = document.getElementById("resultado" + questionNumber);
+        function resetQuestion(questionNumber) {
+            var marker = document.querySelector(".marker-container").children[questionNumber - 1];
+            var resultElement = document.getElementById("result" + questionNumber);
 
-            marcador.innerHTML = número de pregunta;
-            marcador.classList.remove("correcto", "incorrecto");
+            marker.innerHTML = questionNumber;
+            marker.classList.remove("correct", "incorrect");
 
-            si (elementoresultado) {
-                resultElement.style.display = "ninguno";
+            if (resultElement) {
+                resultElement.style.display = "none";
             }
 
-            var questionElement = document.getElementById("pregunta" + questionNumber);
+            var questionElement = document.getElementById("question" + questionNumber);
             var radioInputs = questionElement.querySelectorAll(".answer-input");
-            radioInputs.forEach(función(entrada) {
-                input.checked = falso;
+            radioInputs.forEach(function(input) {
+                input.checked = false;
             });
         }
 
-        función desplazarseAPregunta(númeroPregunta) {
-            var questionElement = document.getElementById("pregunta" + questionNumber);
-            questionElement.scrollIntoView({ comportamiento: 'suave' });
+        function scrollToQuestion(questionNumber) {
+            var questionElement = document.getElementById("question" + questionNumber);
+            questionElement.scrollIntoView({ behavior: 'smooth' });
         }
 
         // Función para reordenar un array de forma aleatoria (algoritmo de Fisher-Yates)
-        función matriz aleatoria (matriz) {
-            for (var i = matriz.longitud - 1; i > 0; i--) {
+        function shuffleArray(array) {
+            for (var i = array.length - 1; i > 0; i--) {
                 var j = Math.floor(Math.random() * (i + 1));
-                [matriz[i], matriz[j]] = [matriz[j], matriz[i]];
+                [array[i], array[j]] = [array[j], array[i]];
             }
-            matriz de retorno;
+            return array;
         }
 
-        función cargarQuiz() {
+        function loadQuiz() {
             // Aquí se cargarán las preguntas desde el JSON
             fetch('https://raw.githubusercontent.com/Josemlg993/MagicTest/Bibliotecadepreguntas/Cuestionario%20Analisis.json')
-                .entonces(respuesta => respuesta.json())
-                .entonces(datos => {
-                    preguntas = datos; // Guardamos las preguntas en la variable
+                .then(response => response.json())
+                .then(data => {
+                    questions = data; // Guardamos las preguntas en la variable
                     renderQuiz(); // Llamamos a la función para renderizar el cuestionario
                 })
                 .catch(error => console.error('Error al cargar el cuestionario:', error));
         }
 
-        función renderQuiz() {
-            var formulario = document.getElementById("quizForm");
-            var marcadorContenedor = document.querySelector(".marcador-contenedor");
+        function renderQuiz() {
+            var form = document.getElementById("quizForm");
+            var markerContainer = document.querySelector(".marker-container");
 
-            formulario.innerHTML = '';
-            marcadorContainer.innerHTML = '';
+            form.innerHTML = '';
+            markerContainer.innerHTML = '';
 
-            preguntas = shuffleArray(preguntas);
+            questions = shuffleArray(questions);
 
-            preguntas.forEach(función (elemento, índice) {
-                var númeroPregunta = índice + 1;
-                var preguntaHTML = "<div id='pregunta" + númeroPregunta + "' clase='pregunta'>";
+            questions.forEach(function (item, index) {
+                var questionNumber = index + 1;
+                var questionHTML = "<div id='question" + questionNumber + "' class='question'>";
                 questionHTML += "<h2>Pregunta " + questionNumber + ":</h2>";
-                preguntaHTML += "<p>" + elemento.pregunta + "</p>";
+                questionHTML += "<p>" + item.question + "</p>";
 
-                var deberíaShuffleAnswers = !item.answers.some(answer => respuesta.match(/A y B son correctas.|A y C son correctas.|A y D son correctas.|B y C son correctas.|B y D son correctas.|C y D son correctas.|A y B son correctas|A y C son correctas|A y D son correctas|B y C son correctas|B y D son correctas|C y D son correctas|todas son correctas| Ninguno de los anteriores|Ninguna es correcta.|Ninguna es correcta|todas son incorrectas|todas las anteriores|ninguna de las anteriores/i));
-                var respuestas = deberíaShuffleAnswers? shuffleArray(item.answers.slice()) : item.answers;
+                var shouldShuffleAnswers = !item.answers.some(answer => answer.match(/A y B son correctas.|A y C son correctas.|A y D son correctas.|B y C son correctas.|B y D son correctas.|C y D son correctas.|A y B son correctas|A y C son correctas|A y D son correctas|B y C son correctas|B y D son correctas|C y D son correctas|todas son correctas|Ninguno de los anteriores|Ninguna es correcta.|Ninguna es correcta|todas son incorrectas|todas las anteriores|ninguna de las anteriores/i));
+                var answers = shouldShuffleAnswers ? shuffleArray(item.answers.slice()) : item.answers;
 
-                respuestas.forEach(función (respuesta) {
-                    questionHTML += '<input type="radio" class="answer-input" name="q' + questionNumber + '" value="' + respuesta + '" onclick="checkAnswer(' + questionNumber + ', \' ' + item.respuestacorrecta + '\', \'' + respuesta + '\')"> ' + respuesta + '<br>';
+                answers.forEach(function (answer) {
+                    questionHTML += '<input type="radio" class="answer-input" name="q' + questionNumber + '" value="' + answer + '" onclick="checkAnswer(' + questionNumber + ', \'' + item.correctAnswer + '\', \'' + answer + '\')"> ' + answer + '<br>';
                 });
-                questionHTML += "<p id='resultado" + questionNumber + "' style='display:none'></p>";
-                preguntaHTML += "</div>";
-                form.innerHTML += preguntaHTML;
+                questionHTML += "<p id='result" + questionNumber + "' style='display:none'></p>";
+                questionHTML += "</div>";
+                form.innerHTML += questionHTML;
 
-                marcador var = document.createElement("div");
-                marcador.classList.add("marcador");
-                marcador.textContent = número de pregunta;
-                marcador.addEventListener("hacer clic", función() {
-                    scrollToQuestion(númeropregunta);
+                var marker = document.createElement("div");
+                marker.classList.add("marker");
+                marker.textContent = questionNumber;
+                marker.addEventListener("click", function() {
+                    scrollToQuestion(questionNumber);
                 });
-                marcadorContainer.appendChild(marcador);
+                markerContainer.appendChild(marker);
             });
         }
 
-        ventana.onload = loadQuiz;
+        window.onload = loadQuiz;
     </script>
-</cuerpo>
+</body>
 </html>
