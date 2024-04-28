@@ -1,0 +1,802 @@
+[
+    {
+        "question": "¿A partir de qué tipo celular de los siguientes se diferencian los granulocitos?",
+        "answers": [
+            "Mielocitos",
+            "Promielocitos",
+            "Linfoblastos",
+            "Prolinfoblastos"
+        ],
+        "correctAnswer": "Promielocitos"
+    },
+    {
+        "question": "¿Cómo se llama la ciencia se dedica al estudio de la sangre y los órganos encargados de producirla?",
+        "answers": [
+            "Hemología",
+            "Hematología",
+            "Hemorragiología",
+            "Hemiología"
+        ],
+        "correctAnswer": "Hematología"
+    },
+    {
+        "question": "¿Con qué nombre conocemos al conjunto de los componentes celulares de la sangre?",
+        "answers": [
+            "Hemocélulas",
+            "Elementos sanguíneos",
+            "Elementos formes",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Elementos formes"
+    },
+    {
+        "question": "¿Cuál de las siguientes no es una función de la sangre?",
+        "answers": [
+            "Transporte de sustancias",
+            "Defensa",
+            "Mantenimiento de homeostasis",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Todas son correctas"
+    },
+    {
+        "question": "¿Cuál de los siguientes tipos celulares está implicado en la coagulación?",
+        "answers": [
+            "Eritrocitos",
+            "Granulocitos",
+            "Leucocitos",
+            "Trombocitos"
+        ],
+        "correctAnswer": "Trombocitos"
+    },
+    {
+        "question": "¿En qué órgano maduran los linfocitos T?",
+        "answers": [
+            "En el bazo",
+            "En el timo",
+            "En la tiroides",
+            "Ninguna es correcta."
+        ],
+        "correctAnswer": "En el timo"
+    },
+    {
+        "question": "¿Qué nombre recibe la matriz líquida que compone el 55% de la sangre?",
+        "answers": [
+            "Hemomatriz",
+            "Plasma",
+            "Líquido sanguíneo",
+            "Miasma"
+        ],
+        "correctAnswer": "Plasma"
+    },
+    {
+        "question": "¿Qué sustancia se forma durante la destrucción de los eritrocitos?",
+        "answers": [
+            "Eritropoyetina",
+            "Ericina",
+            "Bilina",
+            "Bilirrubina"
+        ],
+        "correctAnswer": "Bilirrubina"
+    },
+    {
+        "question": "El proceso de formación de plaquetas se conoce como...:",
+        "answers": [
+            "Trombopoyesis",
+            "Eritropoyesis",
+            "Linfopoyesis",
+            "Monocitopoyesis"
+        ],
+        "correctAnswer": "Trombopoyesis"
+    },
+    {
+        "question": "Los leucocitos que tienen gránulos característicos en su citoplasma son:",
+        "answers": [
+            "Neutrófilos",
+            "Basófilos",
+            "Eosinófilos",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Todas son correctas"
+    },
+    {
+        "question": "¿Cómo se llama la técnica mediante la cual repartir los elementos presentes sobre un soporte de observación formando una capa fina y así evitando que se solapen unos sobre otros?",
+        "answers": [
+            "Extensión sanguínea",
+            "Extensión hematológica",
+            "Frotación sanguínea",
+            "Todas son correctas."
+        ],
+        "correctAnswer": "Extensión sanguínea"
+    },
+    {
+        "question": "¿En qué parte de los frotis apenas se distingue el color de la muestra extendida y la cantidad de células es menor?",
+        "answers": [
+            "Cabeza",
+            "Cola",
+            "Cuerpo",
+            "Ninguna es correcta"
+        ],
+        "correctAnswer": "Cola"
+    },
+    {
+        "question": "Cuando realizamos una extensión sanguínea, el portaobjetos usado para extender las gotas debe tener una inclinación de…:",
+        "answers": [
+            "25-30º",
+            "30-45º",
+            "45-65º",
+            "90º"
+        ],
+        "correctAnswer": "30-45º"
+    },
+    {
+        "question": "En la tinción de Giemsa, ¿a qué pH debe sumergirse la muestra para que quede teñida adecuadamente?",
+        "answers": [
+            "4",
+            "6.7",
+            "7.2",
+            "8.5"
+        ],
+        "correctAnswer": "7.2"
+    },
+    {
+        "question": "En la tinción de panóptico rápido, ¿Cuántas inmersiones es necesario realizar en cada una de las muestras numeradas?",
+        "answers": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correctAnswer": "5"
+    },
+    {
+        "question": "En las tinciones hematológicas, es habitual que los núcleos aparezcan de color:",
+        "answers": [
+            "Rojo",
+            "Azul o morado",
+            "Verde azulado",
+            "Violeta claro"
+        ],
+        "correctAnswer": "Azul o morado"
+    },
+    {
+        "question": "En las tinciones hematológicas, si las preparaciones se exponen a los colorantes durante tiempos demasiado cortos, observaremos:",
+        "answers": [
+            "Precipitados de colorante",
+            "Exceso de coloración",
+            "Falta de coloración",
+            "Gotas de agua"
+        ],
+        "correctAnswer": "Falta de coloración"
+    },
+    {
+        "question": "Las muestras destinadas a realizar extensiones se deben almacenar…:",
+        "answers": [
+            "En congelación (-20 ºC)",
+            "En refrigeración (4ºC)",
+            "A temperatura ambiente",
+            "Todas las anteriores son correctas"
+        ],
+        "correctAnswer": "En refrigeración (4ºC)"
+    },
+    {
+        "question": "¿Cuál de las siguientes criterios no es necesario valorar en una extensión sanguínea para determinar si es adecuada?",
+        "answers": [
+            "Forma más o menos redondeada y uniforme",
+            "Consistencia transparente, que permita ver claramente a través",
+            "Cambio gradual de espesor, siendo más fina en un lado",
+            "Todas las anteriores son correctas"
+        ],
+        "correctAnswer": "Todas las anteriores son correctas"
+    },
+    {
+        "question": "¿Qué aditivo contiene un tubo sanguíneo con el tapón de color celeste, según el código de colores estandarizado?",
+        "answers": [
+            "EDTA",
+            "Heparina",
+            "Citrato",
+            "Gel separador"
+        ],
+        "correctAnswer": "Citrato"
+    },
+    {
+        "question": "¿Cómo llamamos a la porción del volumen total de la muestra que ocupan los eritrocitos?",
+        "answers": [
+            "Hemoglobina corpuscular media",
+            "Hematocrito",
+            "Hematocrítico",
+            "Hemoglobina total"
+        ],
+        "correctAnswer": "Hematocrito"
+    },
+    {
+        "question": "¿Cómo llamamos al conjunto de parámetros en una muestra de sangre que son fundamentales para cualquier estudio hematológico básico y que permiten hacerse una idea general del estado del paciente?",
+        "answers": [
+            "Hemografía",
+            "Informe sanguíneo",
+            "Hemograma",
+            "Hemoparámetros"
+        ],
+        "correctAnswer": "Hemograma"
+    },
+    {
+        "question": "¿Cuál de las siguientes no es una ventaja de los sistema de recuento automáticos?",
+        "answers": [
+            "Son más rápidos",
+            "Son más costosos",
+            "Son más fiables",
+            "Son más exactos"
+        ],
+        "correctAnswer": "Son más costosos"
+    },
+    {
+        "question": "¿Cuál de los siguientes parámetros está relacionado con los leucocitos?",
+        "answers": [
+            "VSG",
+            "CHMC",
+            "RBC",
+            "WBC"
+        ],
+        "correctAnswer": "WBC"
+    },
+    {
+        "question": "¿En qué principio se basa la citometría de flujo?",
+        "answers": [
+            "Dispersión óptica",
+            "Absorbancia",
+            "Especificidad inmunitaria",
+            "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "Dispersión óptica"
+    },
+    {
+        "question": "¿En qué tipo de gráficos se representan los datos con columnas o picos?",
+        "answers": [
+            "Diagramas de dispersión",
+            "Histogramas",
+            "Citogramas",
+            "Ninguna es correcta."
+        ],
+        "correctAnswer": "Histogramas"
+    },
+    {
+        "question": "¿Mediante qué parámetro se mide la capacidad de la médula ósea para regenerar glóbulos rojos?",
+        "answers": [
+            "Recuento de reticulocitos",
+            "Recuento total leucocitario",
+            "Amplitud de distribución eritrocitaria",
+            "Hemoglobina corpuscular media"
+        ],
+        "correctAnswer": "Recuento de reticulocitos"
+    },
+    {
+        "question": "El recuento y clasificación de los leucocitos presentes en la muestra para luego trasladar los datos de este recuento a porcentajes se conoce como...:",
+        "answers": [
+            "Recuento total leucocitario",
+            "Análisis leucocitario",
+            "Fórmula leucocitaria",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Fórmula leucocitaria"
+    },
+    {
+        "question": "En los recuentos celulares, ¿con qué parámetro se corresponden las siglas (RBC)?",
+        "answers": [
+            "Hemoglobina",
+            "Hematocrito",
+            "Amplitud de distribución eritrocitaria",
+            "Recuento total eritrocitario"
+        ],
+        "correctAnswer": "Recuento total eritrocitario"
+    },
+    {
+        "question": "Para los recuentos manuales, las cámaras más usadas son las...:",
+        "answers": [
+            "Cámaras Neubauer mejoradas",
+            "Citocuadrículas",
+            "Mallas de recuento leucocitario",
+            "Ninguna de las anteriores es correcta."
+        ],
+        "correctAnswer": "Cámaras Neubauer mejoradas"
+    },
+    {
+        "question": "¿Cuál de las siguientes es una adaptación de inmediata a la anemia?",
+        "answers": [
+            "Estimulación de la eritropoyesis",
+            "Producción de 2, 3-difosfoglicerato",
+            "Disminución de hematocrito",
+            "Reducción de la oxigenación de tejidos"
+        ],
+        "correctAnswer": "Estimulación de la eritropoyesis"
+    },
+    {
+        "question": "¿Cuál de las siguientes es una manifestación clínica de la anemia?",
+        "answers": [
+            "Debilidad",
+            "Palidez",
+            "Cefalea",
+            "Todas son correctas."
+        ],
+        "correctAnswer": "Todas son correctas."
+    },
+    {
+        "question": "¿Cuál es el nombre completo de la hormona EPO?",
+        "answers": [
+            "Eritroplastina",
+            "Eritromicina",
+            "Eritropoyetina",
+            "Eritropensina"
+        ],
+        "correctAnswer": "Eritropoyetina"
+    },
+    {
+        "question": "¿Dentro de qué tipo de anemias se incluye la anemia ferropénica?",
+        "answers": [
+            "Microcíticas",
+            "Normocíticas",
+            "Macrocíticas",
+            "Ninguna es correcta."
+        ],
+        "correctAnswer": "Microcíticas"
+    },
+    {
+        "question": "¿En qué órgano se produce mayoritariamente la EPO?",
+        "answers": [
+            "Hígado",
+            "Riñones",
+            "Médula ósea",
+            "Todas son incorrectas"
+        ],
+        "correctAnswer": "Riñones"
+    },
+    {
+        "question": "¿Qué caracteriza a las anemias hemolíticas?",
+        "answers": [
+            "Deficiencia de hemoglobina",
+            "Incremento de la destrucción de los eritrocitos",
+            "Disminución de la síntesis de eritrocitos",
+            "Ninguna es correcta."
+        ],
+        "correctAnswer": "Incremento de la destrucción de los eritrocitos"
+    },
+    {
+        "question": "El aumento de eritrocitos en sangre se conoce como:",
+        "answers": [
+            "Hemoconcentración",
+            "Hemodilución",
+            "Anemia",
+            "Policitemia"
+        ],
+        "correctAnswer": "Policitemia"
+    },
+    {
+        "question": "El grupo hemo de la hemoglobina contiene:",
+        "answers": [
+            "Cobre",
+            "Hierro",
+            "Selenio",
+            "Todas son incorrectas."
+        ],
+        "correctAnswer": "Hierro"
+    },
+    {
+        "question": "Los codocitos se caracterizan por acumular hemoglobina:",
+        "answers": [
+            "En los bordes",
+            "En el centro",
+            "Formando anillos",
+            "Ninguna de las anteriores es correcta."
+        ],
+        "correctAnswer": "En el centro"
+    },
+    {
+        "question": "Los eritrocitos falciformes tienen forma:",
+        "answers": [
+            "De cilindro",
+            "Esférica",
+            "Bicóncava",
+            "De hoz"
+        ],
+        "correctAnswer": "De hoz"
+    },
+    {
+        "question": "¿Cómo denominamos a las inmunoglobulinas monoclonales anormales (normalmente de los tipos IgG o IgA) que son la causa de ciertas patologías asociadas a neoplasias de la serie blanca?",
+        "answers": [
+            "Paraglobulinas",
+            "Paranticuerpos",
+            "Paraproteínas",
+            "Ninguna de las anteriores es correcta."
+        ],
+        "correctAnswer": "Paraproteínas"
+    },
+    {
+        "question": "¿Cuál de las siguientes no es causante de linfopenia?",
+        "answers": [
+            "Radioterapia",
+            "Quimioterapia",
+            "Tratamientos con esteroides",
+            "Todas las anteriores pueden causar linfopenia"
+        ],
+        "correctAnswer": "Todas las anteriores pueden causar linfopenia"
+    },
+    {
+        "question": "¿Cuál de las siguientes no es una alteración cualitativa de los neutrófilos?",
+        "answers": [
+            "Hipersegmentación del núcleo",
+            "Cuerpos de Dohle",
+            "Hipogranularidad",
+            "Celularidad mixta"
+        ],
+        "correctAnswer": "Celularidad mixta"
+    },
+    {
+        "question": "¿Cuál de los siguientes leucocitos tiene capacidad de fagocitar?",
+        "answers": [
+            "Monocito",
+            "Linfocito",
+            "Basófilo",
+            "Eosinófilo"
+        ],
+        "correctAnswer": "Monocito"
+    },
+    {
+        "question": "¿Cuál de los siguientes no es un granulocito?",
+        "answers": [
+            "Eosinófilo",
+            "Neutrófilo",
+            "Basófilo",
+            "Acidófilo"
+        ],
+        "correctAnswer": "Acidófilo"
+    },
+    {
+        "question": "¿De qué patología son característicos los depósitos amieloides?",
+        "answers": [
+            "Mielomas",
+            "Amiloidosis",
+            "Hipermielosis",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Amiloidosis"
+    },
+    {
+        "question": "¿Qué tipo de leucocitos se distinguen por tener un núcleo redondeado, carecer de gránulos característicos y una cantidad variable de citoplasma en función de su tipo específico?",
+        "answers": [
+            "Monocitos",
+            "Neutrófilos",
+            "Basófilos",
+            "Linfocitos"
+        ],
+        "correctAnswer": "Linfocitos"
+    },
+    {
+        "question": "¿Qué tipo de linfocitos se encarga principalmente de la eliminación de células infectadas por virus y algunos tipos de células tumorales?",
+        "answers": [
+            "T",
+            "B",
+            "NK",
+            "O"
+        ],
+        "correctAnswer": "NK"
+    },
+    {
+        "question": "La mayor parte de los linfomas son...:",
+        "answers": [
+            "Linfomas de Hodgkin",
+            "Linfomas no Hodgkingianos",
+            "Desarrollados a partir de linfocitos T",
+            "Ninguna es correcta"
+        ],
+        "correctAnswer": "Linfomas de Hodgkin"
+    },
+    {
+        "question": "Un paciente que presente leucopenia tendrá...:",
+        "answers": [
+            "Una cantidad reducida de leucocitos",
+            "Una cantidad aumentada de leucocitos",
+            "Los leucocitos no se ven afectados por esta condición",
+            "Ninguna de las anteriores es correcta."
+        ],
+        "correctAnswer": "Una cantidad reducida de leucocitos"
+    },
+    {
+        "question": "¿Cuáles son los principales elementos formes implicados en la hemostasia?",
+        "answers": [
+            "Trombocitos",
+            "Eritrocitos",
+            "Leucocitos",
+            "Todas son correctas."
+        ],
+        "correctAnswer": "Trombocitos"
+    },
+    {
+        "question": "El secuestro esplénico de plaquetas consiste en:",
+        "answers": [
+            "La eliminación excesiva de plaquetas en el hígado",
+            "La acumulación excesiva de plaquetas en el bazo",
+            "La pérdida excesiva de plaquetas hacia el aparato digestivo",
+            "Todas las anteriores son incorrectas"
+        ],
+        "correctAnswer": "La acumulación excesiva de plaquetas en el bazo"
+    },
+    {
+        "question": "Exceso de plaquetas en sangre, con concentraciones superiores a 450.000/µL se conoce como:",
+        "answers": [
+            "Trombocitosis",
+            "Trombocitopenia",
+            "Trombemia",
+            "Ninguna de las anteriores es correcta"
+        ],
+        "correctAnswer": "Trombocitosis"
+    },
+    {
+        "question": "La formación del tapón hemostático primario comienza con la",
+        "answers": [
+            "Secreción plaquetaria",
+            "Agregación plaquetaria",
+            "Adhesión plaquetaria",
+            "Ninguna de las anteriores es correcta"
+        ],
+        "correctAnswer": "Agregación plaquetaria"
+    },
+    {
+        "question": "Si existe una alteración de la funcionalidad del fibrinógeno, observaremos un Tiempo de Trombina (TT):",
+        "answers": [
+            "Normal",
+            "Prolongado",
+            "Infinito (no se produce coagulación)",
+            "A y C son correctas"
+        ],
+        "correctAnswer": "Prolongado"
+    },
+    {
+        "question": "¿El síndrome de Bernard-Soulier es una alteración de la coagulación de qué tipo?",
+        "answers": [
+            "De la agregación",
+            "De la secreción",
+            "Adquirida",
+            "De la adhesión"
+        ],
+        "correctAnswer": "De la adhesión"
+    },
+    {
+        "question": "¿Mediante qué parámetro evaluamos el estado de la vía intrínseca de la coagulación?",
+        "answers": [
+            "Tiempo de protrombina (TP)",
+            "Tiempo de tromboplastina parcial activada (TTPA)",
+            "Tiempo de trombina (TT)",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Tiempo de tromboplastina parcial activada (TTPA)"
+    },
+    {
+        "question": "¿Qué efecto tiene el ácido acetilsalicílico sobre la coagulación?",
+        "answers": [
+            "Es un activador",
+            "Es un inhibidor",
+            "Es un adyuvante",
+            "Es un bloqueador de la vía extrínseca"
+        ],
+        "correctAnswer": "Es un inhibidor"
+    },
+    {
+        "question": "¿Qué factor de coagulación se ve afectado en la hemofilia A?",
+        "answers": [
+            "VII",
+            "VIII",
+            "IX",
+            "X"
+        ],
+        "correctAnswer": "VIII"
+    },
+    {
+        "question": "¿Qué gránulos presentes en las plaquetas contienen fibrinógeno?",
+        "answers": [
+            "Gránulos α",
+            "Gránulos densos",
+            "Gránulos β",
+            "Gránulos basófilos"
+        ],
+        "correctAnswer": "Gránulos α"
+    },
+    {
+        "question": "¿Cuál de las siguientes pruebas no forma parte de los estudios de compatibilidad?",
+        "answers": [
+            "Coombs",
+            "Detección de anticuerpos irregulares",
+            "Prueba mayor",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Todas son correctas"
+    },
+    {
+        "question": "¿Cuántos alelos están implicados en el sistema ABO?",
+        "answers": [
+            "2",
+            "3",
+            "4",
+            "Ninguno"
+        ],
+        "correctAnswer": "3"
+    },
+    {
+        "question": "¿Cuántos grupos sanguíneos existen en el sistema ABO?",
+        "answers": [
+            "2",
+            "3",
+            "4",
+            "Ninguno"
+        ],
+        "correctAnswer": "4"
+    },
+    {
+        "question": "¿Qué antígenos del sistema ABO expresan las personas del grupo O?",
+        "answers": [
+            "A",
+            "B",
+            "A y B",
+            "Ninguna es correcta"
+        ],
+        "correctAnswer": "Ninguna es correcta"
+    },
+    {
+        "question": "¿Qué sistema determina está implicado en el desarrollo de la enfermedad hemolítica del recién nacido?",
+        "answers": [
+            "ABO",
+            "Rh",
+            "Duffy",
+            "MNS"
+        ],
+        "correctAnswer": "Rh"
+    },
+    {
+        "question": "A la hora determinar los grupos sanguíneos del sistema ABO mediante pruebas de aglutinación, una sangre de grupo B aglutinará en soluciones con anticuerpos de tipo...:",
+        "answers": [
+            "Anti-A",
+            "Anti-B",
+            "Anti-A + Anti-B",
+            "Anti-D"
+        ],
+        "correctAnswer": "Anti-B"
+    },
+    {
+        "question": "El sistema Rh determina la presencia o la ausencia del antígeno",
+        "answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "correctAnswer": "D"
+    },
+    {
+        "question": "Indica la opción correcta sobre las personas de grupo Rh+:",
+        "answers": [
+            "Forman anticuerpos contra el antígeno D",
+            "No forman anticuerpos contra el antígeno D",
+            "Carecen de antígeno D",
+            "Todas las anteriores son incorrectas"
+        ],
+        "correctAnswer": "No forman anticuerpos contra el antígeno D"
+    },
+    {
+        "question": "La enfermedad hemolítica del recién nacido puede producirse cuando...:",
+        "answers": [
+            "La gestante es Rh+ y el feto Rh-",
+            "La gestante es Rh- y el feto Rh+",
+            "Gestante y feto son Rh+",
+            "Gestante y feto son Rh-"
+        ],
+        "correctAnswer": "La gestante es Rh- y el feto Rh+"
+    },
+    {
+        "question": "Los anticuerpos que se forman contra los antígenos del sistema ABO se conocen como...:",
+        "answers": [
+            "Antiglobulinas",
+            "Anti-anticuerpos",
+            "Anticuerpos irregulares",
+            "Anticuerpo parainmunitarios"
+        ],
+        "correctAnswer": "Anticuerpos irregulares"
+    },
+    {
+        "question": "¿Cuál de las siguientes no es una complicación aguda de las transfuxiones de sangre?",
+        "answers": [
+            "Reacción alérgica transfusional",
+            "Reacción transfusional febril no hemolítica",
+            "Disnea asociada a la transfusión",
+            "Reacción hemolítica retardada"
+        ],
+        "correctAnswer": "Reacción hemolítica retardada"
+    },
+    {
+        "question": "¿Cuál de los siguientes no es un riesgo que se dé en un laboratorio de hematología?",
+        "answers": [
+            "Incendio",
+            "Punción con agujas",
+            "Contagios",
+            "Todos los mencionados pueden producirse"
+        ],
+        "correctAnswer": "Todos los mencionados pueden producirse"
+    },
+    {
+        "question": "¿Cuánto tiempo después de un embarazo es necesario esperar antes de poder hacer una donación de sangre?",
+        "answers": [
+            "4 meses",
+            "6 meses",
+            "8 meses",
+            "1 año"
+        ],
+        "correctAnswer": "6 meses"
+    },
+    {
+        "question": "¿En qué modalidad de transfusión se extraen componentes concretos de la sangre (eritrocitos, plaquetas o plasma) y el resto de los componentes se devuelven al paciente?",
+        "answers": [
+            "Completa",
+            "Autóloga",
+            "Selectiva",
+            "Dirigida"
+        ],
+        "correctAnswer": "Selectiva"
+    },
+    {
+        "question": "¿En qué tipo de gestión existen varios centros de tamaño reducido y que realizan tareas a menor escala?",
+        "answers": [
+            "Gestión centralizada",
+            "Gestión descentralizada",
+            "Microgestión",
+            "Macrogestión"
+        ],
+        "correctAnswer": "Gestión descentralizada"
+    },
+    {
+        "question": "¿Qué tipo de hemoderivados están compuestos por mezclas concentradas de glóbulos rojos?",
+        "answers": [
+            "Concentrados de plaquetas",
+            "Concentrados de hematíes",
+            "Concentrados de leucocitos",
+            "Plasma fresco congelado"
+        ],
+        "correctAnswer": "Concentrados de hematíes"
+    },
+    {
+        "question": "Cuando el receptor de la transfusión presenta antígenos contra los eritrocitos de la sangre recibida, pero sin que haya una respuesta detectable, se está produciendo:",
+        "answers": [
+            "Aloinmunización",
+            "Púpura postransfusional",
+            "Hemosiderosis",
+            "Infección"
+        ],
+        "correctAnswer": "Aloinmunización"
+    },
+    {
+        "question": "Cuando se produce una reacción del sistema inmunológico contra la sangre transfundida que se produce cuando el grupo sanguíneo no se corresponde con el del receptor, estamos hablando de:",
+        "answers": [
+            "Reacción hipotensiva",
+            "Reacción transfusional hemolítica aguda",
+            "Reacción anafiláctica",
+            "Ninguna de las anteriores es correcta."
+        ],
+        "correctAnswer": "Reacción transfusional hemolítica aguda"
+    },
+    {
+        "question": "El crioprecipitado se obtiene a partir de:",
+        "answers": [
+            "Concentrados de leucocitos",
+            "Plasma fresco congelado",
+            "Plasma refrigerado",
+            "Ninguna es correcta."
+        ],
+        "correctAnswer": "Plasma fresco congelado"
+    },
+    {
+        "question": "Los lugares donde se realiza la donación, el procesamiento, el almacenamiento y la distribución de la sangre y productos hemoderivados, se conocen como:",
+        "answers": [
+            "Hemocentros",
+            "Centros de transfusión",
+            "Fábricas de hemoderivados",
+            "Todas son correctas."
+        ],
+        "correctAnswer": "Centros de transfusión"
+    }
+]
