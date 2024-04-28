@@ -36,25 +36,28 @@
             cursor: pointer;
             padding: 0 10px; /* Espaciado alrededor del ícono */
         }
-        .marker.correct {questionNumber}, .marker.correct {background-color: green; }
-        .marker.incorrect {questionNumber}, .marker.incorrect {background-color: red; }
-        #timer {
+        .marker.correct {background-color: green; }
+        .marker.incorrect {background-color: red; }
+        #backButton {
             position: fixed;
             top: 10px;
-            right: 80px;
-            font-size: 18px;
+            left: 10px;
+            background-color: darkgray;
+            color: white;
+            padding: 5px 10px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
         }
-        #timer2 {
-            display: none; /* Ocultar el segundo cronómetro inicialmente */
-            position: fixed;
-            top: 40px; /* Ajustar la posición del segundo cronómetro */
-            right: 80px; /* Ajustar la posición del segundo cronómetro */
-            font-size: 18px;
+        #backButton:hover {
+            background-color: gray;
         }
     </style>
 </head>
 <body>
-    <h1>Cuestionario Análisis</h1>
+    <h1><br>
+Cuestionario Análisis</h1>
+    <button id="backButton" onclick="confirmExit()"href="https://josemlg993.github.io/MagicTest/Index">Volver</button>
     <div id="quizForm">
         <!-- Aquí se agregarán las preguntas y respuestas dinámicamente -->
     </div>
@@ -79,10 +82,6 @@
                 resultElement.className = "incorrect";
                 marker.innerHTML = questionNumber + "❌";
                 marker.classList.add("incorrect");
-
-                setTimeout(function() {
-                    resetQuestion(questionNumber);
-                }, 60000);
             }
             resultElement.style.display = "block";
         }
@@ -165,24 +164,14 @@
             });
         }
 
-        window.onload = loadQuiz;
-
-        // Manejar el evento popstate para retroceder al enlace anterior al presionar el botón de retroceso
-        window.onpopstate = function(event) {
-            if (event.state && event.state.url) {
-                window.location.href = event.state.url;
+        function confirmExit() {
+            var confirmation = window.confirm("¿Seguro que deseas salir del cuestionario?");
+            if (confirmation) {
+                window.history.back();
             }
-        };
-
-        // Guardar el estado de navegación al cambiar de página
-        function saveNavigationState(url) {
-            history.pushState({ url: url }, document.title, url);
         }
 
-        // Cuando se carga la página, guardar el estado de navegación
-        document.addEventListener("DOMContentLoaded", function() {
-            saveNavigationState(window.location.href);
-        });
+        window.onload = loadQuiz;
     </script>
 </body>
 </html>
