@@ -45,8 +45,8 @@ body {
     padding: 0 10px; /* Espaciado alrededor del ícono */
 }
 
-.marker.correct {background-color: green; }
-.marker.incorrect {background-color: red; }
+.marker.correct {questionNumber}, .marker.correct {background-color: green; }
+.marker.incorrect {questionNumber}, .marker.incorrect {background-color: red; }
 
 /* Estilos para resaltar la búsqueda */
 .highlight {
