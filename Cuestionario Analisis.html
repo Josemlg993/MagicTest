@@ -1,177 +1,171 @@
 <!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<htmllang="es">
+<cabeza>
+    <meta juego de caracteres="UTF-8">
+    <meta nombre="viewport" content="ancho=ancho-dispositivo, escala-inicial=1.0">
     <title>Cuestionario Análisis</title>
-    <style>
-        body {
-            background-color: darkslateblue;
-            color: white;
-            margin-right: 100px; /* Ajuste para dejar espacio para los marcadores */
+    <estilo>
+        cuerpo {
+            color de fondo: azul pizarra oscuro;
+            color blanco;
+            margen derecho: 100px; /* Ajuste para dejar espacio para los marcadores */
         }
 
-        .correct { color: green; }
-        .incorrect { color: red; }
-        .question { margin-bottom: 30px; }
-        .questionanswer { margin-right: 20px; }
-        .answer-input { margin-left: 30px; margin-right: 10px; }
-        .marker-container {
-            position: fixed;
-            top: 50px;
-            right: 10px;
-            display: flex;
-            flex-direction: column;
-            overflow-y: auto;
-            max-height: calc(100vh - 100px); /* Altura máxima del contenedor */
+        .correcto { color: verde; }
+        .incorrecto {color: rojo; }
+        .pregunta { margen inferior: 30px; }
+        .questionanswer { margen derecho: 20px; }
+        .answer-input { margen izquierdo: 30px; margen derecho: 10px; }
+        .contenedor-marcador {
+            posición: fija;
+            arriba: 50px;
+            derecha: 10px;
+            pantalla: flexible;
+            dirección flexible: columna;
+            desbordamiento-y: automático;
+            altura máxima: calc(100vh - 100px); /* Altura máxima del contenedor */
         }
-        .marker {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            width: 30px; /* Ancho suficiente para contener el número de pregunta y el ícono */
-            height: 20px;
-            border-radius: 50%;
-            margin-bottom: 10px;
-            cursor: pointer;
-            padding: 0 10px; /* Espaciado alrededor del ícono */
+        .marcador {
+            pantalla: flexible;
+            alinear elementos: centro;
+            justificar contenido: espacio entre;
+            ancho: 30px; /* Ancho suficiente para contener el número de pregunta y el ícono */
+            altura: 20 píxeles;
+            radio fronterizo: 50%;
+            margen inferior: 10px;
+            cursor: puntero;
+            relleno: 0 10px; /* Espaciado alrededor del ícono */
         }
-        .marker.correct {background-color: green; }
-        .marker.incorrect {background-color: red; }
-        #backButton {
-            position: fixed;
-            top: 10px;
-            left: 10px;
-            background-color: darkgray;
-            color: white;
-            padding: 5px 10px;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
+        .marker.correct {número de pregunta}, .marker.correct {color de fondo: verde; }
+        .marker.incorrect {número de pregunta}, .marker.incorrect {color de fondo: rojo; }
+        #Temporizador {
+            posición: fija;
+            arriba: 10px;
+            derecha: 80px;
+            tamaño de fuente: 18px;
         }
-        #backButton:hover {
-            background-color: gray;
+        #temporizador2 {
+            pantalla: ninguna; /* Ocultar el segundo cronómetro inicialmente */
+            posición: fija;
+            arriba: 40px; /* Ajustar la posición del segundo cronómetro */
+            derecha: 80px; /* Ajustar la posición del segundo cronómetro */
+            tamaño de fuente: 18px;
         }
-    </style>
-</head>
-<body>
-    <h1><br>
-Cuestionario Análisis</h1>
-    <button id="backButton" onclick="confirmExit()"href="https://josemlg993.github.io/MagicTest/Index">Volver</button>
-    <div id="quizForm">
+    </estilo>
+</cabeza>
+<cuerpo>
+    <h1>Análisis del Cuestionario</h1>
+    <div id="cuestionario">
         <!-- Aquí se agregarán las preguntas y respuestas dinámicamente -->
     </div>
-    <div class="marker-container">
+    <div class="contenedor-marcador">
         <!-- Aquí se agregarán los marcadores de pregunta dinámicamente -->
     </div>
 
-    <script>
-        var questions; // Esta variable almacenará las preguntas cargadas desde el JSON
+    <guión>
+        preguntas var; // Esta variable almacenará las preguntas cargadas desde el JSON
 
-        function checkAnswer(questionNumber, correctAnswer, selectedAnswer) {
-            var resultElement = document.getElementById("result" + questionNumber);
-            var marker = document.querySelector(".marker-container").children[questionNumber - 1];
+        función verificarRespuesta(NúmeroPregunta, RespuestaCorrecta, RespuestaSeleccionada) {
+            var resultElement = document.getElementById("resultado" + questionNumber);
+            var marcador = document.querySelector(".marker-container").children[númeroPregunta - 1];
 
-            if (selectedAnswer === correctAnswer) {
+            if (respuesta seleccionada === respuesta correcta) {
                 resultElement.innerHTML = "Respuesta correcta";
-                resultElement.className = "correct";
-                marker.innerHTML = questionNumber + "✅";
-                marker.classList.add("correct");
-            } else {
+                resultElement.className = "correcto";
+                marcador.innerHTML = númeroPregunta + "✅";
+                marcador.classList.add("correcto");
+            } demás {
                 resultElement.innerHTML = "Respuesta incorrecta";
-                resultElement.className = "incorrect";
-                marker.innerHTML = questionNumber + "❌";
-                marker.classList.add("incorrect");
+                resultElement.className = "incorrecto";
+                marcador.innerHTML = númeroPregunta + "❌";
+                marcador.classList.add("incorrecto");
+
+                setTimeout(función() {
+                    restablecerPregunta(NúmeroPregunta);
+                }, 60000);
             }
-            resultElement.style.display = "block";
+            resultElement.style.display = "bloque";
         }
 
-        function resetQuestion(questionNumber) {
-            var marker = document.querySelector(".marker-container").children[questionNumber - 1];
-            var resultElement = document.getElementById("result" + questionNumber);
+        función restablecerPregunta(númeroPregunta) {
+            var marcador = document.querySelector(".marker-container").children[númeroPregunta - 1];
+            var resultElement = document.getElementById("resultado" + questionNumber);
 
-            marker.innerHTML = questionNumber;
-            marker.classList.remove("correct", "incorrect");
+            marcador.innerHTML = número de pregunta;
+            marcador.classList.remove("correcto", "incorrecto");
 
-            if (resultElement) {
-                resultElement.style.display = "none";
+            si (elementoresultado) {
+                resultElement.style.display = "ninguno";
             }
 
-            var questionElement = document.getElementById("question" + questionNumber);
+            var questionElement = document.getElementById("pregunta" + questionNumber);
             var radioInputs = questionElement.querySelectorAll(".answer-input");
-            radioInputs.forEach(function(input) {
-                input.checked = false;
+            radioInputs.forEach(función(entrada) {
+                input.checked = falso;
             });
         }
 
-        function scrollToQuestion(questionNumber) {
-            var questionElement = document.getElementById("question" + questionNumber);
-            questionElement.scrollIntoView({ behavior: 'smooth' });
+        función desplazarseAPregunta(númeroPregunta) {
+            var questionElement = document.getElementById("pregunta" + questionNumber);
+            questionElement.scrollIntoView({ comportamiento: 'suave' });
         }
 
         // Función para reordenar un array de forma aleatoria (algoritmo de Fisher-Yates)
-        function shuffleArray(array) {
-            for (var i = array.length - 1; i > 0; i--) {
+        función matriz aleatoria (matriz) {
+            for (var i = matriz.longitud - 1; i > 0; i--) {
                 var j = Math.floor(Math.random() * (i + 1));
-                [array[i], array[j]] = [array[j], array[i]];
+                [matriz[i], matriz[j]] = [matriz[j], matriz[i]];
             }
-            return array;
+            matriz de retorno;
         }
 
-        function loadQuiz() {
+        función cargarQuiz() {
             // Aquí se cargarán las preguntas desde el JSON
             fetch('https://raw.githubusercontent.com/Josemlg993/MagicTest/Bibliotecadepreguntas/Cuestionario%20Analisis.json')
-                .then(response => response.json())
-                .then(data => {
-                    questions = data; // Guardamos las preguntas en la variable
+                .entonces(respuesta => respuesta.json())
+                .entonces(datos => {
+                    preguntas = datos; // Guardamos las preguntas en la variable
                     renderQuiz(); // Llamamos a la función para renderizar el cuestionario
                 })
                 .catch(error => console.error('Error al cargar el cuestionario:', error));
         }
 
-        function renderQuiz() {
-            var form = document.getElementById("quizForm");
-            var markerContainer = document.querySelector(".marker-container");
+        función renderQuiz() {
+            var formulario = document.getElementById("quizForm");
+            var marcadorContenedor = document.querySelector(".marcador-contenedor");
 
-            form.innerHTML = '';
-            markerContainer.innerHTML = '';
+            formulario.innerHTML = '';
+            marcadorContainer.innerHTML = '';
 
-            questions = shuffleArray(questions);
+            preguntas = shuffleArray(preguntas);
 
-            questions.forEach(function (item, index) {
-                var questionNumber = index + 1;
-                var questionHTML = "<div id='question" + questionNumber + "' class='question'>";
+            preguntas.forEach(función (elemento, índice) {
+                var númeroPregunta = índice + 1;
+                var preguntaHTML = "<div id='pregunta" + númeroPregunta + "' clase='pregunta'>";
                 questionHTML += "<h2>Pregunta " + questionNumber + ":</h2>";
-                questionHTML += "<p>" + item.question + "</p>";
+                preguntaHTML += "<p>" + elemento.pregunta + "</p>";
 
-                var shouldShuffleAnswers = !item.answers.some(answer => answer.match(/A y B son correctas.|A y C son correctas.|A y D son correctas.|B y C son correctas.|B y D son correctas.|C y D son correctas.|A y B son correctas|A y C son correctas|A y D son correctas|B y C son correctas|B y D son correctas|C y D son correctas|todas son correctas|Ninguno de los anteriores|Ninguna es correcta.|Ninguna es correcta|todas son incorrectas|todas las anteriores|ninguna de las anteriores/i));
-                var answers = shouldShuffleAnswers ? shuffleArray(item.answers.slice()) : item.answers;
+                var deberíaShuffleAnswers = !item.answers.some(answer => respuesta.match(/A y B son correctas.|A y C son correctas.|A y D son correctas.|B y C son correctas.|B y D son correctas.|C y D son correctas.|A y B son correctas|A y C son correctas|A y D son correctas|B y C son correctas|B y D son correctas|C y D son correctas|todas son correctas| Ninguno de los anteriores|Ninguna es correcta.|Ninguna es correcta|todas son incorrectas|todas las anteriores|ninguna de las anteriores/i));
+                var respuestas = deberíaShuffleAnswers? shuffleArray(item.answers.slice()) : item.answers;
 
-                answers.forEach(function (answer) {
-                    questionHTML += '<input type="radio" class="answer-input" name="q' + questionNumber + '" value="' + answer + '" onclick="checkAnswer(' + questionNumber + ', \'' + item.correctAnswer + '\', \'' + answer + '\')"> ' + answer + '<br>';
+                respuestas.forEach(función (respuesta) {
+                    questionHTML += '<input type="radio" class="answer-input" name="q' + questionNumber + '" value="' + respuesta + '" onclick="checkAnswer(' + questionNumber + ', \' ' + item.respuestacorrecta + '\', \'' + respuesta + '\')"> ' + respuesta + '<br>';
                 });
-                questionHTML += "<p id='result" + questionNumber + "' style='display:none'></p>";
-                questionHTML += "</div>";
-                form.innerHTML += questionHTML;
+                questionHTML += "<p id='resultado" + questionNumber + "' style='display:none'></p>";
+                preguntaHTML += "</div>";
+                form.innerHTML += preguntaHTML;
 
-                var marker = document.createElement("div");
-                marker.classList.add("marker");
-                marker.textContent = questionNumber;
-                marker.addEventListener("click", function() {
-                    scrollToQuestion(questionNumber);
+                marcador var = document.createElement("div");
+                marcador.classList.add("marcador");
+                marcador.textContent = número de pregunta;
+                marcador.addEventListener("hacer clic", función() {
+                    scrollToQuestion(númeropregunta);
                 });
-                markerContainer.appendChild(marker);
+                marcadorContainer.appendChild(marcador);
             });
         }
 
-        function confirmExit() {
-            var confirmation = window.confirm("¿Seguro que deseas salir del cuestionario?");
-            if (confirmation) {
-                window.history.back();
-            }
-        }
-
-        window.onload = loadQuiz;
+        ventana.onload = loadQuiz;
     </script>
-</body>
+</cuerpo>
 </html>
