@@ -43,60 +43,35 @@
         </header>
         <div class="text-wrap">
             <div class="jw-btn-is-center">
-                <a id="empresas-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded">Empresas e Iniciativa Emprendedora</a>
+                <a id="empresas-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded" href="https://josemlg993.github.io/MagicTest/Cuestionario%20Empresas">Empresas e Iniciativa Emprendedora</a>
             </div>
             </div><br>
             <div>
             <div class="jw-btn-is-center">
-                <a id="analisis-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded">Analisis Bioquímico</a>
+                <a id="analisis-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded" href="https://josemlg993.github.io/MagicTest/Cuestionario%20Analisis">Analisis Bioquímico</a>
             </div>
             </div><br>
             <div>
             <div class="jw-btn-is-center">
-                <a id="ingles-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded">Inglés</a>
+                <a id="ingles-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded" href="https://josemlg993.github.io/MagicTest/Cuestionario%20Ingles">Inglés</a>
             </div>
             </div><br>
             <div>
             <div class="jw-btn-is-center">
-                <a id="inmuno-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded">Técnicas de Inmunodiagnóstico</a>
+                <a id="inmuno-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded" href="https://josemlg993.github.io/MagicTest/Cuestionario%20Inmuno">Técnicas de Inmunodiagnóstico</a>
             </div>
             </div><br>
             <div>
             <div class="jw-btn-is-center">
-                <a id="microbiology-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded">Microbiología Clínica</a>
+                <a id="microbiology-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded" href="https://josemlg993.github.io/MagicTest/Cuestionario%20Micro">Microbiología Clínica</a>
             </div><br>
             <div>
             </div>
             <div class="jw-btn-is-center">
-                <a id="hematologico-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded">Técnicas de análisis hematológico</a>
+                <a id="hematologico-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded" href="https://josemlg993.github.io/MagicTest/Cuestionario%20Hemato">Técnicas de análisis hematológico</a>
             </div>
         </div>
     </div>
 
-    <script>
-        // Función para cargar el contenido de GitHub
-        function loadGitHubContent(buttonId, githubHtmlUrl) {
-            document.getElementById(buttonId).addEventListener('click', function() {
-                var xhr = new XMLHttpRequest();
-                xhr.open('GET', githubHtmlUrl, true);
-                xhr.onreadystatechange = function() {
-                    if (xhr.readyState === 4 && xhr.status === 200) {
-                        document.open();
-                        document.write(xhr.responseText);
-                        document.close();
-                    }
-                };
-                xhr.send();
-            });
-        }
-
-        // Carga el contenido de GitHub para cada botón
-        var buttons = document.querySelectorAll('.jw-element-content.jw-btn');
-        buttons.forEach(function(button) {
-            var buttonId = button.getAttribute('id');
-            var githubHtmlUrl = 'https://raw.githubusercontent.com/Josemlg993/MagicTest/HTML/Cuestionario%20' + buttonId.split('-')[0] + '.html';
-            loadGitHubContent(buttonId, githubHtmlUrl);
-        });
-    </script>
 </body>
 </html>
