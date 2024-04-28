@@ -12,22 +12,24 @@
     <link href="https://gfonts.jwwb.nl/css?display=fallback&amp;family=Pacifico%3A400%2C700%2C400italic%2C700italic" media="screen" rel="stylesheet" type="text/css">        
     <link type="text/css" rel="stylesheet" href="https://primary.jwwb.nl/public/r/q/q/temp-dmsdigievaaklrjuztsk/style.css?bust=1714205582">
     
-    <!-- CSS para cambiar el color de fondo de los botones -->
+    <!-- CSS para cambiar el color de fondo de los botones y ajustar el encabezado -->
     <style>
         .jw-header-title {
             color: darkslateblue;
+            font-size: 3em; /* Tamaño de la fuente del encabezado */
         }
         .jw-btn-style-flat.jw-btn__default-color {
             background-color: darkslateblue;
         }
-
-        .content-wrap {
-            background-image:transparent );
-            background-size: cover; /* Ajusta el tamaño del fondo al tamaño del contenedor */
-            background-repeat: no-repeat;
-            background-position: center center;
+        header {
+            width: 100%; /* El encabezado ocupará el 100% del ancho de la página */
+            overflow: hidden; /* Evita que los elementos floten fuera del encabezado */
         }
-        /* Estilos para el contenedor de la imagen */
+        .clearfix::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
         .logo-container {
             float: left; /* Alinea el contenedor a la izquierda */
             margin-right: 20px; /* Espacio entre la imagen y el texto */
@@ -35,6 +37,13 @@
         .logo-container img {
             width: 50px; /* Tamaño deseado para la imagen */
             height: auto; /* Altura automática para mantener la proporción */
+        }
+
+        @media screen and (max-width: 600px) {
+            /* Estilos para pantallas pequeñas */
+            .jw-header-title {
+                font-size: 2em; /* Reducir el tamaño de la fuente en pantallas pequeñas */
+            }
         }
     </style>
 </head>
@@ -69,8 +78,8 @@
                     <div class="logo">
                         <div class="jw-header-logo">
                             <div class="jw-header jw-header-title-container jw-header-text jw-header-text-toggle" data-stylable="true">
-                                <h2 id="jw-header-title" class="jw-header-title">
-                                Cuestionarios Ana</h2>
+                                <h1 id="jw-header-title" class="jw-header-title">
+                                Cuestionarios Ana</h1>
                             </div>
                         </div>
                     </div>
