@@ -46,7 +46,7 @@ document.getElementById("tituloCuestionario").textContent = document.title;
 
 // Hacer una solicitud HTTP para obtener el JSON y cargar el cuestionario
 function loadQuiz() {
-    fetch('https://raw.githubusercontent.com/Josemlg993/MagicTest/Bibliotecadepreguntas/Cuestionario%20Analisis.json')
+    fetch('https://raw.githubusercontent.com/Josemlg993/MagicTest/main/Cuestionario%20Analisis.json')
         .then(response => response.json())
         .then(data => {
             questions = data; // Guardamos las preguntas en la variable
