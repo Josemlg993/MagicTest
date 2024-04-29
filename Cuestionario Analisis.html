@@ -126,7 +126,7 @@ function renderQuiz() {
         questionHTML += "<h2>Pregunta " + questionNumber + ":</h2>";
         questionHTML += "<p>" + item.question + "</p>";
 
-        var shouldShuffleAnswers = !item.answers.some(answer => answer.match(/A y B son correctas.|A y C son correctas.|A y D son correctas.|B y C son correctas.|B y D son correctas.|C y D son correctas.|A y B son correctas|A y C son correctas|A y D son correctas|B y C son correctas|B y D son correctas|C y D son correctas|todas son correctas|Ninguno de los anteriores|Ninguna es correcta.|Ninguna es correcta|todas son incorrectas|todas las anteriores|ninguna de las anteriores/i));
+        var shouldShuffleAnswers = !item.answers.some(answer => answer.match(/A y B son correctas.|A y C son correctas.|A y D son correctas.|B y C son correctas.|B y D son correctas.|C y D son correctas.|A y B son correctas|A y C son correctas|A y D son correctas|B y C son correctas|B y D son correctas|C y D son correctas|todas son correctas|Ninguno de los anteriores|Ninguna es correcta.|Hay más de una respuesta correcta|Ninguna es correcta|todas son incorrectas|todas las anteriores|ninguna de las anteriores/i));
         var answers = shouldShuffleAnswers ? shuffleArray(item.answers.slice()) : item.answers;
 
         answers.forEach(function (answer) {
