@@ -1098,7 +1098,7 @@
             "Todas son correctas"
         ],
         "correctAnswer": "β"
-    }
+    },
     {
         "question": "Con el estudio macroscópico de la orina se puede estudiar:",
         "answers": [
@@ -1498,5 +1498,5 @@
             "Todas la anteriores son ciertas"
         ],
         "correctAnswer": "Electroforesis"
-    },
+    }
 ]
