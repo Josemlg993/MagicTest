@@ -20,7 +20,7 @@ function searchInPage() {
 }
 
 // Obtener el elemento <h1> por su id
-var h1Titulo = document.querySelector("h1");
+document.getElementById("tituloCuestionario").textContent = document.title;
 
 // Hacer una solicitud HTTP para obtener el JSON
 fetch('cuestionario.json')
