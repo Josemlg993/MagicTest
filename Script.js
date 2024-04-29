@@ -87,17 +87,6 @@ function shuffleArray(array) {
     return array;
 }
 
-function loadQuiz() {
-    // Aquí se cargarán las preguntas desde el JSON
-    fetch('https://raw.githubusercontent.com/Josemlg993/MagicTest/Bibliotecadepreguntas/Cuestionario%20Analisis.json')
-        .then(response => response.json())
-        .then(data => {
-            questions = data; // Guardamos las preguntas en la variable
-            renderQuiz(); // Llamamos a la función para renderizar el cuestionario
-        })
-        .catch(error => console.error('Error al cargar el cuestionario:', error));
-}
-
 function renderQuiz() {
     var form = document.getElementById("quizForm");
     var markerContainer = document.querySelector(".marker-container");
