@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html lang="es">
-<!DOCTYPE html>
-<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,13 +7,19 @@
     <link rel="stylesheet" type="text/css" href="https://josemlg993.github.io/MagicTest/style.css">
 </head>
 <body>
-    <h1>Cuestionario Micro</h1>
+    <h1 id="tituloCuestionario"></h1>
+    <div class="search-container">
+        <input type="text" id="searchText" placeholder="Buscar en la página...">
+        <button onclick="searchInPage()">Buscar</button>
+    </div>
     <div id="quizForm">
         <!-- Aquí se agregarán las preguntas y respuestas dinámicamente -->
     </div>
     <div class="marker-container">
         <!-- Aquí se agregarán los marcadores de pregunta dinámicamente -->
-    </div>
+    </div>
+
+
 
     <script src="https://josemlg993.github.io/MagicTest/Script.js"></script>
 </body>
