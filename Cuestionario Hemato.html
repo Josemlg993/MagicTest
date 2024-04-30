@@ -125,13 +125,14 @@
                 var questionNumber = index + 1;
                 var questionHTML = "<div id='question" + questionNumber + "' class='question'>";
                 questionHTML += "<h2>Pregunta " + questionNumber + ":</h2>";
+                
+                // Añadimos el texto de la pregunta
+                questionHTML += "<p>" + item.question + "</p>";
 
-                // Verificar si la pregunta tiene una imagen
+                // Añadimos la imagen si está presente
                 if (item.image) {
                     questionHTML += "<img src='" + item.image + "' alt='Imagen de la pregunta'>";
                 }
-
-                questionHTML += "<p>" + item.question + "</p>";
 
                 var shouldShuffleAnswers = !item.answers.some(answer => answer.match(/A y B son correctas.|A y C son correctas.|A y D son correctas.|B y C son correctas.|B y D son correctas.|C y D son correctas.|A y B son correctas|A y C son correctas|A y D son correctas|B y C son correctas|B y D son correctas|C y D son correctas|todas son correctas|Ninguno de los anteriores|Ninguna es correcta.|Ninguna es correcta|todas son incorrectas|todas las anteriores|ninguna de las anteriores/i));
                 var answers = shouldShuffleAnswers ? shuffleArray(item.answers.slice()) : item.answers;
