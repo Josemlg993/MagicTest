@@ -80,6 +80,7 @@
         }
 
 
+
         function resetQuestion(questionNumber) {
             var marker = document.querySelector(".marker-container").children[questionNumber - 1];
             var resultElement = document.getElementById("result" + questionNumber);
@@ -113,44 +114,48 @@
         }
 
         function renderQuiz() {
-            var form = document.getElementById("quizForm");
-            var markerContainer = document.querySelector(".marker-container");
+    var form = document.getElementById("quizForm");
+    var markerContainer = document.querySelector(".marker-container");
 
-            form.innerHTML = '';
-            markerContainer.innerHTML = '';
+    form.innerHTML = '';
+    markerContainer.innerHTML = '';
 
-            questions = shuffleArray(questions);
+    questions = shuffleArray(questions);
 
-            questions.forEach(function (item, index) {
-                var questionNumber = index + 1;
-                var questionHTML = "<div id='question" + questionNumber + "' class='question'>";
-                questionHTML += "<h2>Pregunta " + questionNumber + ":</h2>";
-                
-                // Añadimos el texto de la pregunta
-                questionHTML += "<p>" + item.question + "</p>";
+    questions.forEach(function (item, index) {
+        var questionNumber = index + 1;
+        var questionHTML = "<div id='question" + questionNumber + "' class='question'>";
+        questionHTML += "<h2>Pregunta " + questionNumber + ":</h2>";
+        
+        // Añadimos el texto de la pregunta
+        questionHTML += "<p>" + item.question + "</p>";
 
-                // Añadimos la imagen si está presente
-                if (item.image) {
-                    questionHTML += "<img src='" + item.image + "' alt='Imagen de la pregunta'>";
-                }
+        // Añadimos la imagen si está presente
+        if (item.image) {
+            questionHTML += "<img src='" + item.image + "' alt='Imagen de la pregunta'>";
+        }
 
-                var shouldShuffleAnswers = !item.answers.some(answer => answer.match(/A y B son correctas.|A y C son correctas.|A y D son correctas.|B y C son correctas.|B y D son correctas.|C y D son correctas.|A y B son correctas|A y C son correctas|A y D son correctas|B y C son correctas|B y D son correctas|C y D son correctas|todas son correctas|Ninguno de los anteriores|Ninguna es correcta.|Ninguna es correcta|todas son incorrectas|todas las anteriores|ninguna de las anteriores/i));
-                var answers = shouldShuffleAnswers ? shuffleArray(item.answers.slice()) : item.answers;
+        var shouldShuffleAnswers = !item.answers.some(answer => answer.match(/A y B son correctas.|A y C son correctas.|A y D son correctas.|B y C son correctas.|B y D son correctas.|C y D son correctas.|A y B son correctas|A y C son correctas|A y D son correctas|B y C son correctas|B y D son correctas|C y D son correctas|todas son correctas|Ninguno de los anteriores|Ninguna es correcta.|Ninguna es correcta|todas son incorrectas|todas las anteriores|ninguna de las anteriores/i));
+        var answers = shouldShuffleAnswers ? shuffleArray(item.answers.slice()) : item.answers;
 
-                answers.forEach(function (answer) {
-                    questionHTML += '<input type="radio" class="answer-input" name="q' + questionNumber + '" value="' + answer + '" onclick="checkAnswer(' + questionNumber + ', \'' + item.correctAnswer + '\', \'' + answer + '\')"> ' + answer + '<br>';
-                });
-                questionHTML += "<p id='result" + questionNumber + "' style='display:none'></p>";
-                questionHTML += "</div>";
-                form.innerHTML += questionHTML;
+        questionHTML += "<div class='answers'>"; // Inicia el contenedor de respuestas
 
-                var marker = document.createElement("div");
-                marker.classList.add("marker");
-                marker.textContent = questionNumber;
-                marker.addEventListener("click", function() {
-                    scrollToQuestion(questionNumber);
-                });
-                markerContainer.appendChild(marker);
+        answers.forEach(function (answer) {
+            questionHTML += '<input type="radio" class="answer-input" name="q' + questionNumber + '" value="' + answer + '" onclick="checkAnswer(' + questionNumber + ', \'' + item.correctAnswer + '\', \'' + answer + '\')"> ' + answer + '<br>';
+        });
+
+        questionHTML += "</div>"; // Cierra el contenedor de respuestas
+        questionHTML += "<p id='result" + questionNumber + "' style='display:none'></p>";
+        questionHTML += "</div>";
+        form.innerHTML += questionHTML;
+
+        var marker = document.createElement("div");
+        marker.classList.add("marker");
+        marker.textContent = questionNumber;
+        marker.addEventListener("click", function() {
+            scrollToQuestion(questionNumber);
+        });
+        markerContainer.appendChild(marker);
             });
         }
 
