@@ -798,5 +798,284 @@
             "IV"
         ],
         "correctAnswer": "III"
+    },
+    {
+        "question": "¿Cómo llamamos a los puestos de trabajo en los que la circulación de aire está controlada, pasando por un circuito cerrado que cuenta con filtros HEPA?",
+        "answers": [
+            "Cabinas microbiológicas",
+            "Cabinas de seguridad biológica",
+            "Cabinas de biomanipulación",
+            "Todas son incorrectas"
+        ],
+        "correctAnswer": "Cabinas de seguridad biológica"
+    },
+    {
+        "question": "¿Cuál de las siguientes no es una técnica de siembra de microorganismos?",
+        "answers": [
+            "Por extensión",
+            "Por picadura",
+            "Por agotamiento en estrías",
+            "Todas son técnicas de siembra"
+        ],
+        "correctAnswer": "Todas son técnicas de siembra"
+    },
+    {
+        "question": "¿Cuál de los siguientes géneros no es cultivable en laboratorio?",
+        "answers": [
+            "Chlamydia",
+            "Haemophylus",
+            "Yersinia",
+            "Ninguna es cultivable"
+        ],
+        "correctAnswer": "Chlamydia"
+    },
+    {
+        "question": "¿Cuál de los siguientes microorganismos no se consideran como seres vivos?",
+        "answers": [
+            "Bacterias",
+            "Hongos",
+            "Parásitos",
+            "Virus"
+        ],
+        "correctAnswer": "Virus"
+    },
+    {
+        "question": "Antes de realizar una tinción de una muestra bacteriana es necesario:",
+        "answers": [
+            "Mirar la muestra fijamente",
+            "Fijar la muestra mediante un frotis o extensión",
+            "No es necesario ningún paso previo",
+            "Fijar la muestra con pegamento"
+        ],
+        "correctAnswer": "Fijar la muestra mediante un frotis o extensión"
+    },
+    {
+        "question": "Con el asa de siembra microbiológica se realiza la siembra:",
+        "answers": [
+            "Por agotamiento en estrías en medio sólido",
+            "Por extensión en medio sólido",
+            "Por picadura en medio sólido",
+            "Ninguna es correcta"
+        ],
+        "correctAnswer": "Por agotamiento en estrías en medio sólido"
+    },
+    {
+        "question": "El Agar Sabouraud es un medio selectivo para:",
+        "answers": [
+            "Coliformes",
+            "Virus",
+            "Hongos",
+            "Rickettsias"
+        ],
+        "correctAnswer": "Hongos"
+    },
+    {
+        "question": "En cuanto a las enterobacterias es cierto que:",
+        "answers": [
+            "Son bacilos grampositivos",
+            "No se encuentran en la flora intestinal",
+            "No fermentan la lactosa",
+            "Todas son incorrectas"
+        ],
+        "correctAnswer": "Todas son incorrectas"
+    },
+    {
+        "question": "En la tinción de Gram las bacterias Gram negativas se observan como:",
+        "answers": [
+            "Bacterias azules",
+            "Bacterias naranjas",
+            "Bacterias rojas",
+            "Bacterias violetas"
+        ],
+        "correctAnswer": "Bacterias rojas"
+    },
+    {
+        "question": "En relación con el género Clostridium es cierto:",
+        "answers": [
+            "Se detectan mediante agar Schaedler",
+            "Causan enfermedades como el botulismo y el tétanos",
+            "Causan la lepra",
+            "A y B son correctas"
+        ],
+        "correctAnswer": "A y B son correctas"
+    },
+    {
+        "question": "Es cierto respecto al género Bacillus:",
+        "answers": [
+            "Es un bacilo grampositivo",
+            "Forman endosporas",
+            "Causan enfermedades como el ántrax o el síndrome del arroz frito",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Todas son correctas"
+    },
+    {
+        "question": "Es un medio de cultivo utilizado para microorganismos hemolíticos:",
+        "answers": [
+            "Agar sangre",
+            "Agar Chapman",
+            "Agar MacConkey",
+            "Caldo de tioglicolato"
+        ],
+        "correctAnswer": "Agar sangre"
+    },
+    {
+        "question": "Es un sistema comercial multipruebas para la identificación microbiana:",
+        "answers": [
+            "IMViC",
+            "Prueba TSI",
+            "Prueba indol",
+            "Prueba citrato"
+        ],
+        "correctAnswer": "IMViC"
+    },
+    {
+        "question": "Medios para la detección de fermentación de glucosa, sacarosa y/o lactosa",
+        "answers": [
+            "Medio con rojo fenol",
+            "Medio con sulfato ferroso para la formación de precipitados de azufre",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Todas son correctas"
+    },
+    {
+        "question": "La prueba de la oxidasa:",
+        "answers": [
+            "Permite detectar si las bacterias son aerobias",
+            "Detecta la presencia de citocromo C oxidasa",
+            "Utiliza el reactivo TMFD",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Todas son correctas"
+    },
+    {
+        "question": "La serología para la detección de virus permite:",
+        "answers": [
+            "Detectar la presencia del virus directamente",
+            "Detectar la presencia del virus según la respuesta inmunitaria que causa",
+            "Detectar los niveles de inmunoglobulinas IgM e IgG",
+            "Hay más de una respuesta correcta"
+        ],
+        "correctAnswer": "Hay más de una respuesta correcta"
+    },
+    {
+        "question": "Las asas de Digralsky se utilizan para realizar siembras...:",
+        "answers": [
+            "Por agotamiento en estrías",
+            "En medios líquidos",
+            "Por picadura",
+            "Por extensión"
+        ],
+        "correctAnswer": "Por extensión"
+    },
+    {
+        "question": "Las fases de la curva de crecimiento microbiano son:",
+        "answers": [
+            "Latencia, exponente, pausa y muerte",
+            "Exponencial y estacionaria",
+            "Latencia, crecimiento, parada y muerte",
+            "Latencia, exponencial, estacionaria y muerte"
+        ],
+        "correctAnswer": "Latencia, exponencial, estacionaria y muerte"
+    },
+    {
+        "question": "Los hongos se pueden identificar mediante:",
+        "answers": [
+            "Observaciones en fresco",
+            "Tinciones (gram, Giemsa, blanco calcoflúor...)",
+            "Técnicas moleculares",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Todas son correctas"
+    },
+    {
+        "question": "Los parásitos se obtienen de muestras humanas como:",
+        "answers": [
+            "Heces",
+            "Sangre",
+            "Exudados vaginales",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Todas son correctas"
+    },
+    {
+        "question": "Los residuos microbiológicos pueden eliminarse mediante:",
+        "answers": [
+            "Autoclave",
+            "Incineración",
+            "Descontaminación química",
+            "Todas las anteriores son correctas"
+        ],
+        "correctAnswer": "Todas las anteriores son correctas"
+    },
+    {
+        "question": "Los virus se pueden detectar mediante:",
+        "answers": [
+            "Citología e histología",
+            "Cultivos celulares",
+            "PCR",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Todas son correctas"
+    },
+    {
+        "question": "Para detectar parásitos en sangre es habitual hacer tinciones:",
+        "answers": [
+            "De Gram",
+            "Con Giemsa",
+            "Con tinta china",
+            "Ninguna es correcta"
+        ],
+        "correctAnswer": "Con Giemsa"
+    },
+    {
+        "question": "Para poder confirmar los resultados de los cultivos de hongos, estos deben de incubarse:",
+        "answers": [
+            "De 7 a 14 días",
+            "De 14 a 21 días",
+            "De 21 a 30 días",
+            "De 30 a 40 días"
+        ],
+        "correctAnswer": "De 21 a 30 días"
+    },
+    {
+        "question": "Son medidas de seguridad básicas en un laboratorio de microbiología:",
+        "answers": [
+            "Usar equipos de protección individual",
+            "Usar cabinas de seguridad biológica",
+            "Aplicar precauciones básicas como no comer, beber ni fumar",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Todas son correctas"
+    },
+    {
+        "question": "Un laboratorio clínico en el que se analizan agentes de riesgo moderado tiene un nivel de bioseguridad:",
+        "answers": [
+            "Nivel básico 1",
+            "Nivel básico 2",
+            "Nivel de contención",
+            "Nivel de contención máxima"
+        ],
+        "correctAnswer": "Nivel básico 2"
+    },
+    {
+        "question": "Un medio de cultivo microbiológico puede ser:",
+        "answers": [
+            "General",
+            "Diferencial",
+            "Selectivo",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Todas son correctas"
+    },
+    {
+        "question": "Un microorganismo capaz de crecer en presencia o ausencia de oxígeno se denomina:",
+        "answers": [
+            "Aerobio",
+            "Anaerobio facultativo",
+            "Anaerobio estricto",
+            "Microaerófilo"
+        ],
+        "correctAnswer": "Anaerobio facultativo"
     }
 ]
