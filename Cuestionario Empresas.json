@@ -275,7 +275,6 @@
             "Un empresario individual",
             "Un empresario de sociedad nueva empresa",
             "Un empresario de sociedad cooperativa",
-
             "Todas son correctas."
         ],
         "correctAnswer": "Un empresario individual"
@@ -699,5 +698,395 @@
             "Ninguna de las anteriores."
         ],
         "correctAnswer": "Es aquella donde la estructura organizativa está conformada según las relaciones personales que surgen de forma personal entre los trabajadores."
+    },
+    {
+        "question": "¿Cuáles de los siguientes son requisitos que debe cumplir el autónomo?",
+        "answers": [
+            "Tener una actividad económica por cuenta propia y con ánimo de lucro",
+            "No depender de la dirección de otros",
+            "Realizar la actividad de forma habitual como fuente de ingresos.",
+            "Todas las respuestas anteriores son correctas"
+        ],
+        "correctAnswer": "Todas las respuestas anteriores son correctas"
+    },
+    {
+        "question": "¿Qué función principal cumple el plan de tesorería en una empresa?",
+        "answers": [
+            "Administrar los recursos humanos.",
+            "Controlar la calidad de los productos.",
+            "Gestionar el inventario de la empresa.",
+            "Administrar la tesorería de la empresa."
+        ],
+        "correctAnswer": "Administrar la tesorería de la empresa."
+    },
+    {
+        "question": "¿Qué significa que el IRPF es un impuesto progresivo?",
+        "answers": [
+            "Quien más tiene más paga",
+            "Quien menos tiene más paga",
+            "Grava el consumo",
+            "Es un impuesto indirecto"
+        ],
+        "correctAnswer": "Quien más tiene más paga"
+    },
+    {
+        "question": "¿Qué significan las siglas \"IVA\" en el contexto de la tributación?",
+        "answers": [
+            "Instituto de Vigilancia Aduanera",
+            "Instancia de las Ventas y Alegaciones",
+            "Impuesto sobre el Valor Añadido.",
+            "Impuesto sobre las Ventas de Animales."
+        ],
+        "correctAnswer": "Impuesto sobre el Valor Añadido."
+    },
+    {
+        "question": "¿Qué tipo de clasificación sería la que divide las empresas entre empresarios individuales y sociedades?",
+        "answers": [
+            "Tipos de empresas según su forma jurídica.",
+            "Tipos de empresas según el ámbito de actuación.",
+            "Tipos de empresas según su sector de actividad.",
+            "Tipos de empresas según titularidad del capital"
+        ],
+        "correctAnswer": "Tipos de empresas según su forma jurídica."
+    },
+    {
+        "question": "Al llevar a cabo el análisis del entorno externo se genera una clasificación de las unidades estratégicas. Si se presentan grandes oportunidades con pequeñas amenazas nos encontramos ante:",
+        "answers": [
+            "Unidad estratégica de negocio especulativa",
+            "Unidad estratégica de negocio ideal",
+            "Unidad estratégica de negocio madura",
+            "Unidad estratégica de negocio problemática"
+        ],
+        "correctAnswer": "Unidad estratégica de negocio ideal"
+    },
+    {
+        "question": "Al número de trabajadores que pasan a otra en empresa en cierto espacio de tiempo se conoce como:",
+        "answers": [
+            "Tasa de despidos.",
+            "Tasa de selección del personal.",
+            "Índice de rotación del personal.",
+            "Ninguna de las anteriores."
+        ],
+        "correctAnswer": "Índice de rotación del personal."
+    },
+    {
+        "question": "Cuando de una idea surge una nueva empresa, se denomina:",
+        "answers": [
+            "Plan de empresa",
+            "Plan logístico",
+            "Plan de producción",
+            "Ninguna de las anteriores es correcta"
+        ],
+        "correctAnswer": "Plan de empresa"
+    },
+    {
+        "question": "Cuando el vendedor quiere dejar constancia del precio al que se ha valorado un determinado bien o servicio que se va a comercializar, utilizará:",
+        "answers": [
+            "Letra de cambio",
+            "El presupuesto",
+            "Transferencia bancaria",
+            "Tarjeta bancaria"
+        ],
+        "correctAnswer": "El presupuesto"
+    },
+    {
+        "question": "Cuando en el mercado solo existe un vendedor y muchos compradores, se tiene una estructura de:",
+        "answers": [
+            "Monopolio de demanda",
+            "Oligopolio de demanda",
+            "Monopolio de oferta",
+            "Competencia perfecta"
+        ],
+        "correctAnswer": "Monopolio de oferta"
+    },
+    {
+        "question": "Cuando una empresa trata de brindar a un producto una calidad que dé al cliente cierta ventaja con respecto al resto de productos, está aplicando una estrategia de:",
+        "answers": [
+            "Estrategia de diversificación",
+            "Estrategia de diferenciación",
+            "Estrategia de costes",
+            "Estrategia de enfoque"
+        ],
+        "correctAnswer": "Estrategia de diferenciación"
+    },
+    {
+        "question": "Cuando una empresa trata de dirigir todas las acciones a un segmento del mercado en específico, está aplicando una estrategia de:",
+        "answers": [
+            "Estrategia de diversificación",
+            "Estrategia de diferenciación",
+            "Estrategia de costes",
+            "Estrategia de enfoque"
+        ],
+        "correctAnswer": "Estrategia de enfoque"
+    },
+    {
+        "question": "Determinar hacia dónde se dirigirá la empresa, qué futuro tiene, qué se debe desarrollar y cuáles son los mercados que va a abordar, queda definido en:",
+        "answers": [
+            "La misión de la empresa",
+            "La visión de la empresa.",
+            "La responsabilidad corporativa.",
+            "B y C son correctas."
+        ],
+        "correctAnswer": "La visión de la empresa."
+    },
+    {
+        "question": "El análisis DAFO pretende realizar una evaluación tanto del entorno externo como interno. Señala la afirmación correcta:",
+        "answers": [
+            "Las fortalezas hacen referencia a aspectos externos a la organización y las debilidades a aspectos internos",
+            "Las fortalezas hacen referencia a aspectos internos a la organización y las debilidades a aspectos externos",
+            "Las fortalezas y las debilidades hacen referencia a aspectos externos de la organización",
+            "Las fortalezas y las debilidades hacen referencia a aspectos internos de la organización"
+        ],
+        "correctAnswer": "Las fortalezas y las debilidades hacen referencia a aspectos internos de la organización"
+    },
+    {
+        "question": "El capital se divide en acciones y las conforman las aportaciones de los socios, corresponde con:",
+        "answers": [
+            "Sociedad anónima",
+            "Sociedad laboral",
+            "Sociedad cooperativa",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Sociedad anónima"
+    },
+    {
+        "question": "El coste de personal en una empresa:",
+        "answers": [
+            "Corresponde al salario de los trabajadores.",
+            "Corresponde a la cotización en la Seguridad Social.",
+            "Corresponde al salario y a la cotización.",
+            "Cada empresa determina sus propios costes."
+        ],
+        "correctAnswer": "Corresponde al salario y a la cotización."
+    },
+    {
+        "question": "El departamento o área de producción es aquel que:",
+        "answers": [
+            "Fabrica el producto siguiendo los procedimientos y estándares de calidad necesarios para conseguir el mejor producto.",
+            "Se encargan de la logística y el abastecimiento intentando conseguir precios y condiciones competitivas.",
+            "Gestiona el talento humano de la organización",
+            "Lleva a cabo todo lo relacionado con las finanzas, contabilidad e inversiones de la empresa."
+        ],
+        "correctAnswer": "Fabrica el producto siguiendo los procedimientos y estándares de calidad necesarios para conseguir el mejor producto."
+    },
+    {
+        "question": "El período medio de maduración de la empresa (PMM) es:",
+        "answers": [
+            "El tiempo que tarda una fruta en madurar",
+            "El tiempo que tarda una empresa en ser considerada antigua.",
+            "El tiempo que se tarda en completar el ciclo productivo desde que se invierte una unidad monetaria hasta que ésta retorna a la empresa.",
+            "Ninguna de las anteriores es correcta."
+        ],
+        "correctAnswer": "El tiempo que se tarda en completar el ciclo productivo desde que se invierte una unidad monetaria hasta que ésta retorna a la empresa."
+    },
+    {
+        "question": "El tipo de marketing que se encarga de establecer una relación de confianza, aceptación y aportación de utilidades competitivas con los clientes es:",
+        "answers": [
+            "Marketing relacional",
+            "Marketing social",
+            "Marketing operativo",
+            "Marketing político"
+        ],
+        "correctAnswer": "Marketing relacional"
+    },
+    {
+        "question": "El trabajador autónomo es:",
+        "answers": [
+            "Un empresario individual",
+            "Un empresario de sociedad nueva empresa",
+            "Un empresario de sociedad cooperativa",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Un empresario individual"
+    },
+    {
+        "question": "El trabajo por cuenta ajena es:",
+        "answers": [
+            "La realización de un trabajo no remunerado",
+            "Desarrollar un trabajo como trabajador autónomo o empresario",
+            "Implantar ideas innovadoras en una fase productiva",
+            "Desarrollar un trabajo como empleado bajo las órdenes de un empresario"
+        ],
+        "correctAnswer": "Desarrollar un trabajo como empleado bajo las órdenes de un empresario"
+    },
+    {
+        "question": "En el liderazgo autoritario, ¿quién toma la mayoría de las decisiones?",
+        "answers": [
+            "El líder centraliza la toma de decisiones.",
+            "Los subordinados toman la mayoría de las decisiones.",
+            "El equipo toma decisiones de manera independiente.",
+            "Las decisiones se toman en colaboración con otros."
+        ],
+        "correctAnswer": "El líder centraliza la toma de decisiones."
+    },
+    {
+        "question": "En el proceso de comunicación, la fase de codificación es:",
+        "answers": [
+            "Cuando el emisor reflexiona detenidamente sobre el mensaje que quiere transmitir",
+            "Cuando el emisor escoge el código por el que va a comunicarse con el receptor.",
+            "Cuando el emisor envía el mensaje por medio de un canal determinado.",
+            "Cuando el destinatario recibe el mensaje."
+        ],
+        "correctAnswer": "Cuando el emisor escoge el código por el que va a comunicarse con el receptor."
+    },
+    {
+        "question": "La base liquidable del IRPF:",
+        "answers": [
+            "Es igual a la base imponible",
+            "Es la parte que queda exenta de la aplicación del tributo",
+            "Es la parte a la que se le aplica el tributo, y es el resultado de aplicarle las distintas reducciones y deducciones a las que tiene el derecho la persona física a la base imponible",
+            "Ninguna es correcta"
+        ],
+        "correctAnswer": "Es la parte a la que se le aplica el tributo, y es el resultado de aplicarle las distintas reducciones y deducciones a las que tiene el derecho la persona física a la base imponible"
+    },
+    {
+        "question": "La creatividad como característica del emprendedor hace referencia a:",
+        "answers": [
+            "Capacidad del empresario de no rendirse ante las constantes dificultades y retos a los que se enfrenta.",
+            "Capacidad para ser influenciador y hacer que otros crean en su idea.",
+            "Capacidad de generar ideas y conceptos, pensamiento original y diferente.",
+            "Ninguna de las anteriores es correcta"
+        ],
+        "correctAnswer": "Capacidad de generar ideas y conceptos, pensamiento original y diferente."
+    },
+    {
+        "question": "La estrategia de cobertura que se centra en ofrecer distintos productos en un solo segmento de mercado se denomina:",
+        "answers": [
+            "Estrategia de concentración",
+            "Estrategia de expansión de productos",
+            "Estrategia de expansión de mercados",
+            "Estrategia de diferenciación"
+        ],
+        "correctAnswer": "Estrategia de expansión de productos"
+    },
+    {
+        "question": "Las empresas de titularidad privada son aquellas en las que",
+        "answers": [
+            "El capital de la empresa pertenece a particulares",
+            "El capital de la empresa pertenece al Estado",
+            "Su zona de actuación abarca todos los continentes",
+            "Ninguna de las anteriores es correcta"
+        ],
+        "correctAnswer": "El capital de la empresa pertenece a particulares"
+    },
+    {
+        "question": "Las variables que se analizan en el marketing-mix son:",
+        "answers": [
+            "Producto, precio, comunicación y punto de venta",
+            "Precio, clientes y consumidores",
+            "Precio, punto de venta y merchandising",
+            "Ninguna de las anteriores es correcta"
+        ],
+        "correctAnswer": "Producto, precio, comunicación y punto de venta"
+    },
+    {
+        "question": "Los grupos profesionales se basan en:",
+        "answers": [
+            "Las características del trabajador.",
+            "La titulación del trabajador.",
+            "Las aptitudes del trabajador.",
+            "Todas las anteriores."
+        ],
+        "correctAnswer": "Todas las anteriores."
+    },
+    {
+        "question": "Para la selección de personal:",
+        "answers": [
+            "Es necesario visualizar el escenario futuro según la estrategia corporativa.",
+            "Debe realizarse una previsión del aumento y la reducción de personal.",
+            "Es fundamental controlar en todo momento la selección.",
+            "Todas son correctas."
+        ],
+        "correctAnswer": "Todas son correctas."
+    },
+    {
+        "question": "Para realizar los registros de los movimientos contables, se utiliza:",
+        "answers": [
+            "Los ratios",
+            "El sistema de partida doble",
+            "El albarán",
+            "El presupuesto"
+        ],
+        "correctAnswer": "El sistema de partida doble"
+    },
+    {
+        "question": "Persona que aplicando sus habilidades transforma una idea en un proyecto económico de negocio, generando innovación y beneficios económicos y sociales, se denomina:",
+        "answers": [
+            "Emprendedor",
+            "Empresario.",
+            "Profesional.",
+            "Todas son correctas."
+        ],
+        "correctAnswer": "Emprendedor"
+    },
+    {
+        "question": "Respecto a la figura de líder: _____",
+        "answers": [
+            "Tiene influencia solamente porque alguien le ha dotado de autoridad",
+            "No es capaz de trabajar en equipo",
+            "Tiene dificultades para entender a los demás y tiene oratoria escasa",
+            "Ninguna es correcta"
+        ],
+        "correctAnswer": "Ninguna es correcta"
+    },
+    {
+        "question": "Según la teoría de las jerarquías de necesidades de Maslow:",
+        "answers": [
+            "Para satisfacer las necesidades y deseos más elevados es necesario primero satisfacer las necesidades más básicas",
+            "Solamente existen dos factores que influyen en la motivación laboral, el higiénico y el motivacional",
+            "Maslow defiende que existen tres necesidades claves en la vida personal que tienen influencia en el trabajo, la motivación para el rendimiento, la pertenencia y el poder",
+            "Ninguna es correcta"
+        ],
+        "correctAnswer": "Para satisfacer las necesidades y deseos más elevados es necesario primero satisfacer las necesidades más básicas"
+    },
+    {
+        "question": "Señala la afirmación incorrecta acerca de las sociedades laborales:",
+        "answers": [
+            "Tienen responsabilidad ilimitada",
+            "Tributa por el Impuesto de Sociedades",
+            "El capital se puede dividir en acciones nominativas o en participaciones sociales",
+            "Es necesario constituir un Fondo Especial de Reserva"
+        ],
+        "correctAnswer": "Tienen responsabilidad ilimitada"
+    },
+    {
+        "question": "Señala la respuesta correcta respecto a los factores demográficos como parte del entorno general de todas las empresas",
+        "answers": [
+            "Los factores demográficos hacen referencia a la tasa de interés, la demanda, la inflación...",
+            "Los factores demográficos hacen referencia a las Leyes, reglamentos de cada país...",
+            "Los factores demográficos no tienen ninguna influencia o efecto en la empresa",
+            "Los factores demográficos son particularidades de la población como la edad, etnia, género..."
+        ],
+        "correctAnswer": "Los factores demográficos son particularidades de la población como la edad, etnia, género..."
+    },
+    {
+        "question": "Si clasificamos una empresa según su tamaño, encontramos que puede ser:",
+        "answers": [
+            "Primaria, secundaria, terciaria, cuaternaria",
+            "Productora, comercial, de servicios",
+            "Pública, privada, mixta",
+            "Pequeña, mediana y grande"
+        ],
+        "correctAnswer": "Pequeña, mediana y grande"
+    },
+    {
+        "question": "Un emprendedor que decide comenzar un nuevo negocio tiene que considerar antes los siguientes aspectos:",
+        "answers": [
+            "Debe considerar aspectos personales, sociales y económicos",
+            "Debe considerar únicamente los aspectos económicos, ya que debe analizar si será rentable o no.",
+            "Debe considerar únicamente los aspectos personales, ya que es él quién va a montar el negocio",
+            "Ninguna de las anteriores es correcta"
+        ],
+        "correctAnswer": "Debe considerar aspectos personales, sociales y económicos"
+    },
+    {
+        "question": "Una empresa calificada como sector terciario, se dedica a:",
+        "answers": [
+            "Proporcionar servicios de distinta índole (enseñanza, turismo, transporte, etc.)",
+            "La extracción de productos de la naturaleza, que después venden",
+            "Transformar, mediante la fabricación, los bienes que compran a las empresas del sector primario",
+            "Ninguna de las anteriores"
+        ],
+        "correctAnswer": "Proporcionar servicios de distinta índole (enseñanza, turismo, transporte, etc.)"
     }
 ]
