@@ -1098,5 +1098,405 @@
             "Todas son correctas"
         ],
         "correctAnswer": "β"
+    },
+    {
+        "question": "Con el estudio macroscópico de la orina se puede estudiar:",
+        "answers": [
+            "El volumen",
+            "La densidad",
+            "La osmolalidad",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Todas son correctas"
+    },
+    {
+        "question": "Cuando se analiza el líquido cefalorraquídeo se determina:",
+        "answers": [
+            "El aspecto físico",
+            "El estudio bioquímico relativo a pH y biomoléculas",
+            "Estudio inmunológico",
+            "A y B son correctas"
+        ],
+        "correctAnswer": "A y B son correctas"
+    },
+    {
+        "question": "Cuando se obtienen valores de proteínas superiores a 8.6 g/dL en sangre se denomina:",
+        "answers": [
+            "Superproteinemia",
+            "Hiperproteinemia",
+            "Hipoproteinemia",
+            "Normoproteinemia"
+        ],
+        "correctAnswer": "Hiperproteinemia"
+    },
+    {
+        "question": "El análisis macroscópico de la orina consiste en el estudio de:",
+        "answers": [
+            "Color",
+            "Olor",
+            "pH",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Todas son correctas"
+    },
+    {
+        "question": "El aumento en la rigidez de las paredes de los vasos sanguíneos se debe al exceso de:",
+        "answers": [
+            "Triglicéridos",
+            "Quilomicrones",
+            "Colesterol",
+            "Todas las anteriores son incorrectas"
+        ],
+        "correctAnswer": "Colesterol"
+    },
+    {
+        "question": "El estudio de las sustancias eliminadas por las heces se realiza:",
+        "answers": [
+            "A nivel físico (olor, color, forma)",
+            "A nivel químico (pH, pigmentos, grasa y azúcares)",
+            "A nivel inmunológico",
+            "Hay más de una respuesta correcta"
+        ],
+        "correctAnswer": "Hay más de una respuesta correcta"
+    },
+    {
+        "question": "El pH normal de la orina es:",
+        "answers": [
+            "1.0 – 2.5",
+            "4.6 – 8.0",
+            "10.5 – 12.0",
+            "Ninguna es correcta"
+        ],
+        "correctAnswer": "4.6 – 8.0"
+    },
+    {
+        "question": "El pH sanguíneo presenta valores en torno a:",
+        "answers": [
+            "7.35 y 7.45",
+            "9.5 y 10.5",
+            "2.5 y 4.5",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "7.35 y 7.45"
+    },
+    {
+        "question": "El sistema endocrino:",
+        "answers": [
+            "Está formado por órganos y tejidos que se encargan de la segregación de hormonas",
+            "Se encarga de controlar la respiración",
+            "Se encarga de filtrar la orina",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Está formado por órganos y tejidos que se encargan de la segregación de hormonas"
+    },
+    {
+        "question": "En condiciones normales, la concentración de orina en el plasma debe ser de:",
+        "answers": [
+            "15-24 mg/dL",
+            "12-54 mg/dL",
+            "18-68 mg/dL",
+            "20-75 mg/dL"
+        ],
+        "correctAnswer": "12-54 mg/dL"
+    },
+    {
+        "question": "En cuanto al ácido láctico es cierto que:",
+        "answers": [
+            "Se forma a partir de piruvato cuando falta oxígeno",
+            "Se produce tras un sobreesfuerzo físico",
+            "Los niveles normales se encuentran entre 5 y 20 mg/dL en suero",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Todas son correctas"
+    },
+    {
+        "question": "En el laboratorio las hormonas se determinan mediante la técnica:",
+        "answers": [
+            "Técnicas de inmunoanálisis (EIA)",
+            "Técnicas de radioinmunoanálisis (RIA)",
+            "Fluoroinmunoanálisis (FIA)",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Todas son correctas"
+    },
+    {
+        "question": "En relación con la glucemia es correcto que:",
+        "answers": [
+            "Valores menores a 110 mg/dL no indican diabetes",
+            "Valores superiores a 130 mg/dL indican diabetes",
+            "Valores entre 110 y 125 mg/dL requieren de una prueba adicional para el diagnóstico",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Todas son correctas"
+    },
+    {
+        "question": "Es cierto respecto a la dosis letal:",
+        "answers": [
+            "Es la concentración tóxica para el cuerpo humano",
+            "Es la concentración a la que se produce la muerte del organismo",
+            "Es la concentración que genera un efecto terapéutico",
+            "Indica la seguridad del fármaco"
+        ],
+        "correctAnswer": "Es la concentración a la que se produce la muerte del organismo"
+    },
+    {
+        "question": "Es cierto respecto a las pruebas bioquímicas de fertilidad:",
+        "answers": [
+            "Se realizan a los 20-25 días del ciclo menstrual",
+            "Medir el nivel de progesterona",
+            "Valorar la hidroxiprogesterona",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Todas son correctas"
+    },
+    {
+        "question": "Forma parte del estudio bioquímico de la orina:",
+        "answers": [
+            "Estudio de la glucosa",
+            "Valoración de las células al microscopio",
+            "Evaluación de los cristales en orina",
+            "Análisis de cálculos renales"
+        ],
+        "correctAnswer": "Estudio de la glucosa"
+    },
+    {
+        "question": "La cantidad sana de colesterol en sangre es de:",
+        "answers": [
+            "Más de 240 mg/dL",
+            "Entre 120 y 200 mg/dL",
+            "Entre 200-240 mg/dL",
+            "Menos de 120 mg/dL"
+        ],
+        "correctAnswer": "Entre 120 y 200 mg/dL"
+    },
+    {
+        "question": "La determinación de drogas de abuso puede realizarse en muestras de:",
+        "answers": [
+            "Orina",
+            "Sangre",
+            "Pelo",
+            "Todas las respuestas son correctas"
+        ],
+        "correctAnswer": "Todas las respuestas son correctas"
+    },
+    {
+        "question": "La gasometría sirve para: Pregunta 19 Respuesta",
+        "answers": [
+            "Medir la cantidad de oxígeno de los pulmones",
+            "Analizar el pH de la sangre",
+            "Estudiar la cantidad de sodio de la sangre",
+            "Ninguna es correcta"
+        ],
+        "correctAnswer": "Analizar el pH de la sangre"
+    },
+    {
+        "question": "La hemoglobina glicosilada permite hacernos una idea de los niveles de glucosa en sangre en un periodo de hasta:",
+        "answers": [
+            "1-2 meses",
+            "2-3 meses",
+            "3-4 meses",
+            "4-5 meses"
+        ],
+        "correctAnswer": "3-4 meses"
+    },
+    {
+        "question": "La parte de la enzima en la que se producen las transformaciones químicas se denomina:",
+        "answers": [
+            "Producto",
+            "Sustrato",
+            "Centro activo",
+            "Centro enzimático"
+        ],
+        "correctAnswer": "Centro activo"
+    },
+    {
+        "question": "La técnica de análisis que permite analizar los componentes volátiles de una muestra es:",
+        "answers": [
+            "Refractometría",
+            "Cromatografía líquida de alta eficiencia (HPLC)",
+            "Cromatografía de gases",
+            "Fotometría de reflectancia"
+        ],
+        "correctAnswer": "Cromatografía de gases"
+    },
+    {
+        "question": "Las proteínas que tienen actividad catalítica y por tanto producen transformaciones químicas de manera muy eficiente son las:",
+        "answers": [
+            "Hormonas",
+            "Enzimas",
+            "Lectinas",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Enzimas"
+    },
+    {
+        "question": "Las pruebas de laboratorio en el lugar de asistencia o POCT se realizan en diferentes fases, concretamente:",
+        "answers": [
+            "Preanálisis, análisis y análisis posterior",
+            "Análisis",
+            "Preanálisis y postanálisis",
+            "Prueba y postprueba"
+        ],
+        "correctAnswer": "Preanálisis, análisis y análisis posterior"
+    },
+    {
+        "question": "Los métodos de análisis de las enzimas son:",
+        "answers": [
+            "Métodos cinéticos y métodos de inicio",
+            "Métodos cinéticos y métodos a punto y final",
+            "Métodos de punto y final",
+            "Métodos enzimáticos"
+        ],
+        "correctAnswer": "Métodos cinéticos y métodos a punto y final"
+    },
+    {
+        "question": "Los niveles de HDL en personas sanas deben rondar los:",
+        "answers": [
+            "20-60 mg/dL",
+            "30-70 mg/dL",
+            "40-80 mg/dL",
+            "50-90 mg/dL"
+        ],
+        "correctAnswer": "30-70 mg/dL"
+    },
+    {
+        "question": "Los niveles normales de ácido úrico en la orina tras 24 horas es:",
+        "answers": [
+            "Entre 3 y 7 mg/24 h",
+            "Entre 2 y 6 mg/24 h",
+            "Entre 300-700 mg/24 h",
+            "Menor a 300 mg/24 h"
+        ],
+        "correctAnswer": "Entre 300-700 mg/24 h"
+    },
+    {
+        "question": "Para el análisis de líquidos serosos es fundamental saber distinguir:",
+        "answers": [
+            "Trasudado",
+            "Exudado",
+            "A y B son correctas",
+            "Sudado"
+        ],
+        "correctAnswer": "A y B son correctas"
+    },
+    {
+        "question": "Para el diagnóstico del embarazo, se estudia la concentración en sangre u orina de la hormona:",
+        "answers": [
+            "LH",
+            "β- hCG",
+            "Prolactina",
+            "A y B son correctas"
+        ],
+        "correctAnswer": "β- hCG"
+    },
+    {
+        "question": "Una de las proteínas más abundantes en sangre es:",
+        "answers": [
+            "Fibrinógeno",
+            "-Globulinas",
+            "Albúmina",
+            "-Globulinas"
+        ],
+        "correctAnswer": "Albúmina"
+    },
+    {
+        "question": "Una prueba que se realiza cuando la valoración de la glucemia no es concluyente es:",
+        "answers": [
+            "Test de tolerancia oral de glucosa",
+            "Determinación de hemoglobina glicosilada",
+            "Determinación de fructosamina",
+            "Determinación de insulina en sangre"
+        ],
+        "correctAnswer": "Test de tolerancia oral de glucosa"
+    },
+    {
+        "question": "¿Cómo llamamos a la representación de las radiaciones electromagnéticas de manera ordenada en función de su longitud de onda (λ) o su frecuencia (f)?",
+        "answers": [
+            "Espectro electromagnético",
+            "Espectro fotométrico",
+            "Rango electromagnético",
+            "Ninguna de las anteriores es cierta"
+        ],
+        "correctAnswer": "Espectro electromagnético"
+    },
+    {
+        "question": "¿Cómo llamamos al fenómeno por el cual las proteínas pierden su función al verse expuestas a cambios en las condiciones del medio en el que están, como la temperatura o el pH?",
+        "answers": [
+            "Inactivación",
+            "Renaturalización",
+            "Desnaturalización",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Desnaturalización"
+    },
+    {
+        "question": "¿Cuál de las siguiente medidas es necesario tomar cuando determinamos enzimas?",
+        "answers": [
+            "Controlar el pH",
+            "Utilizar suero o plasma heparinizado",
+            "Procurar que la concentración de enzima sea notable",
+            "Todas son ciertas"
+        ],
+        "correctAnswer": "Todas son ciertas"
+    },
+    {
+        "question": "¿Cuál de los siguientes materiales se usa en espectrometría?",
+        "answers": [
+            "Lámparas de emisión",
+            "Cubetas",
+            "Detectores de energía",
+            "Todas las anteriores son correctas"
+        ],
+        "correctAnswer": "Todas las anteriores son correctas"
+    },
+    {
+        "question": "¿Cuál de los siguientes no es un método de determinación de la urea?",
+        "answers": [
+            "Nesslerización",
+            "Berthelot",
+            "Métodos enzimáticos",
+            "Volumetrías de complejación"
+        ],
+        "correctAnswer": "Volumetrías de complejación"
+    },
+    {
+        "question": "¿Qué estudio tiene especial relevancia en las muestras de heces?",
+        "answers": [
+            "Estudio de sangre en heces",
+            "Estudio de bacterias en heces",
+            "Estudio de parásitos en heces",
+            "Ninguna de las anteriores es correcta"
+        ],
+        "correctAnswer": "Estudio de sangre en heces"
+    },
+    {
+        "question": "¿Qué hormona de las siguientes produce la disminución de los niveles de glucosa en sangre?",
+        "answers": [
+            "Glucagón",
+            "Insulina",
+            "Bilirrubina",
+            "Grelina"
+        ],
+        "correctAnswer": "Insulina"
+    },
+    {
+        "question": "¿Qué otro nombre recibe los estudios de cribado neonatal de enfermedades endocrinometabólicas?:",
+        "answers": [
+            "Prueba del pulgar",
+            "Prueba del talón",
+            "Prueba de la mano",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Prueba del talón"
+    },
+    {
+        "question": "¿Qué técnica empleamos principalmente para realizar proteinogramas?",
+        "answers": [
+            "Cromatografía",
+            "Espectrometría",
+            "Electroforesis",
+            "Todas la anteriores son ciertas"
+        ],
+        "correctAnswer": "Electroforesis"
     }
 ]
