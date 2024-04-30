@@ -1081,7 +1081,7 @@
     },
     {
         "question": "¿Qué tipo de leucocito se muestra en la siguiente imagen?:",
-        "image": "https://360.universae.com/in/pluginfile.php/73518/question/questiontext/1539978/36/155807/image.png",
+        "image": "https://josemlg993.github.io/MagicTest/Eosin%C3%B3filo.png",
         "answers": [
             "Basófilo",
             "Eosinófilo",
@@ -1092,7 +1092,7 @@
     },
     {
         "question": "¿Qué tipo de leucocito se muestra en la siguiente imagen?",
-        "image": "https://360.universae.com/in/pluginfile.php/73518/question/questiontext/1539978/37/155805/image%20%281%29.png",
+        "image": "https://josemlg993.github.io/MagicTest/Neutr%C3%B3filo.png",
         "answers": [
             "Linfocito",
             "Neutrófilo",
