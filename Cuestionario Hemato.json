@@ -1,1081 +1,802 @@
 [
     {
-        "question": "¿Cuál de las siguientes tinciones es fluorescente?",
+        "question": "¿A partir de qué tipo celular de los siguientes se diferencian los granulocitos?",
         "answers": [
-            "Naranja de acridina",
-            "Verde malaquita",
-            "Gram",
-            "Tinta china"
+            "Mielocitos",
+            "Promielocitos",
+            "Linfoblastos",
+            "Prolinfoblastos"
         ],
-        "correctAnswer": "Naranja de acridina"
+        "correctAnswer": "Promielocitos"
     },
     {
-        "question": "¿Cuál de los siguientes microorganismo no se consideran como seres vivos?",
+        "question": "¿Cómo se llama la ciencia se dedica al estudio de la sangre y los órganos encargados de producirla?",
         "answers": [
-            "Bacterias",
-            "Hongos",
-            "Parásitos",
-            "Virus"
+            "Hemología",
+            "Hematología",
+            "Hemorragiología",
+            "Hemiología"
         ],
-        "correctAnswer": "Virus"
+        "correctAnswer": "Hematología"
     },
     {
-        "question": "¿Qué principio de la microbiología se aplica para establecer que un microorganismo es causante de una enfermedad?",
+        "question": "¿Con qué nombre conocemos al conjunto de los componentes celulares de la sangre?",
         "answers": [
-            "Postulado de Hansen",
-            "Principio de etiología",
-            "Postulado de Koch",
-            "Principio de causalidad"
-        ],
-        "correctAnswer": "Postulado de Koch"
-    },
-    {
-        "question": "¿Qué tinción se utiliza para observar microorganismos acido-alcohol resistentes?",
-        "answers": [
-            "Gram",
-            "Papanicolau",
-            "Verde malaquita",
-            "Ziehl-Neelsen"
-        ],
-        "correctAnswer": "Ziehl-Neelsen"
-    },
-    {
-        "question": "¿Qué tipo de microorganismos son unicelulares o pluricelulares, eucariotas y con capacidad de penetrar en los tejidos formando estructuras ramificadas?",
-        "answers": [
-            "Bacterias",
-            "Hongos",
-            "Virus",
-            "Parásitos"
-        ],
-        "correctAnswer": "Hongos"
-    },
-    {
-        "question": "Cuando nombramos un microorganismo, la primera palabra de su nombre científico indica:",
-        "answers": [
-            "Especie",
-            "Taxón",
-            "Género",
-            "Ninguna es correcta."
-        ],
-        "correctAnswer": "Género"
-    },
-    {
-        "question": "Cuando observamos los microorganismos sin teñirlos y procurando alterarlos lo menos posible, estamos realizando un examen:",
-        "answers": [
-            "En fresco",
-            "In vivo",
-            "Al natural",
+            "Hemocélulas",
+            "Elementos sanguíneos",
+            "Elementos formes",
             "Todas son correctas"
         ],
-        "correctAnswer": "En fresco"
+        "correctAnswer": "Elementos formes"
     },
     {
-        "question": "El conjunto de medidas llevadas a cabo para evitar el contacto del cuerpo humano con microorganismos patógenos se conoce como:",
+        "question": "¿Cuál de las siguientes no es una función de la sangre?",
         "answers": [
-            "Asepsia",
-            "Profilaxis",
-            "Esterilidad",
-            "Todas son correctas"
-        ],
-        "correctAnswer": "Profilaxis"
-    },
-    {
-        "question": "La ciencia que se dedica a clasificar los seres vivos en función de sus características es la:",
-        "answers": [
-            "Microbiología",
-            "Ficología",
-            "Taxonomía",
-            "Genética"
-        ],
-        "correctAnswer": "Taxonomía"
-    },
-    {
-        "question": "Las bacterias con forma curvada, similar a un riñón o una alubia son:",
-        "answers": [
-            "Cocos",
-            "Bacilos",
-            "Vibrios",
-            "Espirilos"
-        ],
-        "correctAnswer": "Vibrios"
-    },
-    {
-        "question": "¿Qué tipo de factor de los medios de cultivo previene el crecimiento de microorganismos no deseados?",
-        "answers": [
-            "De crecimento",
-            "De arranque",
-            "Inhibidores",
-            "Solidificantes"
-        ],
-        "correctAnswer": "Inhibidores"
-    },
-    {
-        "question": "¿Qué tipo de medios resaltan características específicas de microorganismos?",
-        "answers": [
-            "Selectivos",
-            "Diferenciales",
-            "Generales",
-            "Ninguno de los anteriores"
-        ],
-        "correctAnswer": "Diferenciales"
-    },
-    {
-        "question": "¿Qué tipo de medios son fabricados a partir de un medio natural al que se le añaden componentes en cantidades conocidas?",
-        "answers": [
-            "Sintéticos",
-            "Naturales",
-            "Semisintéticos",
-            "Complejos"
-        ],
-        "correctAnswer": "Semisintéticos"
-    },
-    {
-        "question": "Cuando los medios de cultivo tienen componentes termolábiles, se esterilizarán mediante…:",
-        "answers": [
-            "Autoclave",
-            "Llama",
-            "Desinfectantes",
-            "Filtración"
-        ],
-        "correctAnswer": "Filtración"
-    },
-    {
-        "question": "El Agar Sabouraud es un medi selectivo para:",
-        "answers": [
-            "Coliformes",
-            "Virus",
-            "Hongos",
-            "Rickettsias"
-        ],
-        "correctAnswer": "Hongos"
-    },
-    {
-        "question": "El primer paso a la hora de preparar medios de cultivo es:",
-        "answers": [
-            "Esterilización",
-            "Preparación de la mezcla",
-            "Fraccionamiento",
-            "Ninguna de las anteriores es correcta."
-        ],
-        "correctAnswer": "Preparación de la mezcla"
-    },
-    {
-        "question": "Los carragenatos y alginatos son factores...:",
-        "answers": [
-            "De crecimento",
-            "De arranque",
-            "Inhibidores",
-            "Solidificantes"
-        ],
-        "correctAnswer": "Solidificantes"
-    },
-    {
-        "question": "¿Cuál de los siguientes no es un componente básico de los medios de cultivo?",
-        "answers": [
-            "Fuente de Carbono",
-            "Fuente Fósforo",
-            "Fuente de Nitrógeno",
-            "Fuente de Hidrógeno"
-        ],
-        "correctAnswer": "Fuente de Hidrógeno"
-    },
-    {
-        "question": "¿Qué medio de cultivo es similar al agar sangre, pero contiene glóbulos rojos lisados?",
-        "answers": [
-            "Agar MacConkey",
-            "Agar Schaedler",
-            "Agar Chocolate",
-            "Agar Chapman"
-        ],
-        "correctAnswer": "Agar Chocolate"
-    },
-    {
-        "question": "¿Qué tipo de hemólisis se observa como un halo verdoso alrededor de las colonias bacterianas?",
-        "answers": [
-            "Alfahemólisis (α-hemólisis)",
-            "Betahemólisis (β-hemólisis)",
-            "Gammahemólisis (γ-hemólisis)",
-            "Ninguna es correcta"
-        ],
-        "correctAnswer": "Alfahemólisis (α-hemólisis)"
-    },
-    {
-        "question": "¿Cómo se denominan los cultivos en los que solo encontramos una especie de microorganismos?",
-        "answers": [
-            "Mixtos",
-            "Tipológicos",
-            "Axénicos",
-            "Todas son correctas"
-        ],
-        "correctAnswer": "Axénicos"
-    },
-    {
-        "question": "¿Cuál de las siguientes no es una técnica de siembra de microorganismos?",
-        "answers": [
-            "Por extensión",
-            "Por picadura",
-            "Por agotamiento en estrías",
-            "Todas son técnicas de siembra"
-        ],
-        "correctAnswer": "Todas son técnicas de siembra"
-    },
-    {
-        "question": "¿Cuál de los siguientes factores no afecta al crecimiento microbiano?",
-        "answers": [
-            "Tiempo",
-            "Presión",
-            "Temperatura",
-            "Cantidad de nutrientes"
-        ],
-        "correctAnswer": "Presión"
-    },
-    {
-        "question": "¿Cuál es el método más utilizado para determinar el crecimiento microbiano?",
-        "answers": [
-            "Recuento de viables en placa",
-            "Cámaras de recuento",
-            "Turbidimetría",
-            "Contadores automáticos"
-        ],
-        "correctAnswer": "Recuento de viables en placa"
-    },
-    {
-        "question": "¿Qué tiempo de incubación requieren los hongos?",
-        "answers": [
-            "De 24 a 48 horas",
-            "Alrededor de 1 semana",
-            "Entre 3 y 4 semanas",
-            "Entre 2 y 3 semanas"
-        ],
-        "correctAnswer": "Entre 3 y 4 semanas"
-    },
-    {
-        "question": "El traslado de una parte de los microorganismos presentes en la muestra a un cultivo para su estudio se conoce como:",
-        "answers": [
-            "Cultivo",
-            "Colonia",
-            "Siembra",
-            "Incubación"
-        ],
-        "correctAnswer": "Siembra"
-    },
-    {
-        "question": "La incubación de microaerófilos requiere:",
-        "answers": [
-            "Ausencia de oxígeno",
-            "Recipientes herméticos",
-            "Concentración baja de oxígeno",
-            "Todas las anteriores son incorrectas"
-        ],
-        "correctAnswer": "Concentración baja de oxígeno"
-    },
-    {
-        "question": "Las agrupaciones de cualquier tipo de microorganismos que han crecido a partir de una única célula se conocen como:",
-        "answers": [
-            "Colonias",
-            "Gérmenes",
-            "Inóculos",
-            "Ninguna de las anteriores es correcta"
-        ],
-        "correctAnswer": "Colonias"
-    },
-    {
-        "question": "Las asas de Digralsky se utilizan para realizar siembras…:",
-        "answers": [
-            "Por agotamiento en estrías",
-            "En medios líquidos",
-            "Por picadura",
-            "Por extensión"
-        ],
-        "correctAnswer": "Por extensión"
-    },
-    {
-        "question": "Para obtener cultivos puros partimos de:",
-        "answers": [
-            "Pretratamiento de muestras",
-            "Esterilización del material",
-            "Cultivos mixtos",
-            "Ninguna de las anteriores es correcta"
-        ],
-        "correctAnswer": "Cultivos mixtos"
-    },
-    {
-        "question": "¿A qué género pertenece la bacteria causante de la gonorrea?",
-        "answers": [
-            "Staphylococcus",
-            "Neisseria",
-            "Streptococcus",
-            "Ninguna es correcta"
-        ],
-        "correctAnswer": "Neisseria"
-    },
-    {
-        "question": "¿Cuál de las siguientes bacterias es resistente a la novobiocina?",
-        "answers": [
-            "S. Aureus",
-            "S. epidermidis",
-            "S. saprophyticus",
-            "Ninguna es correcta."
-        ],
-        "correctAnswer": "S. saprophyticus"
-    },
-    {
-        "question": "¿Cuál de las siguientes opciones incluye solo cocos grampositivos productores de catalasa?",
-        "answers": [
-            "Streptococcus y Enterococcus",
-            "Micrococcus y Staphylococcus",
-            "Escerichia y Bacillus",
-            "Ninguna es correcta"
-        ],
-        "correctAnswer": "Micrococcus y Staphylococcus"
-    },
-    {
-        "question": "¿Qué especie de las siguientes es coagulasa positiva?",
-        "answers": [
-            "Staphylococcus epidermidis",
-            "Staphylococcus hominis",
-            "Staphylococcus aureus",
-            "Todas las anteriores son incorrectas."
-        ],
-        "correctAnswer": "Staphylococcus aureus"
-    },
-    {
-        "question": "¿Qué prueba bioquímica se usan para determinar si las bacterias son aerobias determinando si la presencia de citocromo C oxidasa?",
-        "answers": [
-            "Catalasa",
-            "Citocromo C oxidasa",
-            "Oxidasa",
-            "Ureasa"
-        ],
-        "correctAnswer": "Oxidasa"
-    },
-    {
-        "question": "¿Qué pruebas bioquímicas se usan para identificar bacterias del género Staphylococcus?",
-        "answers": [
-            "Coagulasa y ureasa",
-            "PYR y bilis/esculina",
-            "Coagulasa, novobiocina y hemólisis",
-            "Glucosa, maltosa, lactosa y fructosa"
-        ],
-        "correctAnswer": "Coagulasa, novobiocina y hemólisis"
-    },
-    {
-        "question": "¿Qué técnica usamos para determinar la sensibilidad de los microorganismos a antibióticos?",
-        "answers": [
-            "Antibiogramas",
-            "Cultivos de resistencia",
-            "Pruebas bioquímicas",
-            "Todas son correctas."
-        ],
-        "correctAnswer": "Antibiogramas"
-    },
-    {
-        "question": "¿Qué tinción debemos utilizar de manera general para la identificación de Streptococcus y Enterococcus?",
-        "answers": [
-            "Ziehl-Neelsen",
-            "Gram",
-            "Verde malaquita",
-            "Ninguna de las anteriores es correcta."
-        ],
-        "correctAnswer": "Gram"
-    },
-    {
-        "question": "Cuando realizamos un antibiograma disco-placa, distinguiremos las cepas resistentes por...:",
-        "answers": [
-            "Aparición de halos de inhibición",
-            "Ausencia de halos de inhibición",
-            "Aparición de conos de inhibición",
-            "Ninguna es correcta."
-        ],
-        "correctAnswer": "Ausencia de halos de inhibición"
-    },
-    {
-        "question": "Las sustancias que inhiben el crecimiento de los microorganismos sin eliminarlos se conocen como:",
-        "answers": [
-            "Microbicidas",
-            "Microbiopáusicos",
-            "Microbiostáticos",
-            "Todas son incorrectas."
-        ],
-        "correctAnswer": "Microbiostáticos"
-    },
-    {
-        "question": "¿Cómo llamamos a las estructuras de resistencia a través de las cuales las bacterias pueden soportar condiciones adversas de calor, humedad, acidez o radiación, pudiendo desarrollarse cuando las condiciones son favorables?",
-        "answers": [
-            "Esporas",
-            "Exosporas",
-            "Endosporas",
-            "Todas son correctas"
-        ],
-        "correctAnswer": "Endosporas"
-    },
-    {
-        "question": "¿Cuál de las siguientes especies es importante en el control alimentario y puede causar abortos?",
-        "answers": [
-            "Listeria monocytogenes",
-            "Klebsiella Pneumoniae",
-            "Pseudomonas aeruginosa",
-            "Ninguna es correcta"
-        ],
-        "correctAnswer": "Listeria monocytogenes"
-    },
-    {
-        "question": "¿Cuál de los siguientes géneros es capaz de producir endosporas?",
-        "answers": [
-            "Salmonella",
-            "Shigella",
-            "Escerichia",
-            "Bacillus"
-        ],
-        "correctAnswer": "Bacillus"
-    },
-    {
-        "question": "¿Cuál de los siguientes géneros no es cultivable en laboratorio?",
-        "answers": [
-            "Chlamydia",
-            "Haemophylus",
-            "Yersinia",
-            "Ninguna es cultivable"
-        ],
-        "correctAnswer": "Chlamydia"
-    },
-    {
-        "question": "¿En cuál de los siguientes grupos se incluyen bacterias que forman parte de nuestra flora intestinal?",
-        "answers": [
-            "Enterobacterias",
-            "Kinetobacterias",
-            "Micobacterias",
-            "Aldobacterias"
-        ],
-        "correctAnswer": "Enterobacterias"
-    },
-    {
-        "question": "¿Qué enterobacteria forma parte de la flora intestinal, pero fuera del intestino grueso puede causar infecciones?",
-        "answers": [
-            "Salmonella typhi",
-            "Yersinia pestis",
-            "Shigella dysenteriae",
-            "Escherichia coli"
-        ],
-        "correctAnswer": "Escherichia coli"
-    },
-    {
-        "question": "¿Qué género de bacterias incluye a los patógenos causantes de la tuberculosis y la lepra?",
-        "answers": [
-            "Clostridium",
-            "Actinomyces",
-            "Campylobacter",
-            "Mycobacterium"
-        ],
-        "correctAnswer": "Mycobacterium"
-    },
-    {
-        "question": "¿Qué tinción nos permite observar claramente las endosporas?",
-        "answers": [
-            "Gram",
-            "Verde malaquita",
-            "Ziehl-Neelsen",
-            "Ninguna de las anteriores es correcta"
-        ],
-        "correctAnswer": "Verde malaquita"
-    },
-    {
-        "question": "¿Qué tipo de bacterias son incapaces de crecer en presencia de oxígeno?:",
-        "answers": [
-            "Anaerobias facultativas",
-            "Anaerobias estrictas",
-            "Aerotolerantes",
-            "Todas son correctas"
-        ],
-        "correctAnswer": "Anaerobias estrictas"
-    },
-    {
-        "question": "¿Qué tipo de bacterias tienen un tamaño muy reducido, genomas poco pesados y carecen de pared bacteriana?",
-        "answers": [
-            "Micobacterias",
-            "Micoplasmas",
-            "Micogérmenes",
-            "Todas son incorrectas"
-        ],
-        "correctAnswer": "Micoplasmas"
-    },
-    {
-        "question": "¿Cómo llamamos al conjunto de transformaciones que sufre y las condiciones que necesita para ello a lo largo de su vida desde que nace hasta que se reproduce?",
-        "answers": [
-            "Ciclo parasitario",
-            "Ciclo biológico",
-            "Ciclo reproductor",
-            "Ninguna de las anteriores es correcta."
-        ],
-        "correctAnswer": "Ciclo biológico"
-    },
-    {
-        "question": "¿Cuál de los siguientes no se considera dentro del grupo de los parásitos?",
-        "answers": [
-            "Protistas",
-            "Helmintos",
-            "Artrópodos",
+            "Transporte de sustancias",
+            "Defensa",
+            "Mantenimiento de homeostasis",
             "Todas son correctas"
         ],
         "correctAnswer": "Todas son correctas"
     },
     {
-        "question": "¿Cuáles de los siguientes seres vivos pueden ser macroscópicos o microscópicos?",
+        "question": "¿Cuál de los siguientes tipos celulares está implicado en la coagulación?",
         "answers": [
-            "Protistas",
-            "Artrópodos",
-            "Helmintos",
-            "Todas son correctas"
+            "Eritrocitos",
+            "Granulocitos",
+            "Leucocitos",
+            "Trombocitos"
         ],
-        "correctAnswer": "Helmintos"
+        "correctAnswer": "Trombocitos"
     },
     {
-        "question": "¿Qué nombre reciben los hongos pluricelulares que se organizan formando una estructura filamentosa (micelio) que tiene la capacidad de penetrar en los tejidos profundamente?",
+        "question": "¿En qué órgano maduran los linfocitos T?",
         "answers": [
-            "Mohos",
-            "Levaduras",
-            "Filamentos micóticos",
-            "Mixomicetos"
-        ],
-        "correctAnswer": "Mohos"
-    },
-    {
-        "question": "Candida albicans es...:",
-        "answers": [
-            "Un parásito",
-            "Un moho",
-            "Una levadura",
-            "Un protista"
-        ],
-        "correctAnswer": "Una levadura"
-    },
-    {
-        "question": "El Plasmodium es el parásito causante de:",
-        "answers": [
-            "La toxoplasmosis",
-            "La triquinosis",
-            "La teniasis",
-            "La malaria"
-        ],
-        "correctAnswer": "La malaria"
-    },
-    {
-        "question": "La transmisión de enfermedades desde los animales hacia los seres humanos se conoce como:",
-        "answers": [
-            "Micosis",
-            "Zoonosis",
-            "Contagio",
-            "Fitosis"
-        ],
-        "correctAnswer": "Zoonosis"
-    },
-    {
-        "question": "Para detectar parásitos en sangre, es habitual hacer tinciones",
-        "answers": [
-            "De Gram",
-            "Con Giemsa",
-            "Con tinta china",
+            "En el bazo",
+            "En el timo",
+            "En la tiroides",
             "Ninguna es correcta."
         ],
-        "correctAnswer": "Con Giemsa"
+        "correctAnswer": "En el timo"
     },
     {
-        "question": "Para poder confirmar los resultados de los cultivos de hongos, estos deben de incubarse:",
+        "question": "¿Qué nombre recibe la matriz líquida que compone el 55% de la sangre?",
         "answers": [
-            "De 7 a 14 días",
-            "De 14 a 21 días",
-            "De 21 a 30 días",
-            "De 30 a 40 días"
+            "Hemomatriz",
+            "Plasma",
+            "Líquido sanguíneo",
+            "Miasma"
         ],
-        "correctAnswer": "De 21 a 30 días"
+        "correctAnswer": "Plasma"
     },
     {
-        "question": "Trichomonas vaginalis es un parásito...:",
+        "question": "¿Qué sustancia se forma durante la destrucción de los eritrocitos?",
         "answers": [
-            "Intestinal",
-            "Urogenital",
-            "De la sangre",
-            "Ninguna de las anteriores es correcta"
+            "Eritropoyetina",
+            "Ericina",
+            "Bilina",
+            "Bilirrubina"
         ],
-        "correctAnswer": "Urogenital"
+        "correctAnswer": "Bilirrubina"
     },
     {
-        "question": "¿Con qué enfermedad están relacionados los virus de la familia Rhabdoviridae?",
+        "question": "El proceso de formación de plaquetas se conoce como...:",
         "answers": [
-            "Mononucleosis infecciosa",
-            "Virus del ébola",
-            "Resfriado común",
-            "Rabia"
+            "Trombopoyesis",
+            "Eritropoyesis",
+            "Linfopoyesis",
+            "Monocitopoyesis"
         ],
-        "correctAnswer": "Rabia"
+        "correctAnswer": "Trombopoyesis"
     },
     {
-        "question": "¿Con qué término conocemos al ciclo vírico en el que el material genético se inserta en el del hospedador?",
+        "question": "Los leucocitos que tienen gránulos característicos en su citoplasma son:",
         "answers": [
-            "Lítico",
-            "Lisógeno",
-            "Lisogénico",
-            "Límbico"
-        ],
-        "correctAnswer": "Lisogénico"
-    },
-    {
-        "question": "¿Cuál de las siguientes técnicas no se utiliza para detectar virus en muestras biológicas?",
-        "answers": [
-            "Citología e histología",
-            "Microscopía óptica",
-            "Inmunodiagnóstico",
-            "Técnicas moleculares"
-        ],
-        "correctAnswer": "Microscopía óptica"
-    },
-    {
-        "question": "Cuando evaluamos la presencia de virus mediante cultivos celulares, la lisis de células se observará como...:",
-        "answers": [
-            "Crecimiento aumentado de células",
-            "Espacios vacíos en la capa de células",
-            "Formación de precipitados",
-            "Ninguna es correcta."
-        ],
-        "correctAnswer": "Espacios vacíos en la capa de células"
-    },
-    {
-        "question": "La forma más habitual del ARN en las células es:",
-        "answers": [
-            "ARN monocatenario",
-            "ARN bicatenario",
-            "ARN tricaternario",
-            "Las células carecen de ARN"
-        ],
-        "correctAnswer": "ARN monocatenario"
-    },
-    {
-        "question": "La mayoría de los virus complejos son:",
-        "answers": [
-            "Bacteriófagos",
-            "Micófagos",
-            "Parásitos celulares",
+            "Neutrófilos",
+            "Basófilos",
+            "Eosinófilos",
             "Todas son correctas"
         ],
-        "correctAnswer": "Bacteriófagos"
+        "correctAnswer": "Todas son correctas"
     },
     {
-        "question": "Las muestras destinadas a análisis de virus se deben almacenar...:",
+        "question": "¿Cómo se llama la técnica mediante la cual repartir los elementos presentes sobre un soporte de observación formando una capa fina y así evitando que se solapen unos sobre otros?",
         "answers": [
-            "A temperatura ambiente, durante 2 días máximo",
-            "En refrigeración, de 3 a 5 días máximo",
-            "En congelación, siempre",
-            "Las muestras de virus se analizan siempre inmediatamente después de tomar la muestra"
+            "Extensión sanguínea",
+            "Extensión hematológica",
+            "Frotación sanguínea",
+            "Todas son correctas."
         ],
-        "correctAnswer": "En refrigeración, de 3 a 5 días máximo"
+        "correctAnswer": "Extensión sanguínea"
     },
     {
-        "question": "Los virus helicoidales tienen forma:",
+        "question": "¿En qué parte de los frotis apenas se distingue el color de la muestra extendida y la cantidad de células es menor?",
         "answers": [
-            "De espiral",
-            "Icosaédrica",
-            "Cilíndrica",
-            "Todas son incorrectas."
-        ],
-        "correctAnswer": "Cilíndrica"
-    },
-    {
-        "question": "Los virus pleomórficos tienen forma:",
-        "answers": [
-            "Icosaédrica",
-            "Ovoide",
-            "Cilíndrica",
-            "Ninguna de las anteriores es correcta."
-        ],
-        "correctAnswer": "Ninguna de las anteriores es correcta."
-    },
-    {
-        "question": "Un virus cuyo ARN es traducido directamente por la célula hospedadora se denomina:",
-        "answers": [
-            "Virus ARN monocatenario positivo ((+)ssARN)",
-            "Virus ARN monocatenario negativo ((-)ssARN)",
-            "Virus ARN monocatenario retrotranscrito (ssRNA-RT)",
+            "Cabeza",
+            "Cola",
+            "Cuerpo",
             "Ninguna es correcta"
         ],
-        "correctAnswer": "Virus ARN monocatenario positivo ((+)ssARN)"
+        "correctAnswer": "Cola"
     },
     {
-        "question": "¿Cómo llamamos a los filtros que utilizamos en microbiología para retener la mayor parte de los microorganismos a su paso?",
+        "question": "Cuando realizamos una extensión sanguínea, el portaobjetos usado para extender las gotas debe tener una inclinación de…:",
         "answers": [
-            "Microfiltros",
-            "Filtros HEPA",
-            "Filtros de alta eficacia",
-            "Todas son correctas"
+            "25-30º",
+            "30-45º",
+            "45-65º",
+            "90º"
         ],
-        "correctAnswer": "Filtros HEPA"
+        "correctAnswer": "30-45º"
     },
     {
-        "question": "¿Cómo llamamos a los puestos de trabajo en los que la circulación de aire está controlada, pasando por un circuito cerrado que cuenta con filtros HEPA?",
+        "question": "En la tinción de Giemsa, ¿a qué pH debe sumergirse la muestra para que quede teñida adecuadamente?",
         "answers": [
-            "Cabinas microbiológicas",
-            "Cabinas de seguridad biológica",
-            "Cabinas de biomapnipulación",
-            "Todas son incorrectas."
+            "4",
+            "6.7",
+            "7.2",
+            "8.5"
         ],
-        "correctAnswer": "Cabinas de seguridad biológica"
+        "correctAnswer": "7.2"
     },
     {
-        "question": "¿Cuál de las siguientes no es una medida de seguridad estándar para los laboratorios?",
+        "question": "En la tinción de panóptico rápido, ¿Cuántas inmersiones es necesario realizar en cada una de las muestras numeradas?",
         "answers": [
-            "No pipetear con la boca",
-            "Presuponer que todas las muestras son potencialmente peligrosas",
-            "No beber ni fumar en las zonas de trabajo",
-            "Todas son medidas de seguridad estándar"
-        ],
-        "correctAnswer": "Todas son medidas de seguridad estándar"
-    },
-    {
-        "question": "¿Qué tipo de residuos de los siguientes no son habituales en laboratorios clínicos y biomédicos?",
-        "answers": [
-            "Residuos asimilables urbanos",
-            "Residuos citotóxicos",
-            "Residuos contaminados por sustancias radiactivas",
-            "Residuos generales"
-        ],
-        "correctAnswer": "Residuos contaminados por sustancias radiactivas"
-    },
-    {
-        "question": "Cuando se trabaja con agentes peligrosos o tóxicos que representan un alto riesgo individual de enfermedades que ponen en peligro la vida, que pueden transmitirse a través de aerosoles y para las cuales no existen vacunas o terapias disponibles, es necesario aplicar un nivel de bioseguridad:",
-        "answers": [
-            "1",
             "2",
             "3",
-            "4"
+            "4",
+            "5"
+        ],
+        "correctAnswer": "5"
+    },
+    {
+        "question": "En las tinciones hematológicas, es habitual que los núcleos aparezcan de color:",
+        "answers": [
+            "Rojo",
+            "Azul o morado",
+            "Verde azulado",
+            "Violeta claro"
+        ],
+        "correctAnswer": "Azul o morado"
+    },
+    {
+        "question": "En las tinciones hematológicas, si las preparaciones se exponen a los colorantes durante tiempos demasiado cortos, observaremos:",
+        "answers": [
+            "Precipitados de colorante",
+            "Exceso de coloración",
+            "Falta de coloración",
+            "Gotas de agua"
+        ],
+        "correctAnswer": "Falta de coloración"
+    },
+    {
+        "question": "Las muestras destinadas a realizar extensiones se deben almacenar…:",
+        "answers": [
+            "En congelación (-20 ºC)",
+            "En refrigeración (4ºC)",
+            "A temperatura ambiente",
+            "Todas las anteriores son correctas"
+        ],
+        "correctAnswer": "En refrigeración (4ºC)"
+    },
+    {
+        "question": "¿Cuál de las siguientes criterios no es necesario valorar en una extensión sanguínea para determinar si es adecuada?",
+        "answers": [
+            "Forma más o menos redondeada y uniforme",
+            "Consistencia transparente, que permita ver claramente a través",
+            "Cambio gradual de espesor, siendo más fina en un lado",
+            "Todas las anteriores son correctas"
+        ],
+        "correctAnswer": "Todas las anteriores son correctas"
+    },
+    {
+        "question": "¿Qué aditivo contiene un tubo sanguíneo con el tapón de color celeste, según el código de colores estandarizado?",
+        "answers": [
+            "EDTA",
+            "Heparina",
+            "Citrato",
+            "Gel separador"
+        ],
+        "correctAnswer": "Citrato"
+    },
+    {
+        "question": "¿Cómo llamamos a la porción del volumen total de la muestra que ocupan los eritrocitos?",
+        "answers": [
+            "Hemoglobina corpuscular media",
+            "Hematocrito",
+            "Hematocrítico",
+            "Hemoglobina total"
+        ],
+        "correctAnswer": "Hematocrito"
+    },
+    {
+        "question": "¿Cómo llamamos al conjunto de parámetros en una muestra de sangre que son fundamentales para cualquier estudio hematológico básico y que permiten hacerse una idea general del estado del paciente?",
+        "answers": [
+            "Hemografía",
+            "Informe sanguíneo",
+            "Hemograma",
+            "Hemoparámetros"
+        ],
+        "correctAnswer": "Hemograma"
+    },
+    {
+        "question": "¿Cuál de las siguientes no es una ventaja de los sistema de recuento automáticos?",
+        "answers": [
+            "Son más rápidos",
+            "Son más costosos",
+            "Son más fiables",
+            "Son más exactos"
+        ],
+        "correctAnswer": "Son más costosos"
+    },
+    {
+        "question": "¿Cuál de los siguientes parámetros está relacionado con los leucocitos?",
+        "answers": [
+            "VSG",
+            "CHMC",
+            "RBC",
+            "WBC"
+        ],
+        "correctAnswer": "WBC"
+    },
+    {
+        "question": "¿En qué principio se basa la citometría de flujo?",
+        "answers": [
+            "Dispersión óptica",
+            "Absorbancia",
+            "Especificidad inmunitaria",
+            "Todas las anteriores son correctas."
+        ],
+        "correctAnswer": "Dispersión óptica"
+    },
+    {
+        "question": "¿En qué tipo de gráficos se representan los datos con columnas o picos?",
+        "answers": [
+            "Diagramas de dispersión",
+            "Histogramas",
+            "Citogramas",
+            "Ninguna es correcta."
+        ],
+        "correctAnswer": "Histogramas"
+    },
+    {
+        "question": "¿Mediante qué parámetro se mide la capacidad de la médula ósea para regenerar glóbulos rojos?",
+        "answers": [
+            "Recuento de reticulocitos",
+            "Recuento total leucocitario",
+            "Amplitud de distribución eritrocitaria",
+            "Hemoglobina corpuscular media"
+        ],
+        "correctAnswer": "Recuento de reticulocitos"
+    },
+    {
+        "question": "El recuento y clasificación de los leucocitos presentes en la muestra para luego trasladar los datos de este recuento a porcentajes se conoce como...:",
+        "answers": [
+            "Recuento total leucocitario",
+            "Análisis leucocitario",
+            "Fórmula leucocitaria",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Fórmula leucocitaria"
+    },
+    {
+        "question": "En los recuentos celulares, ¿con qué parámetro se corresponden las siglas (RBC)?",
+        "answers": [
+            "Hemoglobina",
+            "Hematocrito",
+            "Amplitud de distribución eritrocitaria",
+            "Recuento total eritrocitario"
+        ],
+        "correctAnswer": "Recuento total eritrocitario"
+    },
+    {
+        "question": "Para los recuentos manuales, las cámaras más usadas son las...:",
+        "answers": [
+            "Cámaras Neubauer mejoradas",
+            "Citocuadrículas",
+            "Mallas de recuento leucocitario",
+            "Ninguna de las anteriores es correcta."
+        ],
+        "correctAnswer": "Cámaras Neubauer mejoradas"
+    },
+    {
+        "question": "¿Cuál de las siguientes es una adaptación de inmediata a la anemia?",
+        "answers": [
+            "Estimulación de la eritropoyesis",
+            "Producción de 2, 3-difosfoglicerato",
+            "Disminución de hematocrito",
+            "Reducción de la oxigenación de tejidos"
+        ],
+        "correctAnswer": "Estimulación de la eritropoyesis"
+    },
+    {
+        "question": "¿Cuál de las siguientes es una manifestación clínica de la anemia?",
+        "answers": [
+            "Debilidad",
+            "Palidez",
+            "Cefalea",
+            "Todas son correctas."
+        ],
+        "correctAnswer": "Todas son correctas."
+    },
+    {
+        "question": "¿Cuál es el nombre completo de la hormona EPO?",
+        "answers": [
+            "Eritroplastina",
+            "Eritromicina",
+            "Eritropoyetina",
+            "Eritropensina"
+        ],
+        "correctAnswer": "Eritropoyetina"
+    },
+    {
+        "question": "¿Dentro de qué tipo de anemias se incluye la anemia ferropénica?",
+        "answers": [
+            "Microcíticas",
+            "Normocíticas",
+            "Macrocíticas",
+            "Ninguna es correcta."
+        ],
+        "correctAnswer": "Microcíticas"
+    },
+    {
+        "question": "¿En qué órgano se produce mayoritariamente la EPO?",
+        "answers": [
+            "Hígado",
+            "Riñones",
+            "Médula ósea",
+            "Todas son incorrectas"
+        ],
+        "correctAnswer": "Riñones"
+    },
+    {
+        "question": "¿Qué caracteriza a las anemias hemolíticas?",
+        "answers": [
+            "Deficiencia de hemoglobina",
+            "Incremento de la destrucción de los eritrocitos",
+            "Disminución de la síntesis de eritrocitos",
+            "Ninguna es correcta."
+        ],
+        "correctAnswer": "Incremento de la destrucción de los eritrocitos"
+    },
+    {
+        "question": "El aumento de eritrocitos en sangre se conoce como:",
+        "answers": [
+            "Hemoconcentración",
+            "Hemodilución",
+            "Anemia",
+            "Policitemia"
+        ],
+        "correctAnswer": "Policitemia"
+    },
+    {
+        "question": "El grupo hemo de la hemoglobina contiene:",
+        "answers": [
+            "Cobre",
+            "Hierro",
+            "Selenio",
+            "Todas son incorrectas."
+        ],
+        "correctAnswer": "Hierro"
+    },
+    {
+        "question": "Los codocitos se caracterizan por acumular hemoglobina:",
+        "answers": [
+            "En los bordes",
+            "En el centro",
+            "Formando anillos",
+            "Ninguna de las anteriores es correcta."
+        ],
+        "correctAnswer": "En el centro"
+    },
+    {
+        "question": "Los eritrocitos falciformes tienen forma:",
+        "answers": [
+            "De cilindro",
+            "Esférica",
+            "Bicóncava",
+            "De hoz"
+        ],
+        "correctAnswer": "De hoz"
+    },
+    {
+        "question": "¿Cómo denominamos a las inmunoglobulinas monoclonales anormales (normalmente de los tipos IgG o IgA) que son la causa de ciertas patologías asociadas a neoplasias de la serie blanca?",
+        "answers": [
+            "Paraglobulinas",
+            "Paranticuerpos",
+            "Paraproteínas",
+            "Ninguna de las anteriores es correcta."
+        ],
+        "correctAnswer": "Paraproteínas"
+    },
+    {
+        "question": "¿Cuál de las siguientes no es causante de linfopenia?",
+        "answers": [
+            "Radioterapia",
+            "Quimioterapia",
+            "Tratamientos con esteroides",
+            "Todas las anteriores pueden causar linfopenia"
+        ],
+        "correctAnswer": "Todas las anteriores pueden causar linfopenia"
+    },
+    {
+        "question": "¿Cuál de las siguientes no es una alteración cualitativa de los neutrófilos?",
+        "answers": [
+            "Hipersegmentación del núcleo",
+            "Cuerpos de Dohle",
+            "Hipogranularidad",
+            "Celularidad mixta"
+        ],
+        "correctAnswer": "Celularidad mixta"
+    },
+    {
+        "question": "¿Cuál de los siguientes leucocitos tiene capacidad de fagocitar?",
+        "answers": [
+            "Monocito",
+            "Linfocito",
+            "Basófilo",
+            "Eosinófilo"
+        ],
+        "correctAnswer": "Monocito"
+    },
+    {
+        "question": "¿Cuál de los siguientes no es un granulocito?",
+        "answers": [
+            "Eosinófilo",
+            "Neutrófilo",
+            "Basófilo",
+            "Acidófilo"
+        ],
+        "correctAnswer": "Acidófilo"
+    },
+    {
+        "question": "¿De qué patología son característicos los depósitos amieloides?",
+        "answers": [
+            "Mielomas",
+            "Amiloidosis",
+            "Hipermielosis",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Amiloidosis"
+    },
+    {
+        "question": "¿Qué tipo de leucocitos se distinguen por tener un núcleo redondeado, carecer de gránulos característicos y una cantidad variable de citoplasma en función de su tipo específico?",
+        "answers": [
+            "Monocitos",
+            "Neutrófilos",
+            "Basófilos",
+            "Linfocitos"
+        ],
+        "correctAnswer": "Linfocitos"
+    },
+    {
+        "question": "¿Qué tipo de linfocitos se encarga principalmente de la eliminación de células infectadas por virus y algunos tipos de células tumorales?",
+        "answers": [
+            "T",
+            "B",
+            "NK",
+            "O"
+        ],
+        "correctAnswer": "NK"
+    },
+    {
+        "question": "La mayor parte de los linfomas son...:",
+        "answers": [
+            "Linfomas de Hodgkin",
+            "Linfomas no Hodgkingianos",
+            "Desarrollados a partir de linfocitos T",
+            "Ninguna es correcta"
+        ],
+        "correctAnswer": "Linfomas de Hodgkin"
+    },
+    {
+        "question": "Un paciente que presente leucopenia tendrá...:",
+        "answers": [
+            "Una cantidad reducida de leucocitos",
+            "Una cantidad aumentada de leucocitos",
+            "Los leucocitos no se ven afectados por esta condición",
+            "Ninguna de las anteriores es correcta."
+        ],
+        "correctAnswer": "Una cantidad reducida de leucocitos"
+    },
+    {
+        "question": "¿Cuáles son los principales elementos formes implicados en la hemostasia?",
+        "answers": [
+            "Trombocitos",
+            "Eritrocitos",
+            "Leucocitos",
+            "Todas son correctas."
+        ],
+        "correctAnswer": "Trombocitos"
+    },
+    {
+        "question": "El secuestro esplénico de plaquetas consiste en:",
+        "answers": [
+            "La eliminación excesiva de plaquetas en el hígado",
+            "La acumulación excesiva de plaquetas en el bazo",
+            "La pérdida excesiva de plaquetas hacia el aparato digestivo",
+            "Todas las anteriores son incorrectas"
+        ],
+        "correctAnswer": "La acumulación excesiva de plaquetas en el bazo"
+    },
+    {
+        "question": "Exceso de plaquetas en sangre, con concentraciones superiores a 450.000/µL se conoce como:",
+        "answers": [
+            "Trombocitosis",
+            "Trombocitopenia",
+            "Trombemia",
+            "Ninguna de las anteriores es correcta"
+        ],
+        "correctAnswer": "Trombocitosis"
+    },
+    {
+        "question": "La formación del tapón hemostático primario comienza con la",
+        "answers": [
+            "Secreción plaquetaria",
+            "Agregación plaquetaria",
+            "Adhesión plaquetaria",
+            "Ninguna de las anteriores es correcta"
+        ],
+        "correctAnswer": "Agregación plaquetaria"
+    },
+    {
+        "question": "Si existe una alteración de la funcionalidad del fibrinógeno, observaremos un Tiempo de Trombina (TT):",
+        "answers": [
+            "Normal",
+            "Prolongado",
+            "Infinito (no se produce coagulación)",
+            "A y C son correctas"
+        ],
+        "correctAnswer": "Prolongado"
+    },
+    {
+        "question": "¿El síndrome de Bernard-Soulier es una alteración de la coagulación de qué tipo?",
+        "answers": [
+            "De la agregación",
+            "De la secreción",
+            "Adquirida",
+            "De la adhesión"
+        ],
+        "correctAnswer": "De la adhesión"
+    },
+    {
+        "question": "¿Mediante qué parámetro evaluamos el estado de la vía intrínseca de la coagulación?",
+        "answers": [
+            "Tiempo de protrombina (TP)",
+            "Tiempo de tromboplastina parcial activada (TTPA)",
+            "Tiempo de trombina (TT)",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Tiempo de tromboplastina parcial activada (TTPA)"
+    },
+    {
+        "question": "¿Qué efecto tiene el ácido acetilsalicílico sobre la coagulación?",
+        "answers": [
+            "Es un activador",
+            "Es un inhibidor",
+            "Es un adyuvante",
+            "Es un bloqueador de la vía extrínseca"
+        ],
+        "correctAnswer": "Es un inhibidor"
+    },
+    {
+        "question": "¿Qué factor de coagulación se ve afectado en la hemofilia A?",
+        "answers": [
+            "VII",
+            "VIII",
+            "IX",
+            "X"
+        ],
+        "correctAnswer": "VIII"
+    },
+    {
+        "question": "¿Qué gránulos presentes en las plaquetas contienen fibrinógeno?",
+        "answers": [
+            "Gránulos α",
+            "Gránulos densos",
+            "Gránulos β",
+            "Gránulos basófilos"
+        ],
+        "correctAnswer": "Gránulos α"
+    },
+    {
+        "question": "¿Cuál de las siguientes pruebas no forma parte de los estudios de compatibilidad?",
+        "answers": [
+            "Coombs",
+            "Detección de anticuerpos irregulares",
+            "Prueba mayor",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Todas son correctas"
+    },
+    {
+        "question": "¿Cuántos alelos están implicados en el sistema ABO?",
+        "answers": [
+            "2",
+            "3",
+            "4",
+            "Ninguno"
+        ],
+        "correctAnswer": "3"
+    },
+    {
+        "question": "¿Cuántos grupos sanguíneos existen en el sistema ABO?",
+        "answers": [
+            "2",
+            "3",
+            "4",
+            "Ninguno"
         ],
         "correctAnswer": "4"
     },
     {
-        "question": "La clasificación de microorganismos en función del peligro potencial que suponen para la salud de las personas se hace a través de cuatro:",
+        "question": "¿Qué antígenos del sistema ABO expresan las personas del grupo O?",
         "answers": [
-            "Grupos de riesgo",
-            "Niveles de bioseguridad",
-            "Grados de peligrosidad",
-            "Todas son correctas."
+            "A",
+            "B",
+            "A y B",
+            "Ninguna es correcta"
         ],
-        "correctAnswer": "Grupos de riesgo"
+        "correctAnswer": "Ninguna es correcta"
     },
     {
-        "question": "Los materiales vestibles que deben llevar los trabajadores para evitar el contacto directo con agentes que podrían suponer un riesgo para su salud se conocen como:",
+        "question": "¿Qué sistema determina está implicado en el desarrollo de la enfermedad hemolítica del recién nacido?",
         "answers": [
-            "Equipos de Protección Individual (EPI)",
-            "Bandas Laterales Anti-Boquetes (BLAS)",
-            "Indumentaria Protectora contra Infecciones (IPI)",
+            "ABO",
+            "Rh",
+            "Duffy",
+            "MNS"
+        ],
+        "correctAnswer": "Rh"
+    },
+    {
+        "question": "A la hora determinar los grupos sanguíneos del sistema ABO mediante pruebas de aglutinación, una sangre de grupo B aglutinará en soluciones con anticuerpos de tipo...:",
+        "answers": [
+            "Anti-A",
+            "Anti-B",
+            "Anti-A + Anti-B",
+            "Anti-D"
+        ],
+        "correctAnswer": "Anti-B"
+    },
+    {
+        "question": "El sistema Rh determina la presencia o la ausencia del antígeno",
+        "answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "correctAnswer": "D"
+    },
+    {
+        "question": "Indica la opción correcta sobre las personas de grupo Rh+:",
+        "answers": [
+            "Forman anticuerpos contra el antígeno D",
+            "No forman anticuerpos contra el antígeno D",
+            "Carecen de antígeno D",
+            "Todas las anteriores son incorrectas"
+        ],
+        "correctAnswer": "No forman anticuerpos contra el antígeno D"
+    },
+    {
+        "question": "La enfermedad hemolítica del recién nacido puede producirse cuando...:",
+        "answers": [
+            "La gestante es Rh+ y el feto Rh-",
+            "La gestante es Rh- y el feto Rh+",
+            "Gestante y feto son Rh+",
+            "Gestante y feto son Rh-"
+        ],
+        "correctAnswer": "La gestante es Rh- y el feto Rh+"
+    },
+    {
+        "question": "Los anticuerpos que se forman contra los antígenos del sistema ABO se conocen como...:",
+        "answers": [
+            "Antiglobulinas",
+            "Anti-anticuerpos",
+            "Anticuerpos irregulares",
+            "Anticuerpo parainmunitarios"
+        ],
+        "correctAnswer": "Anticuerpos irregulares"
+    },
+    {
+        "question": "¿Cuál de las siguientes no es una complicación aguda de las transfuxiones de sangre?",
+        "answers": [
+            "Reacción alérgica transfusional",
+            "Reacción transfusional febril no hemolítica",
+            "Disnea asociada a la transfusión",
+            "Reacción hemolítica retardada"
+        ],
+        "correctAnswer": "Reacción hemolítica retardada"
+    },
+    {
+        "question": "¿Cuál de los siguientes no es un riesgo que se dé en un laboratorio de hematología?",
+        "answers": [
+            "Incendio",
+            "Punción con agujas",
+            "Contagios",
+            "Todos los mencionados pueden producirse"
+        ],
+        "correctAnswer": "Todos los mencionados pueden producirse"
+    },
+    {
+        "question": "¿Cuánto tiempo después de un embarazo es necesario esperar antes de poder hacer una donación de sangre?",
+        "answers": [
+            "4 meses",
+            "6 meses",
+            "8 meses",
+            "1 año"
+        ],
+        "correctAnswer": "6 meses"
+    },
+    {
+        "question": "¿En qué modalidad de transfusión se extraen componentes concretos de la sangre (eritrocitos, plaquetas o plasma) y el resto de los componentes se devuelven al paciente?",
+        "answers": [
+            "Completa",
+            "Autóloga",
+            "Selectiva",
+            "Dirigida"
+        ],
+        "correctAnswer": "Selectiva"
+    },
+    {
+        "question": "¿En qué tipo de gestión existen varios centros de tamaño reducido y que realizan tareas a menor escala?",
+        "answers": [
+            "Gestión centralizada",
+            "Gestión descentralizada",
+            "Microgestión",
+            "Macrogestión"
+        ],
+        "correctAnswer": "Gestión descentralizada"
+    },
+    {
+        "question": "¿Qué tipo de hemoderivados están compuestos por mezclas concentradas de glóbulos rojos?",
+        "answers": [
+            "Concentrados de plaquetas",
+            "Concentrados de hematíes",
+            "Concentrados de leucocitos",
+            "Plasma fresco congelado"
+        ],
+        "correctAnswer": "Concentrados de hematíes"
+    },
+    {
+        "question": "Cuando el receptor de la transfusión presenta antígenos contra los eritrocitos de la sangre recibida, pero sin que haya una respuesta detectable, se está produciendo:",
+        "answers": [
+            "Aloinmunización",
+            "Púpura postransfusional",
+            "Hemosiderosis",
+            "Infección"
+        ],
+        "correctAnswer": "Aloinmunización"
+    },
+    {
+        "question": "Cuando se produce una reacción del sistema inmunológico contra la sangre transfundida que se produce cuando el grupo sanguíneo no se corresponde con el del receptor, estamos hablando de:",
+        "answers": [
+            "Reacción hipotensiva",
+            "Reacción transfusional hemolítica aguda",
+            "Reacción anafiláctica",
             "Ninguna de las anteriores es correcta."
         ],
-        "correctAnswer": "Equipos de Protección Individual (EPI)"
+        "correctAnswer": "Reacción transfusional hemolítica aguda"
     },
     {
-        "question": "Los residuos microbiológicos pueden eliminarse mediante:",
+        "question": "El crioprecipitado se obtiene a partir de:",
         "answers": [
-            "Autoclave",
-            "Incineración",
-            "Descontaminación química",
-            "Todas las anteriores son correctas"
+            "Concentrados de leucocitos",
+            "Plasma fresco congelado",
+            "Plasma refrigerado",
+            "Ninguna es correcta."
         ],
-        "correctAnswer": "Todas las anteriores son correctas"
+        "correctAnswer": "Plasma fresco congelado"
     },
     {
-        "question": "Los tejidos y órganos deben eliminarse mediante:",
+        "question": "Los lugares donde se realiza la donación, el procesamiento, el almacenamiento y la distribución de la sangre y productos hemoderivados, se conocen como:",
         "answers": [
-            "Autoclave",
-            "Incineración",
-            "Descontaminación química",
-            "Todas las anteriores son correctas"
+            "Hemocentros",
+            "Centros de transfusión",
+            "Fábricas de hemoderivados",
+            "Todas son correctas."
         ],
-        "correctAnswer": "Incineración"
-    },
-    {
-        "question": "Una cabina de bioseguridad herméticamente cerrada, con guantes de goma adheridos y sellados para la manipulación de las muestras, es de nivel:",
-        "answers": [
-            "I",
-            "II",
-            "III",
-            "IV"
-        ],
-        "correctAnswer": "III"
-    },
-    {
-        "question": "¿Cómo llamamos a los puestos de trabajo en los que la circulación de aire está controlada, pasando por un circuito cerrado que cuenta con filtros HEPA?",
-        "answers": [
-            "Cabinas microbiológicas",
-            "Cabinas de seguridad biológica",
-            "Cabinas de biomanipulación",
-            "Todas son incorrectas"
-        ],
-        "correctAnswer": "Cabinas de seguridad biológica"
-    },
-    {
-        "question": "¿Cuál de las siguientes no es una técnica de siembra de microorganismos?",
-        "answers": [
-            "Por extensión",
-            "Por picadura",
-            "Por agotamiento en estrías",
-            "Todas son técnicas de siembra"
-        ],
-        "correctAnswer": "Todas son técnicas de siembra"
-    },
-    {
-        "question": "¿Cuál de los siguientes géneros no es cultivable en laboratorio?",
-        "answers": [
-            "Chlamydia",
-            "Haemophylus",
-            "Yersinia",
-            "Ninguna es cultivable"
-        ],
-        "correctAnswer": "Chlamydia"
-    },
-    {
-        "question": "¿Cuál de los siguientes microorganismos no se consideran como seres vivos?",
-        "answers": [
-            "Bacterias",
-            "Hongos",
-            "Parásitos",
-            "Virus"
-        ],
-        "correctAnswer": "Virus"
-    },
-    {
-        "question": "Antes de realizar una tinción de una muestra bacteriana es necesario:",
-        "answers": [
-            "Mirar la muestra fijamente",
-            "Fijar la muestra mediante un frotis o extensión",
-            "No es necesario ningún paso previo",
-            "Fijar la muestra con pegamento"
-        ],
-        "correctAnswer": "Fijar la muestra mediante un frotis o extensión"
-    },
-    {
-        "question": "Con el asa de siembra microbiológica se realiza la siembra:",
-        "answers": [
-            "Por agotamiento en estrías en medio sólido",
-            "Por extensión en medio sólido",
-            "Por picadura en medio sólido",
-            "Ninguna es correcta"
-        ],
-        "correctAnswer": "Por agotamiento en estrías en medio sólido"
-    },
-    {
-        "question": "El Agar Sabouraud es un medio selectivo para:",
-        "answers": [
-            "Coliformes",
-            "Virus",
-            "Hongos",
-            "Rickettsias"
-        ],
-        "correctAnswer": "Hongos"
-    },
-    {
-        "question": "En cuanto a las enterobacterias es cierto que:",
-        "answers": [
-            "Son bacilos grampositivos",
-            "No se encuentran en la flora intestinal",
-            "No fermentan la lactosa",
-            "Todas son incorrectas"
-        ],
-        "correctAnswer": "Todas son incorrectas"
-    },
-    {
-        "question": "En la tinción de Gram las bacterias Gram negativas se observan como:",
-        "answers": [
-            "Bacterias azules",
-            "Bacterias naranjas",
-            "Bacterias rojas",
-            "Bacterias violetas"
-        ],
-        "correctAnswer": "Bacterias rojas"
-    },
-    {
-        "question": "En relación con el género Clostridium es cierto:",
-        "answers": [
-            "Se detectan mediante agar Schaedler",
-            "Causan enfermedades como el botulismo y el tétanos",
-            "Causan la lepra",
-            "A y B son correctas"
-        ],
-        "correctAnswer": "A y B son correctas"
-    },
-    {
-        "question": "Es cierto respecto al género Bacillus:",
-        "answers": [
-            "Es un bacilo grampositivo",
-            "Forman endosporas",
-            "Causan enfermedades como el ántrax o el síndrome del arroz frito",
-            "Todas son correctas"
-        ],
-        "correctAnswer": "Todas son correctas"
-    },
-    {
-        "question": "Es un medio de cultivo utilizado para microorganismos hemolíticos:",
-        "answers": [
-            "Agar sangre",
-            "Agar Chapman",
-            "Agar MacConkey",
-            "Caldo de tioglicolato"
-        ],
-        "correctAnswer": "Agar sangre"
-    },
-    {
-        "question": "Es un sistema comercial multipruebas para la identificación microbiana:",
-        "answers": [
-            "IMViC",
-            "Prueba TSI",
-            "Prueba indol",
-            "Prueba citrato"
-        ],
-        "correctAnswer": "IMViC"
-    },
-    {
-        "question": "Medios para la detección de fermentación de glucosa, sacarosa y/o lactosa",
-        "answers": [
-            "Medio con rojo fenol",
-            "Medio con sulfato ferroso para la formación de precipitados de azufre",
-            "Todas son correctas"
-        ],
-        "correctAnswer": "Todas son correctas"
-    },
-    {
-        "question": "La prueba de la oxidasa:",
-        "answers": [
-            "Permite detectar si las bacterias son aerobias",
-            "Detecta la presencia de citocromo C oxidasa",
-            "Utiliza el reactivo TMFD",
-            "Todas son correctas"
-        ],
-        "correctAnswer": "Todas son correctas"
-    },
-    {
-        "question": "La serología para la detección de virus permite:",
-        "answers": [
-            "Detectar la presencia del virus directamente",
-            "Detectar la presencia del virus según la respuesta inmunitaria que causa",
-            "Detectar los niveles de inmunoglobulinas IgM e IgG",
-            "Hay más de una respuesta correcta"
-        ],
-        "correctAnswer": "Hay más de una respuesta correcta"
-    },
-    {
-        "question": "Las asas de Digralsky se utilizan para realizar siembras...:",
-        "answers": [
-            "Por agotamiento en estrías",
-            "En medios líquidos",
-            "Por picadura",
-            "Por extensión"
-        ],
-        "correctAnswer": "Por extensión"
-    },
-    {
-        "question": "Las fases de la curva de crecimiento microbiano son:",
-        "answers": [
-            "Latencia, exponente, pausa y muerte",
-            "Exponencial y estacionaria",
-            "Latencia, crecimiento, parada y muerte",
-            "Latencia, exponencial, estacionaria y muerte"
-        ],
-        "correctAnswer": "Latencia, exponencial, estacionaria y muerte"
-    },
-    {
-        "question": "Los hongos se pueden identificar mediante:",
-        "answers": [
-            "Observaciones en fresco",
-            "Tinciones (gram, Giemsa, blanco calcoflúor...)",
-            "Técnicas moleculares",
-            "Todas son correctas"
-        ],
-        "correctAnswer": "Todas son correctas"
-    },
-    {
-        "question": "Los parásitos se obtienen de muestras humanas como:",
-        "answers": [
-            "Heces",
-            "Sangre",
-            "Exudados vaginales",
-            "Todas son correctas"
-        ],
-        "correctAnswer": "Todas son correctas"
-    },
-    {
-        "question": "Los residuos microbiológicos pueden eliminarse mediante:",
-        "answers": [
-            "Autoclave",
-            "Incineración",
-            "Descontaminación química",
-            "Todas las anteriores son correctas"
-        ],
-        "correctAnswer": "Todas las anteriores son correctas"
-    },
-    {
-        "question": "Los virus se pueden detectar mediante:",
-        "answers": [
-            "Citología e histología",
-            "Cultivos celulares",
-            "PCR",
-            "Todas son correctas"
-        ],
-        "correctAnswer": "Todas son correctas"
-    },
-    {
-        "question": "Para detectar parásitos en sangre es habitual hacer tinciones:",
-        "answers": [
-            "De Gram",
-            "Con Giemsa",
-            "Con tinta china",
-            "Ninguna es correcta"
-        ],
-        "correctAnswer": "Con Giemsa"
-    },
-    {
-        "question": "Para poder confirmar los resultados de los cultivos de hongos, estos deben de incubarse:",
-        "answers": [
-            "De 7 a 14 días",
-            "De 14 a 21 días",
-            "De 21 a 30 días",
-            "De 30 a 40 días"
-        ],
-        "correctAnswer": "De 21 a 30 días"
-    },
-    {
-        "question": "Son medidas de seguridad básicas en un laboratorio de microbiología:",
-        "answers": [
-            "Usar equipos de protección individual",
-            "Usar cabinas de seguridad biológica",
-            "Aplicar precauciones básicas como no comer, beber ni fumar",
-            "Todas son correctas"
-        ],
-        "correctAnswer": "Todas son correctas"
-    },
-    {
-        "question": "Un laboratorio clínico en el que se analizan agentes de riesgo moderado tiene un nivel de bioseguridad:",
-        "answers": [
-            "Nivel básico 1",
-            "Nivel básico 2",
-            "Nivel de contención",
-            "Nivel de contención máxima"
-        ],
-        "correctAnswer": "Nivel básico 2"
-    },
-    {
-        "question": "Un medio de cultivo microbiológico puede ser:",
-        "answers": [
-            "General",
-            "Diferencial",
-            "Selectivo",
-            "Todas son correctas"
-        ],
-        "correctAnswer": "Todas son correctas"
-    },
-    {
-        "question": "Un microorganismo capaz de crecer en presencia o ausencia de oxígeno se denomina:",
-        "answers": [
-            "Aerobio",
-            "Anaerobio facultativo",
-            "Anaerobio estricto",
-            "Microaerófilo"
-        ],
-        "correctAnswer": "Anaerobio facultativo"
+        "correctAnswer": "Centros de transfusión"
     }
 ]
