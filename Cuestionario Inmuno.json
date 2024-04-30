@@ -797,5 +797,405 @@
             "Ninguna es correcta"
         ],
         "correctAnswer": "I"
+    },
+    {
+        "question": "Cuando realizamos ensayos de quimiotaxis, ¿Qué sucederá si la función fagocítica está afectada?",
+        "answers": [
+            "Los fagocitos quedarán retenidos y unidos a la membrana",
+            "Los fagocitos atravesarán la membrana y pasarán a la disolución con la sustancia atrayente",
+            "Los fagocitos no quedarán atrapados en la membrana y serán arrastrados al realizar un lavado",
+            "Quedarán retenidas en la membrana las células no fagocíticas"
+        ],
+        "correctAnswer": "La respuesta correcta es: Los fagocitos no quedarán atrapados en la membrana y serán arrastrados al realizar un lavado"
+    },
+    {
+        "question": "Cuando se detectan anticuerpos por inmunofluorescencia, los anticuerpo0s marcados se unen a…:",
+        "answers": [
+            "Los antígenos",
+            "Anticuerpos unidos a antígenos",
+            "Haptenos unidos a antígenos",
+            "Sondas fluorescentes"
+        ],
+        "correctAnswer": "La respuesta correcta es: Anticuerpos unidos a antígenos"
+    },
+    {
+        "question": "Elige la opción correcta sobre las técnicas de precipitación:",
+        "answers": [
+            "Es conveniente añadir un exceso de anticuerpos para observar buenos resultados",
+            "El exceso de antígeno no afecta a los resultados",
+            "Se forman complejos Ag-Ac hasta alcanzar la zona de equivalencia",
+            "Todas las anteriores son incorrectas."
+        ],
+        "correctAnswer": "La respuesta correcta es: Se forman complejos Ag-Ac hasta alcanzar la zona de equivalencia"
+    },
+    {
+        "question": "En la separación celular inmunomagnética, cuando hacemos una selección positiva…:",
+        "answers": [
+            "Quedan retenidas las células a estudiar",
+            "Se eliminan las células que no nos interesan",
+            "No se distinguen las células seleccionadas",
+            "Ninguna de las anteriores es correcta."
+        ],
+        "correctAnswer": "La respuesta correcta es: Quedan retenidas las células a estudiar"
+    },
+    {
+        "question": "En la separación de componentes celulares de la sangre por Ficoll, las células más densas quedan…:",
+        "answers": [
+            "En la parte superior",
+            "En la parte inferior",
+            "En suspensión",
+            "Ninguna es correcta."
+        ],
+        "correctAnswer": "La respuesta correcta es: En la parte inferior"
+    },
+    {
+        "question": "En qué tipo de hipersensibilidades se produce un reconocimiento celular mediante linfocitos T",
+        "answers": [
+            "I",
+            "II",
+            "III",
+            "IV"
+        ],
+        "correctAnswer": "La respuesta correcta es: IV"
+    },
+    {
+        "question": "La segunda banda de la inmunocromatografía en capa fina indica",
+        "answers": [
+            "La presencia del antígeno",
+            "Control",
+            "La ausencia del antígeno",
+            "Presencia aloantígenos"
+        ],
+        "correctAnswer": "La respuesta correcta es: Control"
+    },
+    {
+        "question": "Para asegurar que no han quedado células en el sistema de flujo de los citómetros, deberemos realizar…",
+        "answers": [
+            "Comprobaciones periódicas",
+            "Aplicaciones de sustancias ligeramente corrosivas",
+            "Lavados del sistema con soluciones especiales",
+            "Sustituciones periódicas de los tubos del sistema"
+        ],
+        "correctAnswer": "La respuesta correcta es: Lavados del sistema con soluciones especiales"
+    },
+    {
+        "question": "¿Cómo denominamos a la respuesta excesiva e inadecuada del sistema inmunológico frente a alérgenos o antígenos ambientales (ajenos) o propios, normalmente no patógenos?",
+        "answers": [
+            "Alergia",
+            "Hipersensibilidad",
+            "Reacción",
+            "Todas son correctas."
+        ],
+        "correctAnswer": "La respuesta correcta es: Hipersensibilidad"
+    },
+    {
+        "question": "¿Cómo denominamos al sistema molecular a partir del cual el sistema inmunitario determina si un elemento es propio o ajeno al organismo?",
+        "answers": [
+            "Complejo mayor de histocompatibilidad",
+            "Compuesto mayor de histocompatibilidad",
+            "Contexto mayor de histocompatibilidad",
+            "Consenso mayor de histocompatibilidad"
+        ],
+        "correctAnswer": "La respuesta correcta es: Complejo mayor de histocompatibilidad"
+    },
+    {
+        "question": "¿Cómo llamamos a los estudios basados en reacciones antígeno-anticuerpo (Ag-Ac) cuyo resultado no podemos apreciar de manera sencilla y directa y que requieren el uso de marcadores para su evaluación?",
+        "answers": [
+            "Inmunoensayos",
+            "Estudios inmunológicos",
+            "Inmunoestudios",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "La respuesta correcta es: Inmunoensayos"
+    },
+    {
+        "question": "¿Cómo llamamos al fenómeno que consiste en el agrupamiento de proteínas o células para formar conjuntos densos que pueden apreciarse más fácilmente que cuando estaban por separado en una disolución?",
+        "answers": [
+            "Precipitación",
+            "Aglutinación",
+            "Conjunción",
+            "Complejación"
+        ],
+        "correctAnswer": "La respuesta correcta es: Aglutinación"
+    },
+    {
+        "question": "¿Cuál de las siguientes funciones del complemento altera el equilibrio osmótico de las amenazas?",
+        "answers": [
+            "Opsonización",
+            "Señalización para fagocitos",
+            "Formación de poros de membrana",
+            "Todas son incorrectas"
+        ],
+        "correctAnswer": "La respuesta correcta es: Formación de poros de membrana"
+    },
+    {
+        "question": "¿Cuál de las siguientes no es un tipo de inmunoglobulinas?",
+        "answers": [
+            "IgM",
+            "IgE",
+            "IgA",
+            "IgR"
+        ],
+        "correctAnswer": "La respuesta correcta es: IgR"
+    },
+    {
+        "question": "¿Cuál de las siguientes no es una aplicación de la citometría de flujo?",
+        "answers": [
+            "Determinación de poblaciones celulares en sangre periférica",
+            "Fenotipaje de leucemias y linfomas",
+            "Cuantificación de moléculas",
+            "Detección de alteraciones genéticas"
+        ],
+        "correctAnswer": "La respuesta correcta es: Detección de alteraciones genéticas"
+    },
+    {
+        "question": "¿Cuál de los siguientes métodos no se utiliza para estudiar la funcionalidad de los linfocitos B?",
+        "answers": [
+            "Marcajes in vivo",
+            "Cuantificación de inmunoglobulinas",
+            "Citometría de flujo",
+            "Todas se utilizan"
+        ],
+        "correctAnswer": "La respuesta correcta es: Todas se utilizan"
+    },
+    {
+        "question": "¿Cuál de los siguientes métodos permite eliminar las células que no nos interesan para su estudio mediante el sistema de complemento?",
+        "answers": [
+            "Control de calidad externo",
+            "Citometría de flujo",
+            "Inmunotoxicidad",
+            "Ninguna de las anteriores es correcta."
+        ],
+        "correctAnswer": "La respuesta correcta es: Inmunotoxicidad"
+    },
+    {
+        "question": "¿En qué leucocitos encontramos HLA de clase II?",
+        "answers": [
+            "Macrófagos",
+            "Linfocitos B",
+            "Células dendríticas",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "La respuesta correcta es: Todas son correctas"
+    },
+    {
+        "question": "¿En qué órgano del sistema inmunitario podemos diferenciar la pulpa blanca?",
+        "answers": [
+            "Timo",
+            "Bazo",
+            "Ganglios linfáticos",
+            "Médula ósea"
+        ],
+        "correctAnswer": "La respuesta correcta es: Bazo"
+    },
+    {
+        "question": "¿En qué tipo de respuesta predominan los mecanismos del sistema inmunitario específico?",
+        "answers": [
+            "Primaria",
+            "Secundaria",
+            "En ambas predominan estos mecanismos",
+            "Ninguna de las anteriores es correcta."
+        ],
+        "correctAnswer": "La respuesta correcta es: Secundaria"
+    },
+    {
+        "question": "¿Qué aspecto de os linfocitos B se valora mediante marcajes in vivo?",
+        "answers": [
+            "Producción de anticuerpos",
+            "Antígenos que pueden identificar",
+            "Actividad fagocítica",
+            "Proliferación"
+        ],
+        "correctAnswer": "La respuesta correcta es: Proliferación"
+    },
+    {
+        "question": "¿Qué enfermedad autoinmune produce manchas despigmentadas de color claro en la piel por la eliminación de los melanocitos?",
+        "answers": [
+            "Vitiligo",
+            "Esclerodermia",
+            "Psoriasis",
+            "Dermatitis"
+        ],
+        "correctAnswer": "La respuesta correcta es: Vitiligo"
+    },
+    {
+        "question": "¿Qué nombre reciben los grupos de genes que, como el HLA, se transmiten como una sola unidad que determina un carácter?",
+        "answers": [
+            "Fenotipos",
+            "Idiotipos",
+            "Haplotipos",
+            "Cariotipos"
+        ],
+        "correctAnswer": "La respuesta correcta es: Haplotipos"
+    },
+    {
+        "question": "¿Qué órgano no es esencial para nuestra supervivencia, pero mejora la inmunidad al acumular linfocitos B en su interior?",
+        "answers": [
+            "Bazo",
+            "Timo",
+            "Ganglios linfáticos",
+            "Todas las anteriores son incorrectas."
+        ],
+        "correctAnswer": "La respuesta correcta es: Bazo"
+    },
+    {
+        "question": "¿Qué se determina mediante el test de Mantoux?",
+        "answers": [
+            "Si el paciente ha estado expuesto a Samonella Typhimurium",
+            "Si el paciente ha estado expuesto a Mycobacterium tuberculosis",
+            "Si el paciente ha estado expuesto Brucella",
+            "Ninguna es correcta"
+        ],
+        "correctAnswer": "La respuesta correcta es: Si el paciente ha estado expuesto a Mycobacterium tuberculosis"
+    },
+    {
+        "question": "¿Qué signo nos indicará hipersensibilidad a una sustancia en las pruebas epicutáneas con parche?",
+        "answers": [
+            "La aparición de pápulas",
+            "La aparición de eritemas o eccemas",
+            "La aparición de inflamación",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "La respuesta correcta es: La aparición de eritemas o eccemas"
+    },
+    {
+        "question": "¿Qué técnica permite diferenciar fácilmente subpoblaciones de linfocitos T? Pregunta 27Respuesta",
+        "answers": [
+            "Citometría de flujo",
+            "Inmunoselección",
+            "Ensayos de quimiotaxis",
+            "Todas las anteriores son incorrectas."
+        ],
+        "correctAnswer": "La respuesta correcta es: Citometría de flujo"
+    },
+    {
+        "question": "¿Qué tipo de anticuerpos no organoespecíficos están relacionados con un 75% de artritis reumatoide?",
+        "answers": [
+            "Anticuerpos antinucleares",
+            "Factor reumatoide",
+            "Anticuerpos antipéptidos citrulinados",
+            "Anticuerpos anti-histonas"
+        ],
+        "correctAnswer": "La respuesta correcta es: Anticuerpos antipéptidos citrulinados"
+    },
+    {
+        "question": "¿Qué tipo de diabetes es de origen autoinmune?",
+        "answers": [
+            "Tipo 1",
+            "Tipo 2",
+            "Tipo 3",
+            "Ninguna es autoinmune"
+        ],
+        "correctAnswer": "La respuesta correcta es: Tipo 1"
+    },
+    {
+        "question": "¿Qué tipo de enfermedades se caracterizan por el reconocimiento de elementos propios como ajenos y la efectuación de una respuesta inmunitaria contra ellos?",
+        "answers": [
+            "Enfermedades infecciosas",
+            "Neoplasias",
+            "Enfermedades autoinmunes",
+            "Ninguna es correcta"
+        ],
+        "correctAnswer": "La respuesta correcta es: Enfermedades autoinmunes"
+    },
+    {
+        "question": "¿Qué tipo de ensayos ELISA se basan en la medida en la que se ha reducido la actividad de una enzima con respecto a lo esperado?",
+        "answers": [
+            "Competitivos de inhibición",
+            "Competitivos de competición",
+            "Tipo sandwich",
+            "No competitivos indirectos"
+        ],
+        "correctAnswer": "La respuesta correcta es: Competitivos de inhibición"
+    },
+    {
+        "question": "¿Qué tipo de flujo se produce en los citómetros de flujo para asegurar buenas mediciones?",
+        "answers": [
+            "Turbulento",
+            "Laminar",
+            "Uniforme",
+            "Seriado"
+        ],
+        "correctAnswer": "La respuesta correcta es: Laminar"
+    },
+    {
+        "question": "¿Qué tipo de HLA se muestra en la siguiente imagen?:",
+        "answers": [
+            "I",
+            "II",
+            "III",
+            "Ninguno"
+        ],
+        "correctAnswer": "La respuesta correcta es: II"
+    },
+    {
+        "question": "¿Qué tipo de injertos se realizan entre individuos de la misma especie que el donante, pero que no son idénticos genéticamente?",
+        "answers": [
+            "Autoinjertos",
+            "Xenoinjertos",
+            "Aloinjertos",
+            "Isoinjertos"
+        ],
+        "correctAnswer": "La respuesta correcta es: Aloinjertos"
+    },
+    {
+        "question": "¿Qué tipo de inmunidad se lleva a cabo mediante anticuerpos?",
+        "answers": [
+            "Inmunidad inespecífica",
+            "Inmunidad celular",
+            "Inmunidad humoral",
+            "Todas son incorrectas."
+        ],
+        "correctAnswer": "La respuesta correcta es: Inmunidad humoral"
+    },
+    {
+        "question": "¿Qué tipo de inmunoensayos requieren la separación de los componentes unidos a los anticuerpos?",
+        "answers": [
+            "Heterogéneos",
+            "Homogéneos",
+            "Competitivos",
+            "No competitivos"
+        ],
+        "correctAnswer": "La respuesta correcta es: Heterogéneos"
+    },
+    {
+        "question": "¿Qué tipo de linfocitos forman rosetas cuando se incuban in vitro con sangre de carnero?",
+        "answers": [
+            "T",
+            "B",
+            "NK",
+            "Ninguno forma rosetas"
+        ],
+        "correctAnswer": "La respuesta correcta es: T"
+    },
+    {
+        "question": "¿Qué tipo de linfocitos inducen a la célula con la que interactúan a que produzca apoptosis?",
+        "answers": [
+            "Linfocitos T citotóxicos (CD8)",
+            "Linfocitos T helper (CD4)",
+            "Linfocitos NK",
+            "Linfocitos B"
+        ],
+        "correctAnswer": "La respuesta correcta es: Linfocitos T citotóxicos (CD8)"
+    },
+    {
+        "question": "¿Qué tipo de respuesta inmunitaria es más rápida?:",
+        "answers": [
+            "Primaria",
+            "Secundaria",
+            "Terciaria",
+            "Cuaternaria"
+        ],
+        "correctAnswer": "La respuesta correcta es: Secundaria"
+    },
+    {
+        "question": "¿Qué ventaja aporta aplicar campos eléctricos cuando se realiza inmunoprecipitación en gel?",
+        "answers": [
+            "Aumentan la afinidad entre anticuerpos y antígenos",
+            "Hacen que las interacciones antígeno- anticuerpo sean más específicas",
+            "Aceleran la obtención de resultados",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "La respuesta correcta es: Aceleran la obtención de resultados"
     }
 ]
