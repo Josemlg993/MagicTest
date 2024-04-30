@@ -1100,16 +1100,6 @@
         "correctAnswer": "β"
     },
     {
-        "question": "Con el estudio macroscópico de la orina se puede estudiar:",
-        "answers": [
-            "El volumen",
-            "La densidad",
-            "La osmolalidad",
-            "Todas son correctas"
-        ],
-        "correctAnswer": "Todas son correctas"
-    },
-    {
         "question": "Cuando se analiza el líquido cefalorraquídeo se determina:",
         "answers": [
             "El aspecto físico",
@@ -1158,36 +1148,6 @@
             "Hay más de una respuesta correcta"
         ],
         "correctAnswer": "Hay más de una respuesta correcta"
-    },
-    {
-        "question": "El pH normal de la orina es:",
-        "answers": [
-            "1.0 – 2.5",
-            "4.6 – 8.0",
-            "10.5 – 12.0",
-            "Ninguna es correcta"
-        ],
-        "correctAnswer": "4.6 – 8.0"
-    },
-    {
-        "question": "El pH sanguíneo presenta valores en torno a:",
-        "answers": [
-            "7.35 y 7.45",
-            "9.5 y 10.5",
-            "2.5 y 4.5",
-            "Todas son correctas"
-        ],
-        "correctAnswer": "7.35 y 7.45"
-    },
-    {
-        "question": "El sistema endocrino:",
-        "answers": [
-            "Está formado por órganos y tejidos que se encargan de la segregación de hormonas",
-            "Se encarga de controlar la respiración",
-            "Se encarga de filtrar la orina",
-            "Todas son correctas"
-        ],
-        "correctAnswer": "Está formado por órganos y tejidos que se encargan de la segregación de hormonas"
     },
     {
         "question": "En condiciones normales, la concentración de orina en el plasma debe ser de:",
