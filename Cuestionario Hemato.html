@@ -9,7 +9,7 @@
 <body>
     <h1 id="tituloCuestionario"></h1>
     <div class="search-container">
-        <input type="text" id="searchText" placeholder="Buscar en la página...">
+        <input type="text" id="searchText" placeholder="Buscar en la página..." onkeypress="if(event.key === 'Enter') searchInPage()">
         <button onclick="searchInPage()">Buscar</button>
     </div>
     <div id="quizForm">
