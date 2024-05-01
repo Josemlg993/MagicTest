@@ -15,7 +15,8 @@
             "“She lives for working in a hospital”",
             "She don´t live for working in a hospital.",
             "She doesn´t live for working in a hospital.",
-            "She doesn´t lives for working in a hospital. E. She don´t lives for working in a hospital."
+            "She doesn´t lives for working in a hospital.",
+            "She don´t lives for working in a hospital."
         ],
         "correctAnswer": "She doesn´t live for working in a hospital."
     },
@@ -88,16 +89,6 @@
             "It is a heat-resistant receptacle to keep compounds when they are heated to low temperatures."
         ],
         "correctAnswer": "It is a heat-resistant receptacle to keep compounds when they are heated to high temperatures."
-    },
-    {
-        "question": "Which is the right answer?",
-        "answers": [
-            "Robin had got several analytical laboratories in the city.",
-            "Robin didn´t have several analytical laboratories in the city.",
-            "Robin have got several analytical laboratories in the city.",
-            "Robin didn´t had got several analytical laboratories in the city."
-        ],
-        "correctAnswer": "Robin didn´t have several analytical laboratories in the city."
     },
     {
         "question": "Choose the correct option:",
@@ -180,16 +171,6 @@
         "correctAnswer": "It is Personal Protective Equipment."
     },
     {
-        "question": "What is the comparative and superlative of the adjective good?",
-        "answers": [
-            "Gooder/the best.",
-            "Gooder/the goodest.",
-            "Better/the best.",
-            "Better/best."
-        ],
-        "correctAnswer": "Better/the best."
-    },
-    {
         "question": "Which sentence is right?",
         "answers": [
             "They were work in a laboratory.",
@@ -198,16 +179,6 @@
             "They were working in a laboratory."
         ],
         "correctAnswer": "They were working in a laboratory."
-    },
-    {
-        "question": "Choose the option that is used to invite people:",
-        "answers": [
-            "Yes, that sounds great!",
-            "Why don’t we go to the cinema tonight?",
-            "I am afraid that I can’t go with you tomorrow.",
-            "I would love to!"
-        ],
-        "correctAnswer": "Why don’t we go to the cinema tonight?"
     },
     {
         "question": "Choose the right option: “______ your used towels in the washing machine.”",
@@ -270,16 +241,6 @@
         "correctAnswer": "Cardiac and visceral."
     },
     {
-        "question": "What time does the clinic open tomorrow?",
-        "answers": [
-            "It will open a t 9 a.m.",
-            "It opens at 9 a.m.",
-            "It is going to open at 9 a.m.",
-            "It is opening at 9 a.m."
-        ],
-        "correctAnswer": "It opens at 9 a.m."
-    },
-    {
         "question": "Which of the organ systems that we have studied is involved when we breathe?",
         "answers": [
             "Respiratory system.",
@@ -288,16 +249,6 @@
             "Reproductive system."
         ],
         "correctAnswer": "Respiratory system."
-    },
-    {
-        "question": "Why are you turning on the autoclave?",
-        "answers": [
-            "I’m going to sterilise the instrumentation for tomorrow.",
-            "I will sterilise the instrumentation for tomorrow.",
-            "I sterilising the instrumentation for tomorrow.",
-            "I sterilise the instrumentation for tomorrow."
-        ],
-        "correctAnswer": "I’m going to sterilise the instrumentation for tomorrow."
     },
     {
         "question": "_________ any dental clinic near here?",
@@ -390,16 +341,6 @@
         "correctAnswer": "Coronary Care Unit."
     },
     {
-        "question": "Which is the right answer?",
-        "answers": [
-            "Mikel is such an interesting and amazed person.",
-            "Mikel is such an interesting and amazing person.",
-            "Mikel is such an interested and amazed person.",
-            "Mikel is such an interested and amazing person."
-        ],
-        "correctAnswer": "Mikel is such an interesting and amazing person."
-    },
-    {
         "question": "Choose the correct option:",
         "answers": [
             "She must sending him the results of the blood test.",
@@ -458,36 +399,6 @@
             "may"
         ],
         "correctAnswer": "had to"
-    },
-    {
-        "question": "How is anthrax transmitted?",
-        "answers": [
-            "By airborne transmission.",
-            "By animal to people.",
-            "By pollute soil.",
-            "By polluted food and water."
-        ],
-        "correctAnswer": "By animal to people."
-    },
-    {
-        "question": "The different types of pathogens are:",
-        "answers": [
-            "viruses, bacteria, fungi, and parasites.",
-            "viruses, bacteria, proteins, and parasites.",
-            "viruses, bacterial infections, fungi, and parasites.",
-            "infections, bacteria, fungi, and parasites."
-        ],
-        "correctAnswer": "viruses, bacteria, fungi, and parasites."
-    },
-    {
-        "question": "What disease is caused by a virus?",
-        "answers": [
-            "Meningitis.",
-            "Ringworm.",
-            "Intestinal worms.",
-            "Measles."
-        ],
-        "correctAnswer": "Measles."
     },
     {
         "question": "Which is the right answer?",
@@ -570,16 +481,6 @@
         "correctAnswer": "Reinforcement for the immune system to build better defenses against allergens."
     },
     {
-        "question": "What is a mammography?",
-        "answers": [
-            "A large magnet and radio wase to look at organs inside the body.",
-            "Electromagnetic waves are used to take images of denser objects.",
-            "It is radioactive isotopes used to see structures and functions inside the body.",
-            "It is a specific kind of breast picture which uses low-dose X-rays."
-        ],
-        "correctAnswer": "It is a specific kind of breast picture which uses low-dose X-rays."
-    },
-    {
         "question": "Which is the right passive sentence?",
         "answers": [
             "The doctor have been given the prescriptions in advance.",
@@ -598,5 +499,405 @@
             "Fancy beauty treatments cost a lot nowadays."
         ],
         "correctAnswer": "Fancy beauty treatments cost a lot nowadays."
+    },
+    {
+        "question": "__________ is your name? My name is Susan.",
+        "answers": [
+            "Which",
+            "Where",
+            "Who",
+            "What"
+        ],
+        "correctAnswer": "What"
+    },
+    {
+        "question": "Choose the correct Imperative sentence:",
+        "answers": [
+            "Stayed still!",
+            "Stay still!",
+            "Didn´t stay still!",
+            "Stays still!"
+        ],
+        "correctAnswer": "Stay still!"
+    },
+    {
+        "question": "Choose the correct negative sentence with the verb Have Got.",
+        "answers": [
+            "I haven't any brothers or sisters.",
+            "I doesn't have any brothers or sisters.",
+            "I haven't got any brothers or sisters.",
+            "I don't have got any brothers or sisters."
+        ],
+        "correctAnswer": "I haven't got any brothers or sisters."
+    },
+    {
+        "question": "Choose the correct option in the Present Perfect Simple:",
+        "answers": [
+            "She has forgot her phone number.",
+            "She has forget her phone number.",
+            "She have forgot her phone number.",
+            "She has forgotten her phone number."
+        ],
+        "correctAnswer": "She has forgotten her phone number."
+    },
+    {
+        "question": "Choose the correct option with the Past Simple:",
+        "answers": [
+            "I works in a supermarket.",
+            "I did work in a supermarket.",
+            "I worked in a supermarket.",
+            "I working in a supermarket."
+        ],
+        "correctAnswer": "I worked in a supermarket."
+    },
+    {
+        "question": "Choose the correct option:",
+        "answers": [
+            "They making any progress right now.",
+            "They aren't making any progress right now.",
+            "They aren't any progress right now.",
+            "They don't make any progress right now."
+        ],
+        "correctAnswer": "They aren't making any progress right now."
+    },
+    {
+        "question": "Choose the correct option:",
+        "answers": [
+            "She isn't like fast food.",
+            "She doesn't like fast food.",
+            "She don't like fast food.",
+            "She doesn't liking fast food."
+        ],
+        "correctAnswer": "She doesn't like fast food."
+    },
+    {
+        "question": "Choose the correct option:",
+        "answers": [
+            "David were gave me this bike.",
+            "I were given this bike from David.",
+            "This bike was given to me by David..",
+            "All the answers are correct."
+        ],
+        "correctAnswer": "This bike was given to me by David.."
+    },
+    {
+        "question": "Choose the correct option:",
+        "answers": [
+            "She is to old to vote.",
+            "She is old enough to vote.",
+            "She is enough old to vote.",
+            "She is old too vote."
+        ],
+        "correctAnswer": "She is old enough to vote."
+    },
+    {
+        "question": "Choose the correct sentence with the verb To Be in the past:",
+        "answers": [
+            "I were on the beach.",
+            "I weren't on the beach.",
+            "I was on the beach.",
+            "I is in the beach."
+        ],
+        "correctAnswer": "I was on the beach."
+    },
+    {
+        "question": "Choose the correct sentence with the verb To Be in the present:",
+        "answers": [
+            "He were a very good worker.",
+            "He are a very good worker.",
+            "He am a very good worker.",
+            "He is a very good worker."
+        ],
+        "correctAnswer": "He is a very good worker."
+    },
+    {
+        "question": "Choose the option that is used to invite people:",
+        "answers": [
+            "Yes, that sounds great!",
+            "Why don't we go to the cinema tonight?",
+            "I am afraid that I can't go with you tomorrow.",
+            "I would love to!"
+        ],
+        "correctAnswer": "Why don't we go to the cinema tonight?"
+    },
+    {
+        "question": "Choose the right option of Reported Speech: \"She worked the whole day yesterday\"",
+        "answers": [
+            "She said that she works the whole day yesterday.",
+            "She told that she had worked the whole day yesterday.",
+            "She said that she had worked the whole day the day before.",
+            "She said that she had worked the whole day yesterday."
+        ],
+        "correctAnswer": "She said that she had worked the whole day the day before."
+    },
+    {
+        "question": "Choose the sentence without any mistake.",
+        "answers": [
+            "If she has a blood test, she knew if there is a problem.",
+            "If she has a blood test, she know if there is a problem.",
+            "If she have a blood test, she will know if there is a problem.",
+            "If she has a blood test, she will know if there is a problem."
+        ],
+        "correctAnswer": "If she has a blood test, she will know if there is a problem."
+    },
+    {
+        "question": "Complete the sentence choosing the correct option. Right now, I am using my ___________ car because mine is broken.",
+        "answers": [
+            "father's",
+            "fathers's",
+            "fathers",
+            "father'"
+        ],
+        "correctAnswer": "father's"
+    },
+    {
+        "question": "Complete the sentence choosing the right option: ________________ any documents on the desk?",
+        "answers": [
+            "There is",
+            "Are there",
+            "There are",
+            "Is there"
+        ],
+        "correctAnswer": "Are there"
+    },
+    {
+        "question": "Complete the sentence with the correct conditional: \"If I _______ you, I_________ a new car\".",
+        "answers": [
+            "were/would buy",
+            "would be / would buy",
+            "am / would buy",
+            "were / buy"
+        ],
+        "correctAnswer": "were/would buy"
+    },
+    {
+        "question": "Complete the sentence with the correct demonstrative: \"Can you pass me _______ pencils over there, please?\"",
+        "answers": [
+            "this",
+            "that",
+            "these",
+            "those"
+        ],
+        "correctAnswer": "those"
+    },
+    {
+        "question": "Complete the sentence with the correct Future expression: \"I'm sure she____ pass the test\"",
+        "answers": [
+            "am going to",
+            "passes",
+            "will",
+            "are going to"
+        ],
+        "correctAnswer": "will"
+    },
+    {
+        "question": "Complete the sentence with the correct options: \"What______ about with the employee when I_________?\"",
+        "answers": [
+            "were you talking / arrived",
+            "you were talking / was arriving",
+            "did you talk / was arriving",
+            "you talked / arrived"
+        ],
+        "correctAnswer": "were you talking / arrived"
+    },
+    {
+        "question": "Complete the sentence with the Superlative form: \"This car is the___________ and the _______ option.\"",
+        "answers": [
+            "best / cheapest",
+            "better / cheaper",
+            "best / cheaper",
+            "better / cheapest"
+        ],
+        "correctAnswer": "best / cheapest"
+    },
+    {
+        "question": "Complete the sentence; \"There are_______ appointments for the endocrinologist's practice, but we have ______ time to go to the hospital.\"",
+        "answers": [
+            "many/little",
+            "much/little",
+            "many/few",
+            "many/a few"
+        ],
+        "correctAnswer": "many/little"
+    },
+    {
+        "question": "Complete the sentence: \"I am having my blood test ________.\"",
+        "answers": [
+            "Done.",
+            "Do.",
+            "Doing.",
+            "Does."
+        ],
+        "correctAnswer": "Done."
+    },
+    {
+        "question": "Complete the sentence: \"I don't like going to the gym____ the mornings because I prefer going______ nights.\"",
+        "answers": [
+            "in/at",
+            "at/in",
+            "at/on",
+            "on/on"
+        ],
+        "correctAnswer": "in/at"
+    },
+    {
+        "question": "Complete the sentence: \"I turned__________ and saw that someone was following me.\"",
+        "answers": [
+            "down",
+            "along",
+            "around",
+            "from"
+        ],
+        "correctAnswer": "around"
+    },
+    {
+        "question": "Complete the sentence. \"He is the worker __________ father is a cardiologist.\"",
+        "answers": [
+            "who",
+            "which",
+            "whose",
+            "that"
+        ],
+        "correctAnswer": "whose"
+    },
+    {
+        "question": "How is anthrax transmitted?",
+        "answers": [
+            "By airborne transmission",
+            "By animal to people",
+            "By pollute soil.",
+            "By polluted food and water"
+        ],
+        "correctAnswer": "By animal to people"
+    },
+    {
+        "question": "Physical disinfectants include:",
+        "answers": [
+            "Heal sterilisation, ultraviolet light, and chlorine compounds.",
+            "Alcohols, iodine preparations, and membrane filtration.",
+            "Ultraviolet light, infrared radiation, and heat decontamination.",
+            "Microwaves, gamma radiation, and chlorine compounds."
+        ],
+        "correctAnswer": "Ultraviolet light, infrared radiation, and heat decontamination."
+    },
+    {
+        "question": "She has _________ finished her vocational course.",
+        "answers": [
+            "yet",
+            "for",
+            "since",
+            "already"
+        ],
+        "correctAnswer": "already"
+    },
+    {
+        "question": "The different types of pathogens are:",
+        "answers": [
+            "viruses, bacteria, fungi, and parasites",
+            "viruses, bacteria, proteins, and parasites",
+            "viruses, bacterial infections, fungi, and parasites",
+            "infections, bacteria, fungi, and parasites"
+        ],
+        "correctAnswer": "viruses, bacteria, fungi, and parasites"
+    },
+    {
+        "question": "There are many syringes_______ the table.",
+        "answers": [
+            "in",
+            "on",
+            "between",
+            "at"
+        ],
+        "correctAnswer": "on"
+    },
+    {
+        "question": "What can we consider as laboratory supplies?",
+        "answers": [
+            "Block digesters.",
+            "Lab coats.",
+            "Pippetes.",
+            "Funnels."
+        ],
+        "correctAnswer": "Lab coats."
+    },
+    {
+        "question": "What disease is caused only by a virus?",
+        "answers": [
+            "Meningitis",
+            "Ringworm",
+            "Intestinal worms",
+            "Measles"
+        ],
+        "correctAnswer": "Measles"
+    },
+    {
+        "question": "What is a mammography?",
+        "answers": [
+            "A large magnet and radio wase to look at organs inside the body.",
+            "Electromagnetic waves are used to take images of denser objects.",
+            "Radioactive isotopes used to see structures and functions inside the body.",
+            "It is a specific kind of breast picture which uses low-dose X-rays."
+        ],
+        "correctAnswer": "It is a specific kind of breast picture which uses low-dose X-rays."
+    },
+    {
+        "question": "What is the comparative and superlative of the adjective good?",
+        "answers": [
+            "Gooder/the best.",
+            "Gooder/the goodest.",
+            "Better/the best.",
+            "Better/best."
+        ],
+        "correctAnswer": "Better/the best."
+    },
+    {
+        "question": "What time does the clinic open tomorrow?",
+        "answers": [
+            "It will open a t 9 a.m.",
+            "It opens at 9 a.m.",
+            "It is going to open at 9 a.m.",
+            "It is opening at 9 a.m."
+        ],
+        "correctAnswer": "It opens at 9 a.m."
+    },
+    {
+        "question": "Which is the right answer?",
+        "answers": [
+            "You must come to the meeting.",
+            "You can coming to the meeting.",
+            "You shoulds come to the meeting.",
+            "You ought to comes to the meeting."
+        ],
+        "correctAnswer": "You must come to the meeting."
+    },
+    {
+        "question": "Which is the right answer?",
+        "answers": [
+            "Robin had got several analytical laboratories in the city.",
+            "Robin didn´t have several analytical laboratories in the city.",
+            "Robin have got several analytical laboratories in the city.",
+            "Robin didn´t had got several analytical laboratories in the city."
+        ],
+        "correctAnswer": "Robin didn´t have several analytical laboratories in the city."
+    },
+    {
+        "question": "Which is the right answer?",
+        "answers": [
+            "Mikel is such an interesting and amazed person.",
+            "Mikel is such an interesting and amazing person.",
+            "Mikel is such an interested and amazed person.",
+            "Mikel is such an interested and amazing person."
+        ],
+        "correctAnswer": "Mikel is such an interesting and amazing person."
+    },
+    {
+        "question": "Why are you turning on the autoclave?",
+        "answers": [
+            "I'm going to sterilise the instrumentation for tomorrow.",
+            "I will sterilise the instrumentation for tomorrow.",
+            "I sterilising the instrumentation for tomorrow.",
+            "I sterilise the instrumentation for tomorrow."
+        ],
+        "correctAnswer": "I'm going to sterilise the instrumentation for tomorrow."
     }
 ]
