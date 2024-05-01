@@ -25,20 +25,10 @@
         "answers": [
             "She were a very good scientist.",
             "She are a very good scientist.",
-            "She am a very good scientist",
+            "She am a very good scientist.",
             "She is a very good scientist."
         ],
         "correctAnswer": "She is a very good scientist."
-    },
-    {
-        "question": "Choose the sentence without any mistake.",
-        "answers": [
-            "Mary always wash her teeth with eco-friendly toothbrushes.",
-            "Mary wash always her teeth with eco-friendly toothbrushes.",
-            "Mary usually washs her teeth with eco-friendly toothbrushes.",
-            "Mary usually always washes her teeth with eco-friendly toothbrushes."
-        ],
-        "correctAnswer": "Mary usually always washes her teeth with eco-friendly toothbrushes."
     },
     {
         "question": "Complete the sentence: “I don´t like going to the gym ____ the mornings because I prefer going _____ nights.”",
@@ -149,16 +139,6 @@
             "Higher/cheap."
         ],
         "correctAnswer": "Higher/cheaper."
-    },
-    {
-        "question": "There are many syringes ______ the table.",
-        "answers": [
-            "in",
-            "on",
-            "between",
-            "at"
-        ],
-        "correctAnswer": "on"
     },
     {
         "question": "What does PPE stand for?",
