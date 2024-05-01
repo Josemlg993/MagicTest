@@ -281,7 +281,7 @@
         "correctAnswer": "would have repaired / had received."
     },
     {
-        "question": "Complete the sentence: “There are _____ appointments for the endocrinologist's practice, but we have ______ time to go to the hospital.”",
+        "question": "Complete the sentence: “There are _____ appointments for the endocrinologist´s practice, but we have ______ time to go to the hospital.”",
         "answers": [
             "many/little",
             "much/little",
@@ -503,12 +503,12 @@
     {
         "question": "Choose the correct negative sentence with the verb Have Got.",
         "answers": [
-            "I haven't any brothers or sisters.",
-            "I doesn't have any brothers or sisters.",
-            "I haven't got any brothers or sisters.",
-            "I don't have got any brothers or sisters."
+            "I haven´t any brothers or sisters.",
+            "I doesn´t have any brothers or sisters.",
+            "I haven´t got any brothers or sisters.",
+            "I don´t have got any brothers or sisters."
         ],
-        "correctAnswer": "I haven't got any brothers or sisters."
+        "correctAnswer": "I haven´t got any brothers or sisters."
     },
     {
         "question": "Choose the correct option in the Present Perfect Simple:",
@@ -534,21 +534,21 @@
         "question": "Choose the correct option:",
         "answers": [
             "They making any progress right now.",
-            "They aren't making any progress right now.",
-            "They aren't any progress right now.",
-            "They don't make any progress right now."
+            "They aren´t making any progress right now.",
+            "They aren´t any progress right now.",
+            "They don´t make any progress right now."
         ],
-        "correctAnswer": "They aren't making any progress right now."
+        "correctAnswer": "They aren´t making any progress right now."
     },
     {
         "question": "Choose the correct option:",
         "answers": [
-            "She isn't like fast food.",
-            "She doesn't like fast food.",
-            "She don't like fast food.",
-            "She doesn't liking fast food."
+            "She isn´t like fast food.",
+            "She doesn´t like fast food.",
+            "She don´t like fast food.",
+            "She doesn´t liking fast food."
         ],
-        "correctAnswer": "She doesn't like fast food."
+        "correctAnswer": "She doesn´t like fast food."
     },
     {
         "question": "Choose the correct option:",
@@ -574,7 +574,7 @@
         "question": "Choose the correct sentence with the verb To Be in the past:",
         "answers": [
             "I were on the beach.",
-            "I weren't on the beach.",
+            "I weren´t on the beach.",
             "I was on the beach.",
             "I is in the beach."
         ],
@@ -594,11 +594,11 @@
         "question": "Choose the option that is used to invite people:",
         "answers": [
             "Yes, that sounds great!",
-            "Why don't we go to the cinema tonight?",
-            "I am afraid that I can't go with you tomorrow.",
+            "Why don´t we go to the cinema tonight?",
+            "I am afraid that I can´t go with you tomorrow.",
             "I would love to!"
         ],
-        "correctAnswer": "Why don't we go to the cinema tonight?"
+        "correctAnswer": "Why don´t we go to the cinema tonight?"
     },
     {
         "question": "Choose the right option of Reported Speech: \"She worked the whole day yesterday\"",
@@ -623,12 +623,12 @@
     {
         "question": "Complete the sentence choosing the correct option. Right now, I am using my ___________ car because mine is broken.",
         "answers": [
-            "father's",
-            "fathers's",
+            "father´s",
+            "fathers´s",
             "fathers",
-            "father'"
+            "father´"
         ],
-        "correctAnswer": "father's"
+        "correctAnswer": "father´s"
     },
     {
         "question": "Complete the sentence choosing the right option: ________________ any documents on the desk?",
@@ -661,7 +661,7 @@
         "correctAnswer": "those"
     },
     {
-        "question": "Complete the sentence with the correct Future expression: \"I'm sure she____ pass the test\"",
+        "question": "Complete the sentence with the correct Future expression: \"I´m sure she____ pass the test\"",
         "answers": [
             "am going to",
             "passes",
@@ -691,7 +691,7 @@
         "correctAnswer": "best / cheapest"
     },
     {
-        "question": "Complete the sentence; \"There are_______ appointments for the endocrinologist's practice, but we have ______ time to go to the hospital.\"",
+        "question": "Complete the sentence; \"There are_______ appointments for the endocrinologist´s practice, but we have ______ time to go to the hospital.\"",
         "answers": [
             "many/little",
             "much/little",
@@ -711,7 +711,7 @@
         "correctAnswer": "Done."
     },
     {
-        "question": "Complete the sentence: \"I don't like going to the gym____ the mornings because I prefer going______ nights.\"",
+        "question": "Complete the sentence: \"I don´t like going to the gym____ the mornings because I prefer going______ nights.\"",
         "answers": [
             "in/at",
             "at/in",
@@ -873,11 +873,11 @@
     {
         "question": "Why are you turning on the autoclave?",
         "answers": [
-            "I'm going to sterilise the instrumentation for tomorrow.",
+            "I´m going to sterilise the instrumentation for tomorrow.",
             "I will sterilise the instrumentation for tomorrow.",
             "I sterilising the instrumentation for tomorrow.",
             "I sterilise the instrumentation for tomorrow."
         ],
-        "correctAnswer": "I'm going to sterilise the instrumentation for tomorrow."
+        "correctAnswer": "I´m going to sterilise the instrumentation for tomorrow."
     }
 ]
