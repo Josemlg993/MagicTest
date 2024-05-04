@@ -930,16 +930,6 @@
         "correctAnswer": "Hemograma"
     },
     {
-        "question": "¿Cómo se llama la técnica mediante la cual se reparten los elementos presentes sobre un soporte de observación formando una capa fina y así evitando que se solapen unos sobre otros?",
-        "answers": [
-            "Extensión sanguínea",
-            "Extensión hematológica",
-            "Frotación sanguínea",
-            "Todas son correctas."
-        ],
-        "correctAnswer": "Extensión sanguínea"
-    },
-    {
         "question": "¿Con qué nombre conocemos al conjunto de los componentes celulares de la sangre?",
         "answers": [
             "Hemocélulas",
