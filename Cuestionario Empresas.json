@@ -790,16 +790,6 @@
         "correctAnswer": "El presupuesto"
     },
     {
-        "question": "Cuando en el mercado solo existe un vendedor y muchos compradores, se tiene una estructura de:",
-        "answers": [
-            "Monopolio de demanda",
-            "Oligopolio de demanda",
-            "Monopolio de oferta",
-            "Competencia perfecta"
-        ],
-        "correctAnswer": "Monopolio de oferta"
-    },
-    {
         "question": "Cuando una empresa trata de brindar a un producto una calidad que dé al cliente cierta ventaja con respecto al resto de productos, está aplicando una estrategia de:",
         "answers": [
             "Estrategia de diversificación",
@@ -808,36 +798,6 @@
             "Estrategia de enfoque"
         ],
         "correctAnswer": "Estrategia de diferenciación"
-    },
-    {
-        "question": "Cuando una empresa trata de dirigir todas las acciones a un segmento del mercado en específico, está aplicando una estrategia de:",
-        "answers": [
-            "Estrategia de diversificación",
-            "Estrategia de diferenciación",
-            "Estrategia de costes",
-            "Estrategia de enfoque"
-        ],
-        "correctAnswer": "Estrategia de enfoque"
-    },
-    {
-        "question": "Determinar hacia dónde se dirigirá la empresa, qué futuro tiene, qué se debe desarrollar y cuáles son los mercados que va a abordar, queda definido en:",
-        "answers": [
-            "La misión de la empresa",
-            "La visión de la empresa.",
-            "La responsabilidad corporativa.",
-            "B y C son correctas."
-        ],
-        "correctAnswer": "La visión de la empresa."
-    },
-    {
-        "question": "El análisis DAFO pretende realizar una evaluación tanto del entorno externo como interno. Señala la afirmación correcta:",
-        "answers": [
-            "Las fortalezas hacen referencia a aspectos externos a la organización y las debilidades a aspectos internos",
-            "Las fortalezas hacen referencia a aspectos internos a la organización y las debilidades a aspectos externos",
-            "Las fortalezas y las debilidades hacen referencia a aspectos externos de la organización",
-            "Las fortalezas y las debilidades hacen referencia a aspectos internos de la organización"
-        ],
-        "correctAnswer": "Las fortalezas y las debilidades hacen referencia a aspectos internos de la organización"
     },
     {
         "question": "El capital se divide en acciones y las conforman las aportaciones de los socios, corresponde con:",
