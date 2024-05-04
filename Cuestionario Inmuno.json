@@ -1070,6 +1070,7 @@
     },
     {
         "question": "¿Qué tipo de HLA se muestra en la siguiente imagen?:",
+        "image": "https://josemlg993.github.io/MagicTest/HLA II.png",
         "answers": [
             "I",
             "II",
