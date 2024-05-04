@@ -61,16 +61,6 @@
         "correctAnswer": "Wasn´t and weren´t."
     },
     {
-        "question": "What can we consider as laboratory supplies?",
-        "answers": [
-            "Block digesters.",
-            "Lab coats.",
-            "Pippetes.",
-            "Funnels."
-        ],
-        "correctAnswer": "Lab coats."
-    },
-    {
         "question": "What is a crucible?",
         "answers": [
             "It is a heat-resistant receptacle to keep gases when they are heated to low temperatures.",
@@ -109,26 +99,6 @@
             "did the technician tell/come"
         ],
         "correctAnswer": "did the technician tell/came"
-    },
-    {
-        "question": "Physical disinfectants include:",
-        "answers": [
-            "Heal sterilisation, ultraviolet light, and chlorine compounds.",
-            "Alcohols, iodine preparations, and membrane filtration.",
-            "Ultraviolet light, infrared radiation, and heat decontamination.",
-            "Microwaves, gamma radiation, and chlorine compounds."
-        ],
-        "correctAnswer": "Ultraviolet light, infrared radiation, and heat decontamination."
-    },
-    {
-        "question": "She has __________________ finished her vocational course.",
-        "answers": [
-            "yet",
-            "for",
-            "since",
-            "already"
-        ],
-        "correctAnswer": "already"
     },
     {
         "question": "The price of disinfectants is ___________ than it was last year when it was ___________.",
@@ -291,16 +261,6 @@
         "correctAnswer": "many/little"
     },
     {
-        "question": "Complete the sentence. “He is the worker __________ father is a cardiologist.”",
-        "answers": [
-            "who",
-            "which",
-            "whose",
-            "that"
-        ],
-        "correctAnswer": "whose"
-    },
-    {
         "question": "What does a chaplain do?",
         "answers": [
             "The chaplain comforts relatives.",
@@ -429,16 +389,6 @@
             "I had my blood tested."
         ],
         "correctAnswer": "I had my blood tested."
-    },
-    {
-        "question": "Complete the sentence: “I am having my blood test_____________ .”",
-        "answers": [
-            "done",
-            "do",
-            "doing",
-            "does"
-        ],
-        "correctAnswer": "done"
     },
     {
         "question": "Complete the sentence: “This new summer diet will be ______________ next week.”",
@@ -691,16 +641,6 @@
         "correctAnswer": "best / cheapest"
     },
     {
-        "question": "Complete the sentence; \"There are_______ appointments for the endocrinologist´s practice, but we have ______ time to go to the hospital.\"",
-        "answers": [
-            "many/little",
-            "much/little",
-            "many/few",
-            "many/a few"
-        ],
-        "correctAnswer": "many/little"
-    },
-    {
         "question": "Complete the sentence: \"I am having my blood test ________.\"",
         "answers": [
             "Done.",
@@ -709,16 +649,6 @@
             "Does."
         ],
         "correctAnswer": "Done."
-    },
-    {
-        "question": "Complete the sentence: \"I don´t like going to the gym____ the mornings because I prefer going______ nights.\"",
-        "answers": [
-            "in/at",
-            "at/in",
-            "at/on",
-            "on/on"
-        ],
-        "correctAnswer": "in/at"
     },
     {
         "question": "Complete the sentence: \"I turned__________ and saw that someone was following me.\"",
