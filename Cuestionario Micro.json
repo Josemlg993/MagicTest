@@ -430,16 +430,6 @@
         "correctAnswer": "Bacillus"
     },
     {
-        "question": "¿Cuál de los siguientes géneros no es cultivable en laboratorio?",
-        "answers": [
-            "Chlamydia",
-            "Haemophylus",
-            "Yersinia",
-            "Ninguna es cultivable"
-        ],
-        "correctAnswer": "Chlamydia"
-    },
-    {
         "question": "¿En cuál de los siguientes grupos se incluyen bacterias que forman parte de nuestra flora intestinal?",
         "answers": [
             "Enterobacterias",
