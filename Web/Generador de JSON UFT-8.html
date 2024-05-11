@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Generador JSON</title>
+    </head>
+<body>
+  <h1>Generador JSON</h1>
+  <p>Pega tu texto aquí:</p>
+  <textarea id="texto" rows="20" cols="50"></textarea><br>
+  <button onclick="subirArchivo()">Generar JSON</button>
+  <pre id="resultado"></pre>
+</body>
+<script>
+    
+  function generarJSON() {
+    var texto = document.getElementById('texto').value.trim();
+    
+    // Dividir el texto en bloques por líneas vacías
+    var bloques = texto.split("\n\n");
+    
+    var preguntas = [];
+    
+    // Iterar sobre cada bloque de texto
+    bloques.forEach(function(bloque) {
+        var lineas = bloque.split("\n").filter(function(linea) {
+            return linea.trim() !== ""; // Filtrar líneas vacías
+        });
+        
+        // Verificar si el bloque cumple con los requisitos mínimos
+        if (lineas.length >= 3) { // Al menos una pregunta y una respuesta correcta
+            var nuevaPregunta = {
+                question: lineas[0].trim(), // La primera línea es la pregunta
+                answers: [], // Inicializar array de respuestas
+                correctAnswer: lineas[lineas.length - 1].trim() // La última línea es la respuesta correcta
+            };
+            
+            // Agregar respuestas al array, excepto la última línea que es la respuesta correcta
+            for (var i = 1; i < lineas.length - 1; i++) {
+                nuevaPregunta.answers.push(lineas[i].trim());
+            }
+            
+            preguntas.push(nuevaPregunta);
+        }
+    });
+    
+    // Construir el JSON final
+    var json = JSON.stringify(preguntas, null, 4);
+    
+    // Mostrar el JSON generado
+    document.getElementById('resultado').innerText = json;
+  }
+        // Configura tu proyecto de Firebase
+        const firebaseConfig = {
+            apiKey: "AIzaSyD4BlVmfZEj-5JhT44dqSaGo5Tt-pxt8lI",
+            authDomain: "magic-test-d4241.firebaseapp.com",
+            projectId: "magic-test-d4241",
+            storageBucket: "magic-test-d4241.appspot.com",
+            messagingSenderId: "672187917157",
+            appId: "1:672187917157:web:d80ac2d24681d5e45c3777"
+        };
+        
+        // Inicializa Firebase
+        firebase.initializeApp(firebaseConfig);
+
+        // Función para subir un archivo
+        function subirArchivo() {
+            // Obtiene el archivo seleccionado por el usuario
+            const file = document.getElementById('fileInput').files[0];
+            
+            // Crea una referencia al archivo en Firebase Storage
+            const storageRef = firebase.storage().ref('archivos/' + file.name);
+            
+            // Sube el archivo a Firebase Storage
+            const uploadTask = storageRef.put(file);
+            
+            // Maneja el éxito o el fallo de la carga
+            uploadTask.then(snapshot => {
+                console.log('Archivo subido exitosamente');
+            }).catch(error => {
+                console.error('Error al subir el archivo', error);
+            });
+        }
+</script>
+
+</html>
