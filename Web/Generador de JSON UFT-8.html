@@ -12,8 +12,7 @@
     <input type="text" id="nombreCuestionario"><br>
     <p>Pega tu texto aquí:</p>
     <textarea id="texto" rows="20" cols="50"></textarea><br>
-    <button onclick="generarJSON()">Generar JSON</button>
-    <pre id="resultado"></pre>
+    <button onclick="generarYSubirJSON()">Generar y Subir JSON</button>
 
     <!-- Agrega un campo de entrada de archivos -->
     <input type="file" id="fileInput">
@@ -33,7 +32,7 @@
     // Inicializa Firebase
     firebase.initializeApp(firebaseConfig);
 
-    function generarJSON() {
+    function generarYSubirJSON() {
         var nombreCuestionario = document.getElementById('nombreCuestionario').value.trim(); // Obtener el nombre del cuestionario
         var texto = document.getElementById('texto').value.trim();
 
@@ -67,9 +66,6 @@
 
         // Construir el JSON final
         var json = JSON.stringify(preguntas, null, 4);
-
-        // Mostrar el JSON generado
-        document.getElementById('resultado').innerText = json;
 
         // Subir el JSON a Firebase Storage
         var storageRef = firebase.storage().ref('cuestionarios/' + nombreCuestionario + '.json');
