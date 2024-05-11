@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi página de cuestionarios</title>
+    <title>Magic Test</title>
     <link rel="stylesheet">
     <!-- Agrega la biblioteca de Firebase -->
     <script src="https://www.gstatic.com/firebasejs/9.4.0/firebase-app.js"></script>
@@ -46,7 +46,8 @@
                 <!-- Aquí puedes colocar los elementos del filtro -->
             </div>
             <div class="header-buttons">
-                <button type="button">Crear Cuestionario</button>
+                <!-- Agrega un evento onclick para redirigir al usuario -->
+                <button type="button" onclick="abrirGenerador()">Crear Cuestionario</button>
             </div>
         </div>
     </header>
@@ -76,23 +77,10 @@
         // Inicializa Firebase
         firebase.initializeApp(firebaseConfig);
 
-        // Función para subir un archivo
-        function subirArchivo() {
-            // Obtiene el archivo seleccionado por el usuario
-            const file = document.getElementById('fileInput').files[0];
-            
-            // Crea una referencia al archivo en Firebase Storage
-            const storageRef = firebase.storage().ref('archivos/' + file.name);
-            
-            // Sube el archivo a Firebase Storage
-            const uploadTask = storageRef.put(file);
-            
-            // Maneja el éxito o el fallo de la carga
-            uploadTask.then(snapshot => {
-                console.log('Archivo subido exitosamente');
-            }).catch(error => {
-                console.error('Error al subir el archivo', error);
-            });
+        // Función para abrir el generador de cuestionarios
+        function abrirGenerador() {
+            // Redirige al usuario a la URL del generador de cuestionarios
+            window.location.href = "https://josemlg993.github.io/MagicTest/Web/Generador%20de%20JSON%20UFT-8.html";
         }
     </script>
 </html>
