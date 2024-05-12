@@ -1148,17 +1148,7 @@
             "Hay más de una respuesta correcta"
         ],
         "correctAnswer": "Hay más de una respuesta correcta"
-    },
-    {
-        "question": "En condiciones normales, la concentración de orina en el plasma debe ser de:",
-        "answers": [
-            "15-24 mg/dL",
-            "12-54 mg/dL",
-            "18-68 mg/dL",
-            "20-75 mg/dL"
-        ],
-        "correctAnswer": "12-54 mg/dL"
-    },
+    },
     {
         "question": "En cuanto al ácido láctico es cierto que:",
         "answers": [
