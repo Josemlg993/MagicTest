@@ -160,16 +160,6 @@
         "correctAnswer": "Preparación de la mezcla"
     },
     {
-        "question": "Los carragenatos y alginatos son factores...:",
-        "answers": [
-            "De crecimento",
-            "De arranque",
-            "Inhibidores",
-            "Solidificantes"
-        ],
-        "correctAnswer": "Solidificantes"
-    },
-    {
         "question": "¿Cuál de los siguientes no es un componente básico de los medios de cultivo?",
         "answers": [
             "Fuente de Carbono",
@@ -770,16 +760,6 @@
         "correctAnswer": "Todas las anteriores son correctas"
     },
     {
-        "question": "Los tejidos y órganos deben eliminarse mediante:",
-        "answers": [
-            "Autoclave",
-            "Incineración",
-            "Descontaminación química",
-            "Todas las anteriores son correctas"
-        ],
-        "correctAnswer": "Incineración"
-    },
-    {
         "question": "Una cabina de bioseguridad herméticamente cerrada, con guantes de goma adheridos y sellados para la manipulación de las muestras, es de nivel:",
         "answers": [
             "I",
@@ -800,16 +780,6 @@
         "correctAnswer": "Cabinas de seguridad biológica"
     },
     {
-        "question": "¿Cuál de las siguientes no es una técnica de siembra de microorganismos?",
-        "answers": [
-            "Por extensión",
-            "Por picadura",
-            "Por agotamiento en estrías",
-            "Todas son técnicas de siembra"
-        ],
-        "correctAnswer": "Todas son técnicas de siembra"
-    },
-    {
         "question": "¿Cuál de los siguientes géneros no es cultivable en laboratorio?",
         "answers": [
             "Chlamydia",
@@ -818,16 +788,6 @@
             "Ninguna es cultivable"
         ],
         "correctAnswer": "Chlamydia"
-    },
-    {
-        "question": "¿Cuál de los siguientes microorganismos no se consideran como seres vivos?",
-        "answers": [
-            "Bacterias",
-            "Hongos",
-            "Parásitos",
-            "Virus"
-        ],
-        "correctAnswer": "Virus"
     },
     {
         "question": "Antes de realizar una tinción de una muestra bacteriana es necesario:",
@@ -848,16 +808,6 @@
             "Ninguna es correcta"
         ],
         "correctAnswer": "Por agotamiento en estrías en medio sólido"
-    },
-    {
-        "question": "El Agar Sabouraud es un medio selectivo para:",
-        "answers": [
-            "Coliformes",
-            "Virus",
-            "Hongos",
-            "Rickettsias"
-        ],
-        "correctAnswer": "Hongos"
     },
     {
         "question": "En cuanto a las enterobacterias es cierto que:",
@@ -949,16 +899,6 @@
         "correctAnswer": "Hay más de una respuesta correcta"
     },
     {
-        "question": "Las asas de Digralsky se utilizan para realizar siembras...:",
-        "answers": [
-            "Por agotamiento en estrías",
-            "En medios líquidos",
-            "Por picadura",
-            "Por extensión"
-        ],
-        "correctAnswer": "Por extensión"
-    },
-    {
         "question": "Las fases de la curva de crecimiento microbiano son:",
         "answers": [
             "Latencia, exponente, pausa y muerte",
@@ -989,16 +929,6 @@
         "correctAnswer": "Todas son correctas"
     },
     {
-        "question": "Los residuos microbiológicos pueden eliminarse mediante:",
-        "answers": [
-            "Autoclave",
-            "Incineración",
-            "Descontaminación química",
-            "Todas las anteriores son correctas"
-        ],
-        "correctAnswer": "Todas las anteriores son correctas"
-    },
-    {
         "question": "Los virus se pueden detectar mediante:",
         "answers": [
             "Citología e histología",
@@ -1007,26 +937,6 @@
             "Todas son correctas"
         ],
         "correctAnswer": "Todas son correctas"
-    },
-    {
-        "question": "Para detectar parásitos en sangre es habitual hacer tinciones:",
-        "answers": [
-            "De Gram",
-            "Con Giemsa",
-            "Con tinta china",
-            "Ninguna es correcta"
-        ],
-        "correctAnswer": "Con Giemsa"
-    },
-    {
-        "question": "Para poder confirmar los resultados de los cultivos de hongos, estos deben de incubarse:",
-        "answers": [
-            "De 7 a 14 días",
-            "De 14 a 21 días",
-            "De 21 a 30 días",
-            "De 30 a 40 días"
-        ],
-        "correctAnswer": "De 21 a 30 días"
     },
     {
         "question": "Son medidas de seguridad básicas en un laboratorio de microbiología:",
