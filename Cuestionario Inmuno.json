@@ -135,7 +135,7 @@
             "Tuberculosis",
             "Fiebres tifoideas",
             "Gonorrea",
-            "Todas son correctas"
+            "Todas son son correctas"
         ],
         "correctAnswer": "Todas son correctas"
     },
@@ -460,16 +460,6 @@
         "correctAnswer": "Prick tests"
     },
     {
-        "question": "En qué tipo de hipersensibilidades se forman complejos antígeno-anticuerpo circulantes que se depositan en los tejidos y activan a los fagocitos",
-        "answers": [
-            "I",
-            "II",
-            "III",
-            "IV"
-        ],
-        "correctAnswer": "III"
-    },
-    {
         "question": "Las perforaciones en los prick-tests se realizan mediante",
         "answers": [
             "Agujas hipodérmicas",
@@ -627,7 +617,7 @@
             "Peróxido de hidrógeno",
             "Todas son correctas."
         ],
-        "correctAnswer": "Todas son correctas."
+        "correctAnswer": "Todas son correctas"
     },
     {
         "question": "¿Qué técnica permite diferenciar fácilmente subpoblaciones de linfocitos T?",
@@ -829,36 +819,6 @@
         "correctAnswer": "Quedan retenidas las células a estudiar"
     },
     {
-        "question": "En la separación de componentes celulares de la sangre por Ficoll, las células más densas quedan…:",
-        "answers": [
-            "En la parte superior",
-            "En la parte inferior",
-            "En suspensión",
-            "Ninguna es correcta."
-        ],
-        "correctAnswer": "En la parte inferior"
-    },
-    {
-        "question": "En qué tipo de hipersensibilidades se produce un reconocimiento celular mediante linfocitos T",
-        "answers": [
-            "I",
-            "II",
-            "III",
-            "IV"
-        ],
-        "correctAnswer": "IV"
-    },
-    {
-        "question": "La segunda banda de la inmunocromatografía en capa fina indica",
-        "answers": [
-            "La presencia del antígeno",
-            "Control",
-            "La ausencia del antígeno",
-            "Presencia aloantígenos"
-        ],
-        "correctAnswer": "Control"
-    },
-    {
         "question": "Para asegurar que no han quedado células en el sistema de flujo de los citómetros, deberemos realizar…",
         "answers": [
             "Comprobaciones periódicas",
@@ -869,36 +829,6 @@
         "correctAnswer": "Lavados del sistema con soluciones especiales"
     },
     {
-        "question": "¿Cómo denominamos a la respuesta excesiva e inadecuada del sistema inmunológico frente a alérgenos o antígenos ambientales (ajenos) o propios, normalmente no patógenos?",
-        "answers": [
-            "Alergia",
-            "Hipersensibilidad",
-            "Reacción",
-            "Todas son correctas."
-        ],
-        "correctAnswer": "Hipersensibilidad"
-    },
-    {
-        "question": "¿Cómo denominamos al sistema molecular a partir del cual el sistema inmunitario determina si un elemento es propio o ajeno al organismo?",
-        "answers": [
-            "Complejo mayor de histocompatibilidad",
-            "Compuesto mayor de histocompatibilidad",
-            "Contexto mayor de histocompatibilidad",
-            "Consenso mayor de histocompatibilidad"
-        ],
-        "correctAnswer": "Complejo mayor de histocompatibilidad"
-    },
-    {
-        "question": "¿Cómo llamamos a los estudios basados en reacciones antígeno-anticuerpo (Ag-Ac) cuyo resultado no podemos apreciar de manera sencilla y directa y que requieren el uso de marcadores para su evaluación?",
-        "answers": [
-            "Inmunoensayos",
-            "Estudios inmunológicos",
-            "Inmunoestudios",
-            "Todas son correctas"
-        ],
-        "correctAnswer": "Inmunoensayos"
-    },
-    {
         "question": "¿Cuál de las siguientes funciones del complemento altera el equilibrio osmótico de las amenazas?",
         "answers": [
             "Opsonización",
@@ -907,16 +837,6 @@
             "Todas son incorrectas"
         ],
         "correctAnswer": "Formación de poros de membrana"
-    },
-    {
-        "question": "¿Cuál de los siguientes métodos no se utiliza para estudiar la funcionalidad de los linfocitos B?",
-        "answers": [
-            "Marcajes in vivo",
-            "Cuantificación de inmunoglobulinas",
-            "Citometría de flujo",
-            "Todas se utilizan"
-        ],
-        "correctAnswer": "Todas se utilizan"
     },
     {
         "question": "¿Cuál de los siguientes métodos permite eliminar las células que no nos interesan para su estudio mediante el sistema de complemento?",
@@ -959,16 +879,6 @@
         "correctAnswer": "Proliferación"
     },
     {
-        "question": "¿Qué enfermedad autoinmune produce manchas despigmentadas de color claro en la piel por la eliminación de los melanocitos?",
-        "answers": [
-            "Vitiligo",
-            "Esclerodermia",
-            "Psoriasis",
-            "Dermatitis"
-        ],
-        "correctAnswer": "Vitiligo"
-    },
-    {
         "question": "¿Qué nombre reciben los grupos de genes que, como el HLA, se transmiten como una sola unidad que determina un carácter?",
         "answers": [
             "Fenotipos",
@@ -979,16 +889,6 @@
         "correctAnswer": "Haplotipos"
     },
     {
-        "question": "¿Qué órgano no es esencial para nuestra supervivencia, pero mejora la inmunidad al acumular linfocitos B en su interior?",
-        "answers": [
-            "Bazo",
-            "Timo",
-            "Ganglios linfáticos",
-            "Todas las anteriores son incorrectas."
-        ],
-        "correctAnswer": "Bazo"
-    },
-    {
         "question": "¿Qué se determina mediante el test de Mantoux?",
         "answers": [
             "Si el paciente ha estado expuesto a Samonella Typhimurium",
@@ -997,16 +897,6 @@
             "Ninguna es correcta"
         ],
         "correctAnswer": "Si el paciente ha estado expuesto a Mycobacterium tuberculosis"
-    },
-    {
-        "question": "¿Qué signo nos indicará hipersensibilidad a una sustancia en las pruebas epicutáneas con parche?",
-        "answers": [
-            "La aparición de pápulas",
-            "La aparición de eritemas o eccemas",
-            "La aparición de inflamación",
-            "Todas son correctas"
-        ],
-        "correctAnswer": "La aparición de eritemas o eccemas"
     },
     {
         "question": "¿Qué técnica permite diferenciar fácilmente subpoblaciones de linfocitos T?",
@@ -1070,7 +960,6 @@
     },
     {
         "question": "¿Qué tipo de HLA se muestra en la siguiente imagen?:",
-        "image": "https://josemlg993.github.io/MagicTest/HLA II.png",
         "answers": [
             "I",
             "II",
@@ -1078,16 +967,6 @@
             "Ninguno"
         ],
         "correctAnswer": "II"
-    },
-    {
-        "question": "¿Qué tipo de inmunidad se lleva a cabo mediante anticuerpos?",
-        "answers": [
-            "Inmunidad inespecífica",
-            "Inmunidad celular",
-            "Inmunidad humoral",
-            "Todas son incorrectas."
-        ],
-        "correctAnswer": "Inmunidad humoral"
     },
     {
         "question": "¿Qué tipo de inmunoensayos requieren la separación de los componentes unidos a los anticuerpos?",
