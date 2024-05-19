@@ -830,16 +830,6 @@
         "correctAnswer": "Mary usually buys eco-friendly bulbs."
     },
     {
-        "question": "What is a power plant operator?",
-        "answers": [
-            "Someone who installs, maintains and repair electrical systems in industrial facilities.",
-            "Someone who repairs, adjust, or install all types of electric or gas household appliances.",
-            "Someone who controls, operates, and maintains machinery to generate electricity.",
-            "Someone who works for another to learn a trade."
-        ],
-        "correctAnswer": "Someone who controls, operates, and maintains machinery to generate electricity."
-    },
-    {
         "question": "Which is the right answer?",
         "answers": [
             "Robin had got several electronics repair shops in the city.",
@@ -848,16 +838,6 @@
             "Robin didn´t had got several electronics repair shops in the city."
         ],
         "correctAnswer": "Robin didn´t have several electronics repair shops in the city."
-    },
-    {
-        "question": "Which source is renewable?",
-        "answers": [
-            "Gas natural",
-            "Wind",
-            "Uranium",
-            "Coal"
-        ],
-        "correctAnswer": "Wind"
     },
     {
         "question": "Choose the right option. “How long _____________ in this factory?”",
@@ -900,16 +880,6 @@
         "correctAnswer": "higher/ cheaper"
     },
     {
-        "question": "What is a resistor?",
-        "answers": [
-            "It is an electrical component that limits or regulates the flow of electrical current in an electronic circuit.",
-            "It is semiconductor device that emits light when an electric current is passed through it.",
-            "It is an electronic component that is used to vary the amount of current that flows through a circuit.",
-            "It is an electronic circuit formed on a small piece of semiconducting material, which performs the same function as a larger circuit made from discrete components."
-        ],
-        "correctAnswer": "It is an electrical component that limits or regulates the flow of electrical current in an electronic circuit."
-    },
-    {
         "question": "What is the comparative and superlative of the adjective good?",
         "answers": [
             "gooder/ the best.",
@@ -950,16 +920,6 @@
         "correctAnswer": "Wash your hands before coming into this room!"
     },
     {
-        "question": "Which of the following is NOT a household appliance?",
-        "answers": [
-            "Sofa",
-            "Fridge",
-            "Dryer",
-            "Toaster"
-        ],
-        "correctAnswer": "Sofa"
-    },
-    {
         "question": "The workers looked __________ the window and saw the accident.",
         "answers": [
             "along",
@@ -988,26 +948,6 @@
             "Shiny goods."
         ],
         "correctAnswer": "Brown goods."
-    },
-    {
-        "question": "What is a socket?",
-        "answers": [
-            "It is the movable connector attached to an electrically operated device.",
-            "It is a small device which you can press or move up or down to turn a light or piece of electrical equipment on or off.",
-            "It is a replaceable component which is designed to create light.",
-            "It is fixed on equipment or a building structure and connected to an energized electrical circuit."
-        ],
-        "correctAnswer": "It is fixed on equipment or a building structure and connected to an energized electrical circuit."
-    },
-    {
-        "question": "What is the most efficient kind of bulbs?",
-        "answers": [
-            "Incandescent bulbs.",
-            "LEDs bulbs.",
-            "Halogen bulbs.",
-            "Fluorescent lamps."
-        ],
-        "correctAnswer": "LEDs bulbs."
     },
     {
         "question": "What time does the domestic appliance repair shop open tomorrow?",
@@ -1090,16 +1030,6 @@
         "correctAnswer": "wireless"
     },
     {
-        "question": "What is an aerial?",
-        "answers": [
-            "It is a structure made of glass that captures and/or transmits radio electromagnetic waves.",
-            "It is a structure made of metal that captures and/or transmits radio electromagnetic sounds.",
-            "It is a structure made of iron that captures and/or transmits radio electromagnetic images.",
-            "It is a structure made of metal that captures and/or transmits radio electromagnetic waves."
-        ],
-        "correctAnswer": "It is a structure made of metal that captures and/or transmits radio electromagnetic waves."
-    },
-    {
         "question": "Which is the right answer?",
         "answers": [
             "Mary have been given the plug.",
@@ -1159,54 +1089,4 @@
         ],
         "correctAnswer": "going to"
     },
-    {
-        "question": "What details must an EPC have?",
-        "answers": [
-            "Property address, property type, date of the inspection, certificate date and serial number, total floor area, information about a property´s energy use and energy costs and recommendations to reduce energy use and costs.",
-            "Property address, property type, certificate date and serial number, total floor area, information about a property´s energy use and energy costs and recommendations to reduce energy use and costs.",
-            "Property address, property type, date of the inspection, certificate date and serial number, information about a property´s energy use and energy costs, and recommendations to reduce energy use and costs.",
-            "Property address, property type, date of the inspection, certificate date and serial number, total floor area, information about a property´s energy use and energy costs"
-        ],
-        "correctAnswer": "Property address, property type, date of the inspection, certificate date and serial number, total floor area, information about a property´s energy use and energy costs and recommendations to reduce energy use and costs."
-    },
-    {
-        "question": "What does LAN mean?",
-        "answers": [
-            "It means Virtual Private Network.",
-            "It is Local Area Network.",
-            "It is a storage unit for data.",
-            "It is Solid State Drive"
-        ],
-        "correctAnswer": "It is Local Area Network."
-    },
-    {
-        "question": "What is home automation?",
-        "answers": [
-            "It is the automatic control of electronic devices at home.",
-            "It is the automatic control of electronic devices at work.",
-            "It is the automatic control of electronic devices at the gym.",
-            "It is the automatic control of electronic devices at hospitals"
-        ],
-        "correctAnswer": "It is the automatic control of electronic devices at home."
-    },
-    {
-        "question": "What is the hardware on a computer?",
-        "answers": [
-            "It is the set of instructions.",
-            "It is the data which the computer sends.",
-            "The physical components that a computer system needs to work.",
-            "A flow of electricity"
-        ],
-        "correctAnswer": "The physical components that a computer system needs to work."
-    },
-    {
-        "question": "Which tool is not a testing tool?",
-        "answers": [
-            "Multimeter",
-            "Electric solder",
-            "Wattmeter",
-            "Voltmeter"
-        ],
-        "correctAnswer": "Electric solder"
-    }
 ]
