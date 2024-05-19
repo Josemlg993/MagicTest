@@ -561,16 +561,6 @@
         "correctAnswer": "She said that she had worked the whole day the day before."
     },
     {
-        "question": "Choose the sentence without any mistake.",
-        "answers": [
-            "If she has a blood test, she knew if there is a problem.",
-            "If she has a blood test, she know if there is a problem.",
-            "If she have a blood test, she will know if there is a problem.",
-            "If she has a blood test, she will know if there is a problem."
-        ],
-        "correctAnswer": "If she has a blood test, she will know if there is a problem."
-    },
-    {
         "question": "Complete the sentence choosing the correct option. Right now, I am using my ___________ car because mine is broken.",
         "answers": [
             "father´s",
@@ -649,16 +639,6 @@
             "Does."
         ],
         "correctAnswer": "Done."
-    },
-    {
-        "question": "Complete the sentence: \"I turned__________ and saw that someone was following me.\"",
-        "answers": [
-            "down",
-            "along",
-            "around",
-            "from"
-        ],
-        "correctAnswer": "around"
     },
     {
         "question": "Complete the sentence. \"He is the worker __________ father is a cardiologist.\"",
@@ -809,5 +789,424 @@
             "I sterilise the instrumentation for tomorrow."
         ],
         "correctAnswer": "I´m going to sterilise the instrumentation for tomorrow."
+    },
+    {
+        "question": "Twice a week.",
+        "answers": [
+            "When Why",
+            "Which",
+            "How often"
+        ],
+        "correctAnswer": "How often"
+    },
+    {
+        "question": "Change into negative the following sentence: “She lives for learning Electrical and Automatic Installations.”",
+        "answers": [
+            "She don´t live for learning Electrical and Automatic Installations.",
+            "She doesn´t live for learning Electrical and Automatic Installations.",
+            "She doesn´t lives for learning Electrical and Automatic Installations.",
+            "She don´t lives for learning Electrical and Automatic Installations."
+        ],
+        "correctAnswer": "She doesn't live for learning Electrical and Automatic Installations."
+    },
+    {
+        "question": "Choose the correct option:",
+        "answers": [
+            "She were a very good electrician.",
+            "She are a very good electrician.",
+            "She am a very good electrician.",
+            "She is a very good electrician."
+        ],
+        "correctAnswer": "She is a very good electrician."
+    },
+    {
+        "question": "Choose the sentence without any mistake.",
+        "answers": [
+            "Mary usually buy eco-friendly bulbs.",
+            "Mary buy usually eco-friendly bulbs.",
+            "Mary usually buyes eco-friendly bulbs.",
+            "Mary usually buys eco-friendly bulbs."
+        ],
+        "correctAnswer": "Mary usually buys eco-friendly bulbs."
+    },
+    {
+        "question": "What is a power plant operator?",
+        "answers": [
+            "Someone who installs, maintains and repair electrical systems in industrial facilities.",
+            "Someone who repairs, adjust, or install all types of electric or gas household appliances.",
+            "Someone who controls, operates, and maintains machinery to generate electricity.",
+            "Someone who works for another to learn a trade."
+        ],
+        "correctAnswer": "Someone who controls, operates, and maintains machinery to generate electricity."
+    },
+    {
+        "question": "Which is the right answer?",
+        "answers": [
+            "Robin had got several electronics repair shops in the city.",
+            "Robin didn´t have several electronics repair shops in the city.",
+            "Robin have got several electronics repair shops in the city.",
+            "Robin didn´t had got several electronics repair shops in the city."
+        ],
+        "correctAnswer": "Robin didn´t have several electronics repair shops in the city."
+    },
+    {
+        "question": "Which source is renewable?",
+        "answers": [
+            "Gas natural",
+            "Wind",
+            "Uranium",
+            "Coal"
+        ],
+        "correctAnswer": "Wind"
+    },
+    {
+        "question": "Choose the right option. “How long _____________ in this factory?”",
+        "answers": [
+            "do you work",
+            "have you worked",
+            "did you work",
+            "has you worked"
+        ],
+        "correctAnswer": "have you worked"
+    },
+    {
+        "question": "Choose the right sentence:",
+        "answers": [
+            "The technician repaired the short circuit yesterday.",
+            "The technician didn´t repaired the short circuit yesterday.",
+            "The technician repair the short circuit yesterday.",
+            "The technician repairs the short circuit yesterday."
+        ],
+        "correctAnswer": "The technician repaired the short circuit yesterday."
+    },
+    {
+        "question": "Complete the sentence: “What _____________ you when I ___________?”",
+        "answers": [
+            "does the mechanic tell/ come",
+            "did the mechanic told/ came",
+            "did the mechanic tell/ came",
+            "did the mechanic tell/ come"
+        ],
+        "correctAnswer": "did the mechanic tell/ come"
+    },
+    {
+        "question": "The price of light is __________ than it was last year when it was _________.",
+        "answers": [
+            "higher/ cheaper",
+            "more high/ cheaper",
+            "high/ cheap",
+            "higher/ more cheap"
+        ],
+        "correctAnswer": "higher/ cheaper"
+    },
+    {
+        "question": "What is a resistor?",
+        "answers": [
+            "It is an electrical component that limits or regulates the flow of electrical current in an electronic circuit.",
+            "It is semiconductor device that emits light when an electric current is passed through it.",
+            "It is an electronic component that is used to vary the amount of current that flows through a circuit.",
+            "It is an electronic circuit formed on a small piece of semiconducting material, which performs the same function as a larger circuit made from discrete components."
+        ],
+        "correctAnswer": "It is an electrical component that limits or regulates the flow of electrical current in an electronic circuit."
+    },
+    {
+        "question": "What is the comparative and superlative of the adjective good?",
+        "answers": [
+            "gooder/ the best.",
+            "gooder/ the goodest.",
+            "better/ the best.",
+            "better/ best."
+        ],
+        "correctAnswer": "better/ the best."
+    },
+    {
+        "question": "Which sentence is right?",
+        "answers": [
+            "They were work in an electricity workshop.",
+            "They was working in an electricity workshop.",
+            "They working in an electricity workshop.",
+            "They were working in an electricity workshop."
+        ],
+        "correctAnswer": "They were working in an electricity workshop."
+    },
+    {
+        "question": "_______ are my new pliers which I bought in ______ hardware in the city centre.",
+        "answers": [
+            "These/ that",
+            "Those/ this",
+            "These/ these",
+            "Those/these"
+        ],
+        "correctAnswer": "Those/ this"
+    },
+    {
+        "question": "Change the following sentence to the imperative: “It´s compulsory to wash your hands before coming into this room.”",
+        "answers": [
+            "Washes your hands before coming into this room!",
+            "Do wash your hands before coming into this room!",
+            "Wash your hands before coming into this room!",
+            "All the answers are right."
+        ],
+        "correctAnswer": "Wash your hands before coming into this room!"
+    },
+    {
+        "question": "Which of the following is NOT a household appliance?",
+        "answers": [
+            "Sofa",
+            "Fridge",
+            "Dryer",
+            "Toaster"
+        ],
+        "correctAnswer": "Sofa"
+    },
+    {
+        "question": "The workers looked __________ the window and saw the accident.",
+        "answers": [
+            "along",
+            "across",
+            "around",
+            "through"
+        ],
+        "correctAnswer": "through"
+    },
+    {
+        "question": "This tool is _________ to use it.",
+        "answers": [
+            "Dangerous too",
+            "Too dangerous",
+            "Enough dangerous",
+            "Any of the options is correct."
+        ],
+        "correctAnswer": "Too dangerous"
+    },
+    {
+        "question": "What are video games consoles?",
+        "answers": [
+            "White goods.",
+            "Brown goods.",
+            "Silver goods.",
+            "Shiny goods."
+        ],
+        "correctAnswer": "Brown goods."
+    },
+    {
+        "question": "What is a socket?",
+        "answers": [
+            "It is the movable connector attached to an electrically operated device.",
+            "It is a small device which you can press or move up or down to turn a light or piece of electrical equipment on or off.",
+            "It is a replaceable component which is designed to create light.",
+            "It is fixed on equipment or a building structure and connected to an energized electrical circuit."
+        ],
+        "correctAnswer": "It is fixed on equipment or a building structure and connected to an energized electrical circuit."
+    },
+    {
+        "question": "What is the most efficient kind of bulbs?",
+        "answers": [
+            "Incandescent bulbs.",
+            "LEDs bulbs.",
+            "Halogen bulbs.",
+            "Fluorescent lamps."
+        ],
+        "correctAnswer": "LEDs bulbs."
+    },
+    {
+        "question": "What time does the domestic appliance repair shop open tomorrow?",
+        "answers": [
+            "It will open at 9 a.m.",
+            "It is going to open at 9 a.m.",
+            "It opens at 9 a.m.",
+            "It is opening at 9 a.m."
+        ],
+        "correctAnswer": "It opens at 9 a.m."
+    },
+    {
+        "question": "Why are you turning on the radio?",
+        "answers": [
+            "I´m going to listen to the news.",
+            "I will listen to the news",
+            "I´m listening to the news",
+            "I listen to the news."
+        ],
+        "correctAnswer": "I´m going to listen to the news."
+    },
+    {
+        "question": "Which one is a device used for data storage?",
+        "answers": [
+            "Microphone",
+            "Printer",
+            "USB drive",
+            "Web cam"
+        ],
+        "correctAnswer": "USB drive"
+    },
+    {
+        "question": "Choose the correct option:",
+        "answers": [
+            "She work for a company which build solar panels.",
+            "She works for a company who build solar panels.",
+            "She works for a company where she build solar panels.",
+            "She works for a company which builds solar panels."
+        ],
+        "correctAnswer": "She works for a company which builds solar panels."
+    },
+    {
+        "question": "Choose the sentence without any mistake.",
+        "answers": [
+            "If she buy eco-friendly bulbs, she won´t pollute the planet.",
+            "If she will buy eco-friendly bulbs, she won´t pollute the planet.",
+            "If she buys eco-friendly bulbs she pollute the planet.",
+            "If she buys eco-friendly bulbs, she won´t pollute the planet."
+        ],
+        "correctAnswer": "If she buys eco-friendly bulbs, she won´t pollute the planet."
+    },
+    {
+        "question": "Complete the sentence: “There are _____ things to repair, we have ______ time to do it and we don´t have _____ tools.”",
+        "answers": [
+            "many/little/a lot of",
+            "much/little/a lot of",
+            "many/few/a lot of",
+            "many/little/some"
+        ],
+        "correctAnswer": "many/few/a lot of"
+    },
+    {
+        "question": "Complete the sentence. “Her washing machine will be ___________ next week.”",
+        "answers": [
+            "sending",
+            "send",
+            "sent",
+            "sends"
+        ],
+        "correctAnswer": "sent"
+    },
+    {
+        "question": "Telecommunication without wires is known as:",
+        "answers": [
+            "fractal",
+            "wireless",
+            "analogue",
+            "digital"
+        ],
+        "correctAnswer": "wireless"
+    },
+    {
+        "question": "What is an aerial?",
+        "answers": [
+            "It is a structure made of glass that captures and/or transmits radio electromagnetic waves.",
+            "It is a structure made of metal that captures and/or transmits radio electromagnetic sounds.",
+            "It is a structure made of iron that captures and/or transmits radio electromagnetic images.",
+            "It is a structure made of metal that captures and/or transmits radio electromagnetic waves."
+        ],
+        "correctAnswer": "It is a structure made of metal that captures and/or transmits radio electromagnetic waves."
+    },
+    {
+        "question": "Which is the right answer?",
+        "answers": [
+            "Mary have been given the plug.",
+            "Mary has given the plug.",
+            "Mary has being given the plug.",
+            "Mary has been given the plug."
+        ],
+        "correctAnswer": "Mary has been given the plug."
+    },
+    {
+        "question": "Which sentence is an active sentence?",
+        "answers": [
+            "This hammer is used to repair wheels.",
+            "New laptops are being bought by the owner.",
+            "The invoice wasn´t paid last week.",
+            "The petrol costs a lot at present."
+        ],
+        "correctAnswer": "The petrol costs a lot at present."
+    },
+    {
+        "question": "Choose the correct negative sentence with the verb Have Got.",
+        "answers": [
+            "I haven´t any brothers or sister.",
+            "I doesn´t have any brothers or sisters.",
+            "I haven´t got any brothers or sisters.",
+            "I don´t have got any brothers or sisters"
+        ],
+        "correctAnswer": "I haven´t got any brothers or sisters."
+    },
+    {
+        "question": "Choose the correct option:",
+        "answers": [
+            "She musts repair the pipe to connect the washing machine.",
+            "She must repairs the pipe to connect the washing machine.",
+            "She musts repairs the exhaust pipe to connect the washing machine.",
+            "She must repair the exhaust pipe to connect the washing machine"
+        ],
+        "correctAnswer": "She must repair the exhaust pipe to connect the washing machine"
+    },
+    {
+        "question": "Choose the correct option:",
+        "answers": [
+            "The old oven repaired by the mechanic.",
+            "The old oven was repaired by the mechanic.",
+            "The old oven was repair by the mechanic.",
+            "The old oven were repaired by the mechanic"
+        ],
+        "correctAnswer": "The old oven was repaired by the mechanic."
+    },
+    {
+        "question": "Complete the sentence with the correct Future expression: \"I´m sure she____ pass the test\"",
+        "answers": [
+            "am going",
+            "to passes",
+            "will are",
+            "going to"
+        ],
+        "correctAnswer": "going to"
+    },
+    {
+        "question": "What details must an EPC have?",
+        "answers": [
+            "Property address, property type, date of the inspection, certificate date and serial number, total floor area, information about a property´s energy use and energy costs and recommendations to reduce energy use and costs.",
+            "Property address, property type, certificate date and serial number, total floor area, information about a property´s energy use and energy costs and recommendations to reduce energy use and costs.",
+            "Property address, property type, date of the inspection, certificate date and serial number, information about a property´s energy use and energy costs, and recommendations to reduce energy use and costs.",
+            "Property address, property type, date of the inspection, certificate date and serial number, total floor area, information about a property´s energy use and energy costs"
+        ],
+        "correctAnswer": "Property address, property type, date of the inspection, certificate date and serial number, total floor area, information about a property´s energy use and energy costs and recommendations to reduce energy use and costs."
+    },
+    {
+        "question": "What does LAN mean?",
+        "answers": [
+            "It means Virtual Private Network.",
+            "It is Local Area Network.",
+            "It is a storage unit for data.",
+            "It is Solid State Drive"
+        ],
+        "correctAnswer": "It is Local Area Network."
+    },
+    {
+        "question": "What is home automation?",
+        "answers": [
+            "It is the automatic control of electronic devices at home.",
+            "It is the automatic control of electronic devices at work.",
+            "It is the automatic control of electronic devices at the gym.",
+            "It is the automatic control of electronic devices at hospitals"
+        ],
+        "correctAnswer": "It is the automatic control of electronic devices at home."
+    },
+    {
+        "question": "What is the hardware on a computer?",
+        "answers": [
+            "It is the set of instructions.",
+            "It is the data which the computer sends.",
+            "The physical components that a computer system needs to work.",
+            "A flow of electricity"
+        ],
+        "correctAnswer": "The physical components that a computer system needs to work."
+    },
+    {
+        "question": "Which tool is not a testing tool?",
+        "answers": [
+            "Multimeter",
+            "Electric solder",
+            "Wattmeter",
+            "Voltmeter"
+        ],
+        "correctAnswer": "Electric solder"
     }
 ]
