@@ -1130,16 +1130,6 @@
         "correctAnswer": "Todas son correctas"
     },
     {
-        "question": "El aumento en la rigidez de las paredes de los vasos sanguíneos se debe al exceso de:",
-        "answers": [
-            "Triglicéridos",
-            "Quilomicrones",
-            "Colesterol",
-            "Todas las anteriores son incorrectas"
-        ],
-        "correctAnswer": "Colesterol"
-    },
-    {
         "question": "El estudio de las sustancias eliminadas por las heces se realiza:",
         "answers": [
             "A nivel físico (olor, color, forma)",
@@ -1148,7 +1138,17 @@
             "Hay más de una respuesta correcta"
         ],
         "correctAnswer": "Hay más de una respuesta correcta"
-    },
+    },
+    {
+        "question": "En condiciones normales, la concentración de orina en el plasma debe ser de:",
+        "answers": [
+            "15-24 mg/dL",
+            "12-54 mg/dL",
+            "18-68 mg/dL",
+            "20-75 mg/dL"
+        ],
+        "correctAnswer": "12-54 mg/dL"
+    },
     {
         "question": "En cuanto al ácido láctico es cierto que:",
         "answers": [
@@ -1220,36 +1220,6 @@
         "correctAnswer": "Entre 120 y 200 mg/dL"
     },
     {
-        "question": "La determinación de drogas de abuso puede realizarse en muestras de:",
-        "answers": [
-            "Orina",
-            "Sangre",
-            "Pelo",
-            "Todas las respuestas son correctas"
-        ],
-        "correctAnswer": "Todas las respuestas son correctas"
-    },
-    {
-        "question": "La gasometría sirve para: Pregunta 19 Respuesta",
-        "answers": [
-            "Medir la cantidad de oxígeno de los pulmones",
-            "Analizar el pH de la sangre",
-            "Estudiar la cantidad de sodio de la sangre",
-            "Ninguna es correcta"
-        ],
-        "correctAnswer": "Analizar el pH de la sangre"
-    },
-    {
-        "question": "La hemoglobina glicosilada permite hacernos una idea de los niveles de glucosa en sangre en un periodo de hasta:",
-        "answers": [
-            "1-2 meses",
-            "2-3 meses",
-            "3-4 meses",
-            "4-5 meses"
-        ],
-        "correctAnswer": "3-4 meses"
-    },
-    {
         "question": "La parte de la enzima en la que se producen las transformaciones químicas se denomina:",
         "answers": [
             "Producto",
@@ -1268,16 +1238,6 @@
             "Fotometría de reflectancia"
         ],
         "correctAnswer": "Cromatografía de gases"
-    },
-    {
-        "question": "Las proteínas que tienen actividad catalítica y por tanto producen transformaciones químicas de manera muy eficiente son las:",
-        "answers": [
-            "Hormonas",
-            "Enzimas",
-            "Lectinas",
-            "Todas son correctas"
-        ],
-        "correctAnswer": "Enzimas"
     },
     {
         "question": "Las pruebas de laboratorio en el lugar de asistencia o POCT se realizan en diferentes fases, concretamente:",
@@ -1300,16 +1260,6 @@
         "correctAnswer": "Métodos cinéticos y métodos a punto y final"
     },
     {
-        "question": "Los niveles de HDL en personas sanas deben rondar los:",
-        "answers": [
-            "20-60 mg/dL",
-            "30-70 mg/dL",
-            "40-80 mg/dL",
-            "50-90 mg/dL"
-        ],
-        "correctAnswer": "30-70 mg/dL"
-    },
-    {
         "question": "Los niveles normales de ácido úrico en la orina tras 24 horas es:",
         "answers": [
             "Entre 3 y 7 mg/24 h",
@@ -1330,16 +1280,6 @@
         "correctAnswer": "A y B son correctas"
     },
     {
-        "question": "Para el diagnóstico del embarazo, se estudia la concentración en sangre u orina de la hormona:",
-        "answers": [
-            "LH",
-            "β- hCG",
-            "Prolactina",
-            "A y B son correctas"
-        ],
-        "correctAnswer": "β- hCG"
-    },
-    {
         "question": "Una de las proteínas más abundantes en sangre es:",
         "answers": [
             "Fibrinógeno",
@@ -1358,95 +1298,5 @@
             "Determinación de insulina en sangre"
         ],
         "correctAnswer": "Test de tolerancia oral de glucosa"
-    },
-    {
-        "question": "¿Cómo llamamos a la representación de las radiaciones electromagnéticas de manera ordenada en función de su longitud de onda (λ) o su frecuencia (f)?",
-        "answers": [
-            "Espectro electromagnético",
-            "Espectro fotométrico",
-            "Rango electromagnético",
-            "Ninguna de las anteriores es cierta"
-        ],
-        "correctAnswer": "Espectro electromagnético"
-    },
-    {
-        "question": "¿Cómo llamamos al fenómeno por el cual las proteínas pierden su función al verse expuestas a cambios en las condiciones del medio en el que están, como la temperatura o el pH?",
-        "answers": [
-            "Inactivación",
-            "Renaturalización",
-            "Desnaturalización",
-            "Todas son correctas"
-        ],
-        "correctAnswer": "Desnaturalización"
-    },
-    {
-        "question": "¿Cuál de las siguiente medidas es necesario tomar cuando determinamos enzimas?",
-        "answers": [
-            "Controlar el pH",
-            "Utilizar suero o plasma heparinizado",
-            "Procurar que la concentración de enzima sea notable",
-            "Todas son ciertas"
-        ],
-        "correctAnswer": "Todas son ciertas"
-    },
-    {
-        "question": "¿Cuál de los siguientes materiales se usa en espectrometría?",
-        "answers": [
-            "Lámparas de emisión",
-            "Cubetas",
-            "Detectores de energía",
-            "Todas las anteriores son correctas"
-        ],
-        "correctAnswer": "Todas las anteriores son correctas"
-    },
-    {
-        "question": "¿Cuál de los siguientes no es un método de determinación de la urea?",
-        "answers": [
-            "Nesslerización",
-            "Berthelot",
-            "Métodos enzimáticos",
-            "Volumetrías de complejación"
-        ],
-        "correctAnswer": "Volumetrías de complejación"
-    },
-    {
-        "question": "¿Qué estudio tiene especial relevancia en las muestras de heces?",
-        "answers": [
-            "Estudio de sangre en heces",
-            "Estudio de bacterias en heces",
-            "Estudio de parásitos en heces",
-            "Ninguna de las anteriores es correcta"
-        ],
-        "correctAnswer": "Estudio de sangre en heces"
-    },
-    {
-        "question": "¿Qué hormona de las siguientes produce la disminución de los niveles de glucosa en sangre?",
-        "answers": [
-            "Glucagón",
-            "Insulina",
-            "Bilirrubina",
-            "Grelina"
-        ],
-        "correctAnswer": "Insulina"
-    },
-    {
-        "question": "¿Qué otro nombre recibe los estudios de cribado neonatal de enfermedades endocrinometabólicas?:",
-        "answers": [
-            "Prueba del pulgar",
-            "Prueba del talón",
-            "Prueba de la mano",
-            "Todas son correctas"
-        ],
-        "correctAnswer": "Prueba del talón"
-    },
-    {
-        "question": "¿Qué técnica empleamos principalmente para realizar proteinogramas?",
-        "answers": [
-            "Cromatografía",
-            "Espectrometría",
-            "Electroforesis",
-            "Todas la anteriores son ciertas"
-        ],
-        "correctAnswer": "Electroforesis"
     }
 ]
