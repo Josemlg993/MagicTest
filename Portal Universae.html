@@ -3,127 +3,75 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cuestionario Análisis</title>
+    <title>Magic Test</title>
+    <link href="https://assets.jwwb.nl/assets/website-rendering/styles.a0115ee46dc5487527c7.css?bust=a0115ee46dc5487527c7" media="screen" rel="stylesheet" type="text/css">
+    <link type="text/css" rel="stylesheet" href="https://primary.jwwb.nl/public/r/q/q/temp-dmsdigievaaklrjuztsk/style.css?bust=1714205582">
     <style>
-        body {
+        /* Estilos CSS personalizados */
+        .h1 {
+            color: darkslateblue;
+            font-size: 3em;
+        }
+        .jw-btn-style-flat.jw-btn__default-color {
             background-color: darkslateblue;
-            color: white;
-            margin-right: 100px; /* Ajuste para dejar espacio para los marcadores */
         }
-
-        .correct { color: green; }
-        .incorrect { color: red; }
-        .question { margin-bottom: 30px; }
-        .questionanswer { margin-right: 20px; }
-        .answer-input { margin-left: 30px; margin-right: 10px; }
-        .marker-container {
-            position: fixed;
-            top: 50px;
-            right: 10px;
-            display: flex;
-            flex-direction: column;
-            overflow-y: auto;
-            max-height: calc(100vh - 100px); /* Altura máxima del contenedor */
+        header {
+            width: 100%;
+            overflow: hidden;
         }
-        .marker {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            width: 30px; /* Ancho suficiente para contener el número de pregunta y el ícono */
-            height: 20px;
-            border-radius: 50%;
-            margin-bottom: 10px;
-            cursor: pointer;
-            padding: 0 10px; /* Espaciado alrededor del ícono */
+        .clearfix::after {
+            content: "";
+            clear: both;
+            display: table;
         }
-        .marker.correct {background-color: green; }
-        .marker.incorrect {background-color: red; }
-
-        /* Estilos para resaltar la búsqueda */
-        .highlight {
-            background-color: yellow;
-            color: black;
+        @media screen and (max-width: 600px) {
+            .h1 {
+                font-size: 2em;
+            }
         }
     </style>
 </head>
 <body>
-    <h1 id="tituloCuestionario"></h1>
-    <div class="search-container">
-        <input type="text" id="searchText" placeholder="Buscar en la página...">
-        <button onclick="searchInPage()">Buscar</button>
+    <div class="jw-background"></div>
+    <div class="jw-body">
+        <header>
+            <div class="clearfix header-wrap">
+                <div class="logo">
+                    <h1 id="h1" class="h1">Cuestionarios Ana</h1>
+                </div>
+            </div>
+        </header>
+        <div class="text-wrap">
+            <div class="jw-btn-is-center">
+                <a id="empresas-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded" href="https://josemlg993.github.io/MagicTest/Cuestionario%20Empresas">Empresas e Iniciativa Emprendedora</a>
+            </div>
+            </div><br>
+            <div>
+            <div class="jw-btn-is-center">
+                <a id="analisis-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded" href="https://josemlg993.github.io/MagicTest/Cuestionario%20Analisis">Analisis Bioquímico</a>
+            </div>
+            </div><br>
+            <div>
+            <div class="jw-btn-is-center">
+                <a id="ingles-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded" href="https://josemlg993.github.io/MagicTest/Cuestionario%20Ingles">Inglés</a>
+            </div>
+            </div><br>
+            <div>
+            <div class="jw-btn-is-center">
+                <a id="inmuno-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded" href="https://josemlg993.github.io/MagicTest/Cuestionario%20Inmuno">Técnicas de Inmunodiagnóstico</a>
+            </div>
+            </div><br>
+            <div>
+            <div class="jw-btn-is-center">
+                <a id="microbiology-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded" href="https://josemlg993.github.io/MagicTest/Cuestionario%20Micro">Microbiología Clínica</a>
+            </div><br>
+            <div>
+            </div>
+            <div class="jw-btn-is-center">
+                <a id="hematologico-button" class="jw-element-content jw-btn jw-btn-sm jw-btn-style-flat jw-btn__default-color jw-btn-rounded" href="https://josemlg993.github.io/MagicTest/Cuestionario%20Hemato">Técnicas de análisis hematológico</a>
+            </div>
+        </div>
     </div>
-    <div id="quizForm">
-        <!-- Aquí se agregarán las preguntas y respuestas dinámicamente -->
-    </div>
-    <div class="marker-container">
-        <!-- Aquí se agregarán los marcadores de pregunta dinámicamente -->
-    </div>
 
-<script>
-var questions; // Esta variable almacenará las preguntas cargadas desde el JSON
-
-function checkAnswer(questionNumber, correctAnswer, selectedAnswer) {
-    // Función para verificar las respuestas
-}
-
-function resetQuestion(questionNumber) {
-    // Función para resetear una pregunta
-}
-
-function scrollToQuestion(questionNumber) {
-    // Función para desplazar la vista a una pregunta específica
-}
-
-function shuffleArray(array) {
-    // Función para reordenar un array de forma aleatoria
-}
-
-function loadQuiz() {
-    fetch('https://raw.githubusercontent.com/Josemlg993/MagicTest/Bibliotecadepreguntas/Cuestionario%20Analisis.json')
-        .then(response => response.json())
-        .then(data => {
-            questions = data; // Guardamos las preguntas en la variable
-            renderQuiz(); // Llamamos a la función para renderizar el cuestionario
-        })
-        .catch(error => console.error('Error al cargar el cuestionario:', error));
-}
-
-function renderQuiz() {
-    // Función para renderizar el cuestionario
-}
-
-function searchInPage() {
-    var textToFind = document.getElementById('searchText').value;
-    if (textToFind === '') {
-        alert('Por favor, escribe un término de búsqueda.');
-        return;
-    }
-
-    removeHighlights(); // Limpia resaltados previos
-
-    if (window.find && window.getSelection) {
-        document.getSelection().removeAllRanges();
-        var found = window.find(textToFind);
-        if (!found) {
-            alert('No se encontraron coincidencias.');
-        } else {
-            document.execCommand('hiliteColor', false, 'yellow');
-            window.getSelection().removeAllRanges();
-        }
-    } else {
-        alert('Tu navegador no soporta la búsqueda en esta página.');
-    }
-}
-
-function removeHighlights() {
-    var highlighted = document.querySelectorAll('.highlight');
-    highlighted.forEach(function(node) {
-        node.parentNode.replaceChild(document.createTextNode(node.innerText), node);
-    });
-}
-
-window.onload = loadQuiz;
-
-</script>
 </body>
 </html>
