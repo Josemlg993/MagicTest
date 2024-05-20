@@ -10,6 +10,13 @@ body {
   padding: 0;
 }
 
+/* Estilos para centrar el modal verticalmente */
+.modal-dialog-centered {
+  display: flex;
+  align-items: center;
+  min-height: 100vh; /* Asegura que el modal ocupe al menos toda la altura de la ventana */
+}
+
 @keyframes slideInLeft {
   0% {
       transform: translateX(-100%);
