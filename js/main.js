@@ -6,7 +6,7 @@ import "./FormularioRegistro.js";
 import "./GoogleLogin.js";
 import "./FacebookLogin.js";
 import "./cerrarsesion.js";
-import "./FormularioIinicio.js"
+import "./FormularioIinicio.js";
 
 onAuthStateChanged(auth, async (user) => {
     loginCheck(user);
@@ -34,7 +34,7 @@ onAuthStateChanged(auth, async (user) => {
     });
 
     input.focus(function () {
-        hideValidate(this);
+        hideValidate($(this)); // Asegúrate de que `this` se convierte a un objeto jQuery
     });
 
     function validate(input) {
