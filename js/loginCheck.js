@@ -18,6 +18,6 @@ const loggedOutLinks = document.querySelectorAll(".logged-out");
             setTimeout(() => {
                 let loginModal = new bootstrap.Modal(document.getElementById('loginModal'));
                 loginModal.show();
-            }, 3000);
+            }, 1500);
         }
     }
