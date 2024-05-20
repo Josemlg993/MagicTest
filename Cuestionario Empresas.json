@@ -1048,5 +1048,95 @@
             "Ninguna de las anteriores"
         ],
         "correctAnswer": "Proporcionar servicios de distinta índole (enseñanza, turismo, transporte, etc.)"
+    },
+{
+        "question": "El entorno específico de una empresa está formado por los siguientes factores:**",
+        "answers": [
+            "Competencia, Proveedores, Clientes",
+            "Todas las respuestas anteriores son correctas.",
+            "Sociológicos, Tecnológicos y Ecológicos",
+            "Económicos, Legales y Políticos."
+        ],
+        "correctAnswer": "Competencia, Proveedores, Clientes"
+    },
+    {
+        "question": "Entre las características propias de la persona emprendedora no se encuentran:",
+        "answers": [
+            "La capacidad de análisis y la resolución de problemas.",
+            "La capacidad de hacer amistades",
+            "La capacidad de organización y planificación.",
+            "La capacidad de trabajo."
+        ],
+        "correctAnswer": "La capacidad de hacer amistades"
+    },
+    {
+        "question": "Una empresa con 35 trabajadores se considera:**",
+        "answers": [
+            "Grande",
+            "Microempresa.",
+            "Mediana.",
+            "Pequeña."
+        ],
+        "correctAnswer": "Pequeña"
+    },
+    {
+        "question": "Si un empresario quiere aportar a su empresa el menor capital posible, no desea tener socios y quiere tener responsabilidad limitada, ¿cuál de las siguientes formas jurídicas sería la más adecuada?",
+        "answers": [
+            "Emprendedor de responsabilidad limitada.",
+            "Sociedad limitada unipersonal.",
+            "Sociedad anónima unipersonal.",
+            "Empresario individual"
+        ],
+        "correctAnswer": "Sociedad limitada unipersonal"
+    },
+    {
+        "question": "En relación a la cultura emprendedora, la actividad de la empresa en el presente se denomina:**",
+        "answers": [
+            "Misión",
+            "Visión.",
+            "Valores",
+            "Estrategia"
+        ],
+        "correctAnswer": "Misión"
+    },
+    {
+        "question": "El coste laboral para la empresa de contratar a un trabajador es:**",
+        "answers": [
+            "La Seguridad Social a cargo de la empresa y el salario bruto que le paga.",
+            "El salario bruto que le paga.",
+            "La Seguridad Social a cargo del trabajador y el salario bruto que recibe.",
+            "La Seguridad Social a cargo de la empresa y a cargo del trabajador."
+        ],
+        "correctAnswer": "La Seguridad Social a cargo de la empresa y el salario bruto que le paga"
+    },
+    {
+        "question": "¿Quién es la empresa líder y cuál es su cuota de mercado? Datos de ventas de ordenadores: Empresa A 225; Empresa B 500; Empresa C 200; y la empresa D 75; Total ordenadores vendidos 1000.**",
+        "answers": [
+            "Empresa B, cuota 50%",
+            "Empresa C, cuota 20%.",
+            "Empresa D, cuota 30%.",
+            "Empresa A, cuota 7,5%"
+        ],
+        "correctAnswer": "Empresa B, cuota 50%"
+    },
+    {
+        "question": "La diferencia entre el balance y la cuenta de resultados es:**",
+        "answers": [
+            "El balance refleja la situación patrimonial de la empresa en un momento dado y la cuenta de resultados recoge el conjunto de los ingresos y los gastos durante un periodo de tiempo.",
+            "El balance refleja los gastos de explotación y financieros y la cuenta de resultados el patrimonio neto.",
+            "El balance contiene el resultado antes de impuestos y la cuenta de resultados el activo no corriente.",
+            "El balance se elabora con una periodicidad de doce meses y la cuenta de resultados recoge el estado de flujos de efectivo."
+        ],
+        "correctAnswer": "El balance refleja la situación patrimonial de la empresa en un momento dado y la cuenta de resultados recoge el conjunto de los ingresos y los gastos durante un periodo de tiempo"
+    },
+    {
+        "question": "El intraemprendedor o emprendedor corporativo es:**",
+        "answers": [
+            "Ninguna de las anteriores es cierta.",
+            "Un trabajador por cuenta propia que asume el riesgo económico de su negocio.",
+            "Un trabajador asalariado que tiene autonomía para emprender.",
+            "Un trabajador asalariado que asume el riesgo económico de su negocio."
+        ],
+        "correctAnswer": "Un trabajador asalariado que tiene autonomía para emprender"
     }
 ]
