@@ -11,10 +11,11 @@ body {
 }
 
 /* Estilos para centrar el modal verticalmente */
-.modal-dialog-centered {
+.modal-dialog {
   display: flex;
   align-items: center;
-  min-height: 100vh; /* Asegura que el modal ocupe al menos toda la altura de la ventana */
+  justify-content: center;
+  min-height: calc(100% - 1rem); /* Asegura que el modal ocupe al menos toda la altura de la ventana */
 }
 
 @keyframes slideInLeft {
