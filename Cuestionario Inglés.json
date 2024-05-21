@@ -1,1063 +1,2041 @@
 [
-    {
-        "question": "_________do you go to the doctor? Twice a year.",
-        "answers": [
-            "When",
-            "Why",
-            "Which",
-            "How often"
-        ],
-        "correctAnswer": "How often"
-    },
-    {
-        "question": "Change into negative the following sentence:",
-        "answers": [
-            "“She lives for working in a hospital”",
-            "She don´t live for working in a hospital.",
-            "She doesn´t live for working in a hospital.",
-            "She doesn´t lives for working in a hospital.",
-            "She don´t lives for working in a hospital."
-        ],
-        "correctAnswer": "She doesn´t live for working in a hospital."
-    },
-    {
-        "question": "Choose the correct option:",
-        "answers": [
-            "She were a very good scientist.",
-            "She are a very good scientist.",
-            "She am a very good scientist.",
-            "She is a very good scientist."
-        ],
-        "correctAnswer": "She is a very good scientist."
-    },
-    {
-        "question": "Complete the sentence: “I don´t like going to the gym ____ the mornings because I prefer going _____ nights.”",
-        "answers": [
-            "in/at",
-            "at/in",
-            "at/on",
-            "on/on"
-        ],
-        "correctAnswer": "in/at"
-    },
-    {
-        "question": "Complete the sentence: “The technician __________ the microscope although he _________ some special tools.”",
-        "answers": [
-            "repairs/ needs.",
-            "repair/ need.",
-            "is repairing/ needs.",
-            "are repairing/ need."
-        ],
-        "correctAnswer": "is repairing/ needs."
-    },
-    {
-        "question": "How do we need to form a negative sentence with the verb To Be in past?",
-        "answers": [
-            "Didn´t.",
-            "Don´t and doesn´t.",
-            "Wasn´t and weren´t.",
-            "Any of the answers is correct."
-        ],
-        "correctAnswer": "Wasn´t and weren´t."
-    },
-    {
-        "question": "What is a crucible?",
-        "answers": [
-            "It is a heat-resistant receptacle to keep gases when they are heated to low temperatures.",
-            "It is a heat-resistant receptacle to alter compounds when they are heated to high temperatures.",
-            "It is a heat-resistant receptacle to keep compounds when they are heated to high temperatures.",
-            "It is a heat-resistant receptacle to keep compounds when they are heated to low temperatures."
-        ],
-        "correctAnswer": "It is a heat-resistant receptacle to keep compounds when they are heated to high temperatures."
-    },
-    {
-        "question": "Choose the correct option:",
-        "answers": [
-            "The technician analysed the sample yesterday.",
-            "The technician didn’t analysed the sample yesterday.",
-            "The technician analyse the sample yesterday.",
-            "The technician didn’t analyses the sample yesterday."
-        ],
-        "correctAnswer": "The technician analysed the sample yesterday."
-    },
-    {
-        "question": "Choose the right option: “How long ___________________ in this clinic?",
-        "answers": [
-            "Do you work",
-            "Have you worked",
-            "Did you work",
-            "Has you worked"
-        ],
-        "correctAnswer": "Have you worked"
-    },
-    {
-        "question": "Complete the sentence: “What ______________ you when I _________________?",
-        "answers": [
-            "does the technician tell/come",
-            "did the technician told/came",
-            "did the technician tell/came",
-            "did the technician tell/come"
-        ],
-        "correctAnswer": "did the technician tell/came"
-    },
-    {
-        "question": "The price of disinfectants is ___________ than it was last year when it was ___________.",
-        "answers": [
-            "Higher/cheaper.",
-            "More high/cheaper.",
-            "High/cheap.",
-            "Higher/cheap."
-        ],
-        "correctAnswer": "Higher/cheaper."
-    },
-    {
-        "question": "What does PPE stand for?",
-        "answers": [
-            "It is Personal Protective Equipment.",
-            "It is Professional Protective Equipment.",
-            "It I Protection Personal Equipment.",
-            "It is Protective Professional Equipment."
-        ],
-        "correctAnswer": "It is Personal Protective Equipment."
-    },
-    {
-        "question": "Which sentence is right?",
-        "answers": [
-            "They were work in a laboratory.",
-            "They was working in a laboratory.",
-            "They working in a laboratory.",
-            "They were working in a laboratory."
-        ],
-        "correctAnswer": "They were working in a laboratory."
-    },
-    {
-        "question": "Choose the right option: “______ your used towels in the washing machine.”",
-        "answers": [
-            "Put.",
-            "Puts.",
-            "Are put.",
-            "Is putting."
-        ],
-        "correctAnswer": "Put."
-    },
-    {
-        "question": "Choose the right option: “____________ are my new spatulas, which I bought in _________________ specialised shop in the city centre.",
-        "answers": [
-            "These/that.",
-            "Those/this.",
-            "These/these.",
-            "Those/these."
-        ],
-        "correctAnswer": "These/that."
-    },
-    {
-        "question": "Complete the sentence: “I turned ____________ and saw that someone was following me.”",
-        "answers": [
-            "down.",
-            "along.",
-            "around.",
-            "from."
-        ],
-        "correctAnswer": "around."
-    },
-    {
-        "question": "I have not studied the human body yet because I’m ____________.",
-        "answers": [
-            "too lazy.",
-            "enough lazy.",
-            "lazy too.",
-            "any of the above."
-        ],
-        "correctAnswer": "too lazy."
-    },
-    {
-        "question": "What category would be a small bone that is formed in a tendon?",
-        "answers": [
-            "Flat.",
-            "Long.",
-            "Short.",
-            "Sesamoid."
-        ],
-        "correctAnswer": "Sesamoid."
-    },
-    {
-        "question": "What kind of muscles cannot be controlled consciously?",
-        "answers": [
-            "Skeletal and cardiac.",
-            "Skeletal and visceral.",
-            "Cardiac and visceral.",
-            "Cardiac, skeletal, and visceral."
-        ],
-        "correctAnswer": "Cardiac and visceral."
-    },
-    {
-        "question": "Which of the organ systems that we have studied is involved when we breathe?",
-        "answers": [
-            "Respiratory system.",
-            "Digestive system.",
-            "Nervous system.",
-            "Reproductive system."
-        ],
-        "correctAnswer": "Respiratory system."
-    },
-    {
-        "question": "_________ any dental clinic near here?",
-        "answers": [
-            "Are there",
-            "There is",
-            "There are",
-            "Is there"
-        ],
-        "correctAnswer": "Is there"
-    },
-    {
-        "question": "Choose the correct option:",
-        "answers": [
-            "She work for a company which build tools for a clinical laboratory.",
-            "She works for a company who build tools for a clinical laboratory.",
-            "She works for a company where she build tools for a clinical laboratory.",
-            "She works for a company which builds tools for a clinical laboratory."
-        ],
-        "correctAnswer": "She works for a company which builds tools for a clinical laboratory."
-    },
-    {
-        "question": "Choose the sentence without any mistake.",
-        "answers": [
-            "If she has a blood test, she knew if there is a problem.",
-            "If she has a blood test, she know if there is a problem.",
-            "If she have a blood test, she will know if there is a problem.",
-            "If she has a blood test, she will know if there is a problem."
-        ],
-        "correctAnswer": "If she has a blood test, she will know if there is a problem."
-    },
-    {
-        "question": "Choose the right sentence:",
-        "answers": [
-            "I need a few time.",
-            "I need a little time.",
-            "I need many time.",
-            "I need few time."
-        ],
-        "correctAnswer": "I need a little time."
-    },
-    {
-        "question": "Complete the sentence: “He __________ the autoclave if he _________ the tools he needed last week.”",
-        "answers": [
-            "would has repaired/ had received.",
-            "would receive/ received",
-            "would have repaired / had received.",
-            "will receive/ receives."
-        ],
-        "correctAnswer": "would have repaired / had received."
-    },
-    {
-        "question": "Complete the sentence: “There are _____ appointments for the endocrinologist´s practice, but we have ______ time to go to the hospital.”",
-        "answers": [
-            "many/little",
-            "much/little",
-            "many/few",
-            "many/little"
-        ],
-        "correctAnswer": "many/little"
-    },
-    {
-        "question": "What does a chaplain do?",
-        "answers": [
-            "The chaplain comforts relatives.",
-            "The chaplain provides spiritual wellbeing to patients, relatives, and staff.",
-            "The chaplain provides spiritual wellbeing to relatives, and staff.",
-            "The chaplain holds church services."
-        ],
-        "correctAnswer": "The chaplain provides spiritual wellbeing to patients, relatives, and staff."
-    },
-    {
-        "question": "What is CCU?",
-        "answers": [
-            "Coronary Careless Unit.",
-            "Crown Care Unit.",
-            "Coronary Care Unit.",
-            "Coronary Care Undergo."
-        ],
-        "correctAnswer": "Coronary Care Unit."
-    },
-    {
-        "question": "Choose the correct option:",
-        "answers": [
-            "She must sending him the results of the blood test.",
-            "She must sent him the results of the blood test.",
-            "She must sends him the results of the blood test.",
-            "She must send him the results of the blood test."
-        ],
-        "correctAnswer": "She must send him the results of the blood test."
-    },
-    {
-        "question": "Chose the right sentence:",
-        "answers": [
-            "Lilly blood is in the blood bank.",
-            "Lilly´s blood is in the blood bank.",
-            "Lillys’ blood is in the blood bank.",
-            "The blood of Lilly is in the blood bank."
-        ],
-        "correctAnswer": "Lilly´s blood is in the blood bank."
-    },
-    {
-        "question": "Complete the gap with the suitable word. “_________came to ask for __________.”",
-        "answers": [
-            "Someone/ anything",
-            "Something/ nothing",
-            "Anything/ everything",
-            "Someone/ something"
-        ],
-        "correctAnswer": "Someone/ something"
-    },
-    {
-        "question": "Complete the sentence: “_________ dental clinic is near here.”",
-        "answers": [
-            "Peter",
-            "The Peter",
-            "Peters’s",
-            "Peter´s"
-        ],
-        "correctAnswer": "Peter´s"
-    },
-    {
-        "question": "Complete the sentence: “__________ could clean the operating room.”",
-        "answers": [
-            "Anything",
-            "Every",
-            "No one",
-            "Somewhere"
-        ],
-        "correctAnswer": "No one"
-    },
-    {
-        "question": "Complete the sentence. “They ___________ buy several packets of masks last week.”",
-        "answers": [
-            "can",
-            "should",
-            "had to",
-            "may"
-        ],
-        "correctAnswer": "had to"
-    },
-    {
-        "question": "Which is the right answer?",
-        "answers": [
-            "Mary doesn´t can use the scalpel.",
-            "Mary will be able to work in the ICU.",
-            "Mary must work in the office yesterday.",
-            "Mary shouldn’t to work harder."
-        ],
-        "correctAnswer": "Mary will be able to work in the ICU."
-    },
-    {
-        "question": "Change this sentence into reported speech: “Leave now!”",
-        "answers": [
-            "He told me to leave then.",
-            "He told me to leave now.",
-            "He said to me to leave then.",
-            "He said me to leave then."
-        ],
-        "correctAnswer": "He told me to leave then."
-    },
-    {
-        "question": "Change this sentence into reported speech: “Why did he go out?”",
-        "answers": [
-            "She asked me why he has gone out.",
-            "She asks me why he had gone out.",
-            "She asked me if he had gone out.",
-            "She asked me why he had gone out."
-        ],
-        "correctAnswer": "She asked me why he had gone out."
-    },
-    {
-        "question": "Choose the correct option. “This supplement _____________ by the patient last week.”",
-        "answers": [
-            "used",
-            "was used",
-            "was use",
-            "were used"
-        ],
-        "correctAnswer": "was used"
-    },
-    {
-        "question": "Choose the right causative sentence:",
-        "answers": [
-            "I am have my blood tested.",
-            "I was having my blood test.",
-            "I has had my blood testing.",
-            "I had my blood tested."
-        ],
-        "correctAnswer": "I had my blood tested."
-    },
-    {
-        "question": "Complete the sentence: “This new summer diet will be ______________ next week.”",
-        "answers": [
-            "publishing",
-            "publish",
-            "published",
-            "publishes"
-        ],
-        "correctAnswer": "published"
-    },
-    {
-        "question": "What are allergy shots?",
-        "answers": [
-            "Reinforcement for the immune system to build better defenses against allergens.",
-            "They prevent the sneezing, itchy eyes and throat, and postnasal drip.",
-            "They reduce congestion in the nasal membranes by narrowing the blood vessels.",
-            "They reduce swelling of the airways, nasal congestion, and sneezing."
-        ],
-        "correctAnswer": "Reinforcement for the immune system to build better defenses against allergens."
-    },
-    {
-        "question": "Which is the right passive sentence?",
-        "answers": [
-            "The doctor have been given the prescriptions in advance.",
-            "The doctor has given the prescriptions in advance.",
-            "The doctor has being given the prescriptions in advance.",
-            "The doctor has been given the prescriptions in advance."
-        ],
-        "correctAnswer": "The doctor has been given the prescriptions in advance."
-    },
-    {
-        "question": "Which sentence is an active sentence?",
-        "answers": [
-            "This diet is used to look stronger.",
-            "New materials are being bought by the owner.",
-            "The invoice wasn’t paid last week.",
-            "Fancy beauty treatments cost a lot nowadays."
-        ],
-        "correctAnswer": "Fancy beauty treatments cost a lot nowadays."
-    },
-    {
-        "question": "__________ is your name? My name is Susan.",
-        "answers": [
-            "Which",
-            "Where",
-            "Who",
-            "What"
-        ],
-        "correctAnswer": "What"
-    },
-    {
-        "question": "Choose the correct Imperative sentence:",
-        "answers": [
-            "Stayed still!",
-            "Stay still!",
-            "Didn´t stay still!",
-            "Stays still!"
-        ],
-        "correctAnswer": "Stay still!"
-    },
-    {
-        "question": "Choose the correct negative sentence with the verb Have Got.",
-        "answers": [
-            "I haven´t any brothers or sisters.",
-            "I doesn´t have any brothers or sisters.",
-            "I haven´t got any brothers or sisters.",
-            "I don´t have got any brothers or sisters."
-        ],
-        "correctAnswer": "I haven´t got any brothers or sisters."
-    },
-    {
-        "question": "Choose the correct option in the Present Perfect Simple:",
-        "answers": [
-            "She has forgot her phone number.",
-            "She has forget her phone number.",
-            "She have forgot her phone number.",
-            "She has forgotten her phone number."
-        ],
-        "correctAnswer": "She has forgotten her phone number."
-    },
-    {
-        "question": "Choose the correct option with the Past Simple:",
-        "answers": [
-            "I works in a supermarket.",
-            "I did work in a supermarket.",
-            "I worked in a supermarket.",
-            "I working in a supermarket."
-        ],
-        "correctAnswer": "I worked in a supermarket."
-    },
-    {
-        "question": "Choose the correct option:",
-        "answers": [
-            "They making any progress right now.",
-            "They aren´t making any progress right now.",
-            "They aren´t any progress right now.",
-            "They don´t make any progress right now."
-        ],
-        "correctAnswer": "They aren´t making any progress right now."
-    },
-    {
-        "question": "Choose the correct option:",
-        "answers": [
-            "She isn´t like fast food.",
-            "She doesn´t like fast food.",
-            "She don´t like fast food.",
-            "She doesn´t liking fast food."
-        ],
-        "correctAnswer": "She doesn´t like fast food."
-    },
-    {
-        "question": "Choose the correct option:",
-        "answers": [
-            "David were gave me this bike.",
-            "I were given this bike from David.",
-            "This bike was given to me by David..",
-            "All the answers are correct."
-        ],
-        "correctAnswer": "This bike was given to me by David.."
-    },
-    {
-        "question": "Choose the correct option:",
-        "answers": [
-            "She is to old to vote.",
-            "She is old enough to vote.",
-            "She is enough old to vote.",
-            "She is old too vote."
-        ],
-        "correctAnswer": "She is old enough to vote."
-    },
-    {
-        "question": "Choose the correct sentence with the verb To Be in the past:",
-        "answers": [
-            "I were on the beach.",
-            "I weren´t on the beach.",
-            "I was on the beach.",
-            "I is in the beach."
-        ],
-        "correctAnswer": "I was on the beach."
-    },
-    {
-        "question": "Choose the correct sentence with the verb To Be in the present:",
-        "answers": [
-            "He were a very good worker.",
-            "He are a very good worker.",
-            "He am a very good worker.",
-            "He is a very good worker."
-        ],
-        "correctAnswer": "He is a very good worker."
-    },
-    {
-        "question": "Choose the option that is used to invite people:",
-        "answers": [
-            "Yes, that sounds great!",
-            "Why don´t we go to the cinema tonight?",
-            "I am afraid that I can´t go with you tomorrow.",
-            "I would love to!"
-        ],
-        "correctAnswer": "Why don´t we go to the cinema tonight?"
-    },
-    {
-        "question": "Choose the right option of Reported Speech: \"She worked the whole day yesterday\"",
-        "answers": [
-            "She said that she works the whole day yesterday.",
-            "She told that she had worked the whole day yesterday.",
-            "She said that she had worked the whole day the day before.",
-            "She said that she had worked the whole day yesterday."
-        ],
-        "correctAnswer": "She said that she had worked the whole day the day before."
-    },
-    {
-        "question": "Complete the sentence choosing the correct option. Right now, I am using my ___________ car because mine is broken.",
-        "answers": [
-            "father´s",
-            "fathers´s",
-            "fathers",
-            "father´"
-        ],
-        "correctAnswer": "father´s"
-    },
-    {
-        "question": "Complete the sentence choosing the right option: ________________ any documents on the desk?",
-        "answers": [
-            "There is",
-            "Are there",
-            "There are",
-            "Is there"
-        ],
-        "correctAnswer": "Are there"
-    },
-    {
-        "question": "Complete the sentence with the correct conditional: \"If I _______ you, I_________ a new car\".",
-        "answers": [
-            "were/would buy",
-            "would be / would buy",
-            "am / would buy",
-            "were / buy"
-        ],
-        "correctAnswer": "were/would buy"
-    },
-    {
-        "question": "Complete the sentence with the correct demonstrative: \"Can you pass me _______ pencils over there, please?\"",
-        "answers": [
-            "this",
-            "that",
-            "these",
-            "those"
-        ],
-        "correctAnswer": "those"
-    },
-    {
-        "question": "Complete the sentence with the correct Future expression: \"I´m sure she____ pass the test\"",
-        "answers": [
-            "am going to",
-            "passes",
-            "will",
-            "are going to"
-        ],
-        "correctAnswer": "will"
-    },
-    {
-        "question": "Complete the sentence with the correct options: \"What______ about with the employee when I_________?\"",
-        "answers": [
-            "were you talking / arrived",
-            "you were talking / was arriving",
-            "did you talk / was arriving",
-            "you talked / arrived"
-        ],
-        "correctAnswer": "were you talking / arrived"
-    },
-    {
-        "question": "Complete the sentence with the Superlative form: \"This car is the___________ and the _______ option.\"",
-        "answers": [
-            "best / cheapest",
-            "better / cheaper",
-            "best / cheaper",
-            "better / cheapest"
-        ],
-        "correctAnswer": "best / cheapest"
-    },
-    {
-        "question": "Complete the sentence: \"I am having my blood test ________.\"",
-        "answers": [
-            "Done.",
-            "Do.",
-            "Doing.",
-            "Does."
-        ],
-        "correctAnswer": "Done."
-    },
-    {
-        "question": "Complete the sentence. \"He is the worker __________ father is a cardiologist.\"",
-        "answers": [
-            "who",
-            "which",
-            "whose",
-            "that"
-        ],
-        "correctAnswer": "whose"
-    },
-    {
-        "question": "How is anthrax transmitted?",
-        "answers": [
-            "By airborne transmission",
-            "By animal to people",
-            "By pollute soil.",
-            "By polluted food and water"
-        ],
-        "correctAnswer": "By animal to people"
-    },
-    {
-        "question": "Physical disinfectants include:",
-        "answers": [
-            "Heal sterilisation, ultraviolet light, and chlorine compounds.",
-            "Alcohols, iodine preparations, and membrane filtration.",
-            "Ultraviolet light, infrared radiation, and heat decontamination.",
-            "Microwaves, gamma radiation, and chlorine compounds."
-        ],
-        "correctAnswer": "Ultraviolet light, infrared radiation, and heat decontamination."
-    },
-    {
-        "question": "She has _________ finished her vocational course.",
-        "answers": [
-            "yet",
-            "for",
-            "since",
-            "already"
-        ],
-        "correctAnswer": "already"
-    },
-    {
-        "question": "The different types of pathogens are:",
-        "answers": [
-            "viruses, bacteria, fungi, and parasites",
-            "viruses, bacteria, proteins, and parasites",
-            "viruses, bacterial infections, fungi, and parasites",
-            "infections, bacteria, fungi, and parasites"
-        ],
-        "correctAnswer": "viruses, bacteria, fungi, and parasites"
-    },
-    {
-        "question": "There are many syringes_______ the table.",
-        "answers": [
-            "in",
-            "on",
-            "between",
-            "at"
-        ],
-        "correctAnswer": "on"
-    },
-    {
-        "question": "What can we consider as laboratory supplies?",
-        "answers": [
-            "Block digesters.",
-            "Lab coats.",
-            "Pippetes.",
-            "Funnels."
-        ],
-        "correctAnswer": "Lab coats."
-    },
-    {
-        "question": "What disease is caused only by a virus?",
-        "answers": [
-            "Meningitis",
-            "Ringworm",
-            "Intestinal worms",
-            "Measles"
-        ],
-        "correctAnswer": "Measles"
-    },
-    {
-        "question": "What is a mammography?",
-        "answers": [
-            "A large magnet and radio wase to look at organs inside the body.",
-            "Electromagnetic waves are used to take images of denser objects.",
-            "Radioactive isotopes used to see structures and functions inside the body.",
-            "It is a specific kind of breast picture which uses low-dose X-rays."
-        ],
-        "correctAnswer": "It is a specific kind of breast picture which uses low-dose X-rays."
-    },
-    {
-        "question": "What is the comparative and superlative of the adjective good?",
-        "answers": [
-            "Gooder/the best.",
-            "Gooder/the goodest.",
-            "Better/the best.",
-            "Better/best."
-        ],
-        "correctAnswer": "Better/the best."
-    },
-    {
-        "question": "What time does the clinic open tomorrow?",
-        "answers": [
-            "It will open a t 9 a.m.",
-            "It opens at 9 a.m.",
-            "It is going to open at 9 a.m.",
-            "It is opening at 9 a.m."
-        ],
-        "correctAnswer": "It opens at 9 a.m."
-    },
-    {
-        "question": "Which is the right answer?",
-        "answers": [
-            "You must come to the meeting.",
-            "You can coming to the meeting.",
-            "You shoulds come to the meeting.",
-            "You ought to comes to the meeting."
-        ],
-        "correctAnswer": "You must come to the meeting."
-    },
-    {
-        "question": "Which is the right answer?",
-        "answers": [
-            "Robin had got several analytical laboratories in the city.",
-            "Robin didn´t have several analytical laboratories in the city.",
-            "Robin have got several analytical laboratories in the city.",
-            "Robin didn´t had got several analytical laboratories in the city."
-        ],
-        "correctAnswer": "Robin didn´t have several analytical laboratories in the city."
-    },
-    {
-        "question": "Which is the right answer?",
-        "answers": [
-            "Mikel is such an interesting and amazed person.",
-            "Mikel is such an interesting and amazing person.",
-            "Mikel is such an interested and amazed person.",
-            "Mikel is such an interested and amazing person."
-        ],
-        "correctAnswer": "Mikel is such an interesting and amazing person."
-    },
-    {
-        "question": "Why are you turning on the autoclave?",
-        "answers": [
-            "I´m going to sterilise the instrumentation for tomorrow.",
-            "I will sterilise the instrumentation for tomorrow.",
-            "I sterilising the instrumentation for tomorrow.",
-            "I sterilise the instrumentation for tomorrow."
-        ],
-        "correctAnswer": "I´m going to sterilise the instrumentation for tomorrow."
-    },
-    {
-        "question": "Twice a week.",
-        "answers": [
-            "When Why",
-            "Which",
-            "How often"
-        ],
-        "correctAnswer": "How often"
-    },
-    {
-        "question": "Change into negative the following sentence: “She lives for learning Electrical and Automatic Installations.”",
-        "answers": [
-            "She don´t live for learning Electrical and Automatic Installations.",
-            "She doesn´t live for learning Electrical and Automatic Installations.",
-            "She doesn´t lives for learning Electrical and Automatic Installations.",
-            "She don´t lives for learning Electrical and Automatic Installations."
-        ],
-        "correctAnswer": "She doesn´t live for learning Electrical and Automatic Installations."
-    },
-    {
-        "question": "Choose the correct option:",
-        "answers": [
-            "She were a very good electrician.",
-            "She are a very good electrician.",
-            "She am a very good electrician.",
-            "She is a very good electrician."
-        ],
-        "correctAnswer": "She is a very good electrician."
-    },
-    {
-        "question": "Choose the sentence without any mistake.",
-        "answers": [
-            "Mary usually buy eco-friendly bulbs.",
-            "Mary buy usually eco-friendly bulbs.",
-            "Mary usually buyes eco-friendly bulbs.",
-            "Mary usually buys eco-friendly bulbs."
-        ],
-        "correctAnswer": "Mary usually buys eco-friendly bulbs."
-    },
-    {
-        "question": "Which is the right answer?",
-        "answers": [
-            "Robin had got several electronics repair shops in the city.",
-            "Robin didn´t have several electronics repair shops in the city.",
-            "Robin have got several electronics repair shops in the city.",
-            "Robin didn´t had got several electronics repair shops in the city."
-        ],
-        "correctAnswer": "Robin didn´t have several electronics repair shops in the city."
-    },
-    {
-        "question": "Choose the right option. “How long _____________ in this factory?”",
-        "answers": [
-            "do you work",
-            "have you worked",
-            "did you work",
-            "has you worked"
-        ],
-        "correctAnswer": "have you worked"
-    },
-    {
-        "question": "Choose the right sentence:",
-        "answers": [
-            "The technician repaired the short circuit yesterday.",
-            "The technician didn´t repaired the short circuit yesterday.",
-            "The technician repair the short circuit yesterday.",
-            "The technician repairs the short circuit yesterday."
-        ],
-        "correctAnswer": "The technician repaired the short circuit yesterday."
-    },
-    {
-        "question": "Complete the sentence: “What _____________ you when I ___________?”",
-        "answers": [
-            "does the mechanic tell/ come",
-            "did the mechanic told/ came",
-            "did the mechanic tell/ came",
-            "did the mechanic tell/ come"
-        ],
-        "correctAnswer": "did the mechanic tell/ came"
-    },
-    {
-        "question": "The price of light is __________ than it was last year when it was _________.",
-        "answers": [
-            "higher/ cheaper",
-            "more high/ cheaper",
-            "high/ cheap",
-            "higher/ more cheap"
-        ],
-        "correctAnswer": "higher/ cheaper"
-    },
-    {
-        "question": "What is the comparative and superlative of the adjective good?",
-        "answers": [
-            "gooder/ the best.",
-            "gooder/ the goodest.",
-            "better/ the best.",
-            "better/ best."
-        ],
-        "correctAnswer": "better/ the best."
-    },
-    {
-        "question": "Which sentence is right?",
-        "answers": [
-            "They were work in an electricity workshop.",
-            "They was working in an electricity workshop.",
-            "They working in an electricity workshop.",
-            "They were working in an electricity workshop."
-        ],
-        "correctAnswer": "They were working in an electricity workshop."
-    },
-    {
-        "question": "_______ are my new pliers which I bought in ______ hardware in the city centre.",
-        "answers": [
-            "These/ that",
-            "Those/ this",
-            "These/ these",
-            "Those/these"
-        ],
-        "correctAnswer": "Those/ this"
-    },
-    {
-        "question": "Change the following sentence to the imperative: “It´s compulsory to wash your hands before coming into this room.”",
-        "answers": [
-            "Washes your hands before coming into this room!",
-            "Do wash your hands before coming into this room!",
-            "Wash your hands before coming into this room!",
-            "All the answers are right."
-        ],
-        "correctAnswer": "Wash your hands before coming into this room!"
-    },
-    {
-        "question": "The workers looked __________ the window and saw the accident.",
-        "answers": [
-            "along",
-            "across",
-            "around",
-            "through"
-        ],
-        "correctAnswer": "through"
-    },
-    {
-        "question": "This tool is _________ to use it.",
-        "answers": [
-            "Dangerous too",
-            "Too dangerous",
-            "Enough dangerous",
-            "Any of the options is correct."
-        ],
-        "correctAnswer": "Too dangerous"
-    },
-    
-    {
-        "question": "What time does the domestic appliance repair shop open tomorrow?",
-        "answers": [
-            "It will open at 9 a.m.",
-            "It is going to open at 9 a.m.",
-            "It opens at 9 a.m.",
-            "It is opening at 9 a.m."
-        ],
-        "correctAnswer": "It opens at 9 a.m."
-    },
-    {
-        "question": "Why are you turning on the radio?",
-        "answers": [
-            "I´m going to listen to the news.",
-            "I will listen to the news",
-            "I´m listening to the news",
-            "I listen to the news."
-        ],
-        "correctAnswer": "I´m going to listen to the news."
-    },
-    {
-        "question": "Choose the correct option:",
-        "answers": [
-            "She work for a company which build solar panels.",
-            "She works for a company who build solar panels.",
-            "She works for a company where she build solar panels.",
-            "She works for a company which builds solar panels."
-        ],
-        "correctAnswer": "She works for a company which builds solar panels."
-    },
-    {
-        "question": "Choose the sentence without any mistake.",
-        "answers": [
-            "If she buy eco-friendly bulbs, she won´t pollute the planet.",
-            "If she will buy eco-friendly bulbs, she won´t pollute the planet.",
-            "If she buys eco-friendly bulbs she pollute the planet.",
-            "If she buys eco-friendly bulbs, she won´t pollute the planet."
-        ],
-        "correctAnswer": "If she buys eco-friendly bulbs, she won´t pollute the planet."
-    },
-    {
-        "question": "Complete the sentence: “There are _____ things to repair, we have ______ time to do it and we don´t have _____ tools.”",
-        "answers": [
-            "many/little/a lot of",
-            "much/little/a lot of",
-            "many/few/a lot of",
-            "many/little/some"
-        ],
-        "correctAnswer": "many/little/a lot of"
-    },
-    {
-        "question": "Complete the sentence. “Her washing machine will be ___________ next week.”",
-        "answers": [
-            "sending",
-            "send",
-            "sent",
-            "sends"
-        ],
-        "correctAnswer": "sent"
-    },
-    {
-        "question": "Which is the right answer?",
-        "answers": [
-            "Mary have been given the plug.",
-            "Mary has given the plug.",
-            "Mary has being given the plug.",
-            "Mary has been given the plug."
-        ],
-        "correctAnswer": "Mary has been given the plug."
-    },
-    {
-        "question": "Which sentence is an active sentence?",
-        "answers": [
-            "This hammer is used to repair wheels.",
-            "New laptops are being bought by the owner.",
-            "The invoice wasn´t paid last week.",
-            "The petrol costs a lot at present."
-        ],
-        "correctAnswer": "The petrol costs a lot at present."
-    },
-    {
-        "question": "Choose the correct negative sentence with the verb Have Got.",
-        "answers": [
-            "I haven´t any brothers or sister.",
-            "I doesn´t have any brothers or sisters.",
-            "I haven´t got any brothers or sisters.",
-            "I don´t have got any brothers or sisters"
-        ],
-        "correctAnswer": "I haven´t got any brothers or sisters."
-    },
-    {
-        "question": "Choose the correct option:",
-        "answers": [
-            "She musts repair the pipe to connect the washing machine.",
-            "She must repairs the pipe to connect the washing machine.",
-            "She musts repairs the exhaust pipe to connect the washing machine.",
-            "She must repair the exhaust pipe to connect the washing machine"
-        ],
-        "correctAnswer": "She must repair the exhaust pipe to connect the washing machine"
-    },
-    {
-        "question": "Choose the correct option:",
-        "answers": [
-            "The old oven repaired by the mechanic.",
-            "The old oven was repaired by the mechanic.",
-            "The old oven was repair by the mechanic.",
-            "The old oven were repaired by the mechanic"
-        ],
-        "correctAnswer": "The old oven was repaired by the mechanic."
-    },
-    {
-        "question": "Complete the sentence with the correct Future expression: \"I´m sure she____ pass the test\"",
-        "answers": [
-            "am going",
-            "to passes",
-            "will are",
-            "going to"
-        ],
-        "correctAnswer": "going to"
-    }
+  {
+    "question": "_________do you go to the doctor? Twice a year.",
+    "answers": [
+      "When",
+      "Why",
+      "Which",
+      "How often"
+    ],
+    "correctAnswer": "How often"
+  },
+  {
+    "question": "Change into negative the following sentence: She lives for working in a hospital",
+    "answers": [
+      "She don´t live for working in a hospital.",
+      "She doesn´t live for working in a hospital.",
+      "She doesn´t lives for working in a hospital.",
+      "She don´t lives for working in a hospital."
+    ],
+    "correctAnswer": "She doesn´t live for working in a hospital."
+  },
+  {
+    "question": "Choose the correct option:",
+    "answers": [
+      "She were a very good scientist.",
+      "She are a very good scientist.",
+      "She am a very good scientist.",
+      "She is a very good scientist."
+    ],
+    "correctAnswer": "She is a very good scientist."
+  },
+  {
+    "question": "Complete the sentence: “I don´t like going to the gym ____ the mornings because I prefer going _____ nights.”",
+    "answers": [
+      "in/at",
+      "at/in",
+      "at/on",
+      "on/on"
+    ],
+    "correctAnswer": "in/at"
+  },
+  {
+    "question": "Complete the sentence: “The technician __________ the microscope although he _________ some special tools.”",
+    "answers": [
+      "repairs/ needs.",
+      "repair/ need.",
+      "is repairing/ needs.",
+      "are repairing/ need."
+    ],
+    "correctAnswer": "is repairing/ needs."
+  },
+  {
+    "question": "How do we need to form a negative sentence with the verb To Be in past?",
+    "answers": [
+      "Didn´t.",
+      "Don´t and doesn´t.",
+      "Wasn´t and weren´t.",
+      "Any of the answers is correct."
+    ],
+    "correctAnswer": "Wasn´t and weren´t."
+  },
+  {
+    "question": "What is a crucible?",
+    "answers": [
+      "It is a heat-resistant receptacle to keep gases when they are heated to low temperatures.",
+      "It is a heat-resistant receptacle to alter compounds when they are heated to high temperatures.",
+      "It is a heat-resistant receptacle to keep compounds when they are heated to high temperatures.",
+      "It is a heat-resistant receptacle to keep compounds when they are heated to low temperatures."
+    ],
+    "correctAnswer": "It is a heat-resistant receptacle to keep compounds when they are heated to high temperatures."
+  },
+  {
+    "question": "Choose the correct option:",
+    "answers": [
+      "The technician analysed the sample yesterday.",
+      "The technician didn’t analysed the sample yesterday.",
+      "The technician analyse the sample yesterday.",
+      "The technician didn’t analyses the sample yesterday."
+    ],
+    "correctAnswer": "The technician analysed the sample yesterday."
+  },
+  {
+    "question": "Choose the right option: “How long ___________________ in this clinic?",
+    "answers": [
+      "Do you work",
+      "Have you worked",
+      "Did you work",
+      "Has you worked"
+    ],
+    "correctAnswer": "Have you worked"
+  },
+  {
+    "question": "Complete the sentence: “What ______________ you when I _________________?",
+    "answers": [
+      "does the technician tell/come",
+      "did the technician told/came",
+      "did the technician tell/came",
+      "did the technician tell/come"
+    ],
+    "correctAnswer": "did the technician tell/came"
+  },
+  {
+    "question": "The price of disinfectants is ___________ than it was last year when it was ___________.",
+    "answers": [
+      "Higher/cheaper.",
+      "More high/cheaper.",
+      "High/cheap.",
+      "Higher/cheap."
+    ],
+    "correctAnswer": "Higher/cheaper."
+  },
+  {
+    "question": "What does PPE stand for?",
+    "answers": [
+      "It is Personal Protective Equipment.",
+      "It is Professional Protective Equipment.",
+      "It I Protection Personal Equipment.",
+      "It is Protective Professional Equipment."
+    ],
+    "correctAnswer": "It is Personal Protective Equipment."
+  },
+  {
+    "question": "Which sentence is right?",
+    "answers": [
+      "They were work in a laboratory.",
+      "They was working in a laboratory.",
+      "They working in a laboratory.",
+      "They were working in a laboratory."
+    ],
+    "correctAnswer": "They were working in a laboratory."
+  },
+  {
+    "question": "Choose the right option: “______ your used towels in the washing machine.”",
+    "answers": [
+      "Put.",
+      "Puts.",
+      "Are put.",
+      "Is putting."
+    ],
+    "correctAnswer": "Put."
+  },
+  {
+    "question": "Choose the right option: “____________ are my new spatulas, which I bought in _________________ specialised shop in the city centre.",
+    "answers": [
+      "These/that.",
+      "Those/this.",
+      "These/these.",
+      "Those/these."
+    ],
+    "correctAnswer": "These/that."
+  },
+  {
+    "question": "Complete the sentence: “I turned ____________ and saw that someone was following me.”",
+    "answers": [
+      "down.",
+      "along.",
+      "around.",
+      "from."
+    ],
+    "correctAnswer": "around."
+  },
+  {
+    "question": "I have not studied the human body yet because I’m ____________.",
+    "answers": [
+      "too lazy.",
+      "enough lazy.",
+      "lazy too.",
+      "any of the above."
+    ],
+    "correctAnswer": "too lazy."
+  },
+  {
+    "question": "What category would be a small bone that is formed in a tendon?",
+    "answers": [
+      "Flat.",
+      "Long.",
+      "Short.",
+      "Sesamoid."
+    ],
+    "correctAnswer": "Sesamoid."
+  },
+  {
+    "question": "What kind of muscles cannot be controlled consciously?",
+    "answers": [
+      "Skeletal and cardiac.",
+      "Skeletal and visceral.",
+      "Cardiac and visceral.",
+      "Cardiac, skeletal, and visceral."
+    ],
+    "correctAnswer": "Cardiac and visceral."
+  },
+  {
+    "question": "Which of the organ systems that we have studied is involved when we breathe?",
+    "answers": [
+      "Respiratory system.",
+      "Digestive system.",
+      "Nervous system.",
+      "Reproductive system."
+    ],
+    "correctAnswer": "Respiratory system."
+  },
+  {
+    "question": "_________ any dental clinic near here?",
+    "answers": [
+      "Are there",
+      "There is",
+      "There are",
+      "Is there"
+    ],
+    "correctAnswer": "Is there"
+  },
+  {
+    "question": "Choose the correct option:",
+    "answers": [
+      "She work for a company which build tools for a clinical laboratory.",
+      "She works for a company who build tools for a clinical laboratory.",
+      "She works for a company where she build tools for a clinical laboratory.",
+      "She works for a company which builds tools for a clinical laboratory."
+    ],
+    "correctAnswer": "She works for a company which builds tools for a clinical laboratory."
+  },
+  {
+    "question": "Choose the sentence without any mistake.",
+    "answers": [
+      "If she has a blood test, she knew if there is a problem.",
+      "If she has a blood test, she know if there is a problem.",
+      "If she have a blood test, she will know if there is a problem.",
+      "If she has a blood test, she will know if there is a problem."
+    ],
+    "correctAnswer": "If she has a blood test, she will know if there is a problem."
+  },
+  {
+    "question": "Choose the right sentence:",
+    "answers": [
+      "I need a few time.",
+      "I need a little time.",
+      "I need many time.",
+      "I need few time."
+    ],
+    "correctAnswer": "I need a little time."
+  },
+  {
+    "question": "Complete the sentence: “He __________ the autoclave if he _________ the tools he needed last week.”",
+    "answers": [
+      "would has repaired/ had received.",
+      "would receive/ received",
+      "would have repaired / had received.",
+      "will receive/ receives."
+    ],
+    "correctAnswer": "would have repaired / had received."
+  },
+  {
+    "question": "Complete the sentence: “There are _____ appointments for the endocrinologist´s practice, but we have ______ time to go to the hospital.”",
+    "answers": [
+      "many/little",
+      "much/little",
+      "many/few",
+      "many/little"
+    ],
+    "correctAnswer": "many/little"
+  },
+  {
+    "question": "What does a chaplain do?",
+    "answers": [
+      "The chaplain comforts relatives.",
+      "The chaplain provides spiritual wellbeing to patients, relatives, and staff.",
+      "The chaplain provides spiritual wellbeing to relatives, and staff.",
+      "The chaplain holds church services."
+    ],
+    "correctAnswer": "The chaplain provides spiritual wellbeing to patients, relatives, and staff."
+  },
+  {
+    "question": "What is CCU?",
+    "answers": [
+      "Coronary Careless Unit.",
+      "Crown Care Unit.",
+      "Coronary Care Unit.",
+      "Coronary Care Undergo."
+    ],
+    "correctAnswer": "Coronary Care Unit."
+  },
+  {
+    "question": "Choose the correct option:",
+    "answers": [
+      "She must sending him the results of the blood test.",
+      "She must sent him the results of the blood test.",
+      "She must sends him the results of the blood test.",
+      "She must send him the results of the blood test."
+    ],
+    "correctAnswer": "She must send him the results of the blood test."
+  },
+  {
+    "question": "Chose the right sentence:",
+    "answers": [
+      "Lilly blood is in the blood bank.",
+      "Lilly´s blood is in the blood bank.",
+      "Lillys’ blood is in the blood bank.",
+      "The blood of Lilly is in the blood bank."
+    ],
+    "correctAnswer": "Lilly´s blood is in the blood bank."
+  },
+  {
+    "question": "Complete the gap with the suitable word. “_________came to ask for __________.”",
+    "answers": [
+      "Someone/ anything",
+      "Something/ nothing",
+      "Anything/ everything",
+      "Someone/ something"
+    ],
+    "correctAnswer": "Someone/ something"
+  },
+  {
+    "question": "Complete the sentence: “_________ dental clinic is near here.”",
+    "answers": [
+      "Peter",
+      "The Peter",
+      "Peters’s",
+      "Peter´s"
+    ],
+    "correctAnswer": "Peter´s"
+  },
+  {
+    "question": "Complete the sentence: “__________ could clean the operating room.”",
+    "answers": [
+      "Anything",
+      "Every",
+      "No one",
+      "Somewhere"
+    ],
+    "correctAnswer": "No one"
+  },
+  {
+    "question": "Complete the sentence. “They ___________ buy several packets of masks last week.”",
+    "answers": [
+      "can",
+      "should",
+      "had to",
+      "may"
+    ],
+    "correctAnswer": "had to"
+  },
+  {
+    "question": "Which is the right answer?",
+    "answers": [
+      "Mary doesn´t can use the scalpel.",
+      "Mary will be able to work in the ICU.",
+      "Mary must work in the office yesterday.",
+      "Mary shouldn’t to work harder."
+    ],
+    "correctAnswer": "Mary will be able to work in the ICU."
+  },
+  {
+    "question": "Choose the correct option. “This supplement _____________ by the patient last week.”",
+    "answers": [
+      "used",
+      "was used",
+      "was use",
+      "were used"
+    ],
+    "correctAnswer": "was used"
+  },
+  {
+    "question": "Choose the right causative sentence:",
+    "answers": [
+      "I am have my blood tested.",
+      "I was having my blood test.",
+      "I has had my blood testing.",
+      "I had my blood tested."
+    ],
+    "correctAnswer": "I had my blood tested."
+  },
+  {
+    "question": "Complete the sentence: “This new summer diet will be ______________ next week.”",
+    "answers": [
+      "publishing",
+      "publish",
+      "published",
+      "publishes"
+    ],
+    "correctAnswer": "published"
+  },
+  {
+    "question": "What are allergy shots?",
+    "answers": [
+      "Reinforcement for the immune system to build better defenses against allergens.",
+      "They prevent the sneezing, itchy eyes and throat, and postnasal drip.",
+      "They reduce congestion in the nasal membranes by narrowing the blood vessels.",
+      "They reduce swelling of the airways, nasal congestion, and sneezing."
+    ],
+    "correctAnswer": "Reinforcement for the immune system to build better defenses against allergens."
+  },
+  {
+    "question": "Which is the right passive sentence?",
+    "answers": [
+      "The doctor have been given the prescriptions in advance.",
+      "The doctor has given the prescriptions in advance.",
+      "The doctor has being given the prescriptions in advance.",
+      "The doctor has been given the prescriptions in advance."
+    ],
+    "correctAnswer": "The doctor has been given the prescriptions in advance."
+  },
+  {
+    "question": "Which sentence is an active sentence?",
+    "answers": [
+      "This diet is used to look stronger.",
+      "New materials are being bought by the owner.",
+      "The invoice wasn’t paid last week.",
+      "Fancy beauty treatments cost a lot nowadays."
+    ],
+    "correctAnswer": "Fancy beauty treatments cost a lot nowadays."
+  },
+  {
+    "question": "__________ is your name? My name is Susan.",
+    "answers": [
+      "Which",
+      "Where",
+      "Who",
+      "What"
+    ],
+    "correctAnswer": "What"
+  },
+  {
+    "question": "Choose the correct Imperative sentence:",
+    "answers": [
+      "Stayed still!",
+      "Stay still!",
+      "Didn´t stay still!",
+      "Stays still!"
+    ],
+    "correctAnswer": "Stay still!"
+  },
+  {
+    "question": "Choose the correct negative sentence with the verb Have Got.",
+    "answers": [
+      "I haven´t any brothers or sisters.",
+      "I doesn´t have any brothers or sisters.",
+      "I haven´t got any brothers or sisters.",
+      "I don´t have got any brothers or sisters."
+    ],
+    "correctAnswer": "I haven´t got any brothers or sisters."
+  },
+  {
+    "question": "Choose the correct option in the Present Perfect Simple:",
+    "answers": [
+      "She has forgot her phone number.",
+      "She has forget her phone number.",
+      "She have forgot her phone number.",
+      "She has forgotten her phone number."
+    ],
+    "correctAnswer": "She has forgotten her phone number."
+  },
+  {
+    "question": "Choose the correct option with the Past Simple:",
+    "answers": [
+      "I works in a supermarket.",
+      "I did work in a supermarket.",
+      "I worked in a supermarket.",
+      "I working in a supermarket."
+    ],
+    "correctAnswer": "I worked in a supermarket."
+  },
+  {
+    "question": "Choose the correct option:",
+    "answers": [
+      "They making any progress right now.",
+      "They aren´t making any progress right now.",
+      "They aren´t any progress right now.",
+      "They don´t make any progress right now."
+    ],
+    "correctAnswer": "They aren´t making any progress right now."
+  },
+  {
+    "question": "Choose the correct option:",
+    "answers": [
+      "She isn´t like fast food.",
+      "She doesn´t like fast food.",
+      "She don´t like fast food.",
+      "She doesn´t liking fast food."
+    ],
+    "correctAnswer": "She doesn´t like fast food."
+  },
+  {
+    "question": "Choose the correct option:",
+    "answers": [
+      "David were gave me this bike.",
+      "I were given this bike from David.",
+      "This bike was given to me by David..",
+      "All the answers are correct."
+    ],
+    "correctAnswer": "This bike was given to me by David.."
+  },
+  {
+    "question": "Choose the correct option:",
+    "answers": [
+      "She is to old to vote.",
+      "She is old enough to vote.",
+      "She is enough old to vote.",
+      "She is old too vote."
+    ],
+    "correctAnswer": "She is old enough to vote."
+  },
+  {
+    "question": "Choose the correct sentence with the verb To Be in the past:",
+    "answers": [
+      "I were on the beach.",
+      "I weren´t on the beach.",
+      "I was on the beach.",
+      "I is in the beach."
+    ],
+    "correctAnswer": "I was on the beach."
+  },
+  {
+    "question": "Choose the correct sentence with the verb To Be in the present:",
+    "answers": [
+      "He were a very good worker.",
+      "He are a very good worker.",
+      "He am a very good worker.",
+      "He is a very good worker."
+    ],
+    "correctAnswer": "He is a very good worker."
+  },
+  {
+    "question": "Choose the option that is used to invite people:",
+    "answers": [
+      "Yes, that sounds great!",
+      "Why don´t we go to the cinema tonight?",
+      "I am afraid that I can´t go with you tomorrow.",
+      "I would love to!"
+    ],
+    "correctAnswer": "Why don´t we go to the cinema tonight?"
+  },
+  {
+    "question": "Choose the right option of Reported Speech: \"She worked the whole day yesterday\"",
+    "answers": [
+      "She said that she works the whole day yesterday.",
+      "She told that she had worked the whole day yesterday.",
+      "She said that she had worked the whole day the day before.",
+      "She said that she had worked the whole day yesterday."
+    ],
+    "correctAnswer": "She said that she had worked the whole day the day before."
+  },
+  {
+    "question": "Complete the sentence choosing the correct option. Right now, I am using my ___________ car because mine is broken.",
+    "answers": [
+      "father´s",
+      "fathers´s",
+      "fathers",
+      "father´"
+    ],
+    "correctAnswer": "father´s"
+  },
+  {
+    "question": "Complete the sentence choosing the right option: ________________ any documents on the desk?",
+    "answers": [
+      "There is",
+      "Are there",
+      "There are",
+      "Is there"
+    ],
+    "correctAnswer": "Are there"
+  },
+  {
+    "question": "Complete the sentence with the correct conditional: \"If I _______ you, I_________ a new car\".",
+    "answers": [
+      "were/would buy",
+      "would be / would buy",
+      "am / would buy",
+      "were / buy"
+    ],
+    "correctAnswer": "were/would buy"
+  },
+  {
+    "question": "Complete the sentence with the correct demonstrative: \"Can you pass me _______ pencils over there, please?\"",
+    "answers": [
+      "this",
+      "that",
+      "these",
+      "those"
+    ],
+    "correctAnswer": "those"
+  },
+  {
+    "question": "Complete the sentence with the correct Future expression: \"I´m sure she____ pass the test\"",
+    "answers": [
+      "am going to",
+      "passes",
+      "will",
+      "are going to"
+    ],
+    "correctAnswer": "will"
+  },
+  {
+    "question": "Complete the sentence with the correct options: \"What______ about with the employee when I_________?\"",
+    "answers": [
+      "were you talking / arrived",
+      "you were talking / was arriving",
+      "did you talk / was arriving",
+      "you talked / arrived"
+    ],
+    "correctAnswer": "were you talking / arrived"
+  },
+  {
+    "question": "Complete the sentence with the Superlative form: \"This car is the___________ and the _______ option.\"",
+    "answers": [
+      "best / cheapest",
+      "better / cheaper",
+      "best / cheaper",
+      "better / cheapest"
+    ],
+    "correctAnswer": "best / cheapest"
+  },
+  {
+    "question": "Complete the sentence: \"I am having my blood test ________.\"",
+    "answers": [
+      "Done.",
+      "Do.",
+      "Doing.",
+      "Does."
+    ],
+    "correctAnswer": "Done."
+  },
+  {
+    "question": "Complete the sentence: \"I turned__________ and saw that someone was following me.\"",
+    "answers": [
+      "down",
+      "along",
+      "around",
+      "from"
+    ],
+    "correctAnswer": "around"
+  },
+  {
+    "question": "Complete the sentence. \"He is the worker __________ father is a cardiologist.\"",
+    "answers": [
+      "who",
+      "which",
+      "whose",
+      "that"
+    ],
+    "correctAnswer": "whose"
+  },
+  {
+    "question": "Physical disinfectants include:",
+    "answers": [
+      "Heal sterilisation, ultraviolet light, and chlorine compounds.",
+      "Alcohols, iodine preparations, and membrane filtration.",
+      "Ultraviolet light, infrared radiation, and heat decontamination.",
+      "Microwaves, gamma radiation, and chlorine compounds."
+    ],
+    "correctAnswer": "Ultraviolet light, infrared radiation, and heat decontamination."
+  },
+  {
+    "question": "She has _________ finished her vocational course.",
+    "answers": [
+      "yet",
+      "for",
+      "since",
+      "already"
+    ],
+    "correctAnswer": "already"
+  },
+  {
+    "question": "The different types of pathogens are:",
+    "answers": [
+      "viruses, bacteria, fungi, and parasites",
+      "viruses, bacteria, proteins, and parasites",
+      "viruses, bacterial infections, fungi, and parasites",
+      "infections, bacteria, fungi, and parasites"
+    ],
+    "correctAnswer": "viruses, bacteria, fungi, and parasites"
+  },
+  {
+    "question": "There are many syringes_______ the table.",
+    "answers": [
+      "in",
+      "on",
+      "between",
+      "at"
+    ],
+    "correctAnswer": "on"
+  },
+  {
+    "question": "What can we consider as laboratory supplies?",
+    "answers": [
+      "Block digesters.",
+      "Lab coats.",
+      "Pippetes.",
+      "Funnels."
+    ],
+    "correctAnswer": "Lab coats."
+  },
+  {
+    "question": "What disease is caused only by a virus?",
+    "answers": [
+      "Meningitis",
+      "Ringworm",
+      "Intestinal worms",
+      "Measles"
+    ],
+    "correctAnswer": "Measles"
+  },
+  {
+    "question": "What is a mammography?",
+    "answers": [
+      "A large magnet and radio wase to look at organs inside the body.",
+      "Electromagnetic waves are used to take images of denser objects.",
+      "Radioactive isotopes used to see structures and functions inside the body.",
+      "It is a specific kind of breast picture which uses low-dose X-rays."
+    ],
+    "correctAnswer": "It is a specific kind of breast picture which uses low-dose X-rays."
+  },
+  {
+    "question": "What is the comparative and superlative of the adjective good?",
+    "answers": [
+      "Gooder/the best.",
+      "Gooder/the goodest.",
+      "Better/the best.",
+      "Better/best."
+    ],
+    "correctAnswer": "Better/the best."
+  },
+  {
+    "question": "What time does the clinic open tomorrow?",
+    "answers": [
+      "It will open a t 9 a.m.",
+      "It opens at 9 a.m.",
+      "It is going to open at 9 a.m.",
+      "It is opening at 9 a.m."
+    ],
+    "correctAnswer": "It opens at 9 a.m."
+  },
+  {
+    "question": "Which is the right answer?",
+    "answers": [
+      "You must come to the meeting.",
+      "You can coming to the meeting.",
+      "You shoulds come to the meeting.",
+      "You ought to comes to the meeting."
+    ],
+    "correctAnswer": "You must come to the meeting."
+  },
+  {
+    "question": "Which is the right answer?",
+    "answers": [
+      "Robin had got several analytical laboratories in the city.",
+      "Robin didn´t have several analytical laboratories in the city.",
+      "Robin have got several analytical laboratories in the city.",
+      "Robin didn´t had got several analytical laboratories in the city."
+    ],
+    "correctAnswer": "Robin didn´t have several analytical laboratories in the city."
+  },
+  {
+    "question": "Which is the right answer?",
+    "answers": [
+      "Mikel is such an interesting and amazed person.",
+      "Mikel is such an interesting and amazing person.",
+      "Mikel is such an interested and amazed person.",
+      "Mikel is such an interested and amazing person."
+    ],
+    "correctAnswer": "Mikel is such an interesting and amazing person."
+  },
+  {
+    "question": "Why are you turning on the autoclave?",
+    "answers": [
+      "I´m going to sterilise the instrumentation for tomorrow.",
+      "I will sterilise the instrumentation for tomorrow.",
+      "I sterilising the instrumentation for tomorrow.",
+      "I sterilise the instrumentation for tomorrow."
+    ],
+    "correctAnswer": "I´m going to sterilise the instrumentation for tomorrow."
+  },
+  {
+    "question": "Choose the right option for this sentence: “How long _____________ in the Marketing department?”",
+    "answers": [
+      "do you work",
+      "have you been working",
+      "did you work",
+      "has you work"
+    ],
+    "correctAnswer": "have you been working"
+  },
+  {
+    "question": "Choose the right option:",
+    "answers": [
+      "He has done a great job so far.",
+      "He has made a great job so far.",
+      "He have done a great job so far.",
+      "He has make a great job so far."
+    ],
+    "correctAnswer": "He has done a great job so far."
+  },
+  {
+    "question": "Choose the right sentence using Present Perfect Simple:",
+    "answers": [
+      "Our company has recently signed the contract.",
+      "Our company have recently signed the contract.",
+      "Our company has recently sign the contract.",
+      "Our company recently signed the contract."
+    ],
+    "correctAnswer": "Our company has recently signed the contract."
+  },
+  {
+    "question": "Complete the sentence: “The complaints service has _________ received my complaint.”",
+    "answers": [
+      "yet",
+      "for",
+      "since",
+      "already"
+    ],
+    "correctAnswer": "already"
+  },
+  {
+    "question": "Complete the sentence: “The price of a vehicle is __________ than it was last year when it was _________.”",
+    "answers": [
+      "higher/ cheaper",
+      "more high/ cheaper",
+      "high/ cheap",
+      "higher/ more cheap"
+    ],
+    "correctAnswer": "higher/ cheaper"
+  },
+  {
+    "question": "Complete the sentence: “There are many stuff __________ the table.”",
+    "answers": [
+      "in",
+      "on",
+      "between",
+      "at"
+    ],
+    "correctAnswer": "on"
+  },
+  {
+    "question": "Complete the sentence: “What _____________ you when I ___________?”",
+    "answers": [
+      "does the head of the department tell/ come",
+      "did the head of the department told/ came",
+      "did the head of the department tell/ came",
+      "did the head of the department tell/ come"
+    ],
+    "correctAnswer": "did the head of the department tell/ come"
+  },
+  {
+    "question": "What is a call centre?",
+    "answers": [
+      "It is a department in charge of potential customers.",
+      "It is a centralized department which receives inbound and outbound calls from potential customers.",
+      "It is a centralized department which manages with the calls from unhappy customers.",
+      "It is a centralized department which works with the calls from employees."
+    ],
+    "correctAnswer": "It is a centralized department which receives inbound and outbound calls from potential customers."
+  },
+  {
+    "question": "Which sentence is right using Present Perfect Continuous?",
+    "answers": [
+      "They have working on the sale forecasting for a long time.",
+      "They have been worked on the sale forecasting for a long time.",
+      "They had been working on the sale forecasting for a long time.",
+      "They have been working on the sale forecasting for a long time."
+    ],
+    "correctAnswer": "They have been working on the sale forecasting for a long time."
+  },
+  {
+    "question": "Choose the right Imperative sentence.",
+    "answers": [
+      "Signs the confidentiality agreement if you want to work with us!",
+      "Do signs the confidentiality agreement if you want to work with us!",
+      "Sign the confidentiality agreement if you want to work with us!"
+    ],
+    "correctAnswer": "Sign the confidentiality agreement if you want to work with us!"
+  },
+  {
+    "question": "Choose the correct option:",
+    "answers": [
+      "He had won a lot of awards by the time he was 25.",
+      "He has won a lot of awards by the time he was 25.",
+      "He had win a lot of awards by the time he was 25.",
+      "He had won a lot of awards by the time he is 25."
+    ],
+    "correctAnswer": "He had won a lot of awards by the time he was 25."
+  },
+  {
+    "question": "Choose the correct option.",
+    "answers": [
+      "I need my laptop for send e-mails.",
+      "I need my laptop to send e-mails.",
+      "I need my laptop to sending e-mails.",
+      "I need my laptop for sent e-mails."
+    ],
+    "correctAnswer": "I need my laptop to send e-mails."
+  },
+  {
+    "question": "Complete the gap: “The workers looked __________ the window and saw the accident.”",
+    "answers": [
+      "along",
+      "across",
+      "around",
+      "through"
+    ],
+    "correctAnswer": "through"
+  },
+  {
+    "question": "Complete these question tag: “Let´s have a look at the budgets, ?”",
+    "answers": [
+      "shall we",
+      "do we",
+      "did we",
+      "had we"
+    ],
+    "correctAnswer": "shall we"
+  },
+  {
+    "question": "Complete this sentence: “___, we need to reduce the salaries to face this severe crisis.”",
+    "answers": [
+      "But",
+      "As a result",
+      "Whereas",
+      "As well as"
+    ],
+    "correctAnswer": "As a result"
+  },
+  {
+    "question": "How many essential parts can we find in a contract?",
+    "answers": [
+      "6",
+      "5",
+      "4",
+      "3"
+    ],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "What is a redundancy?",
+    "answers": [
+      "It is the period of time you do not work because of an illness.",
+      "It is the period of time you work.",
+      "It is the time you do not work because you give birth.",
+      "It is the state of being no longer in employment."
+    ],
+    "correctAnswer": "It is the state of being no longer in employment."
+  },
+  {
+    "question": "What is the meaning of the concept minimum wage?",
+    "answers": [
+      "The smallest amount of money workers must receive according to law.",
+      "The money that someone is paid for extra time they work.",
+      "An additional payment for the employees to increase production.",
+      "Money which is given to an employee for a specific reason, such as food."
+    ],
+    "correctAnswer": "The smallest amount of money workers must receive according to law."
+  },
+  {
+    "question": "Which sentence contains the mistake?",
+    "answers": [
+      "He retired after he had been working many years.",
+      "He retired after working many years.",
+      "He retires after he had been working many years.",
+      "He retired because he had worked many years."
+    ],
+    "correctAnswer": "He retires after he had been working many years."
+  },
+  {
+    "question": "Before going to a restaurant, we need to…",
+    "answers": [
+      "Order.",
+      "Make an announcement.",
+      "Make a reservation.",
+      "Check out."
+    ],
+    "correctAnswer": "Make a reservation."
+  },
+  {
+    "question": "Choose the correct option:",
+    "answers": [
+      "She musts book a double room.",
+      "She must books a double room.",
+      "She musts books a double room.",
+      "She must book a double room."
+    ],
+    "correctAnswer": "She must book a double room."
+  },
+  {
+    "question": "Choose the right sentence:",
+    "answers": [
+      "Lilly luggage is in the lobby.",
+      "Lilly´s luggage is in the lobby.",
+      "Lillys’ luggage is in the lobby.",
+      "The luggage of Lilly is in the lobby."
+    ],
+    "correctAnswer": "Lilly´s luggage is in the lobby."
+  },
+  {
+    "question": "Choose the wrong sentence:",
+    "answers": [
+      "She will travel abroad if she has enough money.",
+      "She would have travelled abroad if she would have had enough money.",
+      "She would have travelled abroad if she had had enough money.",
+      "If she had enough money, she would travel abroad."
+    ],
+    "correctAnswer": "She would have travelled abroad if she would have had enough money."
+  },
+  {
+    "question": "Complete the sentence. “The aircraft________ at 9am in London.”",
+    "answers": [
+      "land.",
+      "is going to land.",
+      "will land.",
+      "lands."
+    ],
+    "correctAnswer": "lands."
+  },
+  {
+    "question": "Complete the sentence. “We ____________ our boarding passes for tomorrow’s flight.”",
+    "answers": [
+      "are going to print",
+      "will print",
+      "am going to print",
+      "print"
+    ],
+    "correctAnswer": "are going to print"
+  },
+  {
+    "question": "Complete the sentence. “They ___________ update all the computers yesterday.”",
+    "answers": [
+      "can",
+      "should",
+      "had to",
+      "may"
+    ],
+    "correctAnswer": "had to"
+  },
+  {
+    "question": "What is the function of carry-on luggage?",
+    "answers": [
+      "It is a type of luggage that allows you to carry a lot of big things.",
+      "It is a type of luggage that allows you to carry the essentials for a short trip.",
+      "It is a type of luggage made up of several suitcases.",
+      "It is a type of luggage for which you have to pay a lot of money."
+    ],
+    "correctAnswer": "It is a type of luggage that allows you to carry the essentials for a short trip."
+  },
+  {
+    "question": "Which is the right answer?",
+    "answers": [
+      "Mary doesn’t can speak three languages.",
+      "Mary will be able to travel more often in the near future.",
+      "Mary must work from home yesterday.",
+      "Mary shouldn’t to work harder."
+    ],
+    "correctAnswer": "Mary will be able to travel more often in the near future."
+  },
+  {
+    "question": "Attendee refers to:",
+    "answers": [
+      "A person who isn't at the meeting.",
+      "A person who is at the meeting.",
+      "A person who speaks in the meeting.",
+      "A person who prepares the minute of a meeting."
+    ],
+    "correctAnswer": "A person who is at the meeting."
+  },
+  {
+    "question": "Choose the correct option:",
+    "answers": [
+      "She work for a company which organises conferences.",
+      "She works for a company who organises conferences.",
+      "She works for a company whose she organises conferences.",
+      "She works for a company which organises conferences."
+    ],
+    "correctAnswer": "She works for a company which organises conferences."
+  },
+  {
+    "question": "Complete the gaps with the suitable word.  \"came to ask for .\"",
+    "answers": [
+      "Someone/ anything",
+      "Something/ nothing",
+      "Anything/ everything",
+      "Someone/ something"
+    ],
+    "correctAnswer": "Someone/ something"
+  },
+  {
+    "question": "Complete the sentence:  \"There are _____ things to repair, we have ______ time to do it and we don't have _____ tools.\"",
+    "answers": [
+      "many/little/a lot of",
+      "much/little/a lot of",
+      "many/few/a lot of",
+      "many/little/some"
+    ],
+    "correctAnswer": "many/little/some"
+  },
+  {
+    "question": "Complete the sentence: \" any office building near here?\"",
+    "answers": [
+      "Are there",
+      "There is",
+      "There are",
+      "Is there"
+    ],
+    "correctAnswer": "**Is there **"
+  },
+  {
+    "question": "Complete the sentence:  \" could repair the file cabinet.\"",
+    "answers": [
+      "Anything",
+      "Every",
+      "No one",
+      "Somewhere"
+    ],
+    "correctAnswer": "**No one **"
+  },
+  {
+    "question": "Complete the sentence:  \"The conference was __________, it lasted 5 hours. I'm now __________.\"",
+    "answers": [
+      "exhausted/exhausting",
+      "exhausting/exhausting",
+      "exhausting/exhausted"
+    ],
+    "correctAnswer": "exhausting/exhausted"
+  },
+  {
+    "question": "Complete the sentence.  \"He is the worker __________ father worked in the sales company.\"",
+    "answers": [
+      "who",
+      "which",
+      "whose",
+      "that"
+    ],
+    "correctAnswer": "**whose **"
+  },
+  {
+    "question": "Which of the following is a type of voting?",
+    "answers": [
+      "Make a motion.",
+      "Second an agreement.",
+      "Show of hands.",
+      "Make a resolution."
+    ],
+    "correctAnswer": "Show of hands."
+  },
+  {
+    "question": "Bank transfer refers to:",
+    "answers": [
+      "When the bank sends money from one account to another.",
+      "The price for bank services.",
+      "The amount of money that is lent by the bank.",
+      "How much money a business borrows from a bank account.",
+      "When the bank sends money from one account to another."
+    ],
+    "correctAnswer": "When the bank sends money from one account to another."
+  },
+  {
+    "question": "Choose the correct option for this sentence: “What are you doing now?”, I asked her.",
+    "answers": [
+      "I asked her what she was done the day before.",
+      "I asked her what she was doing then.",
+      "I asked her if she was doing then.",
+      "I asked her what she was doing the day before.",
+      "I asked her what she was doing then."
+    ],
+    "correctAnswer": "I asked her what she was doing then."
+  },
+  {
+    "question": "Choose the correct option.",
+    "answers": [
+      "The invoice filled by the office.",
+      "The invoice is filled of the office.",
+      "the invoice is fill by the office.",
+      "The invoice is filled by the office.",
+      "The invoice is filled by the office."
+    ],
+    "correctAnswer": "The invoice is filled by the office."
+  },
+  {
+    "question": "Choose the correct option.",
+    "answers": [
+      "We will have our computer repaired.",
+      "We will have our computer repair.",
+      "We have our computer repair.",
+      "Our computer will have repaired.",
+      "We will have our computer repaired."
+    ],
+    "correctAnswer": "We will have our computer repaired."
+  },
+  {
+    "question": "Complete the gap with a suitable verb tense “The document was ____ on the table yesterday.”",
+    "answers": [
+      "leave",
+      "leaving",
+      "left",
+      "lefted",
+      "left"
+    ],
+    "correctAnswer": "left"
+  },
+  {
+    "question": "Complete the gap with a suitable word. “The CEO said _____ anybody should miss the meeting.”",
+    "answers": [
+      "that",
+      "which",
+      "who",
+      "of",
+      "that"
+    ],
+    "correctAnswer": "that"
+  },
+  {
+    "question": "Complete the gap with the suitable word. “My employees said that they would attend a conference __________.”",
+    "answers": [
+      "the previous year",
+      "last year",
+      "next year",
+      "the following year",
+      "the following year"
+    ],
+    "correctAnswer": "the following year"
+  },
+  {
+    "question": "When a person is short of money is:",
+    "answers": [
+      "Reducing its debts.",
+      "Buying something with a bank card.",
+      "Investing savings.",
+      "Run out of money.",
+      "Run out of money."
+    ],
+    "correctAnswer": "Run out of money."
+  },
+  {
+    "question": "Which of the following is a type of business?",
+    "answers": [
+      "Profit",
+      "Commission",
+      "Bankrupt",
+      "Enterprise",
+      "Enterprise"
+    ],
+    "correctAnswer": "Enterprise"
+  },
+  {
+    "question": "An important discovery or development is called…",
+    "answers": [
+      "upgrade.",
+      "techie.",
+      "breakthrough.",
+      "gadget."
+    ],
+    "correctAnswer": "breakthrough."
+  },
+  {
+    "question": "Choose the correct option: “There is no sense in __________ the sales department”.",
+    "answers": [
+      "meeting",
+      "to meet",
+      "meet",
+      "meets"
+    ],
+    "correctAnswer": "meeting"
+  },
+  {
+    "question": "Choose the correct option.    “_____________ languages is beneficial for your career”.",
+    "answers": [
+      "To speak",
+      "Spoken",
+      "Speaking",
+      "Speak"
+    ],
+    "correctAnswer": "Speaking"
+  },
+  {
+    "question": "Choose the correct option. “It is interesting ___________ about computers”.",
+    "answers": [
+      "learning",
+      "learnt",
+      "learn",
+      "to learn"
+    ],
+    "correctAnswer": "to learn"
+  },
+  {
+    "question": "Complete the gap with a suitable preposition or adverb.   “The event was called _____ because of the absentees”.",
+    "answers": [
+      "out",
+      "over",
+      "off",
+      "back"
+    ],
+    "correctAnswer": "off"
+  },
+  {
+    "question": "Complete the gap with a suitable preposition or adverb. “I get ____ with my cousins, but I can’t stand their friends”.",
+    "answers": [
+      "up",
+      "on",
+      "over",
+      "down"
+    ],
+    "correctAnswer": "on"
+  },
+  {
+    "question": "Complete the gap with a suitable preposition or adverb. “The clients should care _____ their rights”.",
+    "answers": [
+      "for",
+      "down",
+      "back",
+      "up"
+    ],
+    "correctAnswer": "for"
+  },
+  {
+    "question": "The estimated amount of money for a marketing strategy is the…",
+    "answers": [
+      "advertising agency.",
+
+      "Advertisement.",
+      "advertising campaign.",
+      "advertising budget."
+    ],
+    "correctAnswer": "advertising budget."
+  },
+  {
+    "question": "The phrasal verb “cut out” refers to...",
+    "answers": [
+      "remove.",
+      "leave.",
+      "make an effort.",
+      "borrow."
+    ],
+    "correctAnswer": "remove."
+  },
+  {
+    "question": "Which of the following is a type of public event?",
+    "answers": [
+      "Seminar.",
+      "Community event.",
+      "Incentive.",
+      "Conference."
+    ],
+    "correctAnswer": "Conference."
+  },
+  {
+    "question": "Business resilience refers to…",
+    "answers": [
+      "The actions that contribute to protect the planet.",
+      "A system of production that reduces wastes by recycling.",
+      "The ability to quickly adapt to something.",
+      "Investing money only in sustainable business."
+    ],
+    "correctAnswer": "The ability to quickly adapt to something."
+  },
+  {
+    "question": "Choose the correct option:",
+    "answers": [
+      "He is a very good CEO.",
+      "He were a very good CEO.",
+      "He are a very good CEO.",
+      "He am a very good CEO."
+    ],
+    "correctAnswer": "He is a very good CEO."
+  },
+  {
+    "question": "Choose the correct option:",
+    "answers": [
+      "She should compiled her files.",
+      "She should compiles her files.",
+      "She shoulds compile her files.",
+      "She should compile her files."
+    ],
+    "correctAnswer": "She should compile her files."
+  },
+  {
+    "question": "Choose the correct option:",
+    "answers": [
+      "They works for a company which prepares events.",
+      "They work for a company which prepare events.",
+      "They work for a company where prepare events.",
+      "They work for a company who prepare events."
+    ],
+    "correctAnswer": "They work for a company which prepare events."
+  },
+  {
+    "question": "Choose the correct option:",
+    "answers": [
+      "The hotel is booked by the travel agency.",
+      "The hotel is book by the travel agency.",
+      "The hotel is been booked by the travel agency.",
+      "The hotel is booked of the travel agency."
+    ],
+    "correctAnswer": "The hotel is booked by the travel agency."
+  },
+  {
+    "question": "Choose the correct option: “__________ about finance is necessary.”",
+    "answers": [
+      "To read",
+      "Reads",
+      "Read",
+      "Reading"
+    ],
+    "correctAnswer": "Reading"
+  },
+  {
+    "question": "Choose the right sentence:",
+    "answers": [
+      "Our manager has just prepared the meeting.",
+      "Our manager have just prepared the meeting.",
+      "Our manager has just prepare the meeting.",
+      "Our manager recently prepared the meeting."
+    ],
+    "correctAnswer": "Our manager has just prepared the meeting."
+  },
+  {
+    "question": "Complete the sentence: “_________ called to inform about ___________”",
+    "answers": [
+      "Someone/anybody",
+      "Something/nothing",
+      "Someone/something",
+      "Anything/everybody"
+    ],
+    "correctAnswer": "Someone/something"
+  },
+  {
+    "question": "The international treaty which is related to climate change is…",
+    "answers": [
+      "Ethical investment.",
+      "Paris Agreement.",
+      "Nature-based solutions.",
+      "Environmentalism."
+    ],
+    "correctAnswer": "Paris Agreement."
+  },
+  {
+    "question": "Which sentence contains the mistake?",
+    "answers": [
+      "He came after he had phoned several times.",
+      "He came after phoning several times.",
+      "He comes after he had phoned several times.",
+      "He came because he had phoned several times."
+    ],
+    "correctAnswer": "He comes after he had phoned several times."
+  },
+  {
+    "question": "Choose the correct option of Passive:",
+    "answers": [
+      "David were gave me this bike.",
+      "I were given this bike from David.",
+      "This bike was given to me by David.",
+      "All the answers are correct"
+    ],
+    "correctAnswer": "This bike was given to me by David."
+  },
+  {
+    "question": "Choose the correct option.   “______________ languages is beneficial for your career.”",
+    "answers": [
+      "To speak",
+      "Spoken",
+      "Speaking",
+      "Speak"
+    ],
+    "correctAnswer": "Speaking"
+  },
+  {
+    "question": "Choose the correct Passive sentence:",
+    "answers": [
+      "The invoice filled by the officer.",
+      "The invoice is filled of the officer.",
+      "The invoice is fill by the officer.",
+      "The invoice is filled by the officer"
+    ],
+    "correctAnswer": "The invoice is filled by the officer"
+  },
+  {
+    "question": "Choose the right option of Reported Speech: “She worked the whole day yesterday”",
+    "answers": [
+      "She said that she works the whole day yesterday.",
+      "She told that she had worked the whole day yesterday.",
+      "She said that she had worked the whole day the day before.",
+      "She said that she had worked the whole day yesterday"
+    ],
+    "correctAnswer": "She said that she had worked the whole day yesterday"
+  },
+  {
+    "question": "Choose the right option:” __________ is your name? My name is Susan.”",
+    "answers": [
+      "Which",
+      "Where",
+      "Who",
+      "What"
+    ],
+    "correctAnswer": "What"
+  },
+  {
+    "question": "Choose the right option.“How long _____________ in the Marketing department?”",
+    "answers": [
+      "do you work",
+      "have you been working",
+      "did you work",
+      "has you worked"
+    ],
+    "correctAnswer": "have you been working"
+  },
+  {
+    "question": "Complete the sentence choosing the right option: “______________ any documents on the desk?”",
+    "answers": [
+      "There is",
+      "Are there",
+      "There are",
+      "Is there"
+    ],
+    "correctAnswer": "Are there"
+  },
+  {
+    "question": "Complete the sentence choosing the right option: “This is the restaurant _________ we had dinner last night”",
+    "answers": [
+      "where",
+      "which",
+      "whose",
+      "who"
+    ],
+    "correctAnswer": "where"
+  },
+  {
+    "question": "Complete the sentence with the correct conditional: “If I _______ you, I_________ a new car”.",
+    "answers": [
+      "were/would",
+      "buy",
+      "would be / would buy",
+      "am / would buy",
+      "were / buy"
+    ],
+    "correctAnswer": "were / would buy"
+  },
+  {
+    "question": "Complete the sentence with the correct demonstrative: “Can you pass me _______ pencils over there, please?”",
+    "answers": [
+      "this",
+      "that",
+      "these",
+      "those"
+    ],
+    "correctAnswer": "those"
+  },
+  {
+    "question": "Complete the sentence with the correct options: “What______ about with the employee when I_________?”",
+    "answers": [
+      "were you talking / arrived you",
+      "were talking / was arriving",
+      "did you talk / was arriving",
+      "you talked / arrived"
+    ],
+    "correctAnswer": "were you talking / arrived you"
+  },
+  {
+    "question": "Complete the sentence with the correct preposition:“I don´t like going to the gym ____ the mornings because I have to go to the office. I prefer going _____ nights.”",
+    "answers": [
+      "in/at",
+      "at/in",
+      "at/on",
+      "on/on"
+    ],
+    "correctAnswer": "in/at"
+  },
+  {
+    "question": "Complete the sentence with the Superlative form: “This car is the___________ and the _______ option.”",
+    "answers": [
+      "best / cheapest",
+      "better / cheaper",
+      "best / cheaper",
+      "better / cheapest"
+    ],
+    "correctAnswer": "best / cheapest"
+  },
+  {
+    "question": "Complete these question tags: “Let´s have a look at the budgets, ________?”",
+    "answers": [
+      "shall we",
+      "do we",
+      "did we",
+      "had we"
+    ],
+    "correctAnswer": "shall we"
+  },
+  {
+    "question": "The aircraft ________ at 9 a.m. in London.",
+    "answers": [
+      "land is going",
+      "to land",
+      "will land",
+      "lands"
+    ],
+    "correctAnswer": "will land"
+  },
+  {
+    "question": "The complaints service has _________ received my complaint.",
+    "answers": [
+      "yet",
+      "for",
+      "since",
+      "already"
+    ],
+    "correctAnswer": "already"
+  },
+  {
+    "question": "What is the aim of Human Resources Department?",
+    "answers": [
+      "It deals with all the activities, services, and goods you need to offer to the customers.",
+      "It deals with the organization of the paperwork used in the hiring process.",
+      "It creates a business plan and gives us a general knowledge of the firm performance.",
+      "It plans the provisions we are going to need, the cost of a product and the purchasing process."
+    ],
+    "correctAnswer": "It deals with the organization of the paperwork used in the hiring process."
+  },
+  {
+    "question": "Which is the right answer?",
+    "answers": [
+      "You must come to the meeting",
+      "You can coming to the meeting",
+      "You shoulds come to the meeting",
+      "You ought to comes to the meeting"
+    ],
+    "correctAnswer": "You ought to comes to the meeting"
+  },
+  {
+    "question": "Which term refers to shares?",
+    "answers": [
+      "The positions of a company that people can buy.",
+      "The difference of money between the revenue and the costs.",
+      "When a company invests money, and it gets more money back.",
+      "The measurement of a company’s liquidity"
+    ],
+    "correctAnswer": "The positions of a company that people can buy."
+  },
+  {
+    "question": "Which is the right answer?",
+    "answers": [
+      "Mikel is such an interesting and amazed person.",
+      "Mikel is such an interesting and amazing person.",
+      "Mikel is such an interested and amazed person.",
+      "Mikel is such an interested and amazing person"
+    ],
+    "correctAnswer": "Mikel is such an interesting and amazing person."
+  },
+  {
+    "question": "Complete the gap with the suitable word. / _________came to ask for __________.",
+    "answers": [
+      "Someone/ anything",
+      "Something/ nothing",
+      "Anything/ everything",
+      "Someone/ something"
+    ],
+    "correctAnswer": "Someone/ something"
+  },
+  {
+    "question": "Complete the sentence: _________ dental clinic is near here.",
+    "answers": [
+      "Peter",
+      "The Peter",
+      "Peters´s",
+      "Peter´s"
+    ],
+    "correctAnswer": "Peter's"
+  },
+  {
+    "question": "Complete the sentence: __________ could clean the operating room.",
+    "answers": [
+      "Anything",
+      "Every",
+      "No one",
+      "Somewhere"
+    ],
+    "correctAnswer": "No one"
+  },
+  {
+    "question": "Complete the sentence. / “They ___________ buy several packets of masks last week.”",
+    "answers": [
+      "can",
+      "should",
+      "had to",
+      "may"
+    ],
+    "correctAnswer": "had to"
+  },
+  {
+    "question": "How is anthrax transmitted?",
+    "answers": [
+      "By airborne transmission",
+      "By animal to people",
+      "By pollute soil",
+      "By polluted food and water"
+    ],
+    "correctAnswer": "By polluted food and water"
+  },
+  {
+    "question": "What disease is caused by a virus?",
+    "answers": [
+      "Meningitis",
+      "Ringworm",
+      "Intestinal worms",
+      "Measles"
+    ],
+    "correctAnswer": "Measles"
+  },
+  {
+    "question": "Which is the right answer?",
+    "answers": [
+      "Mary doesn´t can use the scalpel",
+      "Mary will be able to work in the ICU",
+      "Mary must work in the office yesterday",
+      "Mary shouldn’t to work harder"
+    ],
+    "correctAnswer": "Mary will be able to work in the ICU"
+  },
+  {
+    "question": "Change this sentence into reported speech: Leave now!",
+    "answers": [
+      "He told me to leave then",
+      "He told me to leave now",
+      "He said to me to leave then",
+      "He said me to leave then"
+    ],
+    "correctAnswer": "He told me to leave then"
+  },
+  {
+    "question": "Change this sentence into reported speech: Why did he go out?",
+    "answers": [
+      "She asked me why he has gone out",
+      "She asks me why he had gone out",
+      "She asked me if he had gone out",
+      "She asked me why he had gone out"
+    ],
+    "correctAnswer": "She asked me why he had gone out"
+  },
+  {
+    "question": "Complete the sentence; \"There are_______ appointments for the endocrinologist´s practice, but we have ______ time to go to the hospital.\"",
+    "answers": [
+      "many/little",
+      "much/little",
+      "many/few",
+      "many/a few"
+    ],
+    "correctAnswer": "many/a few"
+  },
+  {
+    "question": "Change this sentence into reported speech: “Leave now!”",
+    "answers": [
+      "He told me to leave then.",
+      "He told me to leave now.",
+      "He said to me to leave then.",
+      "He said me to leave then."
+    ],
+    "correctAnswer": "He told me to leave then."
+  },
+  {
+    "question": "Change this sentence into reported speech: “Why did he go out?”",
+    "answers": [
+      "She asked me why he has gone out.",
+      "She asks me why he had gone out.",
+      "She asked me if he had gone out.",
+      "She asked me why he had gone out."
+    ],
+    "correctAnswer": "She asked me why he had gone out."
+  },
+  {
+    "question": "Twice a week.",
+    "answers": [
+      "When Why",
+      "Which",
+      "How often"
+    ],
+    "correctAnswer": "How often"
+  },
+  {
+    "question": "Change into negative the following sentence: “She lives for learning Electrical and Automatic Installations.”",
+    "answers": [
+      "She don´t live for learning Electrical and Automatic Installations.",
+      "She doesn´t live for learning Electrical and Automatic Installations.",
+      "She doesn´t lives for learning Electrical and Automatic Installations.",
+      "She don´t lives for learning Electrical and Automatic Installations."
+    ],
+    "correctAnswer": "She doesn´t live for learning Electrical and Automatic Installations."
+  },
+  {
+    "question": "Choose the correct option:",
+    "answers": [
+      "She were a very good electrician.",
+      "She are a very good electrician.",
+      "She am a very good electrician.",
+      "She is a very good electrician."
+    ],
+    "correctAnswer": "She is a very good electrician."
+  },
+  {
+    "question": "Choose the sentence without any mistake.",
+    "answers": [
+      "Mary usually buy eco-friendly bulbs.",
+      "Mary buy usually eco-friendly bulbs.",
+      "Mary usually buyes eco-friendly bulbs.",
+      "Mary usually buys eco-friendly bulbs."
+    ],
+    "correctAnswer": "Mary usually buys eco-friendly bulbs."
+  },
+  {
+    "question": "Which is the right answer?",
+    "answers": [
+      "Robin had got several electronics repair shops in the city.",
+      "Robin didn´t have several electronics repair shops in the city.",
+      "Robin have got several electronics repair shops in the city.",
+      "Robin didn´t had got several electronics repair shops in the city."
+    ],
+    "correctAnswer": "Robin didn´t have several electronics repair shops in the city."
+  },
+  {
+    "question": "Choose the right option. “How long _____________ in this factory?”",
+    "answers": [
+      "do you work",
+      "have you worked",
+      "did you work",
+      "has you worked"
+    ],
+    "correctAnswer": "have you worked"
+  },
+  {
+    "question": "Choose the right sentence:",
+    "answers": [
+      "The technician repaired the short circuit yesterday.",
+      "The technician didn´t repaired the short circuit yesterday.",
+      "The technician repair the short circuit yesterday.",
+      "The technician repairs the short circuit yesterday."
+    ],
+    "correctAnswer": "The technician repaired the short circuit yesterday."
+  },
+  {
+    "question": "Complete the sentence: “What _____________ you when I ___________?”",
+    "answers": [
+      "does the mechanic tell/ come",
+      "did the mechanic told/ came",
+      "did the mechanic tell/ came",
+      "did the mechanic tell/ come"
+    ],
+    "correctAnswer": "did the mechanic tell/ came"
+  },
+  {
+    "question": "The price of light is __________ than it was last year when it was _________.",
+    "answers": [
+      "higher/ cheaper",
+      "more high/ cheaper",
+      "high/ cheap",
+      "higher/ more cheap"
+    ],
+    "correctAnswer": "higher/ cheaper"
+  },
+  {
+    "question": "What is the comparative and superlative of the adjective good?",
+    "answers": [
+      "gooder/ the best.",
+      "gooder/ the goodest.",
+      "better/ the best.",
+      "better/ best."
+    ],
+    "correctAnswer": "better/ the best."
+  },
+  {
+    "question": "Which sentence is right?",
+    "answers": [
+      "They were work in an electricity workshop.",
+      "They was working in an electricity workshop.",
+      "They working in an electricity workshop.",
+      "They were working in an electricity workshop."
+    ],
+    "correctAnswer": "They were working in an electricity workshop."
+  },
+  {
+    "question": "_______ are my new pliers which I bought in ______ hardware in the city centre.",
+    "answers": [
+      "These/ that",
+      "Those/ this",
+      "These/ these",
+      "Those/these"
+    ],
+    "correctAnswer": "Those/ this"
+  },
+  {
+    "question": "Change the following sentence to the imperative: “It´s compulsory to wash your hands before coming into this room.”",
+    "answers": [
+      "Washes your hands before coming into this room!",
+      "Do wash your hands before coming into this room!",
+      "Wash your hands before coming into this room!",
+      "All the answers are right."
+    ],
+    "correctAnswer": "Wash your hands before coming into this room!"
+  },
+  {
+    "question": "The workers looked __________ the window and saw the accident.",
+    "answers": [
+      "along",
+      "across",
+      "around",
+      "through"
+    ],
+    "correctAnswer": "through"
+  },
+  {
+    "question": "This tool is _________ to use it.",
+    "answers": [
+      "Dangerous too",
+      "Too dangerous",
+      "Enough dangerous",
+      "Any of the options is correct."
+    ],
+    "correctAnswer": "Too dangerous"
+  },
+  {
+    "question": "What time does the domestic appliance repair shop open tomorrow?",
+    "answers": [
+      "It will open at 9 a.m.",
+      "It is going to open at 9 a.m.",
+      "It opens at 9 a.m.",
+      "It is opening at 9 a.m."
+    ],
+    "correctAnswer": "It opens at 9 a.m."
+  },
+  {
+    "question": "Why are you turning on the radio?",
+    "answers": [
+      "I´m going to listen to the news.",
+      "I will listen to the news",
+      "I´m listening to the news",
+      "I listen to the news."
+    ],
+    "correctAnswer": "I´m going to listen to the news."
+  },
+  {
+    "question": "Choose the correct option:",
+    "answers": [
+      "She work for a company which build solar panels.",
+      "She works for a company who build solar panels.",
+      "She works for a company where she build solar panels.",
+      "She works for a company which builds solar panels."
+    ],
+    "correctAnswer": "She works for a company which builds solar panels."
+  },
+  {
+    "question": "Choose the sentence without any mistake.",
+    "answers": [
+      "If she buy eco-friendly bulbs, she won´t pollute the planet.",
+      "If she will buy eco-friendly bulbs, she won´t pollute the planet.",
+      "If she buys eco-friendly bulbs she pollute the planet.",
+      "If she buys eco-friendly bulbs, she won´t pollute the planet."
+    ],
+    "correctAnswer": "If she buys eco-friendly bulbs, she won´t pollute the planet."
+  },
+  {
+    "question": "Complete the sentence: “There are _____ things to repair, we have ______ time to do it and we don´t have _____ tools.”",
+    "answers": [
+      "many/little/a lot of",
+      "much/little/a lot of",
+      "many/few/a lot of",
+      "many/little/some"
+    ],
+    "correctAnswer": "many/little/a lot of"
+  },
+  {
+    "question": "Complete the sentence. “Her washing machine will be ___________ next week.”",
+    "answers": [
+      "sending",
+      "send",
+      "sent",
+      "sends"
+    ],
+    "correctAnswer": "sent"
+  },
+  {
+    "question": "Which is the right answer?",
+    "answers": [
+      "Mary have been given the plug.",
+      "Mary has given the plug.",
+      "Mary has being given the plug.",
+      "Mary has been given the plug."
+    ],
+    "correctAnswer": "Mary has been given the plug."
+  },
+  {
+    "question": "Which sentence is an active sentence?",
+    "answers": [
+      "This hammer is used to repair wheels.",
+      "New laptops are being bought by the owner.",
+      "The invoice wasn´t paid last week.",
+      "The petrol costs a lot at present."
+    ],
+    "correctAnswer": "The petrol costs a lot at present."
+  },
+  {
+    "question": "Choose the correct negative sentence with the verb Have Got.",
+    "answers": [
+      "I haven´t any brothers or sister.",
+      "I doesn´t have any brothers or sisters.",
+      "I haven´t got any brothers or sisters.",
+      "I don´t have got any brothers or sisters"
+    ],
+    "correctAnswer": "I haven´t got any brothers or sisters."
+  },
+  {
+    "question": "Choose the correct option:",
+    "answers": [
+      "She musts repair the pipe to connect the washing machine.",
+      "She must repairs the pipe to connect the washing machine.",
+      "She musts repairs the exhaust pipe to connect the washing machine.",
+      "She must repair the exhaust pipe to connect the washing machine"
+    ],
+    "correctAnswer": "She must repair the exhaust pipe to connect the washing machine"
+  },
+  {
+    "question": "Choose the correct option:",
+    "answers": [
+      "The old oven repaired by the mechanic.",
+      "The old oven was repaired by the mechanic.",
+      "The old oven was repair by the mechanic.",
+      "The old oven were repaired by the mechanic"
+    ],
+    "correctAnswer": "The old oven was repaired by the mechanic."
+  },
+  {
+    "question": "Complete the sentence with the correct Future expression: \"I´m sure she____ pass the test\"",
+    "answers": [
+      "am going",
+      "to passes",
+      "will are",
+      "going to"
+    ],
+    "correctAnswer": "going to"
+  },
+  {
+  "question": "Complete the sentence: \"I don´t like going to the gym____ the mornings because I prefer going______ nights.\"",
+  "answers": [
+  "in/at",
+  "at/in",
+  "at/on",
+  "on/on"
+],
+"correctAnswer": "in/at"
+}
 ]
+
