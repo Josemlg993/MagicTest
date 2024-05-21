@@ -599,6 +599,17 @@
       ],
       "correctAnswer": "were you talking / arrived"
     },
+    
+    {
+      "question": "Complete the sentence with the correct options: “What______ about with the employee when I_________?”",
+      "answers": [
+        "were you talking / arrived you",
+        "were talking / was arriving",
+        "did you talk / was arriving",
+        "you talked / arrived"
+      ],
+      "correctAnswer": "were you talking / arrived you"
+    },
     {
       "question": "Complete the sentence with the Superlative form: \"This car is the___________ and the _______ option.\"",
       "answers": [
@@ -1328,16 +1339,6 @@
       "correctAnswer": "where"
     },
     {
-      "question": "Complete the sentence with the correct options: “What______ about with the employee when I_________?”",
-      "answers": [
-        "were you talking / arrived you",
-        "were talking / was arriving",
-        "did you talk / was arriving",
-        "you talked / arrived"
-      ],
-      "correctAnswer": "were you talking / arrived you"
-    },
-    {
       "question": "Complete the sentence with the correct preposition:“I don´t like going to the gym ____ the mornings because I have to go to the office. I prefer going _____ nights.”",
       "answers": [
         "in/at",
@@ -1346,16 +1347,6 @@
         "on/on"
       ],
       "correctAnswer": "in/at"
-    },
-    {
-      "question": "Complete the sentence with the Superlative form: “This car is the___________ and the _______ option.”",
-      "answers": [
-        "best / cheapest",
-        "better / cheaper",
-        "best / cheaper",
-        "better / cheapest"
-      ],
-      "correctAnswer": "best / cheapest"
     },
     {
       "question": "Complete these question tags: “Let´s have a look at the budgets, ________?”",
