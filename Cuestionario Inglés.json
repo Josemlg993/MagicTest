@@ -939,16 +939,7 @@
         ],
         "correctAnswer": "Too dangerous"
     },
-    {
-        "question": "What are video games consoles?",
-        "answers": [
-            "White goods.",
-            "Brown goods.",
-            "Silver goods.",
-            "Shiny goods."
-        ],
-        "correctAnswer": "Brown goods."
-    },
+    
     {
         "question": "What time does the domestic appliance repair shop open tomorrow?",
         "answers": [
@@ -968,16 +959,6 @@
             "I listen to the news."
         ],
         "correctAnswer": "I´m going to listen to the news."
-    },
-    {
-        "question": "Which one is a device used for data storage?",
-        "answers": [
-            "Microphone",
-            "Printer",
-            "USB drive",
-            "Web cam"
-        ],
-        "correctAnswer": "USB drive"
     },
     {
         "question": "Choose the correct option:",
@@ -1018,16 +999,6 @@
             "sends"
         ],
         "correctAnswer": "sent"
-    },
-    {
-        "question": "Telecommunication without wires is known as:",
-        "answers": [
-            "fractal",
-            "wireless",
-            "analogue",
-            "digital"
-        ],
-        "correctAnswer": "wireless"
     },
     {
         "question": "Which is the right answer?",
