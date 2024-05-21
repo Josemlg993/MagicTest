@@ -1007,7 +1007,7 @@
             "many/few/a lot of",
             "many/little/some"
         ],
-        "correctAnswer": "many/few/a lot of"
+        "correctAnswer": "many/little/a lot of"
     },
     {
         "question": "Complete the sentence. “Her washing machine will be ___________ next week.”",
