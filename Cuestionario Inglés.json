@@ -250,6 +250,16 @@
       "correctAnswer": "would have repaired / had received."
     },
     {
+      "question": "Complete the sentence: “There are _____ appointments for the endocrinologist´s practice, but we have ______ time to go to the hospital.”",
+      "answers": [
+        "many/little",
+        "much/little",
+        "many/few",
+        "many/little"
+      ],
+      "correctAnswer": "many/little"
+    },
+    {
       "question": "What does a chaplain do?",
       "answers": [
         "The chaplain comforts relatives.",
@@ -1318,26 +1328,6 @@
       "correctAnswer": "where"
     },
     {
-      "question": "Complete the sentence with the correct conditional: “If I _______ you, I_________ a new car”.",
-      "answers": [
-        "were/would buy",
-        "would be/would buy",
-        "am/would buy",
-        "were/buy"
-      ],
-      "correctAnswer": "were/would buy"
-    },
-    {
-      "question": "Complete the sentence with the correct demonstrative: “Can you pass me _______ pencils over there, please?”",
-      "answers": [
-        "this",
-        "that",
-        "these",
-        "those"
-      ],
-      "correctAnswer": "those"
-    },
-    {
       "question": "Complete the sentence with the correct options: “What______ about with the employee when I_________?”",
       "answers": [
         "were you talking / arrived you",
@@ -1506,16 +1496,6 @@
         "She asked me why he had gone out"
       ],
       "correctAnswer": "She asked me why he had gone out"
-    },
-    {
-      "question": "Complete the sentence; \"There are_______ appointments for the endocrinologist´s practice, but we have ______ time to go to the hospital.\"",
-      "answers": [
-        "many/little",
-        "much/little",
-        "many/few",
-        "many/a few"
-      ],
-      "correctAnswer": "many/little"
     },
     {
       "question": "Change this sentence into reported speech: “Leave now!”",
