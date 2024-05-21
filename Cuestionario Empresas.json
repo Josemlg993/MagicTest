@@ -450,16 +450,6 @@
         "correctAnswer": "El IVA"
     },
     {
-        "question": "El impuesto que se encarga de gravar las rentas de cada persona física:",
-        "answers": [
-            "El IVA",
-            "El IRPF",
-            "El impuesto de sociedades",
-            "La declaración censal"
-        ],
-        "correctAnswer": "El IRPF"
-    },
-    {
         "question": "El ratio que relaciona el pasivo no corriente y corriente con el patrimonio neto de la empresa, aporta información acerca de:",
         "answers": [
             "El endeudamiento de la empresa",
@@ -530,16 +520,6 @@
         "correctAnswer": "Estrategia de diferenciación"
     },
     {
-        "question": "Cuando una empresa trata de dirigir todas las acciones a un segmento del mercado en específico, está aplicando una estrategia de:",
-        "answers": [
-            "Estrategia de diversificación",
-            "Estrategia de diferenciación",
-            "Estrategia de costes",
-            "Estrategia de enfoque"
-        ],
-        "correctAnswer": "Estrategia de enfoque"
-    },
-    {
         "question": "El análisis DAFO consiste en analizar:",
         "answers": [
             "Las debilidades, fortalezas, amenazas y oportunidades",
@@ -578,16 +558,6 @@
             "Marketing político"
         ],
         "correctAnswer": "Marketing relacional"
-    },
-    {
-        "question": "El tipo de marketing que tiene como objetivo transformar opiniones, actitudes y comportamientos del público objetivo es:",
-        "answers": [
-            "Marketing relacional",
-            "Marketing social",
-            "Marketing operativo",
-            "Marketing político"
-        ],
-        "correctAnswer": "Marketing social"
     },
     {
         "question": "La estrategia de cobertura que se centra en ofrecer distintos productos en un solo segmento de mercado se denomina:",
@@ -750,26 +720,6 @@
         "correctAnswer": "Tipos de empresas según su forma jurídica."
     },
     {
-        "question": "Al llevar a cabo el análisis del entorno externo se genera una clasificación de las unidades estratégicas. Si se presentan grandes oportunidades con pequeñas amenazas nos encontramos ante:",
-        "answers": [
-            "Unidad estratégica de negocio especulativa",
-            "Unidad estratégica de negocio ideal",
-            "Unidad estratégica de negocio madura",
-            "Unidad estratégica de negocio problemática"
-        ],
-        "correctAnswer": "Unidad estratégica de negocio ideal"
-    },
-    {
-        "question": "Al número de trabajadores que pasan a otra en empresa en cierto espacio de tiempo se conoce como:",
-        "answers": [
-            "Tasa de despidos.",
-            "Tasa de selección del personal.",
-            "Índice de rotación del personal.",
-            "Ninguna de las anteriores."
-        ],
-        "correctAnswer": "Índice de rotación del personal."
-    },
-    {
         "question": "Cuando de una idea surge una nueva empresa, se denomina:",
         "answers": [
             "Plan de empresa",
@@ -790,36 +740,6 @@
         "correctAnswer": "El presupuesto"
     },
     {
-        "question": "Cuando una empresa trata de brindar a un producto una calidad que dé al cliente cierta ventaja con respecto al resto de productos, está aplicando una estrategia de:",
-        "answers": [
-            "Estrategia de diversificación",
-            "Estrategia de diferenciación",
-            "Estrategia de costes",
-            "Estrategia de enfoque"
-        ],
-        "correctAnswer": "Estrategia de diferenciación"
-    },
-    {
-        "question": "El capital se divide en acciones y las conforman las aportaciones de los socios, corresponde con:",
-        "answers": [
-            "Sociedad anónima",
-            "Sociedad laboral",
-            "Sociedad cooperativa",
-            "Todas son correctas"
-        ],
-        "correctAnswer": "Sociedad anónima"
-    },
-    {
-        "question": "El coste de personal en una empresa:",
-        "answers": [
-            "Corresponde al salario de los trabajadores.",
-            "Corresponde a la cotización en la Seguridad Social.",
-            "Corresponde al salario y a la cotización.",
-            "Cada empresa determina sus propios costes."
-        ],
-        "correctAnswer": "Corresponde al salario y a la cotización."
-    },
-    {
         "question": "El departamento o área de producción es aquel que:",
         "answers": [
             "Fabrica el producto siguiendo los procedimientos y estándares de calidad necesarios para conseguir el mejor producto.",
@@ -838,16 +758,6 @@
             "Ninguna de las anteriores es correcta."
         ],
         "correctAnswer": "El tiempo que se tarda en completar el ciclo productivo desde que se invierte una unidad monetaria hasta que ésta retorna a la empresa."
-    },
-    {
-        "question": "El tipo de marketing que se encarga de establecer una relación de confianza, aceptación y aportación de utilidades competitivas con los clientes es:",
-        "answers": [
-            "Marketing relacional",
-            "Marketing social",
-            "Marketing operativo",
-            "Marketing político"
-        ],
-        "correctAnswer": "Marketing relacional"
     },
     {
         "question": "El trabajador autónomo es:",
@@ -890,16 +800,6 @@
         "correctAnswer": "Cuando el emisor escoge el código por el que va a comunicarse con el receptor."
     },
     {
-        "question": "La base liquidable del IRPF:",
-        "answers": [
-            "Es igual a la base imponible",
-            "Es la parte que queda exenta de la aplicación del tributo",
-            "Es la parte a la que se le aplica el tributo, y es el resultado de aplicarle las distintas reducciones y deducciones a las que tiene el derecho la persona física a la base imponible",
-            "Ninguna es correcta"
-        ],
-        "correctAnswer": "Es la parte a la que se le aplica el tributo, y es el resultado de aplicarle las distintas reducciones y deducciones a las que tiene el derecho la persona física a la base imponible"
-    },
-    {
         "question": "La creatividad como característica del emprendedor hace referencia a:",
         "answers": [
             "Capacidad del empresario de no rendirse ante las constantes dificultades y retos a los que se enfrenta.",
@@ -908,16 +808,6 @@
             "Ninguna de las anteriores es correcta"
         ],
         "correctAnswer": "Capacidad de generar ideas y conceptos, pensamiento original y diferente."
-    },
-    {
-        "question": "La estrategia de cobertura que se centra en ofrecer distintos productos en un solo segmento de mercado se denomina:",
-        "answers": [
-            "Estrategia de concentración",
-            "Estrategia de expansión de productos",
-            "Estrategia de expansión de mercados",
-            "Estrategia de diferenciación"
-        ],
-        "correctAnswer": "Estrategia de expansión de productos"
     },
     {
         "question": "Las empresas de titularidad privada son aquellas en las que",
@@ -938,36 +828,6 @@
             "Ninguna de las anteriores es correcta"
         ],
         "correctAnswer": "Producto, precio, comunicación y punto de venta"
-    },
-    {
-        "question": "Los grupos profesionales se basan en:",
-        "answers": [
-            "Las características del trabajador.",
-            "La titulación del trabajador.",
-            "Las aptitudes del trabajador.",
-            "Todas las anteriores."
-        ],
-        "correctAnswer": "Todas las anteriores."
-    },
-    {
-        "question": "Para la selección de personal:",
-        "answers": [
-            "Es necesario visualizar el escenario futuro según la estrategia corporativa.",
-            "Debe realizarse una previsión del aumento y la reducción de personal.",
-            "Es fundamental controlar en todo momento la selección.",
-            "Todas son correctas."
-        ],
-        "correctAnswer": "Todas son correctas."
-    },
-    {
-        "question": "Para realizar los registros de los movimientos contables, se utiliza:",
-        "answers": [
-            "Los ratios",
-            "El sistema de partida doble",
-            "El albarán",
-            "El presupuesto"
-        ],
-        "correctAnswer": "El sistema de partida doble"
     },
     {
         "question": "Persona que aplicando sus habilidades transforma una idea en un proyecto económico de negocio, generando innovación y beneficios económicos y sociales, se denomina:",
@@ -1049,35 +909,35 @@
         ],
         "correctAnswer": "Proporcionar servicios de distinta índole (enseñanza, turismo, transporte, etc.)"
     },
-{
-        "question": "El entorno específico de una empresa está formado por los siguientes factores:**",
+    {
+        "question": "El entorno específico de una empresa está formado por los siguientes factores:",
         "answers": [
-            "Competencia, Proveedores, Clientes",
-            "Todas las respuestas anteriores son correctas.",
-            "Sociológicos, Tecnológicos y Ecológicos",
-            "Económicos, Legales y Políticos."
+            "Competencia, Proveedores, Clientes.",
+            "Sociológicos, Tecnológicos y Ecológicos.",
+            "Económicos, Legales y Políticos.",
+            "Todas las respuestas anteriores son correctas."
         ],
-        "correctAnswer": "Competencia, Proveedores, Clientes"
+        "correctAnswer": "Todas las respuestas anteriores son correctas."
     },
     {
         "question": "Entre las características propias de la persona emprendedora no se encuentran:",
         "answers": [
             "La capacidad de análisis y la resolución de problemas.",
-            "La capacidad de hacer amistades",
+            "La capacidad de hacer amistades.",
             "La capacidad de organización y planificación.",
             "La capacidad de trabajo."
         ],
-        "correctAnswer": "La capacidad de hacer amistades"
+        "correctAnswer": "La capacidad de hacer amistades."
     },
     {
-        "question": "Una empresa con 35 trabajadores se considera:**",
+        "question": "Una empresa con 35 trabajadores se considera:",
         "answers": [
-            "Grande",
+            "Grande.",
             "Microempresa.",
             "Mediana.",
             "Pequeña."
         ],
-        "correctAnswer": "Pequeña"
+        "correctAnswer": "Pequeña."
     },
     {
         "question": "Si un empresario quiere aportar a su empresa el menor capital posible, no desea tener socios y quiere tener responsabilidad limitada, ¿cuál de las siguientes formas jurídicas sería la más adecuada?",
@@ -1085,58 +945,68 @@
             "Emprendedor de responsabilidad limitada.",
             "Sociedad limitada unipersonal.",
             "Sociedad anónima unipersonal.",
-            "Empresario individual"
+            "Empresario individual."
         ],
-        "correctAnswer": "Sociedad limitada unipersonal"
+        "correctAnswer": "Sociedad limitada unipersonal."
     },
     {
-        "question": "En relación a la cultura emprendedora, la actividad de la empresa en el presente se denomina:**",
+        "question": "En relación a la cultura emprendedora, la actividad de la empresa en el presente se denomina:",
         "answers": [
-            "Misión",
+            "Misión.",
             "Visión.",
-            "Valores",
-            "Estrategia"
+            "Valores.",
+            "Estrategia."
         ],
-        "correctAnswer": "Misión"
+        "correctAnswer": "Misión."
     },
     {
-        "question": "El coste laboral para la empresa de contratar a un trabajador es:**",
+        "question": "El coste laboral para la empresa de contratar a un trabajador es:",
         "answers": [
             "La Seguridad Social a cargo de la empresa y el salario bruto que le paga.",
             "El salario bruto que le paga.",
             "La Seguridad Social a cargo del trabajador y el salario bruto que recibe.",
             "La Seguridad Social a cargo de la empresa y a cargo del trabajador."
         ],
-        "correctAnswer": "La Seguridad Social a cargo de la empresa y el salario bruto que le paga"
+        "correctAnswer": "La Seguridad Social a cargo de la empresa y el salario bruto que le paga."
     },
     {
-        "question": "¿Quién es la empresa líder y cuál es su cuota de mercado? Datos de ventas de ordenadores: Empresa A 225; Empresa B 500; Empresa C 200; y la empresa D 75; Total ordenadores vendidos 1000.**",
+        "question": "¿Quién es la empresa líder y cuál es su cuota de mercado? Datos de ventas de ordenadores: Empresa A 225; Empresa B 500; Empresa C 200; y la empresa D 75; Total ordenadores vendidos 1000.",
         "answers": [
-            "Empresa B, cuota 50%",
+            "Empresa B, cuota 50%.",
             "Empresa C, cuota 20%.",
             "Empresa D, cuota 30%.",
-            "Empresa A, cuota 7,5%"
+            "Empresa A, cuota 7,5%."
         ],
-        "correctAnswer": "Empresa B, cuota 50%"
+        "correctAnswer": "Empresa B, cuota 50%."
     },
     {
-        "question": "La diferencia entre el balance y la cuenta de resultados es:**",
+        "question": "La diferencia entre el balance y la cuenta de resultados es:",
         "answers": [
             "El balance refleja la situación patrimonial de la empresa en un momento dado y la cuenta de resultados recoge el conjunto de los ingresos y los gastos durante un periodo de tiempo.",
             "El balance refleja los gastos de explotación y financieros y la cuenta de resultados el patrimonio neto.",
             "El balance contiene el resultado antes de impuestos y la cuenta de resultados el activo no corriente.",
             "El balance se elabora con una periodicidad de doce meses y la cuenta de resultados recoge el estado de flujos de efectivo."
         ],
-        "correctAnswer": "El balance refleja la situación patrimonial de la empresa en un momento dado y la cuenta de resultados recoge el conjunto de los ingresos y los gastos durante un periodo de tiempo"
+        "correctAnswer": "El balance refleja la situación patrimonial de la empresa en un momento dado y la cuenta de resultados recoge el conjunto de los ingresos y los gastos durante un periodo de tiempo."
     },
     {
-        "question": "El intraemprendedor o emprendedor corporativo es:**",
+        "question": "El intraemprendedor o emprendedor corporativo es:",
         "answers": [
             "Ninguna de las anteriores es cierta.",
             "Un trabajador por cuenta propia que asume el riesgo económico de su negocio.",
             "Un trabajador asalariado que tiene autonomía para emprender.",
             "Un trabajador asalariado que asume el riesgo económico de su negocio."
         ],
-        "correctAnswer": "Un trabajador asalariado que tiene autonomía para emprender"
+        "correctAnswer": "Un trabajador asalariado que tiene autonomía para emprender."
+    },
+    {
+        "question": "La responsabilidad ilimitada a la hora de elegir la forma jurídica de empresa significa:",
+        "answers": [
+            "Que los límites a la responsabilidad de los socios los marcan los estatutos de la sociedad.",
+            "Que los socios responden a las posibles deudas con sus propios bienes.",
+            "Que los socios responden a las posibles deudas solo con su aportación.",
+            "Que los socios responden a las posibles deudas con el 50% del total de su patrimonio."
+        ],
+        "correctAnswer": "Que los socios responden a las posibles deudas con sus propios bienes."
     }
 ]
