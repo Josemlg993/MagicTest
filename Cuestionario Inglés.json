@@ -959,16 +959,6 @@
     "correctAnswer": "He retires after he had been working many years."
   },
   {
-    "question": "Before going to a restaurant, we need to…",
-    "answers": [
-      "Order.",
-      "Make an announcement.",
-      "Make a reservation.",
-      "Check out."
-    ],
-    "correctAnswer": "Make a reservation."
-  },
-  {
     "question": "Choose the correct option:",
     "answers": [
       "She musts book a double room.",
@@ -1049,16 +1039,6 @@
     "correctAnswer": "Mary will be able to travel more often in the near future."
   },
   {
-    "question": "Attendee refers to:",
-    "answers": [
-      "A person who isn't at the meeting.",
-      "A person who is at the meeting.",
-      "A person who speaks in the meeting.",
-      "A person who prepares the minute of a meeting."
-    ],
-    "correctAnswer": "A person who is at the meeting."
-  },
-  {
     "question": "Choose the correct option:",
     "answers": [
       "She work for a company which organises conferences.",
@@ -1126,27 +1106,6 @@
       "that"
     ],
     "correctAnswer": "**whose **"
-  },
-  {
-    "question": "Which of the following is a type of voting?",
-    "answers": [
-      "Make a motion.",
-      "Second an agreement.",
-      "Show of hands.",
-      "Make a resolution."
-    ],
-    "correctAnswer": "Show of hands."
-  },
-  {
-    "question": "Bank transfer refers to:",
-    "answers": [
-      "When the bank sends money from one account to another.",
-      "The price for bank services.",
-      "The amount of money that is lent by the bank.",
-      "How much money a business borrows from a bank account.",
-      "When the bank sends money from one account to another."
-    ],
-    "correctAnswer": "When the bank sends money from one account to another."
   },
   {
     "question": "Choose the correct option for this sentence: “What are you doing now?”, I asked her.",
@@ -1435,7 +1394,7 @@
       "He comes after he had phoned several times.",
       "He came because he had phoned several times."
     ],
-    "correctAnswer": "He came after he had phoned several times.."
+    "correctAnswer": "He came after he had phoned several times."
   },
   {
     "question": "Choose the correct option of Passive:",
@@ -1619,16 +1578,6 @@
     "correctAnswer": "You ought to comes to the meeting"
   },
   {
-    "question": "Which term refers to shares?",
-    "answers": [
-      "The positions of a company that people can buy.",
-      "The difference of money between the revenue and the costs.",
-      "When a company invests money, and it gets more money back.",
-      "The measurement of a company’s liquidity"
-    ],
-    "correctAnswer": "The positions of a company that people can buy."
-  },
-  {
     "question": "Which is the right answer?",
     "answers": [
       "Mikel is such an interesting and amazed person.",
@@ -1686,7 +1635,7 @@
       "By pollute soil",
       "By polluted food and water"
     ],
-    "correctAnswer": "By polluted food and water"
+    "correctAnswer": "By animal to people"
   },
   {
     "question": "What disease is caused by a virus?",
