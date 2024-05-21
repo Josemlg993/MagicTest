@@ -919,16 +919,6 @@
     "correctAnswer": "As a result"
   },
   {
-    "question": "How many essential parts can we find in a contract?",
-    "answers": [
-      "6",
-      "5",
-      "4",
-      "3"
-    ],
-    "correctAnswer": "6"
-  },
-  {
     "question": "What is a redundancy?",
     "answers": [
       "It is the period of time you do not work because of an illness.",
@@ -1172,17 +1162,6 @@
       "the following year"
     ],
     "correctAnswer": "the following year"
-  },
-  {
-    "question": "When a person is short of money is:",
-    "answers": [
-      "Reducing its debts.",
-      "Buying something with a bank card.",
-      "Investing savings.",
-      "Run out of money.",
-      "Run out of money."
-    ],
-    "correctAnswer": "Run out of money."
   },
   {
     "question": "Which of the following is a type of business?",
@@ -1556,16 +1535,6 @@
       "already"
     ],
     "correctAnswer": "already"
-  },
-  {
-    "question": "What is the aim of Human Resources Department?",
-    "answers": [
-      "It deals with all the activities, services, and goods you need to offer to the customers.",
-      "It deals with the organization of the paperwork used in the hiring process.",
-      "It creates a business plan and gives us a general knowledge of the firm performance.",
-      "It plans the provisions we are going to need, the cost of a product and the purchasing process."
-    ],
-    "correctAnswer": "It deals with the organization of the paperwork used in the hiring process."
   },
   {
     "question": "Which is the right answer?",
