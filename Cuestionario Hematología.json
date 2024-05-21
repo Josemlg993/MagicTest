@@ -620,6 +620,16 @@
         "correctAnswer": "3"
     },
     {
+        "question": "¿Cuántos grupos sanguíneos existen en el sistema ABO?",
+        "answers": [
+            "2",
+            "3",
+            "4",
+            "Ninguno"
+        ],
+        "correctAnswer": "4"
+    },
+    {
         "question": "¿Qué antígenos del sistema ABO expresan las personas del grupo O?",
         "answers": [
             "A",
@@ -790,6 +800,16 @@
         "correctAnswer": "Centros de transfusión"
     },
     {
+        "question": "A la hora determinar los grupos sanguíneos del sistema ABO mediante pruebas de aglutinación, una sangre de grupo B aglutinará en soluciones con anticuerpos de tipo…:",
+        "answers": [
+            "Anti-A",
+            "Anti-B",
+            "Anti-A + Anti-B",
+            "Anti-D"
+        ],
+        "correctAnswer": "Anti-B"
+    },
+    {
         "question": "Cuando los glóbulos rojos presentan tamaños dispares, estamos hablando de…",
         "answers": [
             "Microcitos",
@@ -800,6 +820,56 @@
         "correctAnswer": "Anisocitosis"
     },
     {
+        "question": "El grupo hemo de la hemoglobina contiene:",
+        "answers": [
+            "Cobre",
+            "Hierro",
+            "Selenio",
+            "Todas son incorrectas."
+        ],
+        "correctAnswer": "Hierro"
+    },
+    {
+        "question": "El proceso de formación de plaquetas se conoce como…:",
+        "answers": [
+            "Trombopoyesis",
+            "Eritropoyesis",
+            "Linfopoyesis",
+            "Monocitopoyesis"
+        ],
+        "correctAnswer": "Trombopoyesis"
+    },
+    {
+        "question": "El secuestro esplénico de plaquetas consiste en:",
+        "answers": [
+            "La eliminación excesiva de plaquetas en el hígado",
+            "La acumulación excesiva de plaquetas en el bazo",
+            "La pérdida excesiva de plaquetas hacia el aparato digestivo",
+            "Todas las anteriores son incorrectas."
+        ],
+        "correctAnswer": "La acumulación excesiva de plaquetas en el bazo"
+    },
+    {
+        "question": "En las tinciones hematológicas, es habitual que los núcleos aparezcan de color:",
+        "answers": [
+            "Rojo",
+            "Azul o morado",
+            "Verde azulado",
+            "Violeta claro"
+        ],
+        "correctAnswer": "Azul o morado"
+    },
+    {
+        "question": "En los recuentos celulares, ¿con qué parámetro se corresponden las siglas (RBC)?",
+        "answers": [
+            "Hemoglobina",
+            "Hematocrito",
+            "Amplitud de distribución eritrocitaria",
+            "Recuento total eritrocitario"
+        ],
+        "correctAnswer": "Recuento total eritrocitario"
+    },
+    {
         "question": "En los recuentos diferenciales de leucocitos, ¿Qué porcentaje suelen abarcar los linfocitos?",
         "answers": [
             "50-70%",
@@ -808,6 +878,16 @@
             "Ninguna es correcta"
         ],
         "correctAnswer": "25-45%"
+    },
+    {
+        "question": "La enfermedad hemolítica del recién nacido puede producirse cuando…:",
+        "answers": [
+            "La gestante es Rh+ y el feto Rh-",
+            "La gestante es Rh- y el feto Rh+",
+            "Gestante y feto son Rh+",
+            "Gestante y feto son Rh-"
+        ],
+        "correctAnswer": "La gestante es Rh- y el feto Rh+"
     },
     {
         "question": "Si al realizar tinciones hematológicas observamos una falta de coloración, probablemente esté causada por…",
@@ -840,6 +920,26 @@
         "correctAnswer": "Su viscosidad aumenta cuanto más CO2 contiene"
     },
     {
+        "question": "¿Cómo llamamos al conjunto de parámetros en una muestra de sangre que son fundamentales para cualquier estudio hematológico básico y que permiten hacerse una idea general del estado del paciente?",
+        "answers": [
+            "Hemografía",
+            "Informe sanguíneo",
+            "Hemograma",
+            "Hemoparámetros"
+        ],
+        "correctAnswer": "Hemograma"
+    },
+    {
+        "question": "¿Con qué nombre conocemos al conjunto de los componentes celulares de la sangre?",
+        "answers": [
+            "Hemocélulas",
+            "Elementos sanguíneos",
+            "Elementos formes",
+            "Todas son correctas"
+        ],
+        "correctAnswer": "Elementos formes"
+    },
+    {
         "question": "¿Cuál de las siguientes complicaciones de la donación de sangre se considera retardada?",
         "answers": [
             "Reacción transfusional febril no hemolítica",
@@ -848,6 +948,26 @@
             "Hemosiderosis inducida por la transfusión"
         ],
         "correctAnswer": "Hemosiderosis inducida por la transfusión"
+    },
+    {
+        "question": "¿Cuál de las siguientes no es causante de linfopenia?",
+        "answers": [
+            "Radioterapia",
+            "Quimioterapia",
+            "Tratamientos con esteroides",
+            "Todas las anteriores pueden causar linfopenia"
+        ],
+        "correctAnswer": "Todas las anteriores pueden causar linfopenia"
+    },
+    {
+        "question": "¿Cuál de las siguientes no es una complicación aguda de las transfusiones de sangre?",
+        "answers": [
+            "Reacción alérgica transfusional",
+            "Reacción transfusional febril no hemolítica",
+            "Disnea asociada a la transfusión",
+            "Reacción hemolítica retardada"
+        ],
+        "correctAnswer": "Reacción hemolítica retardada"
     },
     {
         "question": "¿Cuál de los siguientes leucocitos es un agranulocito?",
@@ -951,6 +1071,7 @@
     },
     {
         "question": "¿Qué tipo de leucocito se muestra en la siguiente imagen?:",
+        "image": "https://josemlg993.github.io/MagicTest/Eosin%C3%B3filo.png",
         "answers": [
             "Basófilo",
             "Eosinófilo",
@@ -961,6 +1082,7 @@
     },
     {
         "question": "¿Qué tipo de leucocito se muestra en la siguiente imagen?",
+        "image": "https://josemlg993.github.io/MagicTest/Neutr%C3%B3filo.png",
         "answers": [
             "Linfocito",
             "Neutrófilo",
@@ -978,6 +1100,16 @@
             "Ninguna es correcta"
         ],
         "correctAnswer": "Basófilos"
+    },
+    {
+        "question": "¿Qué tipo de linfocitos se encarga principalmente de la eliminación de células infectadas por virus y algunos tipos de células tumorales?",
+        "answers": [
+            "T",
+            "B",
+            "NK",
+            "O"
+        ],
+        "correctAnswer": "NK"
     },
     {
         "question": "¿Qué unidad se utiliza para indicar el volumen plaquetar medio?",
