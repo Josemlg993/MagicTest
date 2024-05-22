@@ -55,8 +55,9 @@
     function calcularNotaFinal(totalQuestions, answeredQuestions, failedQuestions) {
       var notaMaxima = 10;
       var notaPorPregunta = notaMaxima / totalQuestions;
+      var penalizacionPorFallo = 0.33;
 
-      var preguntasCorrectas = answeredQuestions - failedQuestions;
+      var preguntasCorrectas = answeredQuestions - failedQuestions * penalizacionPorFallo;
 
       var notaFinal = preguntasCorrectas * notaPorPregunta;
 
