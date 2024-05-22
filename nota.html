@@ -1,0 +1,76 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Resultados del Examen</title>
+  <style>
+    .question {
+      font-weight: bold;
+    }
+    .correct {
+      color: green;
+    }
+    .incorrect {
+      color: red;
+    }
+  </style>
+</head>
+<body>
+  <h1>Resultados del Examen</h1>
+  
+  <div id="exam-results"></div>
+
+  <script>
+    function mostrarResultados(preguntas, respuestasCorrectas, respuestasIncorrectas) {
+      var examResults = document.getElementById("exam-results");
+
+      for (var i = 0; i < preguntas.length; i++) {
+        var pregunta = preguntas[i];
+        var respuestaCorrecta = respuestasCorrectas[i];
+        var respuestaIncorrecta = respuestasIncorrectas[i];
+
+        var preguntaHTML = document.createElement("p");
+        preguntaHTML.classList.add("question");
+        preguntaHTML.textContent = pregunta;
+        examResults.appendChild(preguntaHTML);
+
+        if (respuestaCorrecta) {
+          var respuestaCorrectaHTML = document.createElement("p");
+          respuestaCorrectaHTML.classList.add("correct");
+          respuestaCorrectaHTML.textContent = "Respuesta correcta: " + respuestaCorrecta;
+          examResults.appendChild(respuestaCorrectaHTML);
+        }
+
+        if (respuestaIncorrecta) {
+          var respuestaIncorrectaHTML = document.createElement("p");
+          respuestaIncorrectaHTML.classList.add("incorrect");
+          respuestaIncorrectaHTML.textContent = "Respuesta incorrecta: " + respuestaIncorrecta;
+          examResults.appendChild(respuestaIncorrectaHTML);
+        }
+      }
+    }
+
+    // Ejemplo de uso de la función mostrarResultados
+
+    var preguntas = [
+      "Pregunta 1",
+      "Pregunta 2",
+      "Pregunta 3"
+    ];
+
+    var respuestasCorrectas = [
+      "Respuesta correcta 1",
+      "Respuesta correcta 2",
+      null
+    ];
+
+    var respuestasIncorrectas = [
+      null,
+      null,
+      "Respuesta incorrecta 3"
+    ];
+
+    mostrarResultados(preguntas, respuestasCorrectas, respuestasIncorrectas);
+  </script>
+</body>
+</html>
