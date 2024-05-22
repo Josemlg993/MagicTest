@@ -18,59 +18,55 @@
 <body>
   <h1>Resultados del Examen</h1>
   
+  <div>
+    <label for="total-questions">Total de preguntas:</label>
+    <input type="number" id="total-questions">
+  </div>
+
+  <div>
+    <label for="answered-questions">Preguntas respondidas:</label>
+    <input type="number" id="answered-questions">
+  </div>
+
+  <div>
+    <label for="failed-questions">Preguntas falladas:</label>
+    <input type="number" id="failed-questions">
+  </div>
+
   <div id="exam-results"></div>
 
   <script>
-    function mostrarResultados(preguntas, respuestasCorrectas, respuestasIncorrectas) {
+    function mostrarResultados() {
+      var totalQuestions = parseInt(document.getElementById("total-questions").value);
+      var answeredQuestions = parseInt(document.getElementById("answered-questions").value);
+      var failedQuestions = parseInt(document.getElementById("failed-questions").value);
+
       var examResults = document.getElementById("exam-results");
 
-      for (var i = 0; i < preguntas.length; i++) {
-        var pregunta = preguntas[i];
-        var respuestaCorrecta = respuestasCorrectas[i];
-        var respuestaIncorrecta = respuestasIncorrectas[i];
+      examResults.innerHTML = ""; // Limpiar resultados anteriores
 
-        var preguntaHTML = document.createElement("p");
-        preguntaHTML.classList.add("question");
-        preguntaHTML.textContent = pregunta;
-        examResults.appendChild(preguntaHTML);
+      var notaFinal = calcularNotaFinal(totalQuestions, answeredQuestions, failedQuestions);
 
-        if (respuestaCorrecta) {
-          var respuestaCorrectaHTML = document.createElement("p");
-          respuestaCorrectaHTML.classList.add("correct");
-          respuestaCorrectaHTML.textContent = "Respuesta correcta: " + respuestaCorrecta;
-          examResults.appendChild(respuestaCorrectaHTML);
-        }
-
-        if (respuestaIncorrecta) {
-          var respuestaIncorrectaHTML = document.createElement("p");
-          respuestaIncorrectaHTML.classList.add("incorrect");
-          respuestaIncorrectaHTML.textContent = "Respuesta incorrecta: " + respuestaIncorrecta;
-          examResults.appendChild(respuestaIncorrectaHTML);
-        }
-      }
+      var notaFinalHTML = document.createElement("p");
+      notaFinalHTML.textContent = "Nota Final: " + notaFinal.toFixed(2);
+      examResults.appendChild(notaFinalHTML);
     }
 
-    // Ejemplo de uso de la función mostrarResultados
+    function calcularNotaFinal(totalQuestions, answeredQuestions, failedQuestions) {
+      var notaMaxima = 10;
+      var notaPorPregunta = notaMaxima / totalQuestions;
 
-    var preguntas = [
-      "Pregunta 1",
-      "Pregunta 2",
-      "Pregunta 3"
-    ];
+      var preguntasCorrectas = answeredQuestions - failedQuestions;
 
-    var respuestasCorrectas = [
-      "Respuesta correcta 1",
-      "Respuesta correcta 2",
-      null
-    ];
+      var notaFinal = preguntasCorrectas * notaPorPregunta;
 
-    var respuestasIncorrectas = [
-      null,
-      null,
-      "Respuesta incorrecta 3"
-    ];
+      return notaFinal;
+    }
 
-    mostrarResultados(preguntas, respuestasCorrectas, respuestasIncorrectas);
+    // Asociar la función mostrarResultados al evento "input" de los campos de entrada
+    document.getElementById("total-questions").addEventListener("input", mostrarResultados);
+    document.getElementById("answered-questions").addEventListener("input", mostrarResultados);
+    document.getElementById("failed-questions").addEventListener("input", mostrarResultados);
   </script>
 </body>
 </html>
