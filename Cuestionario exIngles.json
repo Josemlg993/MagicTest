@@ -12,11 +12,9 @@
     {
         "question": "What are allergy shots?",
         "answers": [
-            "Reinforcement for the immune system to build better defenses against",
-            "allergens",
+            "Reinforcement for the immune system to build better defenses against allergens",
             "They reduce swelling of the airways, nasal congestion, and sneezing.",
-            "They reduce congestion in the nasal membranes by narrowing the blood",
-            "vessels.",
+            "They reduce congestion in the nasal membranes by narrowing the blood vessels.",
             "Ther prevent the sneezing, itchy eyes and throat, and postnasal drip"
         ],
         "correctAnswer": "Reinforcement for the immune system to build better defenses against"
@@ -54,14 +52,12 @@
     {
         "question": "What is a crucible?",
         "answers": [
-            "It is a heat- resistant receptable to alter compounds when they are heated to",
-            "high temperatures.",
-            "It is a heat-resistant receptable to keep compounds when they are heated to",
-            "low temperatures.",
-            "It is a heart resistant receptacle to keep compounds when they are heated to",
-            "high temperatures."
+            "It is a heat-resistant receptacle to alter compounds when they are heated to high temperatures.",
+            "It is a heat-resistant receptacle to keep compounds when they are heated to high temperatures.",
+            "It is a heat-resistant receptacle to keep gases when they are heated to low temperatures.",
+            "It is a heat-resistant receptacle to keep compounds when they are heated to low temperatures."
         ],
-        "correctAnswer": "It is a heat-resistant receptable to keep compounds when they are heated to"
+        "correctAnswer": "It is a heat-resistant receptacle to keep compounds when they are heated to high temperatures."
     },
     {
         "question": "What can we consider as laboratory supplies?",
@@ -151,12 +147,11 @@
             "Nervous system.",
             "Respiratory system."
         ],
-        "correctAnswer": "Reproductive system."
+        "correctAnswer": "Respiratory system."
     },
     {
-        "question": "Complete the sentence with the correct options: “What ____ about with the employee",
+        "question": "Complete the sentence with the correct options: “What ____ about with the employee when I ___?”",
         "answers": [
-            "when I ___?”",
             "You were talking/ was arriving.",
             "Did you talk/arriving.",
             "Were you talking/arrived.",
