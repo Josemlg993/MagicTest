@@ -1,0 +1,278 @@
+[
+    {
+        "question": "What is a mammography?",
+        "answers": [
+            "A large magnet and radio wase to look at organs inside the body.",
+            "Electromagnetic waves are used to take images of densen objects.",
+            "It is a specific kind of breast pictura which uses low dose X-rays",
+            "It is radioactive isotopes used to see structures and functions inside the body."
+        ],
+        "correctAnswer": "It is a specific kind of breast pictura which uses low dose X-rays"
+    },
+    {
+        "question": "What are allergy shots?",
+        "answers": [
+            "Reinforcement for the immune system to build better defenses against",
+            "allergens",
+            "They reduce swelling of the airways, nasal congestion, and sneezing.",
+            "They reduce congestion in the nasal membranes by narrowing the blood",
+            "vessels.",
+            "Ther prevent the sneezing, itchy eyes and throat, and postnasal drip"
+        ],
+        "correctAnswer": "Reinforcement for the immune system to build better defenses against"
+    },
+    {
+        "question": "What time does the clinic open tomorrow?",
+        "answers": [
+            "It will open at 9 a.m.",
+            "It is opening at 9 a.m.",
+            "It is going to open at 9 a.m.",
+            "It opens at 9 a.m."
+        ],
+        "correctAnswer": "It opens at 9 a.m."
+    },
+    {
+        "question": "What disease is caused by a virus?",
+        "answers": [
+            "Meningitis",
+            "Measles",
+            "Intestinal worms",
+            "Ringworm"
+        ],
+        "correctAnswer": "Measles"
+    },
+    {
+        "question": "What category would be a small bone that formed in a tendon?",
+        "answers": [
+            "Long",
+            "Flat",
+            "Sesamoid",
+            "Short"
+        ],
+        "correctAnswer": "Sesamoid"
+    },
+    {
+        "question": "What is a crucible?",
+        "answers": [
+            "It is a heat- resistant receptable to alter compounds when they are heated to",
+            "high temperatures.",
+            "It is a heat-resistant receptable to keep compounds when they are heated to",
+            "low temperatures.",
+            "It is a heart resistant receptacle to keep compounds when they are heated to",
+            "high temperatures."
+        ],
+        "correctAnswer": "It is a heat-resistant receptable to keep compounds when they are heated to"
+    },
+    {
+        "question": "What can we consider as laboratory supplies?",
+        "answers": [
+            "Funnels",
+            "Pippetes",
+            "Lab coats",
+            "Block digesters."
+        ],
+        "correctAnswer": "Lab coats"
+    },
+    {
+        "question": "Physical disinfectants include:",
+        "answers": [
+            "Alcohols, iodine preparations, and membrane filtration",
+            "Microwaves, gamma radiation, and chlorine compounds",
+            "Ultraviolet light, infrared radiation, and heat decontamination.",
+            "Heal sterilisation, ultraviolet light, and chlorine compounds."
+        ],
+        "correctAnswer": "Ultraviolet light, infrared radiation, and heat decontamination."
+    },
+    {
+        "question": "Complete the sentence: “He is the worker _________ father is a cardiologist”.",
+        "answers": [
+            "That",
+            "Which",
+            "Who",
+            "Whose"
+        ],
+        "correctAnswer": "Whose"
+    },
+    {
+        "question": "What does PPE stand for?",
+        "answers": [
+            "It is Personal Protective Equipment.",
+            "It is protective professional equipment.",
+            "It I protection personal equipment",
+            "It is professional protective equipment."
+        ],
+        "correctAnswer": "It is Personal Protective Equipment."
+    },
+    {
+        "question": "Choose the correct option:",
+        "answers": [
+            "She must sent him the results of the blood test.",
+            "She must sending….",
+            "She must send him the results of the blood test.",
+            "She must sends him the results of the blood test."
+        ],
+        "correctAnswer": "She must send him the results of the blood test."
+    },
+    {
+        "question": "What is CCU?",
+        "answers": [
+            "Coronary Care Unit",
+            "Coronary care undergo.",
+            "Crown care unit.",
+            "Coronary careless unit."
+        ],
+        "correctAnswer": "Coronary Care Unit"
+    },
+    {
+        "question": "What kind of muscles cannot be controlled consciously?",
+        "answers": [
+            "Cardiac, skeletal, and visceral",
+            "Cardiac and visceral.",
+            "Skeletal and cardiac.",
+            "Skeletal and visceral."
+        ],
+        "correctAnswer": "Cardiac and visceral."
+    },
+    {
+        "question": "Complete the sentence: “____ could clean the operating room”.",
+        "answers": [
+            "Every",
+            "No one",
+            "Somewhere",
+            "Anything"
+        ],
+        "correctAnswer": "No one"
+    },
+    {
+        "question": "Which of the organ systems that we have studied is involved when we breathe?",
+        "answers": [
+            "Digestive system.",
+            "Reproductive system.",
+            "Nervous system.",
+            "Respiratory system."
+        ],
+        "correctAnswer": "Reproductive system."
+    },
+    {
+        "question": "Complete the sentence with the correct options: “What ____ about with the employee",
+        "answers": [
+            "when I ___?”",
+            "You were talking/ was arriving.",
+            "Did you talk/arriving.",
+            "Were you talking/arrived.",
+            "You talked/ arrived."
+        ],
+        "correctAnswer": "Were you talking/arrived."
+    },
+    {
+        "question": "Choose the correct Imperative sentence:",
+        "answers": [
+            "Stay still!",
+            "Stays still!",
+            "Stayed still!",
+            "Didn’t stay still!"
+        ],
+        "correctAnswer": "Stay still!"
+    },
+    {
+        "question": "Choose the correct option: (PARECIDA)",
+        "answers": [
+            "I were given this bike from David.",
+            "This bike was given to me by David.",
+            "All the answers are correct.",
+            "David were gave me this bike."
+        ],
+        "correctAnswer": "This bike was given to me by David."
+    },
+    {
+        "question": "There are many syringes _______ the table.",
+        "answers": [
+            "Between",
+            "At",
+            "On",
+            "In"
+        ],
+        "correctAnswer": "On"
+    },
+    {
+        "question": "Choose the correct negative sentence with the verb have got. (Parecida)",
+        "answers": [
+            "I haven´t any brothers or sisters.",
+            "I doesn´t have any brothers or sisters.",
+            "I don’t have got any brothers or sisters.",
+            "I haven’t got any brothers or sisters."
+        ],
+        "correctAnswer": "I haven’t got any brothers or sisters."
+    },
+    {
+        "question": "Choose the correct option:",
+        "answers": [
+            "She is old too vote.",
+            "She is to old to vote.",
+            "She is enough old to vote.",
+            "She is old enough to vote."
+        ],
+        "correctAnswer": "She is old enough to vote."
+    },
+    {
+        "question": "Complete the sentence choosing the correct option. Right now, I am using",
+        "answers": [
+            "my_________ car because mine is broken.",
+            "Father’s",
+            "Fathers´s",
+            "Fathers",
+            "Father’"
+        ],
+        "correctAnswer": "Father’s"
+    },
+    {
+        "question": "Complete the sentence with the correct conditional: “ If I ______ you, I__ a new car”.",
+        "answers": [
+            "Were/ buy.",
+            "Would be / would buy.",
+            "Were/would buy",
+            "Am/ would buy"
+        ],
+        "correctAnswer": "Were/would buy"
+    },
+    {
+        "question": "Choose the right option of reported speech: “She worked the whole day yesterday”.",
+        "answers": [
+            "She said that she had worked the whole day the day before.",
+            "She told that she had worked the whole day yesterday.",
+            "She said that she had worked the whole day yesterday.",
+            "She said that she works the whole day yesterday."
+        ],
+        "correctAnswer": "She said that she had worked the whole day the day before."
+    },
+    {
+        "question": "Complete the sentence with the correct Future expression: “I’m sure she ____pass the test”.",
+        "answers": [
+            "Are going to",
+            "Am going to",
+            "Will",
+            "Passes"
+        ],
+        "correctAnswer": "Will"
+    },
+    {
+        "question": "______ is your name? My name is Susan.",
+        "answers": [
+            "What",
+            "Who",
+            "Which",
+            "Where."
+        ],
+        "correctAnswer": "What"
+    },
+    {
+        "question": "Choose the correct sentence with the verb To Be in the past: (PARECIDA)",
+        "answers": [
+            "I is in the beach",
+            "I was on the beach",
+            "I weren´t on the beach.",
+            "I were on the beach."
+        ],
+        "correctAnswer": "I was on the beach"
+    }
+]
