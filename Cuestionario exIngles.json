@@ -17,7 +17,7 @@
             "They reduce congestion in the nasal membranes by narrowing the blood vessels.",
             "Ther prevent the sneezing, itchy eyes and throat, and postnasal drip"
         ],
-        "correctAnswer": "Reinforcement for the immune system to build better defenses against"
+        "correctAnswer": "Reinforcement for the immune system to build better defenses against allergens"
     },
     {
         "question": "What time does the clinic open tomorrow?",
@@ -210,9 +210,8 @@
         "correctAnswer": "She is old enough to vote."
     },
     {
-        "question": "Complete the sentence choosing the correct option. Right now, I am using",
+        "question": "Complete the sentence choosing the correct option. Right now, I am using my_________ car because mine is broken",
         "answers": [
-            "my_________ car because mine is broken.",
             "Father’s",
             "Fathers´s",
             "Fathers",
