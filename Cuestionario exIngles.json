@@ -29,6 +29,16 @@
         ],
         "correctAnswer": "It opens at 9 a.m."
     },
+     {
+        "question": "Choose the sentence without any mistake.",
+        "answers": [
+            "Mary always wash her teeth with eco-friendly toothbrushes.",
+            "Mary wash always her teeth with eco-friendly toothbrushes.",
+            "Mary usually washs her teeth with eco-friendly toothbrushes.",
+            "Mary usually always washes her teeth with eco-friendly toothbrushes."
+        ],
+        "correctAnswer": "Mary usually always washes her teeth with eco-friendly toothbrushes."
+    },
     {
         "question": "What disease is caused by a virus?",
         "answers": [
