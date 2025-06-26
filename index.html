@@ -2,212 +2,120 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Test interactivo</title>
-  <link rel="stylesheet" href="main.css">
-  <!-- Añade los estilos de la columna lateral y pregunta-grupo a tu main.css -->
+  <title>Prueba tipo test</title>
   <style>
-    /* Solo para el mensaje de respuesta correcta */
-    .respuesta-correcta {
-      margin-top: 10px;
-      color: #2ecc71;
-      font-weight: bold;
-      font-size: 1.05em;
-    }
+    body { font-family: Arial, sans-serif; background: #f4f4f4; margin: 0; padding: 0; }
+    .container { max-width: 600px; margin: 40px auto; background: #fff; padding: 24px; border-radius: 8px; box-shadow: 0 2px 8px #aaa; }
+    h1 { text-align: center; }
+    select, button { font-size: 1em; margin: 8px 0; }
+    .question { margin: 18px 0; }
+    .answers label { display: block; margin: 6px 0; }
+    #result { font-weight: bold; color: #007700; margin-top: 18px; }
+    #error { color: #c00; margin-top: 18px; }
   </style>
 </head>
 <body>
-  <div class="test-container">
-    <h2>Prueba tipo test</h2>
-    <div class="cuestionario-lista" id="cuestionarioLista"></div>
-    <div class="marcadores-lateral" id="marcadoresLateral"></div>
-    <div id="test"></div>
-    <div id="result" class="result"></div>
+  <div class="container">
+    <h1>Prueba tipo test</h1>
+    <label for="temaSelect">Elige un cuestionario:</label>
+    <select id="temaSelect">
+      <option value="">-- Selecciona un tema --</option>
+      <!-- Opciones de temas generadas por JS -->
+    </select>
+    <button id="cargarBtn">Cargar cuestionario</button>
+    <div id="quiz"></div>
+    <div id="result"></div>
+    <div id="error"></div>
   </div>
+
   <script>
-    // Lista de cuestionarios locales
-    const cuestionariosLocales = [
-      { archivo: "Tema1.json", titulo: "Tema 1" },
-      { archivo: "Tema2.json", titulo: "Tema 2" }
-    ];
+    // Configuración
+    const REPO_PATH = '/MagicTest/Cuestionarios/'; // Cambia si el nombre de tu repo cambia
+    const NUM_TEMAS = 10;
 
-    const respuestasFijas = [
-      "todas las anteriores",
-      "todas las opciones anteriores",
-      "A y B son correctas",
-      "A, B y C son correctas"
-    ];
-
-    let questions = [];
-    let userAnswers = {};
-    let results = {};
-
-    function shuffle(array) {
-      for (let i = array.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [array[i], array[j]] = [array[j], array[i]];
-      }
+    // Genera las opciones de temas
+    const temaSelect = document.getElementById('temaSelect');
+    for (let i = 1; i <= NUM_TEMAS; i++) {
+      const opt = document.createElement('option');
+      opt.value = `Tema${i}`;
+      opt.textContent = `Tema ${i}`;
+      temaSelect.appendChild(opt);
     }
 
-    function shuffleAnswers(answers) {
-      let fixedIndexes = [];
-      let fixedAnswers = [];
-      answers.forEach((ans, idx) => {
-        for (let frase of respuestasFijas) {
-          if (ans.toLowerCase().includes(frase)) {
-            fixedIndexes.push(idx);
-            fixedAnswers.push(ans);
-          }
-        }
-      });
-      if (fixedIndexes.length > 0) {
-        let movibles = answers.filter((_, idx) => !fixedIndexes.includes(idx));
-        shuffle(movibles);
-        let resultado = [];
-        let m = 0, f = 0;
-        for (let i = 0; i < answers.length; i++) {
-          if (fixedIndexes.includes(i)) {
-            resultado.push(fixedAnswers[f++]);
-          } else {
-            resultado.push(movibles[m++]);
-          }
-        }
-        return resultado;
-      } else {
-        let copia = answers.slice();
-        shuffle(copia);
-        return copia;
-      }
-    }
+    const cargarBtn = document.getElementById('cargarBtn');
+    const quizDiv = document.getElementById('quiz');
+    const resultDiv = document.getElementById('result');
+    const errorDiv = document.getElementById('error');
 
-    function listarCuestionariosLocales() {
-      const listaDiv = document.getElementById('cuestionarioLista');
-      if (cuestionariosLocales.length === 0) {
-        listaDiv.innerHTML = "<p>No hay cuestionarios locales disponibles.</p>";
+    let currentQuiz = null;
+
+    cargarBtn.onclick = async function() {
+      quizDiv.innerHTML = '';
+      resultDiv.textContent = '';
+      errorDiv.textContent = '';
+      const tema = temaSelect.value;
+      if (!tema) {
+        errorDiv.textContent = 'Por favor, selecciona un tema.';
         return;
       }
-      listaDiv.innerHTML = "<b>Elige un cuestionario:</b>";
-      cuestionariosLocales.forEach(function(item) {
-        const btn = document.createElement('button');
-        btn.textContent = item.titulo;
-        btn.onclick = function() {
-          cargarCuestionarioLocal(item.archivo, item.titulo);
-        };
-        listaDiv.appendChild(btn);
-      });
-    }
+      try {
+        const url = location.origin + REPO_PATH + tema + '.json';
+        const resp = await fetch(url);
+        if (!resp.ok) throw new Error('No se pudo cargar el cuestionario.');
+        const data = await resp.json();
+        currentQuiz = data;
+        mostrarCuestionario(data);
+      } catch (e) {
+        errorDiv.textContent = 'Error al cargar el cuestionario.';
+      }
+    };
 
-    function cargarCuestionarioLocal(archivo, titulo) {
-      document.getElementById('test').innerHTML = `<p>Cargando cuestionario <b>${titulo}</b>...</p>`;
-      document.getElementById('result').textContent = "";
-      fetch('cuestionarios/' + archivo)
-        .then(response => response.json())
-        .then(data => {
-          let preguntasBarajadas = data.slice();
-          shuffle(preguntasBarajadas);
-          questions = preguntasBarajadas.map(q => {
-            const originalAnswers = q.answers.slice();
-            const correctText = originalAnswers[0];
-            const shuffled = shuffleAnswers(originalAnswers);
-            return {
-              question: q.question,
-              answers: shuffled,
-              correctText: correctText
-            };
-          });
-          userAnswers = {};
-          results = {};
-          mostrarTodasLasPreguntas();
-        })
-        .catch(err => {
-          document.getElementById('test').innerHTML = "Error al cargar el cuestionario.";
-          console.error(err);
-        });
-    }
-
-    function mostrarTodasLasPreguntas() {
-      let html = '';
-      questions.forEach((q, idx) => {
-        let clase = results[idx] === "correct" ? "pregunta-grupo correct" : results[idx] === "incorrect" ? "pregunta-grupo incorrect" : "pregunta-grupo";
-        html += `<div class="${clase}" id="pregunta-${idx}">
-          <div class="question">${idx + 1}. ${q.question}</div>
-          <ul class="answers">`;
-        q.answers.forEach((ans, i) => {
-          let checked = userAnswers[idx] === ans ? 'checked' : '';
-          let disabled = results[idx] ? 'disabled' : '';
-          html += `<li>
+    function mostrarCuestionario(data) {
+      if (!Array.isArray(data) || data.length === 0) {
+        quizDiv.innerHTML = '<p>No hay preguntas en este cuestionario.</p>';
+        return;
+      }
+      quizDiv.innerHTML = '';
+      data.forEach((pregunta, idx) => {
+        const div = document.createElement('div');
+        div.className = 'question';
+        div.innerHTML = `<strong>${idx + 1}. ${pregunta.pregunta}</strong>`;
+        const answersDiv = document.createElement('div');
+        answersDiv.className = 'answers';
+        pregunta.respuestas.forEach((resp, rIdx) => {
+          const id = `q${idx}_r${rIdx}`;
+          answersDiv.innerHTML += `
             <label>
-              <input type="radio" name="q${idx}" value="${ans.replace(/"/g, '&quot;')}" ${checked} ${disabled}
-                onchange="responderPregunta(${idx}, this.value)">
-              ${ans}
+              <input type="radio" name="q${idx}" value="${rIdx}">
+              ${resp}
             </label>
-          </li>`;
+          `;
         });
-        html += `</ul>`;
-        // Si falló, muestra la respuesta correcta debajo
-        if (results[idx] === "incorrect") {
-          html += `<div class="respuesta-correcta">Respuesta correcta: ${q.correctText}</div>`;
+        div.appendChild(answersDiv);
+        quizDiv.appendChild(div);
+      });
+      const btn = document.createElement('button');
+      btn.textContent = 'Corregir';
+      btn.onclick = corregirTest;
+      quizDiv.appendChild(btn);
+    }
+
+    function corregirTest() {
+      let aciertos = 0;
+      let total = currentQuiz.length;
+      for (let i = 0; i < total; i++) {
+        const radios = document.getElementsByName('q' + i);
+        let selected = -1;
+        for (let r = 0; r < radios.length; r++) {
+          if (radios[r].checked) {
+            selected = parseInt(radios[r].value);
+            break;
+          }
         }
-        html += `</div>`;
-      });
-      document.getElementById('test').innerHTML = html;
-      actualizarMarcadorGlobal();
-      renderMarcadoresLateral();
-    }
-
-    // Renderiza la columna lateral de marcadores
-    function renderMarcadoresLateral(selectedIdx = -1) {
-      const cont = document.getElementById('marcadoresLateral');
-      let html = `<b>Preguntas</b><br>`;
-      questions.forEach((q, idx) => {
-        let estado = "unanswered";
-        if (results[idx] === "correct") estado = "correct";
-        else if (results[idx] === "incorrect") estado = "incorrect";
-        let icono = estado === "correct" ? "✅" : estado === "incorrect" ? "❌" : "❓";
-        let selected = (selectedIdx === idx) ? "selected" : "";
-        html += `<div class="marcador-item ${estado} ${selected}" onclick="scrollToPregunta(${idx})">
-          <span class="marcador-num">Pregunta ${idx + 1}</span>
-          <span class="marcador-ico ${estado}">${icono}</span>
-        </div>`;
-      });
-      cont.innerHTML = html;
-    }
-
-    // Scroll suave a la pregunta correspondiente
-    window.scrollToPregunta = function(idx) {
-      const el = document.getElementById('pregunta-' + idx);
-      if (el) {
-        el.scrollIntoView({ behavior: 'smooth', block: 'center' });
-        renderMarcadoresLateral(idx);
-        setTimeout(() => renderMarcadoresLateral(), 1300);
+        if (selected === currentQuiz[i].correcta) aciertos++;
       }
-    };
-
-    // Esta función se llama al marcar una respuesta
-    window.responderPregunta = function(idx, value) {
-      userAnswers[idx] = value;
-      let correcta = questions[idx].correctText;
-      if (value === correcta) {
-        results[idx] = "correct";
-      } else {
-        results[idx] = "incorrect";
-      }
-      mostrarTodasLasPreguntas();
-    };
-
-    function actualizarMarcadorGlobal() {
-      let total = questions.length;
-      let correctas = Object.values(results).filter(r => r === "correct").length;
-      let incorrectas = Object.values(results).filter(r => r === "incorrect").length;
-      let sinResponder = total - correctas - incorrectas;
-      document.getElementById('result').innerHTML = `
-        <b>✅ Correctas:</b> ${correctas} &nbsp; 
-        <b>❌ Incorrectas:</b> ${incorrectas} &nbsp; 
-        <b>❓ Sin responder:</b> ${sinResponder}
-      `;
+      resultDiv.textContent = `Has acertado ${aciertos} de ${total} preguntas.`;
     }
-
-    // Inicializar
-    listarCuestionariosLocales();
   </script>
 </body>
 </html>
