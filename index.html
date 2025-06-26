@@ -24,10 +24,10 @@
     <div id="result" class="result"></div>
   </div>
   <script>
-    // Lista de cuestionarios locales
+    // Lista de cuestionarios
     const cuestionariosLocales = [
-      { archivo: "Tema1.json", titulo: "Tema 1" },
-      { archivo: "Tema2.json", titulo: "Tema 2" }
+      { archivo: "https://josemlg993.github.io/MagicTest/Tema1.json", titulo: "Tema 1 (online)" },
+      { archivo: "Tema2.json", titulo: "Tema 2 (local)" }
     ];
 
     const respuestasFijas = [
@@ -99,7 +99,7 @@
     function cargarCuestionarioLocal(archivo, titulo) {
       document.getElementById('test').innerHTML = `<p>Cargando cuestionario <b>${titulo}</b>...</p>`;
       document.getElementById('result').textContent = "";
-      fetch('cuestionarios/' + archivo)
+      fetch(archivo.includes('http') ? archivo : 'cuestionarios/' + archivo)
         .then(response => response.json())
         .then(data => {
           let preguntasBarajadas = data.slice();
