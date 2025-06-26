@@ -1,0 +1,183 @@
+/* Fondo de pantalla */
+body {
+  background-image: url('../images/bg-01.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(135deg, #6b38fb, #b44dc1);
+  color: #333;
+}
+
+/* Contenedor principal del test */
+.test-container {
+  position: relative;
+  max-width: 900px;
+  margin: 40px auto;
+  /* El padding-right debe ser igual o mayor que el ancho de la barra lateral + separación */
+  padding: 30px 180px 30px 30px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px #aaa;
+  background: #fff;
+}
+
+/* Pregunta y respuestas agrupadas */
+.pregunta-grupo {
+  background: #fafaff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  margin-bottom: 32px;
+  padding: 22px 18px 14px 18px;
+  border: 1px solid #e0e0e0;
+  transition: background 0.2s;
+}
+
+/* Estados de corrección */
+.pregunta-grupo.correct {
+  background: #e6faec;
+  border-color: #2ecc71;
+}
+.pregunta-grupo.incorrect {
+  background: #ffeaea;
+  border-color: #e74c3c;
+}
+
+.pregunta-grupo .question {
+  background: transparent;
+  border: none;
+  margin-bottom: 12px;
+  padding: 0;
+  font-weight: bold;
+}
+
+/* Lista de respuestas */
+.answers {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 18px;
+}
+.answers li {
+  margin-bottom: 8px;
+  padding: 7px 10px;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  background: #fafaff;
+  transition: background 0.2s;
+}
+.answers li:hover {
+  background: #f0eafd;
+}
+.answers label {
+  display: block;
+  cursor: pointer;
+}
+
+/* Mensaje de respuesta correcta */
+.respuesta-correcta {
+  margin-top: 10px;
+  color: #2ecc71;
+  font-weight: bold;
+  font-size: 1.05em;
+}
+
+/* Barra lateral de marcadores */
+.marcadores-lateral {
+  position: fixed;
+  top: 110px;
+  right: 35px;
+  z-index: 100;
+  background: rgba(255,255,255,0.95);
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+  padding: 18px 16px;
+  min-width: 120px;
+  text-align: center;
+  max-height: 70vh;
+  overflow-y: auto;
+  scrollbar-width: thin;
+}
+
+/* Scrollbar para Chrome/Edge */
+.marcadores-lateral::-webkit-scrollbar {
+  width: 7px;
+}
+.marcadores-lateral::-webkit-scrollbar-thumb {
+  background: #b44dc1;
+  border-radius: 6px;
+}
+
+/* Elementos de marcador */
+.marcador-item {
+  margin-bottom: 10px;
+  font-size: 1.4em;
+  cursor: pointer;
+  transition: transform 0.12s;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.marcador-item.selected {
+  font-weight: bold;
+  transform: scale(1.10);
+  background: #f0eafd;
+  border-radius: 6px;
+}
+.marcador-item .marcador-num {
+  font-size: 0.9em;
+  color: #666;
+  width: 70px;
+  text-align: left;
+}
+.marcador-item .marcador-ico.correct { color: #2ecc71; }
+.marcador-item .marcador-ico.incorrect { color: #e74c3c; }
+.marcador-item .marcador-ico.unanswered { color: #b44dc1; }
+
+/* Responsive: barra lateral abajo y preguntas a ancho completo */
+@media (max-width: 900px) {
+  .test-container {
+    padding: 20px 10px 20px 10px;
+  }
+  .marcadores-lateral { 
+    position: static;
+    margin: 0 0 18px 0;
+    box-shadow: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-height: unset;
+    overflow-y: visible;
+  }
+  .marcador-item { margin: 5px 10px; }
+}
+
+/* Otros estilos globales y botones */
+h2 {
+  margin-top: 0;
+}
+.btn, .cuestionario-lista button {
+  display: inline-block;
+  padding: 8px 15px;
+  background: #3498db;
+  color: #fff;
+  border-radius: 5px;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1em;
+  margin: 5px 0;
+}
+.btn:disabled, .cuestionario-lista button:disabled {
+  background: #ccc;
+}
+.cuestionario-lista {
+  margin-bottom: 22px;
+  padding: 15px;
+  background: #f8f9fa;
+  border-radius: 6px;
+}
+.cuestionario-lista button:hover {
+  background: #2980b9;
+}
