@@ -1,0 +1,202 @@
+[
+    {
+        "question": "La unidad de la dosis efectiva según el S.I. es",
+        "answers": [
+            "Sv",
+            "C/kg",
+            "Sv/s",
+            "Rem/s"
+        ],
+        "correctAnswer": "Sv"
+    },
+    {
+        "question": "Para dosimetría de película, ¿cuál de estas afirmaciones es incorrecta?",
+        "answers": [
+            "Son reutilizables",
+            "Permite evaluación selectiva en campos mixtos",
+            "Límite inferior de detección es demasiado alto",
+            "Registro permanente"
+        ],
+        "correctAnswer": "Son reutilizables"
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones es correcta?",
+        "answers": [
+            "Todas son correctas",
+            "La medida es el conjunto de operaciones experimentales que tiene por objeto determinar el valor de una magnitud",
+            "La magnitud es el fenómeno que puede distinguirse cualitativamente y determinarse cuantitativamente",
+            "La metrología es la parte de la ciencia que trata de las medidas"
+        ],
+        "correctAnswer": "Todas son correctas"
+    },
+    {
+        "question": "¿Cuál de estas equivalencias es correcta?",
+        "answers": [
+            "1 rad = 0,01 Gy",
+            "1 rad = 1 Sv",
+            "1 rem = 1 Gy",
+            "1 rem = 0,1 Sv"
+        ],
+        "correctAnswer": "1 rad = 0,01 Gy"
+    },
+    {
+        "question": "La unidad de Dosis Equivalente según el S.I. es",
+        "answers": [
+            "Ninguna de las anteriores",
+            "rem",
+            "Gy",
+            "Sv/s"
+        ],
+        "correctAnswer": "Ninguna de las anteriores"
+    },
+    {
+        "question": "La unidad de la tasa de la exposición es",
+        "answers": [
+            "C/(kg·s)",
+            "R",
+            "C/kg",
+            "Sv/s"
+        ],
+        "correctAnswer": "C/(kg·s)"
+    },
+    {
+        "question": "La magnitud que expresa el daño biológico de la radiación es",
+        "answers": [
+            "Dosis equivalente",
+            "Exposición",
+            "Dosis absorbida",
+            "Tasa de exposición"
+        ],
+        "correctAnswer": "Dosis equivalente"
+    },
+    {
+        "question": "El LET",
+        "answers": [
+            "Todas las anteriores",
+            "Energía depositada al atravesar una unidad de longitud",
+            "Se mide en Julios/metro",
+            "Es alta para partículas pesadas y baja para partículas ligeras"
+        ],
+        "correctAnswer": "Todas las anteriores"
+    },
+    {
+        "question": "La dosis efectiva se mide en",
+        "answers": [
+            "Sv",
+            "C/kg",
+            "Gy",
+            "rad"
+        ],
+        "correctAnswer": "Sv"
+    },
+    {
+        "question": "Los resultados de la Dosimetría Personal son de utilidad para",
+        "answers": [
+            "Todas las anteriores",
+            "Confirmar la correcta clasificación de las zonas radiológicas",
+            "Verificar la idoneidad de las medidas de protección contra la radiación en los lugares de trabajo",
+            "Detectar posibles cambios en las condiciones radiológicas de trabajo"
+        ],
+        "correctAnswer": "Todas las anteriores"
+    },
+    {
+        "question": "Las magnitudes de protección radiológica",
+        "answers": [
+            "Todas las anteriores",
+            "Incluyen entre otras la dosis efectiva y equivalente",
+            "Permiten evaluar los posibles riesgos de la exposición de las radiaciones ionizantes",
+            "Permiten evaluar los posibles efectos biológicos debidos a la exposición de las radiaciones ionizantes"
+        ],
+        "correctAnswer": "Todas las anteriores"
+    },
+    {
+        "question": "Se usan materiales termoluminiscentes porque",
+        "answers": [
+            "La luz emitida al ser calentado es proporcional a la dosis de radiación absorbida",
+            "Son detectores inmediatos",
+            "Son detectores de ionización gaseosa",
+            "Ninguna es correcta"
+        ],
+        "correctAnswer": "La luz emitida al ser calentado es proporcional a la dosis de radiación absorbida"
+    },
+    {
+        "question": "La dosis absorbida",
+        "answers": [
+            "Todas son correctas",
+            "Es la más utilizada",
+            "Se mide en Gy",
+            "Es la energía depositada sobre el cuerpo radiado por unidad de masa"
+        ],
+        "correctAnswer": "Todas son correctas"
+    },
+    {
+        "question": "La unidad de la tasa de dosis equivalente es:",
+        "answers": [
+            "mSv/s",
+            "mSv",
+            "C/kg",
+            "mGy/s"
+        ],
+        "correctAnswer": "mSv/s"
+    },
+    {
+        "question": "La exposición se mide en",
+        "answers": [
+            "C/kg",
+            "rad",
+            "Sv",
+            "rem"
+        ],
+        "correctAnswer": "C/kg"
+    },
+    {
+        "question": "La dosis absorbida se mide en",
+        "answers": [
+            "Gy",
+            "Sv",
+            "rem",
+            "Julios"
+        ],
+        "correctAnswer": "Gy"
+    },
+    {
+        "question": "La tasa de dosis efectiva es",
+        "answers": [
+            "La dosis por unidad de tiempo",
+            "La unidad de la tasa de dosis efectiva es J/kg",
+            "La dosis por unidad de longitud",
+            "La dosis equivalente por unidad de tiempo"
+        ],
+        "correctAnswer": "La dosis por unidad de tiempo"
+    },
+    {
+        "question": "Tipos de dosimetría",
+        "answers": [
+            "Todas son correctas",
+            "Ambiental",
+            "Personal",
+            "Área"
+        ],
+        "correctAnswer": "Todas son correctas"
+    },
+    {
+        "question": "La transferencia lineal de energía (LET)",
+        "answers": [
+            "Describe la deposición de energía de una partícula al atravesar linealmente un medio.",
+            "Su valor es alto para los rayos X",
+            "Ninguna de las anteriores es correcta",
+            "Su unidad es Sv"
+        ],
+        "correctAnswer": "Describe la deposición de energía de una partícula al atravesar linealmente un medio."
+    },
+    {
+        "question": "Las siglas de Comisión Internacional de Protección Radiológica son",
+        "answers": [
+            "ICRP",
+            "CSN",
+            "ICRU",
+            "NCRP"
+        ],
+        "correctAnswer": "ICRP"
+    }
+]
