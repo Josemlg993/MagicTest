@@ -1,0 +1,202 @@
+[
+    {
+        "question": "El mayor mA en un equipo de rayos X está asociado a",
+        "answers": [
+            "Mayor cantidad de radiación",
+            "Baja penetrabilidad",
+            "Menor cantidad de radiación",
+            "Alta penetrabilidad"
+        ],
+        "correctAnswer": "Mayor cantidad de radiación"
+    },
+    {
+        "question": "Los equipos generadores de alta frecuencia se caracterizan por",
+        "answers": [
+            "Mejor calidad de imagen",
+            "Mayor dosis al paciente",
+            "Formas de onda multipulso",
+            "Más tiempo de exposición"
+        ],
+        "correctAnswer": "Mejor calidad de imagen"
+    },
+    {
+        "question": "La ampolla de vidrio",
+        "answers": [
+            "Esta formado por un vidrio especial llamado Pyrex",
+            "Es un elemento que dispersa el calor con dificultad",
+            "Dispone de un vacío absoluto en su interior",
+            "Posee baja resistencia a la temperatura, y su fragilidad es un problema en estos equipos"
+        ],
+        "correctAnswer": "Esta formado por un vidrio especial llamado Pyrex"
+    },
+    {
+        "question": "La película radiográfica",
+        "answers": [
+            "Consiste en una emulsión formada por una mezcla uniforme de gelatina y cristales de haluro de plata",
+            "Conlleva un procesado radiográfico basado en: revelado, lavado y secado",
+            "Conlleva una mayor rapidez en la obtención de la imagen diagnóstica en comparación con el sistema digital",
+            "No se ve influenciada por los factores ambientales"
+        ],
+        "correctAnswer": "Consiste en una emulsión formada por una mezcla uniforme de gelatina y cristales de haluro de plata"
+    },
+    {
+        "question": "Las características del Wolframio o Tungsteno son",
+        "answers": [
+            "Alto efecto termoiónico",
+            "Bajo punto de fusión",
+            "Alta tendencia a evaporarse",
+            "Bajo número atómico"
+        ],
+        "correctAnswer": "Alto efecto termoiónico"
+    },
+    {
+        "question": "El ánodo en un equipo de rayos X dental",
+        "answers": [
+            "Es el material blanco contra el que colisionan los electrones acelerados",
+            "Es un material blanco con un bajo número atómico que favorece la interacción de los electrones",
+            "Produce la liberación de electrones por efecto termoiónico",
+            "Es mejor estático a rotatorio ya que disipa peor el calor"
+        ],
+        "correctAnswer": "Es el material blanco contra el que colisionan los electrones acelerados"
+    },
+    {
+        "question": "La diferencia de potencial entre el cátodo y el ánodo",
+        "answers": [
+            "Acelera la velocidad de los electrones, provocando mayor poder de penetración",
+            "Provoca un aumento de la nube de electrones de ánodo, aumentando la cantidad final de energía",
+            "No tiene consecuencias sobre el equipo",
+            "Provoca la direccionalidad de los electrones, para desplazarse del ánodo al cátodo"
+        ],
+        "correctAnswer": "Acelera la velocidad de los electrones, provocando mayor poder de penetración"
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones NO es correcta?",
+        "answers": [
+            "A mayor dosis al paciente, dentro y fuera del campo exploratorio provoca menor radiación dispersa",
+            "La rejilla antidifusora es un dispositivo que eliminan la mayor parte de radiación dispersa que se produce dentro del paciente, favoreciendo la mejora de la calidad de la imagen",
+            "Con una filtración adecuada, se puede reducir hasta un 80% la dosis en piel del paciente, sin afectar a la calidad de la imagen",
+            "La filtración de un equipo de rayos X se mide en milímetros de aluminio equivalente"
+        ],
+        "correctAnswer": "A mayor dosis al paciente, dentro y fuera del campo exploratorio provoca menor radiación dispersa"
+    },
+    {
+        "question": "Los problemas asociados al tubo del rayos X son",
+        "answers": [
+            "Todas son correctas",
+            "Evaporación del filamento por las altas temperaturas",
+            "Mantenimiento del ánodo a altas temperaturas durante largos periodos de tiempos que impiden la disipación correcta del calor",
+            "Altas temperaturas del ánodo que conllevan la fusión y \"picado\" del mismo"
+        ],
+        "correctAnswer": "Todas son correctas"
+    },
+    {
+        "question": "¿Cuál de los siguientes elementos no ayuda a la refrigeración del tubo de rayos X?",
+        "answers": [
+            "El blindaje del tubo",
+            "Refrigerante",
+            "Tungsteno como material del ánodo y cátodo",
+            "Ampolla de vidrio Pyrex"
+        ],
+        "correctAnswer": "El blindaje del tubo"
+    },
+    {
+        "question": "La función de la carcasa y coraza del equipo de rayos X es",
+        "answers": [
+            "Las dos son correctas",
+            "Impide que la radiación salga en todas direcciones",
+            "Ninguna es correcta",
+            "Contener los distintos elementos que forman el tubo"
+        ],
+        "correctAnswer": "Las dos son correctas"
+    },
+    {
+        "question": "¿Qué tipos de ánodos existen en los equipos de rayos X?",
+        "answers": [
+            "Ánodo estacionario y rotatorio",
+            "Ánodo estacionario",
+            "Ánodo rotatorio",
+            "Cátodo rotatorio"
+        ],
+        "correctAnswer": "Ánodo estacionario y rotatorio"
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones no es correcta?",
+        "answers": [
+            "Tiene bajo efecto termoiónico",
+            "El ánodo es un material de alto Z",
+            "Tiene alto punto de fusión",
+            "Posee alta conductividad térmica"
+        ],
+        "correctAnswer": "Tiene bajo efecto termoiónico"
+    },
+    {
+        "question": "Dentro del tubo de rayos X",
+        "answers": [
+            "Se producen los electrones en el cátodo por efecto termoiónico",
+            "Existe un vacío absoluto en la ampolla de vidrio",
+            "Los electrones se desplazan del ánodo al cátodo, y viceversa",
+            "Los electrones impactan en el cátodo para producir electrones"
+        ],
+        "correctAnswer": "Se producen los electrones en el cátodo por efecto termoiónico"
+    },
+    {
+        "question": "El refrigerante en un tubo de rayos X",
+        "answers": [
+            "Evita que se alcancen temperaturas elevadas, y de esta manera evita la fusión de material del ánodo",
+            "Suele ser agua en los equipos de rayos X intraorales",
+            "Favorece el aumento de la temperatura, favoreciendo la formación de rayos X",
+            "Todas las anteriores"
+        ],
+        "correctAnswer": "Evita que se alcancen temperaturas elevadas, y de esta manera evita la fusión de material del ánodo"
+    },
+    {
+        "question": "En los equipos de rayos X",
+        "answers": [
+            "La eficiencia de la producción de rayos X es baja, ya que más del 99% de la energía de los electrones se pierde en forma de calor",
+            "El refrigerante sirve para mantener una temperatura constante dentro del equipo, que favorece la mayor formación de rayos X",
+            "El material más utilizado para la formación del filamento es el estaño o el zinc, debido a su bajo punto de fusión",
+            "Es necesario que se realice un control mensual de los parámetros fundamentales, tal como marca la normativa vigente"
+        ],
+        "correctAnswer": "La eficiencia de la producción de rayos X es baja, ya que más del 99% de la energía de los electrones se pierde en forma de calor"
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones es incorrecta?",
+        "answers": [
+            "La rejilla antidifusora aumenta la radiación dispersa que llega a la placa, que empeora la calidad de imagen.",
+            "El colimador es un dispositivo plomado situado a la salida del tubo que limita el campo de irradiación y el área de exposición del paciente",
+            "El localizador es un dispositivo de alineación del haz que ayuda al odontólogo a posicionar el dispositivo de indicador de posición (DIP) en relación con el diente y el sistema de imagen.",
+            "La filtración elimina los fotones de baja energía"
+        ],
+        "correctAnswer": "La rejilla antidifusora aumenta la radiación dispersa que llega a la placa, que empeora la calidad de imagen."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones es correcta?",
+        "answers": [
+            "Todas las anteriores",
+            "La diferencia de potencial entre el ánodo y el cátodo produce la aceleración de los electrones dentro del tubo de rayos X",
+            "El generador es el elemento encargado de suministrar al tubo la energía necesaria para su funcionamiento",
+            "Los equipos de rayos X poseen rectificadores de onda que transforma la corriente alterna en continua"
+        ],
+        "correctAnswer": "Todas las anteriores"
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones es correcta?",
+        "answers": [
+            "Mas del 99% de la energía de los electrones se pierde en forma de calor",
+            "El material blanco tiene bajo número atómico",
+            "El ánodo es siempre rotatorio",
+            "El material donde colisionan los electrones es el cátodo"
+        ],
+        "correctAnswer": "Mas del 99% de la energía de los electrones se pierde en forma de calor"
+    },
+    {
+        "question": "El ánodo rotatorio",
+        "answers": [
+            "Todas son correctas",
+            "Enfría más rápido el ánodo",
+            "Aumenta el área del foco real en la mancha focal",
+            "Dispersa mejor el calor"
+        ],
+        "correctAnswer": "Todas son correctas"
+    }
+]

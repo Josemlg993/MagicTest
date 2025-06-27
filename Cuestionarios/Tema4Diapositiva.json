@@ -1,0 +1,104 @@
+[
+    {
+        "question": "Los tipos de sistemas digitales que existen son",
+        "answers": [
+            "Todas las anteriores",
+            "Radiografía digitalizada",
+            "Radiografía digital directa",
+            "Radiografía computarizada (CR) o radiografía digital indirecta (IR)"
+        ],
+        "correctAnswer": "Todas las anteriores"
+    },
+    {
+        "question": "Cuando el kV es bajo",
+        "answers": [
+            "Hay más contraste y menos dispersa, pero más dosis al paciente",
+            "Hay menos contraste, menos dispersa, y menos dosis al paciente",
+            "Hay menos contraste y menos dispersa, pero más dosis al paciente",
+            "Hay más contraste y más dispersa, pero más dosis al paciente"
+        ],
+        "correctAnswer": "Hay más contraste y menos dispersa, pero más dosis al paciente"
+    },
+    {
+        "question": "Los sistemas digitales",
+        "answers": [
+            "Permiten capturar la imagen y visualizarla en la pantalla de un ordenador",
+            "En radiología dental conllevan la sustitución del equipo de rayos X por uno nuevo, con formato digital",
+            "En el ámbito dental están en deshuso, ya que su uso es complicado y aumentan el tiempo de procesado de la imagen",
+            "Todas las anteriores"
+        ],
+        "correctAnswer": "Permiten capturar la imagen y visualizarla en la pantalla de un ordenador"
+    },
+    {
+        "question": "Un kV demasiado bajo produce",
+        "answers": [
+            "Una imagen clara por la falta de fotones",
+            "Una imagen oscura por la falta de fotones",
+            "Una imagen oscura por el exceso de fotones",
+            "Una imagen clara por exceso de fotones"
+        ],
+        "correctAnswer": "Una imagen clara por la falta de fotones"
+    },
+    {
+        "question": "La radiación de fuga",
+        "answers": [
+            "No debe ser mayor de 1mSv/h a 1m",
+            "No debe ser mayor de 1Gy/h",
+            "No debe ser mayor de 1mSv/h",
+            "Debe ser mayor de 1mSv/h"
+        ],
+        "correctAnswer": "No debe ser mayor de 1mSv/h a 1m"
+    },
+    {
+        "question": "El espectro de rayos x de un equipo",
+        "answers": [
+            "Tiene una parte discreta (RX característicos) y una continua (Bremsstrahlung)",
+            "Siempre es el mismo, independientemente de la energía suministrada",
+            "Tiene una parte fija y una variable",
+            "No afecta al paciente"
+        ],
+        "correctAnswer": "Tiene una parte discreta (RX característicos) y una continua (Bremsstrahlung)"
+    },
+    {
+        "question": "El haz primario",
+        "answers": [
+            "Es el que sale colimado por el tubo de rayos x",
+            "Es el que se dispersa dentro del tubo de rayos x",
+            "Es el que se queda remanente en la sala",
+            "Es el que dispersa el paciente"
+        ],
+        "correctAnswer": "Es el que sale colimado por el tubo de rayos x"
+    },
+    {
+        "question": "Los rayos x característicos",
+        "answers": [
+            "Dan lugar a la parte discreta del espectro de rayos x",
+            "Dan lugar a la parte continua del espectro de rayos x",
+            "Ninguna de las anteriores",
+            "Siempre tiene el mismo valor"
+        ],
+        "correctAnswer": "Dan lugar a la parte discreta del espectro de rayos x"
+    },
+    {
+        "question": "Respecto al uso de sistemas digitales de imagen a diferencia de los sistemas de película...",
+        "answers": [
+            "Siempre permiten reducir la dosis a paciente significativamente y de forma óptima cuando la sensibilidad del receptor de imagen se ajusta de acuerdo a las características del equipo de rayos X para utilizar las dosis más bajas posibles compatibles con la imagen diagnóstica.",
+            "Siempre permiten reducir la dosis a paciente significativamente porque luego podemos modificar brillo y contraste mediante el software de gestión de las imágenes aunque haya salido muy oscura",
+            "Los sistemas digitales nunca superarán a los sistemas analógicos en calidad de imagen aunque la dosis sea inferior",
+            "Siempre permiten reducir la dosis a paciente significativamente en cualquier caso."
+        ],
+        "correctAnswer": "Siempre permiten reducir la dosis a paciente significativamente y de forma óptima cuando la sensibilidad del receptor de imagen se ajusta de acuerdo a las características del equipo de rayos X para utilizar las dosis más bajas posibles compatibles con la imagen diagnóstica."
+    },
+    {
+        "question": "La función de la filtración en los equipos de rayos X es",
+        "answers": [
+            "Eliminar la fracción de fotones de baja energía, que producen una irradiación innecesaria en la piel del paciente",
+            "Disminuir la calidad del haz de radiación",
+            "Facilitar el posicionamiento del detector de la imagen",
+            "Disminuir al tamaño de la imagen obtenida"
+        ],
+        "correctAnswer": "Eliminar la fracción de fotones de baja energía, que producen una irradiación innecesaria en la piel del paciente"
+    }
+    
+        
+]
