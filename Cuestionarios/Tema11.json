@@ -1,0 +1,502 @@
+[
+    {
+        "question": "¿En qué se basa el sistema de protección radiológica?",
+        "answers": [
+            "Justificación, optimización y limitación de dosis.",
+            "Solo limitación de dosis.",
+            "Solo justificación.",
+            "Solo optimización."
+        ],
+        "correctAnswer": "Justificación, optimización y limitación de dosis."
+    },
+    {
+        "question": "¿Cuál es el objetivo principal de la protección radiológica?",
+        "answers": [
+            "Prevenir efectos deterministas y reducir efectos estocásticos.",
+            "Aumentar la dosis al paciente.",
+            "Eliminar la radiación completamente.",
+            "Permitir radiografías rutinarias."
+        ],
+        "correctAnswer": "Prevenir efectos deterministas y reducir efectos estocásticos."
+    },
+    {
+        "question": "¿Qué debe hacerse antes de realizar una radiografía?",
+        "answers": [
+            "Justificar el examen y evaluar alternativas sin radiación ionizante.",
+            "Realizar siempre la radiografía.",
+            "No considerar la historia clínica.",
+            "Ignorar la edad del paciente."
+        ],
+        "correctAnswer": "Justificar el examen y evaluar alternativas sin radiación ionizante."
+    },
+    {
+        "question": "¿Qué implica la optimización en protección radiológica?",
+        "answers": [
+            "Reducir la dosis al mínimo razonablemente posible.",
+            "Aumentar la dosis para mejor imagen.",
+            "Ignorar la protección del personal.",
+            "Solo proteger al paciente."
+        ],
+        "correctAnswer": "Reducir la dosis al mínimo razonablemente posible."
+    },
+    {
+        "question": "¿Qué debe verificarse antes de poner en funcionamiento una instalación radiológica?",
+        "answers": [
+            "Que se cumplen los límites de dosis establecidos.",
+            "Que el equipo es nuevo.",
+            "Que la sala es grande.",
+            "Que hay muchos trabajadores."
+        ],
+        "correctAnswer": "Que se cumplen los límites de dosis establecidos."
+    },
+    {
+        "question": "¿Qué tipo de instalaciones requieren un programa de protección radiológica escrito?",
+        "answers": [
+            "Todas las instalaciones de rayos X.",
+            "Solo las de TC.",
+            "Solo las de radiografía dental.",
+            "Solo las veterinarias."
+        ],
+        "correctAnswer": "Todas las instalaciones de rayos X."
+    },
+    {
+        "question": "¿Quién debe realizar la vigilancia de los niveles de radiación en las instalaciones?",
+        "answers": [
+            "Una Unidad Técnica de Protección Radiológica (UTPR).",
+            "El titular de la instalación.",
+            "El paciente.",
+            "Cualquier persona."
+        ],
+        "correctAnswer": "Una Unidad Técnica de Protección Radiológica (UTPR)."
+    },
+    {
+        "question": "¿Qué documento debe obtenerse para certificar una instalación radiológica?",
+        "answers": [
+            "Certificado de conformidad expedido por una UTPR.",
+            "Permiso del paciente.",
+            "Factura de compra del equipo.",
+            "Informe de mantenimiento."
+        ],
+        "correctAnswer": "Certificado de conformidad expedido por una UTPR."
+    },
+    {
+        "question": "¿Qué medidas incluye un programa de protección radiológica?",
+        "answers": [
+            "Prevención, control, vigilancia y administrativas.",
+            "Solo vigilancia.",
+            "Solo prevención.",
+            "Solo control."
+        ],
+        "correctAnswer": "Prevención, control, vigilancia y administrativas."
+    },
+    {
+        "question": "¿Qué se evalúa en las medidas de prevención?",
+        "answers": [
+            "El riesgo radiológico de las condiciones de trabajo.",
+            "La calidad de la imagen.",
+            "La velocidad de la película.",
+            "El color de la sala."
+        ],
+        "correctAnswer": "El riesgo radiológico de las condiciones de trabajo."
+    },
+    {
+        "question": "¿Qué se controla en las medidas de control?",
+        "answers": [
+            "Calidad del equipamiento y uso de blindajes.",
+            "Solo la distancia al paciente.",
+            "Solo el tiempo de exposición.",
+            "Solo el software."
+        ],
+        "correctAnswer": "Calidad del equipamiento y uso de blindajes."
+    },
+    {
+        "question": "¿Qué implica la vigilancia dosimétrica?",
+        "answers": [
+            "Medir la dosis recibida por los trabajadores expuestos.",
+            "Medir la temperatura de la sala.",
+            "Medir la velocidad del equipo.",
+            "Medir la humedad ambiental."
+        ],
+        "correctAnswer": "Medir la dosis recibida por los trabajadores expuestos."
+    },
+    {
+        "question": "¿Qué debe registrarse en las medidas administrativas?",
+        "answers": [
+            "Resultados de vigilancia dosimétrica y formación.",
+            "Solo el nombre del paciente.",
+            "Solo la fecha de la radiografía.",
+            "Solo el tipo de equipo."
+        ],
+        "correctAnswer": "Resultados de vigilancia dosimétrica y formación."
+    },
+    {
+        "question": "¿Qué rango de tensión del tubo es habitual en radiografía convencional?",
+        "answers": [
+            "40/50 kVp hasta 125 kVp.",
+            "10-20 kVp.",
+            "200-300 kVp.",
+            "5-10 kVp."
+        ],
+        "correctAnswer": "40/50 kVp hasta 125 kVp."
+    },
+    {
+        "question": "¿Qué distancia foco-piel es mínima en radiografía convencional?",
+        "answers": [
+            "25 cm.",
+            "5 cm.",
+            "100 cm.",
+            "10 cm."
+        ],
+        "correctAnswer": "25 cm."
+    },
+    {
+        "question": "¿Qué función cumple el colimador?",
+        "answers": [
+            "Reducir el área irradiada al mínimo necesario.",
+            "Aumentar la dosis al paciente.",
+            "Mejorar la calidad del sonido.",
+            "Reducir la velocidad del haz."
+        ],
+        "correctAnswer": "Reducir el área irradiada al mínimo necesario."
+    },
+    {
+        "question": "¿Qué debe tener el sistema de disparo de los equipos de rayos X?",
+        "answers": [
+            "Ser de tipo \"hombre muerto\".",
+            "Ser automático.",
+            "No tener señal audible.",
+            "Permitir disparos continuos sin control."
+        ],
+        "correctAnswer": "Ser de tipo \"hombre muerto\"."
+    },
+    {
+        "question": "¿Qué asegura el marcado CE en los equipos?",
+        "answers": [
+            "Homologación y cumplimiento de normativa europea.",
+            "Solo diseño atractivo.",
+            "Mayor potencia.",
+            "Menor coste."
+        ],
+        "correctAnswer": "Homologación y cumplimiento de normativa europea."
+    },
+    {
+        "question": "¿Qué tipo de equipos existen en radiología convencional?",
+        "answers": [
+            "Fijos y portátiles.",
+            "Solo fijos.",
+            "Solo portátiles.",
+            "Solo digitales."
+        ],
+        "correctAnswer": "Fijos y portátiles."
+    },
+    {
+        "question": "¿Qué tecnología usan los detectores digitales directos?",
+        "answers": [
+            "Semiconductores amorfos como silicio o selenio.",
+            "Placas de fósforo.",
+            "Pantallas de refuerzo.",
+            "Filamentos de tungsteno."
+        ],
+        "correctAnswer": "Semiconductores amorfos como silicio o selenio."
+    },
+    {
+        "question": "¿Qué tipo de artefacto puede causar movimiento del paciente?",
+        "answers": [
+            "Pérdida de definición.",
+            "Aumento del contraste.",
+            "Mejor resolución.",
+            "Reducción del ruido."
+        ],
+        "correctAnswer": "Pérdida de definición."
+    },
+    {
+        "question": "¿Qué causa el moteado cuántico?",
+        "answers": [
+            "Número bajo de rayos X en la imagen.",
+            "Exceso de filtración.",
+            "Alta temperatura.",
+            "Baja humedad."
+        ],
+        "correctAnswer": "Número bajo de rayos X en la imagen."
+    },
+    {
+        "question": "¿Qué patrón es característico de la estática en la película radiográfica?",
+        "answers": [
+            "Corona, árbol o mancha.",
+            "Líneas paralelas.",
+            "Puntos negros grandes.",
+            "Ondas sinusoidales."
+        ],
+        "correctAnswer": "Corona, árbol o mancha."
+    },
+    {
+        "question": "¿Qué es un artefacto de DR (radiografía digital)?",
+        "answers": [
+            "Línea de píxeles muerta.",
+            "Mancha de humedad.",
+            "Rasguño físico.",
+            "Doble exposición."
+        ],
+        "correctAnswer": "Línea de píxeles muerta."
+    },
+    {
+        "question": "¿Qué puede causar una imagen fantasma en CR?",
+        "answers": [
+            "Exposiciones repetidas de perfil similar.",
+            "Mala colimación.",
+            "Fuga de luz.",
+            "Exceso de filtración."
+        ],
+        "correctAnswer": "Exposiciones repetidas de perfil similar."
+    },
+    {
+        "question": "¿Qué riesgo tiene la fluoroscopia respecto a la radiografía convencional?",
+        "answers": [
+            "Mayor dosis por mayor tiempo de exposición.",
+            "Menor resolución de imagen.",
+            "Menor dosis al paciente.",
+            "No requiere formación."
+        ],
+        "correctAnswer": "Mayor dosis por mayor tiempo de exposición."
+    },
+    {
+        "question": "¿En qué casos está indicada la fluoroscopia?",
+        "answers": [
+            "Técnicas quirúrgicas complejas o estudio del movimiento.",
+            "Como herramienta principal de diagnóstico.",
+            "Para radiografías rutinarias.",
+            "Para estudios dentales básicos."
+        ],
+        "correctAnswer": "Técnicas quirúrgicas complejas o estudio del movimiento."
+    },
+    {
+        "question": "¿Qué debe tener todo operador de equipos fluoroscópicos?",
+        "answers": [
+            "Formación y autorización adecuada.",
+            "Solo experiencia.",
+            "Solo título universitario.",
+            "Solo conocimiento en informática."
+        ],
+        "correctAnswer": "Formación y autorización adecuada."
+    },
+    {
+        "question": "¿Qué tasa máxima de kerma en aire es aceptable en fluoroscopia automática?",
+        "answers": [
+            "150 mGy/min.",
+            "10 mGy/min.",
+            "500 mGy/min.",
+            "1 mGy/min."
+        ],
+        "correctAnswer": "150 mGy/min."
+    },
+    {
+        "question": "¿Qué parámetro define el \"pitch\" en TC?",
+        "answers": [
+            "Avance de mesa dividido por el ancho del haz colimado.",
+            "Tiempo de exposición dividido por el número de cortes.",
+            "Tamaño del detector dividido por la matriz de imagen.",
+            "kV dividido por mA."
+        ],
+        "correctAnswer": "Avance de mesa dividido por el ancho del haz colimado."
+    },
+    {
+        "question": "¿Quién desarrolló el primer TAC?",
+        "answers": [
+            "Godfrey N. Hounsfield.",
+            "Wilhelm Röntgen.",
+            "Marie Curie.",
+            "Alan Cormack."
+        ],
+        "correctAnswer": "Godfrey N. Hounsfield."
+    },
+    {
+        "question": "¿Qué generación de TC utiliza un anillo de detectores fijos y el tubo gira alrededor del paciente?",
+        "answers": [
+            "4ª generación.",
+            "1ª generación.",
+            "2ª generación.",
+            "3ª generación."
+        ],
+        "correctAnswer": "4ª generación."
+    },
+    {
+        "question": "¿Qué magnitud representa la dosis media por corte en TC?",
+        "answers": [
+            "CTDIw.",
+            "DLP.",
+            "MSAD.",
+            "SSDE."
+        ],
+        "correctAnswer": "CTDIw."
+    },
+    {
+        "question": "¿Qué relación tiene la dosis con el tiempo de scan en TC?",
+        "answers": [
+            "Es lineal.",
+            "Es inversa.",
+            "No tiene relación.",
+            "Es logarítmica."
+        ],
+        "correctAnswer": "Es lineal."
+    },
+    {
+        "question": "¿Qué filtro se utiliza en TC para reducir la dosis y mejorar la uniformidad de la imagen?",
+        "answers": [
+            "Filtro \"bowtie\".",
+            "Filtro de cobre.",
+            "Filtro de aire.",
+            "Filtro de agua."
+        ],
+        "correctAnswer": "Filtro \"bowtie\"."
+    },
+    {
+        "question": "¿Cuál es el valor de referencia para la dosis en radiología dental intraoral?",
+        "answers": [
+            "6 mSv/año para zona controlada.",
+            "10 mSv/año para público.",
+            "1 mSv/año para trabajadores.",
+            "0,1 mSv/año para pacientes."
+        ],
+        "correctAnswer": "6 mSv/año para zona controlada."
+    },
+    {
+        "question": "¿Qué espesor mínimo de plomo debe tener un delantal protector para más de 100 kVp?",
+        "answers": [
+            "0,5 mm.",
+            "0,1 mm.",
+            "1 mm.",
+            "2 mm."
+        ],
+        "correctAnswer": "0,5 mm."
+    },
+    {
+        "question": "¿Quién es responsable del funcionamiento seguro de una instalación de rayos X?",
+        "answers": [
+            "El titular de la instalación.",
+            "El paciente.",
+            "El fabricante del equipo.",
+            "El público."
+        ],
+        "correctAnswer": "El titular de la instalación."
+    },
+    {
+        "question": "¿Qué categoría corresponde al personal expuesto en radiodiagnóstico dental?",
+        "answers": [
+            "Categoría B.",
+            "Categoría A.",
+            "Categoría C.",
+            "Categoría D."
+        ],
+        "correctAnswer": "Categoría B."
+    },
+    {
+        "question": "¿Qué tipo de instalación es una que utiliza TAC, radiografía convencional y equipo intraoral?",
+        "answers": [
+            "Tipo 1.",
+            "Tipo 2.",
+            "Tipo 3.",
+            "Tipo 4."
+        ],
+        "correctAnswer": "Tipo 1."
+    },
+    {
+        "question": "¿Qué debe hacerse con los equipos defectuosos de rayos X?",
+        "answers": [
+            "Retirarlos por empresas autorizadas.",
+            "Repararlos sin control.",
+            "Ignorar el defecto.",
+            "Venderlos a terceros."
+        ],
+        "correctAnswer": "Retirarlos por empresas autorizadas."
+    },
+    {
+        "question": "¿Qué película se recomienda en radiografía intraoral para reducir dosis?",
+        "answers": [
+            "Grupos E o superiores según ISO.",
+            "Grupo A.",
+            "Grupo D.",
+            "Grupo B."
+        ],
+        "correctAnswer": "Grupos E o superiores según ISO."
+    },
+    {
+        "question": "¿Qué distancia mínima debe haber entre el operador y el tubo en radiografía intraoral?",
+        "answers": [
+            "2 metros.",
+            "0,5 metros.",
+            "5 metros.",
+            "1 metro."
+        ],
+        "correctAnswer": "2 metros."
+    },
+    {
+        "question": "¿Qué tipo de colimación reduce más la dosis en radiografía intraoral?",
+        "answers": [
+            "Rectangular.",
+            "Circular.",
+            "Ovalada.",
+            "Sin colimación."
+        ],
+        "correctAnswer": "Rectangular."
+    },
+    {
+        "question": "¿Qué debe hacerse si hay que sujetar al paciente durante la radiografía?",
+        "answers": [
+            "Utilizar prendas plomadas y evitar el haz primario.",
+            "No usar protección.",
+            "Usar solo guantes de tela.",
+            "Permitir que niños lo hagan."
+        ],
+        "correctAnswer": "Utilizar prendas plomadas y evitar el haz primario."
+    },
+    {
+        "question": "¿Qué riesgo tiene la radiografía dental en mujeres embarazadas?",
+        "answers": [
+            "Muy bajo, pero debe justificarse la exploración.",
+            "Alto, siempre debe evitarse.",
+            "No existe riesgo.",
+            "Solo si el haz incide en la pelvis."
+        ],
+        "correctAnswer": "Muy bajo, pero debe justificarse la exploración."
+    },
+    {
+        "question": "¿Qué órgano es más sensible en radiografía dental?",
+        "answers": [
+            "Tiroides.",
+            "Corazón.",
+            "Pulmón.",
+            "Hígado."
+        ],
+        "correctAnswer": "Tiroides."
+    },
+    {
+        "question": "¿Qué ventaja tiene la radiología digital frente a la convencional?",
+        "answers": [
+            "Reducción de dosis y disponibilidad inmediata de la imagen.",
+            "Mayor coste.",
+            "Menor calidad de imagen.",
+            "Mayor necesidad de repetición."
+        ],
+        "correctAnswer": "Reducción de dosis y disponibilidad inmediata de la imagen."
+    },
+    {
+        "question": "¿Cuál es el criterio general para la toma de radiografías?",
+        "answers": [
+            "Solo las estrictamente necesarias.",
+            "Repetir siempre las críticas.",
+            "Hacer varias por seguridad.",
+            "Aumentar siempre el kV."
+        ],
+        "correctAnswer": "Solo las estrictamente necesarias."
+    },
+    {
+        "question": "¿Qué debe hacerse tras una reparación en un equipo de rayos X?",
+        "answers": [
+            "Verificar y certificar su correcto funcionamiento.",
+            "Usarlo sin pruebas.",
+            "Ignorar la reparación.",
+            "Solo limpiar el equipo."
+        ],
+        "correctAnswer": "Verificar y certificar su correcto funcionamiento."
+    }
+]
