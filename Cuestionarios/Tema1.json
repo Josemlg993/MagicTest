@@ -750,16 +750,6 @@
         "correctAnswer": "La u.m.a. (1,6606x10-27 kg)"
     },
     {
-        "question": "El espectro de radiaciones electromagnéticas",
-        "answers": [
-            "Consiste en la ordenación del conjunto de todas las radiaciones electromagnéticas, según su mayor o menor frecuencia",
-            "Únicamente hace referencia a las ondas de media y baja frecuencia",
-            "Define a los rayos gamma como las radiaciones menos energéticas",
-            "Visible por el ojo humano abarca un amplio espectro, entre 10 y 2000 nm"
-        ],
-        "correctAnswer": "Consiste en la ordenación del conjunto de todas las radiaciones electromagnéticas, según su mayor o menor frecuencia"
-    },
-    {
         "question": "Los procesos de ionización tienen lugar",
         "answers": [
             "Cuando un fotón o un electrón libre cede una cantidad de energía mayor que la energía de ligadura de los electrones del átomo",
