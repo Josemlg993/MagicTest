@@ -224,24 +224,3 @@ h3 {
 #result {
   font-size: clamp(1rem, 3.5vw, 1.3rem);
 }
-
-/* Responsive: columnas apiladas en móvil */
-@media (max-width: 900px) {
-  .test-layout {
-    display: block;
-    max-width: 100%;
-    padding: 0;
-  }
-  .marcadores-lateral {
-    margin: 18px 0 0 0;
-    max-width: 100%;
-    width: 100%;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    box-shadow: none;
-    position: static;
-  }
-  .marcador-item { margin: 5px 10px; }
-}
-
