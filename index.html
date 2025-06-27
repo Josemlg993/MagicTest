@@ -86,6 +86,7 @@
       "todas son incorrectas",
       "niguna es correcta",
       "A y B son correctas",
+      "A y C son correctas",
       "B y C son correctas",
       "A, B y C son correctas"
     ];
@@ -130,6 +131,7 @@
     // FUNCIÓN CORRECTA PARA BARAJAR RESPUESTAS
     function shuffleAnswers(answers) {
   // Busca si hay una respuesta especial
+  // Busca si hay una respuesta especial
   let idxEspecial = answers.findIndex(ans =>
     variantes.some(v =>
       ans.trim().toLowerCase() === v.trim().toLowerCase()
@@ -142,14 +144,10 @@
   // Si hay una respuesta especial, la quitamos y la ponemos al final
   if (idxEspecial !== -1) {
     especial = respuestas.splice(idxEspecial, 1)[0];
-  }
-
-  shuffle(respuestas);
-
-  if (especial !== null) {
     respuestas.push(especial);
   }
 
+  // NO barajamos el resto, solo movemos la especial (si existe) al final
   return respuestas;
 }
 
