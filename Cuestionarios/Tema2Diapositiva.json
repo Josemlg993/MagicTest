@@ -1,0 +1,103 @@
+[
+    {
+        "question": "En los procesos de ionización",
+        "answers": [
+            "Tiene lugar la liberación de electrones ligados al átomo.",
+            "Se produce la liberación de neutrones y protones del átomo.",
+            "Hay una transformación de un único protón en dos electrones que son liberados del átomo.",
+            "Los electrones recoben energía promocionando a un nivel energético superior."
+        ],
+        "correctAnswer": "Tiene lugar la liberación de electrones ligados al átomo."
+    },
+    {
+        "question": "En las colisiones elásticas",
+        "answers": [
+            "No se pierde energía.",
+            "Se pierde energía en forma de calor.",
+            "Se pierde energía en forma de electricidad.",
+            "Ninguna de las anteriores."
+        ],
+        "correctAnswer": "No se pierde energía."
+    },
+    {
+        "question": "En el efecto fotoeléctrico",
+        "answers": [
+            "El fotón se absorbe totalmente.",
+            "El fotón no interacciona.",
+            "El fotón rebota.",
+            "El electrón se absorbe completamente."
+        ],
+        "correctAnswer": "El fotón se absorbe totalmente."
+    },
+    {
+        "question": "El efecto Compton",
+        "answers": [
+            "Se produce comúnmente a medias y altas energías.",
+            "Se produce comúnmente a bajas energías.",
+            "El electrón cede toda su energía.",
+            "El fotón cede toda su energía."
+        ],
+        "correctAnswer": "Se produce comúnmente a medias y altas energías."
+    },
+    {
+        "question": "Durante el efecto Compton se produce",
+        "answers": [
+            "La dispersión de un fotón de energía menor que la del fotón incidente y que depende del ángulo de incidencia.",
+            "No se produce absolutamente nada.",
+            "Una captura neutrónica.",
+            "La captura de un electrón para compensar la carga del sistema."
+        ],
+        "correctAnswer": "La dispersión de un fotón de energía menor que la del fotón incidente y que depende del ángulo de incidencia."
+    },
+    {
+        "question": "La excitación/desexcitación son procesos",
+        "answers": [
+            "En los que un electrón ligado promociona a un nivel energético superior tras recibir energía externa y, unos pocos ns después, vuelve a su nivel fundamental emitiendo energía en forma de fotones.",
+            "En los que la energía que se cede a los electrones ligados es mayor que la necesaria para ser arrancados.",
+            "Que tienen lugar por separado.",
+            "Producidos únicamente por la interacción de electrones libres con la materia."
+        ],
+        "correctAnswer": "En los que un electrón ligado promociona a un nivel energético superior tras recibir energía externa y, unos pocos ns después, vuelve a su nivel fundamental emitiendo energía en forma de fotones."
+    },
+    {
+        "question": "El poder de frenado",
+        "answers": [
+            "Es la energía depositada por unidad de distancia recorrida.",
+            "Todas las anteriores.",
+            "Es la capacidad de una onda electromagnética de atravesar materia.",
+            "Es la capacidad de un material para frenar los rayos X."
+        ],
+        "correctAnswer": "Es la energía depositada por unidad de distancia recorrida."
+    },
+    {
+        "question": "¿De qué depende la probabilidad de interacción de la radiación con la materia?",
+        "answers": [
+            "De la energía, del tipo de partícula y del número atómico del medio absorbente.",
+            "Es independiente de la energía de la radiación.",
+            "De las partículas neutras, que pueden acelerarse mediante diferencias de potencial.",
+            "Es independiente de la carga de la partícula."
+        ],
+        "correctAnswer": "De la energía, del tipo de partícula y del número atómico del medio absorbente."
+    },
+    {
+        "question": "El efecto Fotoeléctrico",
+        "answers": [
+            "Tiene lugar cuando un fotón pasa por las próximidades de un átomo e interacciona con uno de sus electrones cediéndole toda la energía (cinética) y arrancándolo del átomo.",
+            "Se produce por la interacción de un fotón con los átomos menos ligados del átomo.",
+            "Se produce cuando el fotón incidente tiene una energía inferior o igual a la energía de ligadura del electrón con el que interacciona.",
+            "Es dominante a altas energías, por encima de los 100 keV."
+        ],
+        "correctAnswer": "Tiene lugar cuando un fotón pasa por las próximidades de un átomo e interacciona con uno de sus electrones cediéndole toda la energía (cinética) y arrancándolo del átomo."
+    },
+    {
+        "question": "La creación de pares",
+        "answers": [
+            "Se produce a muy altas energías.",
+            "Todas las anteriores.",
+            "Es muy usado en radiodiagnóstico.",
+            "Se produce a bajas energías."
+        ],
+        "correctAnswer": "Se produce a muy altas energías."
+    }
+     
+]
