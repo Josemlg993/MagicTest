@@ -1,0 +1,502 @@
+[
+    {
+        "question": "¿Quién es el responsable inicial y final de los trámites administrativos para iniciar la actividad en una clínica dental?",
+        "answers": [
+            "El titular.",
+            "El Ayuntamiento.",
+            "El gestor de residuos.",
+            "El Consejo de Seguridad Nuclear."
+        ],
+        "correctAnswer": "El titular."
+    },
+    {
+        "question": "¿Qué documento es imprescindible para poder abrir una clínica dental?",
+        "answers": [
+            "Licencia de apertura y funcionamiento.",
+            "Certificado de eficiencia energética.",
+            "Permiso de vertidos.",
+            "Licencia de actividad ganadera."
+        ],
+        "correctAnswer": "Licencia de apertura y funcionamiento."
+    },
+    {
+        "question": "¿A quién corresponde la gestión de los residuos urbanos generados en una clínica dental?",
+        "answers": [
+            "Al Ayuntamiento.",
+            "Al Ministerio de Sanidad.",
+            "A la Consejería de Medio Ambiente.",
+            "A una empresa privada."
+        ],
+        "correctAnswer": "Al Ayuntamiento."
+    },
+    {
+        "question": "¿Qué color identifica el contenedor de papel y cartón en la gestión de residuos?",
+        "answers": [
+            "Azul.",
+            "Verde.",
+            "Amarillo.",
+            "Rojo."
+        ],
+        "correctAnswer": "Azul."
+    },
+    {
+        "question": "¿Cuál es la periodicidad mínima de retirada de los residuos biosanitarios asimilables a urbanos (clase II)?",
+        "answers": [
+            "Mensual.",
+            "Semanal.",
+            "Diaria.",
+            "Trimestral."
+        ],
+        "correctAnswer": "Mensual."
+    },
+    {
+        "question": "¿Qué característica NO es obligatoria en las bolsas para residuos biosanitarios asimilables a urbanos?",
+        "answers": [
+            "Ser transparentes.",
+            "Ser opacas.",
+            "Ser impermeables.",
+            "Tener un volumen no superior a 70 litros."
+        ],
+        "correctAnswer": "Ser transparentes."
+    },
+    {
+        "question": "¿Dónde deben depositarse las agujas hipodérmicas usadas?",
+        "answers": [
+            "En recipientes rígidos de color amarillo.",
+            "En bolsas verdes de un solo uso.",
+            "En el contenedor azul.",
+            "En el contenedor de papel."
+        ],
+        "correctAnswer": "En recipientes rígidos de color amarillo."
+    },
+    {
+        "question": "¿Qué residuos deben gestionarse a través del punto SIGRE?",
+        "answers": [
+            "Medicamentos caducados.",
+            "Papel y cartón.",
+            "Residuos orgánicos.",
+            "Agujas usadas."
+        ],
+        "correctAnswer": "Medicamentos caducados."
+    },
+    {
+        "question": "¿Qué residuos presentan riesgos carcinogénicos, mutagénicos o teratogénicos?",
+        "answers": [
+            "Residuos citotóxicos.",
+            "Residuos urbanos.",
+            "Residuos de papel.",
+            "Residuos textiles."
+        ],
+        "correctAnswer": "Residuos citotóxicos."
+    },
+    {
+        "question": "¿Quién debe realizar la certificación de blindajes y distribución de salas en una instalación de rayos X?",
+        "answers": [
+            "Un Servicio o Unidad Técnica de Protección Radiológica.",
+            "El titular de la clínica.",
+            "El Ayuntamiento.",
+            "El Consejo General de Dentistas."
+        ],
+        "correctAnswer": "Un Servicio o Unidad Técnica de Protección Radiológica."
+    },
+    {
+        "question": "¿Qué sucede si la documentación presentada para declarar una instalación de rayos X es incompleta?",
+        "answers": [
+            "Se notifica al titular para subsanar en 15 días.",
+            "Se aprueba automáticamente.",
+            "Se rechaza sin opción de subsanación.",
+            "Se remite al Ministerio de Industria."
+        ],
+        "correctAnswer": "Se notifica al titular para subsanar en 15 días."
+    },
+    {
+        "question": "¿Qué modificación en una instalación de radiodiagnóstico dental debe ser declarada ante la autoridad competente?",
+        "answers": [
+            "La implantación o baja de cualquier equipo de rayos X.",
+            "El cambio de tubo de un equipo ya declarado.",
+            "La sustitución de mobiliario.",
+            "La limpieza de la sala."
+        ],
+        "correctAnswer": "La implantación o baja de cualquier equipo de rayos X."
+    },
+    {
+        "question": "Según el RD 1085/2009, ¿qué tipo de instalación es una sala con equipos de TC?",
+        "answers": [
+            "Tipo 1.",
+            "Tipo 2.",
+            "Tipo 3.",
+            "Tipo 4."
+        ],
+        "correctAnswer": "Tipo 1."
+    },
+    {
+        "question": "¿Cada cuánto tiempo debe obtenerse el certificado de conformidad en instalaciones de tipo 1?",
+        "answers": [
+            "Anualmente.",
+            "Bienalmente.",
+            "Cada cinco años.",
+            "Cada diez años."
+        ],
+        "correctAnswer": "Anualmente."
+    },
+    {
+        "question": "¿Quién debe realizar la prueba de aceptación de un nuevo equipo radiológico?",
+        "answers": [
+            "El vendedor en presencia del comprador.",
+            "El comprador solo.",
+            "El Ayuntamiento.",
+            "El Consejo de Seguridad Nuclear."
+        ],
+        "correctAnswer": "El vendedor en presencia del comprador."
+    },
+    {
+        "question": "¿Qué debe incluir obligatoriamente el programa de protección radiológica?",
+        "answers": [
+            "Medidas de prevención, control, vigilancia y administrativas.",
+            "Solo medidas de prevención.",
+            "Solo medidas administrativas.",
+            "Solo medidas de vigilancia."
+        ],
+        "correctAnswer": "Medidas de prevención, control, vigilancia y administrativas."
+    },
+    {
+        "question": "¿Cuál es la distancia mínima recomendada al haz de radiación para el operador en equipos portátiles?",
+        "answers": [
+            "2 metros.",
+            "1 metro.",
+            "50 centímetros.",
+            "No hay distancia mínima."
+        ],
+        "correctAnswer": "2 metros."
+    },
+    {
+        "question": "¿Quiénes NO pueden participar en la inmovilización de pacientes durante una exploración radiológica?",
+        "answers": [
+            "Mujeres embarazadas y menores de 18 años.",
+            "Personal de limpieza.",
+            "El propio paciente.",
+            "El operador del equipo."
+        ],
+        "correctAnswer": "Mujeres embarazadas y menores de 18 años."
+    },
+    {
+        "question": "¿Qué documento debe conservar el titular de la instalación durante 30 años?",
+        "answers": [
+            "Informes de dosis impartidas y niveles de radiación.",
+            "Recibos de luz.",
+            "Contratos de limpieza.",
+            "Facturas de material de oficina."
+        ],
+        "correctAnswer": "Informes de dosis impartidas y niveles de radiación."
+    },
+    {
+        "question": "¿Con qué periodicidad se debe verificar el nivel de radiación en los puestos de trabajo y lugares accesibles al público?",
+        "answers": [
+            "Anualmente.",
+            "Mensualmente.",
+            "Semanalmente.",
+            "Cada cinco años."
+        ],
+        "correctAnswer": "Anualmente."
+    },
+    {
+        "question": "¿Quién es responsable de evaluar si la imagen obtenida es apta para el diagnóstico?",
+        "answers": [
+            "El médico especialista, odontólogo o podólogo.",
+            "El técnico de mantenimiento.",
+            "El titular de la clínica.",
+            "El paciente."
+        ],
+        "correctAnswer": "El médico especialista, odontólogo o podólogo."
+    },
+    {
+        "question": "¿Qué prenda es imprescindible para los familiares que colaboran en la inmovilización de pacientes?",
+        "answers": [
+            "Delantal plomado.",
+            "Bata de algodón.",
+            "Gorro quirúrgico.",
+            "Mascarilla."
+        ],
+        "correctAnswer": "Delantal plomado."
+    },
+    {
+        "question": "¿Qué tipo de residuos se depositan en bolsas verdes de un solo uso?",
+        "answers": [
+            "Residuos biosanitarios asimilables a urbanos (clase II).",
+            "Residuos urbanos (clase I).",
+            "Residuos citotóxicos (clase VI).",
+            "Residuos radiactivos (clase VII)."
+        ],
+        "correctAnswer": "Residuos biosanitarios asimilables a urbanos (clase II)."
+    },
+    {
+        "question": "¿Quién debe acreditar los conocimientos en protección radiológica del personal que dirige una instalación de rayos X?",
+        "answers": [
+            "El Consejo de Seguridad Nuclear.",
+            "El Colegio de Médicos.",
+            "El Ayuntamiento.",
+            "El Ministerio de Sanidad."
+        ],
+        "correctAnswer": "El Consejo de Seguridad Nuclear."
+    },
+    {
+        "question": "¿Qué residuos deben ser gestionados por una empresa autorizada en caso de enfermedades infecciosas en animales?",
+        "answers": [
+            "Cadáveres y restos anatómicos.",
+            "Papel y cartón.",
+            "Material de oficina.",
+            "Residuos de comida."
+        ],
+        "correctAnswer": "Cadáveres y restos anatómicos."
+    },
+    {
+        "question": "¿Cuál es la finalidad del control de calidad en los equipos de radiodiagnóstico?",
+        "answers": [
+            "Garantizar la mejor calidad de imagen y dosis bajas para el paciente.",
+            "Reducir el gasto eléctrico.",
+            "Aumentar el número de exploraciones.",
+            "Evitar el uso de protección personal."
+        ],
+        "correctAnswer": "Garantizar la mejor calidad de imagen y dosis bajas para el paciente."
+    },
+    {
+        "question": "¿Qué debe hacerse si se supera el límite anual de dosis en una instalación?",
+        "answers": [
+            "Establecer un protocolo de actuación específico.",
+            "Ignorar la situación.",
+            "Cerrar la instalación.",
+            "Informar solo al paciente."
+        ],
+        "correctAnswer": "Establecer un protocolo de actuación específico."
+    },
+    {
+        "question": "¿Qué tipo de residuos son los chips de identificación de animales usados?",
+        "answers": [
+            "Residuos biosanitarios especiales (clase III, grupo 5).",
+            "Residuos urbanos.",
+            "Residuos citotóxicos.",
+            "Residuos químicos."
+        ],
+        "correctAnswer": "Residuos biosanitarios especiales (clase III, grupo 5)."
+    },
+    {
+        "question": "¿Quién debe ser informado sobre el número de exposiciones realizadas en una exploración radiológica?",
+        "answers": [
+            "El Servicio de Protección Radiológica.",
+            "El paciente.",
+            "El Ayuntamiento.",
+            "El Ministerio de Industria."
+        ],
+        "correctAnswer": "El Servicio de Protección Radiológica."
+    },
+    {
+        "question": "¿A qué registro deben inscribirse todas las declaraciones de instalaciones de rayos X?",
+        "answers": [
+            "Registro de instalaciones de rayos X de diagnóstico médico de la Comunidad Autónoma.",
+            "Registro de residuos peligrosos.",
+            "Registro de empresas sanitarias.",
+            "Registro de profesionales sanitarios."
+        ],
+        "correctAnswer": "Registro de instalaciones de rayos X de diagnóstico médico de la Comunidad Autónoma."
+    },
+    {
+        "question": "¿Qué clase de residuos incluye los restos de comida y textiles?",
+        "answers": [
+            "Residuos urbanos (clase I).",
+            "Residuos biosanitarios especiales.",
+            "Residuos citotóxicos.",
+            "Residuos radiactivos."
+        ],
+        "correctAnswer": "Residuos urbanos (clase I)."
+    },
+    {
+        "question": "¿Qué tipo de protección adicional pueden usar los profesionales en procedimientos intervencionistas?",
+        "answers": [
+            "Gafas y guantes plomados.",
+            "Mascarillas quirúrgicas.",
+            "Guantes de látex.",
+            "Gorros desechables."
+        ],
+        "correctAnswer": "Gafas y guantes plomados."
+    },
+    {
+        "question": "¿Quién coordina el control de calidad del equipamiento en radiodiagnóstico?",
+        "answers": [
+            "El responsable designado en el programa de garantía de calidad.",
+            "El titular de la clínica.",
+            "El paciente.",
+            "El Ayuntamiento."
+        ],
+        "correctAnswer": "El responsable designado en el programa de garantía de calidad."
+    },
+    {
+        "question": "¿Qué residuos deben almacenarse en contenedores específicos según el color asignado por el ayuntamiento?",
+        "answers": [
+            "Residuos urbanos (papel, vidrio, plásticos, etc.).",
+            "Residuos citotóxicos.",
+            "Residuos radiactivos.",
+            "Residuos biosanitarios especiales."
+        ],
+        "correctAnswer": "Residuos urbanos (papel, vidrio, plásticos, etc.)."
+    },
+    {
+        "question": "¿Qué debe hacerse con los residuos de revelado de rayos X?",
+        "answers": [
+            "Gestionarlos como residuos químicos (clase V).",
+            "Tirarlos por el desagüe.",
+            "Mezclarlos con residuos urbanos.",
+            "Almacenarlos indefinidamente."
+        ],
+        "correctAnswer": "Gestionarlos como residuos químicos (clase V)."
+    },
+    {
+        "question": "¿Qué acción es una buena práctica medioambiental en centros sanitarios?",
+        "answers": [
+            "Separar los residuos y llevarlos al contenedor adecuado.",
+            "Mezclar todos los residuos.",
+            "Usar productos agresivos con el medio ambiente.",
+            "Desperdiciar agua."
+        ],
+        "correctAnswer": "Separar los residuos y llevarlos al contenedor adecuado."
+    },
+    {
+        "question": "¿Qué debe hacerse si no se puede evitar la presencia de otros pacientes durante una exploración con RX portátil?",
+        "answers": [
+            "Mantenerlos a la mayor distancia posible del haz de radiación.",
+            "Permitir que se acerquen al equipo.",
+            "No tomar ninguna medida.",
+            "Solicitar que participen en la inmovilización."
+        ],
+        "correctAnswer": "Mantenerlos a la mayor distancia posible del haz de radiación."
+    },
+    {
+        "question": "¿Dónde se archivan los informes de control de calidad de los equipos?",
+        "answers": [
+            "Durante la vida útil del equipo.",
+            "Durante un año.",
+            "Durante cinco años.",
+            "No es necesario archivarlos."
+        ],
+        "correctAnswer": "Durante la vida útil del equipo."
+    },
+    {
+        "question": "¿Quién puede homologar programas académicos y cursos de formación en protección radiológica?",
+        "answers": [
+            "El Consejo de Seguridad Nuclear.",
+            "El Ministerio de Educación.",
+            "El Colegio de Médicos.",
+            "El titular de la clínica."
+        ],
+        "correctAnswer": "El Consejo de Seguridad Nuclear."
+    },
+    {
+        "question": "¿Qué residuos NO deben mezclarse con los de los vecinos del inmueble?",
+        "answers": [
+            "Residuos biosanitarios asimilables a urbanos (clase II).",
+            "Residuos urbanos (clase I).",
+            "Residuos de papel y cartón.",
+            "Residuos de comida."
+        ],
+        "correctAnswer": "Residuos biosanitarios asimilables a urbanos (clase II)."
+    },
+    {
+        "question": "¿En qué documento se establecen los requisitos técnicos y administrativos para instalaciones de rayos X?",
+        "answers": [
+            "RD 1085/2009.",
+            "Ley de Residuos 2011.",
+            "RD 1976/1999.",
+            "Ley de Protección de Datos."
+        ],
+        "correctAnswer": "RD 1085/2009."
+    },
+    {
+        "question": "¿Qué debe hacerse con los residuos electrónicos como tóner y tintas de impresora?",
+        "answers": [
+            "Llevarlos a un punto limpio municipal.",
+            "Mezclarlos con residuos urbanos.",
+            "Tirarlos por el desagüe.",
+            "Quemarlos."
+        ],
+        "correctAnswer": "Llevarlos a un punto limpio municipal."
+    },
+    {
+        "question": "¿Quién es responsable de garantizar el cumplimiento del programa de protección radiológica?",
+        "answers": [
+            "La persona acreditada para dirigir la instalación.",
+            "El paciente.",
+            "El Ayuntamiento.",
+            "El Ministerio de Industria."
+        ],
+        "correctAnswer": "La persona acreditada para dirigir la instalación."
+    },
+    {
+        "question": "¿Qué residuos se consideran peligrosos y deben ser gestionados por una entidad autorizada?",
+        "answers": [
+            "Residuos citotóxicos, biosanitarios especiales y radiactivos.",
+            "Residuos de papel y cartón.",
+            "Residuos textiles.",
+            "Residuos de comida."
+        ],
+        "correctAnswer": "Residuos citotóxicos, biosanitarios especiales y radiactivos."
+    },
+    {
+        "question": "¿Qué debe incluirse en el informe anual remitido al CSN para instalaciones de tipo 1?",
+        "answers": [
+            "Certificado de conformidad, resumen de dosimetría y resultados de verificaciones.",
+            "Solo el certificado de conformidad.",
+            "Solo el resumen de dosimetría.",
+            "Solo los resultados de verificaciones."
+        ],
+        "correctAnswer": "Certificado de conformidad, resumen de dosimetría y resultados de verificaciones."
+    },
+    {
+        "question": "¿Qué tipo de residuos debe ser destruido por incineración?",
+        "answers": [
+            "Residuos biosanitarios especiales contaminados.",
+            "Residuos urbanos.",
+            "Residuos de papel.",
+            "Residuos de vidrio."
+        ],
+        "correctAnswer": "Residuos biosanitarios especiales contaminados."
+    },
+    {
+        "question": "¿Qué acción NO es una buena práctica medioambiental?",
+        "answers": [
+            "Usar productos agresivos con el medio ambiente.",
+            "Separar los residuos.",
+            "Ahorrar agua.",
+            "Reciclar."
+        ],
+        "correctAnswer": "Usar productos agresivos con el medio ambiente."
+    },
+    {
+        "question": "¿Quién debe estar presente durante la prueba de aceptación de un nuevo equipo radiológico?",
+        "answers": [
+            "El vendedor y el comprador.",
+            "Solo el comprador.",
+            "Solo el vendedor.",
+            "El Ayuntamiento."
+        ],
+        "correctAnswer": "El vendedor y el comprador."
+    },
+    {
+        "question": "¿Qué residuos pueden acumularse en los envases de clase II?",
+        "answers": [
+            "Residuos generales de clase I.",
+            "Residuos citotóxicos.",
+            "Residuos radiactivos.",
+            "Residuos de laboratorio."
+        ],
+        "correctAnswer": "Residuos generales de clase I."
+    },
+    {
+        "question": "¿Cuál es la periodicidad del certificado de conformidad para instalaciones de tipo 3?",
+        "answers": [
+            "Cada cinco años.",
+            "Anualmente.",
+            "Cada dos años.",
+            "Cada seis meses."
+        ],
+        "correctAnswer": "Cada cinco años."
+    }
+]
