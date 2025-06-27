@@ -69,22 +69,35 @@
     }
 
     function listarCuestionariosLocales() {
-      const listaDiv = document.getElementById('cuestionarioLista');
-      if (cuestionariosLocales.length === 0) {
-        listaDiv.innerHTML = "<p>No hay cuestionarios locales disponibles.</p>";
-        return;
-      }
-      let html = "<ul class='lista-cuestionarios'>";
-      cuestionariosLocales.forEach(function(item) {
-        html += `<li>
-          <button onclick="seleccionarCuestionario('${item.archivo}', '${item.titulo}')">
-            ${item.titulo}
-          </button>
-        </li>`;
-      });
-      html += "</ul>";
-      listaDiv.innerHTML = html;
+  const listaDiv = document.getElementById('cuestionarioLista');
+  if (cuestionariosLocales.length === 0) {
+    listaDiv.innerHTML = "<p>No hay cuestionarios locales disponibles.</p>";
+    return;
+  }
+  let html = "<div class='cuestionarios-grid'>";
+  for (let i = 0; i < cuestionariosLocales.length; i += 2) {
+    html += "<div class='cuestionarios-row'>";
+    // Primera columna: Tema X
+    if (cuestionariosLocales[i]) {
+      html += `<div class='cuestionario-col'>
+        <button onclick="seleccionarCuestionario('${cuestionariosLocales[i].archivo}', '${cuestionariosLocales[i].titulo}')">
+          ${cuestionariosLocales[i].titulo}
+        </button>
+      </div>`;
     }
+    // Segunda columna: Tema X Diapositiva
+    if (cuestionariosLocales[i + 1]) {
+      html += `<div class='cuestionario-col'>
+        <button onclick="seleccionarCuestionario('${cuestionariosLocales[i + 1].archivo}', '${cuestionariosLocales[i + 1].titulo}')">
+          ${cuestionariosLocales[i + 1].titulo}
+        </button>
+      </div>`;
+    }
+    html += "</div>"; // cierre de la fila
+  }
+  html += "</div>";
+  listaDiv.innerHTML = html;
+}
 
     function seleccionarCuestionario(archivo, titulo) {
       cargarCuestionarioLocal(archivo, titulo);
