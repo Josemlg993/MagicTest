@@ -22,24 +22,24 @@
   <aside class="marcadores-lateral" id="marcadoresLateral"></aside>
 </div>
 
-  <script>
+ <script>
     // Lista de cuestionarios
     const cuestionariosLocales = [
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema1.json", titulo: "Tema 1" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema2.json", titulo: "Tema 2" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema3.json", titulo: "Tema 3" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema4.json", titulo: "Tema 4" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema5.json", titulo: "Tema 5" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema6.json", titulo: "Tema 6" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema7.json", titulo: "Tema 7" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema8.json", titulo: "Tema 8" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema9.json", titulo: "Tema 9" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema10.json", titulo: "Tema 10" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema11.json", titulo: "Tema 11" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema12.json", titulo: "Tema 12" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema13.json", titulo: "Tema 13" }
-];
-  let cuestionariosVisibles = false;
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema1.json", titulo: "Tema 1" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema2.json", titulo: "Tema 2" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema3.json", titulo: "Tema 3" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema4.json", titulo: "Tema 4" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema5.json", titulo: "Tema 5" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema6.json", titulo: "Tema 6" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema7.json", titulo: "Tema 7" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema8.json", titulo: "Tema 8" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema9.json", titulo: "Tema 9" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema10.json", titulo: "Tema 10" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema11.json", titulo: "Tema 11" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema12.json", titulo: "Tema 12" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema13.json", titulo: "Tema 13" }
+    ];
+    let cuestionariosVisibles = false;
 
     function toggleCuestionarios() {
       const listaDiv = document.getElementById('cuestionarioLista');
@@ -75,12 +75,46 @@
       document.getElementById('cuestionarioLista').style.display = "none";
       cuestionariosVisibles = false;
     }
-    const respuestasFijas = [
+
+    // RESPUESTAS ESPECIALES Y VARIANTES
+    const resp = [
       "todas las anteriores",
       "todas las opciones anteriores",
+      "niguna de las opciones anteriores",
+      "ninguna de las anteriores",
+      "todas son correctas",
+      "todas son incorrectas",
+      "niguna es correcta",
       "A y B son correctas",
+      "B y C son correctas",
       "A, B y C son correctas"
     ];
+
+    const sufijos = [
+      "",
+      ".",
+      " son correctas",
+      " son correctas.",
+      " son ciertas",
+      " son ciertas.",
+      " son verdaderas",
+      " son verdaderas."
+    ];
+
+    const mayusculas = (str) => [
+      str,
+      str.charAt(0).toUpperCase() + str.slice(1)
+    ];
+
+    // Generar todas las variantes posibles
+    let variantes = [];
+    for (let base of resp) {
+      for (let variante of mayusculas(base)) {
+        for (let suf of sufijos) {
+          variantes.push((variante + suf).trim());
+        }
+      }
+    }
 
     let questions = [];
     let userAnswers = {};
@@ -93,38 +127,32 @@
       }
     }
 
+    // FUNCIÓN CORRECTA PARA BARAJAR RESPUESTAS
     function shuffleAnswers(answers) {
-      let fixedIndexes = [];
-      let fixedAnswers = [];
-      answers.forEach((ans, idx) => {
-        for (let frase of respuestasFijas) {
-          if (ans.toLowerCase().includes(frase)) {
-            fixedIndexes.push(idx);
-            fixedAnswers.push(ans);
-          }
-        }
-      });
-      if (fixedIndexes.length > 0) {
-        let movibles = answers.filter((_, idx) => !fixedIndexes.includes(idx));
-        shuffle(movibles);
-        let resultado = [];
-        let m = 0, f = 0;
-        for (let i = 0; i < answers.length; i++) {
-          if (fixedIndexes.includes(i)) {
-            resultado.push(fixedAnswers[f++]);
-          } else {
-            resultado.push(movibles[m++]);
-          }
-        }
-        return resultado;
-      } else {
-        let copia = answers.slice();
-        shuffle(copia);
-        return copia;
-      }
-    }
+  // Busca si hay una respuesta especial
+  let idxEspecial = answers.findIndex(ans =>
+    variantes.some(v =>
+      ans.trim().toLowerCase() === v.trim().toLowerCase()
+    )
+  );
 
-    
+  let respuestas = answers.slice();
+  let especial = null;
+
+  // Si hay una respuesta especial, la quitamos y la ponemos al final
+  if (idxEspecial !== -1) {
+    especial = respuestas.splice(idxEspecial, 1)[0];
+  }
+
+  shuffle(respuestas);
+
+  if (especial !== null) {
+    respuestas.push(especial);
+  }
+
+  return respuestas;
+}
+
     function cargarCuestionarioLocal(archivo, titulo) {
       document.getElementById('test').innerHTML = `<p>Cargando cuestionario <b>${titulo}</b>...</p>`;
       document.getElementById('result').textContent = "";
@@ -237,6 +265,7 @@
 
     // Inicializar
     listarCuestionariosLocales();
-  </script>
+</script>
+
 </body>
 </html>
