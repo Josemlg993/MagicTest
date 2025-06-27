@@ -225,3 +225,19 @@ h3 {
   font-size: clamp(1rem, 3.5vw, 1.3rem);
 }
 
+.cuestionarios-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.cuestionarios-row {
+  display: flex;
+  gap: 10px;
+}
+.cuestionario-col {
+  flex: 1 1 0;
+}
+.cuestionario-col button {
+  width: 100%;
+}
+
