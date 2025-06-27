@@ -8,52 +8,50 @@
 </head>
 <body>
   <div class="test-column">
-  <div id="selectorCuestionario" class="selector-cuestionario">
-    <button id="toggleCuestionariosBtn" class="btn" onclick="toggleCuestionarios()">
-      ELIGE UN CUESTIONARIO
-    </button>
-    <div id="cuestionarioLista"></div>
+    <div id="selectorCuestionario" class="selector-cuestionario">
+      <button id="toggleCuestionariosBtn" class="btn" onclick="toggleCuestionarios()">
+        ELIGE UN CUESTIONARIO
+      </button>
+      <div id="cuestionarioLista"></div>
+    </div>
+    <div class="test-layout">
+      <main class="test-column">
+        <div id="test"></div>
+        <div id="result" class="result"></div>
+      </main>
+      <aside class="marcadores-lateral" id="marcadoresLateral"></aside>
+    </div>
   </div>
-<div class="test-layout">
-  <main class="test-column">
-    <div id="test"></div>
-    <div id="result" class="result"></div>
-  </main>
-  <aside class="marcadores-lateral" id="marcadoresLateral"></aside>
-</div>
 
- <script>
+  <script>
     // Lista de cuestionarios
     const cuestionariosLocales = [
-      
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema1.json", titulo: "Tema 1" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema1Diapositiva.json", titulo: "Tema 1 Diapositiva" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema2.json", titulo: "Tema 2" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema2Diapositiva.json", titulo: "Tema 2 Diapositiva" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema3.json", titulo: "Tema 3" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema3Diapositiva.json", titulo: "Tema 3 Diapositiva" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema4.json", titulo: "Tema 4" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema4Diapositiva.json", titulo: "Tema 4 Diapositiva" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema5.json", titulo: "Tema 5" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema5Diapositiva.json", titulo: "Tema 5 Diapositiva" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema6.json", titulo: "Tema 6" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema6Diapositiva.json", titulo: "Tema 6 Diapositiva" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema7.json", titulo: "Tema 7" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema7Diapositiva.json", titulo: "Tema 7 Diapositiva" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema8.json", titulo: "Tema 8" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema8Diapositiva.json", titulo: "Tema 8 Diapositiva" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema9.json", titulo: "Tema 9" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema9Diapositiva.json", titulo: "Tema 9 Diapositiva" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema10.json", titulo: "Tema 10" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema10Diapositiva.json", titulo: "Tema 10 Diapositiva" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema11.json", titulo: "Tema 11" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema11Diapositiva.json", titulo: "Tema 11 Diapositiva" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema12.json", titulo: "Tema 12" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema12Diapositiva.json", titulo: "Tema 12 Diapositiva" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema13.json", titulo: "Tema 13" },
-  { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema13Diapositiva.json", titulo: "Tema 13 Diapositiva" }
-
-
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema1.json", titulo: "Tema 1" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema1Diapositiva.json", titulo: "Tema 1 Diapositiva" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema2.json", titulo: "Tema 2" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema2Diapositiva.json", titulo: "Tema 2 Diapositiva" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema3.json", titulo: "Tema 3" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema3Diapositiva.json", titulo: "Tema 3 Diapositiva" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema4.json", titulo: "Tema 4" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema4Diapositiva.json", titulo: "Tema 4 Diapositiva" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema5.json", titulo: "Tema 5" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema5Diapositiva.json", titulo: "Tema 5 Diapositiva" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema6.json", titulo: "Tema 6" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema6Diapositiva.json", titulo: "Tema 6 Diapositiva" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema7.json", titulo: "Tema 7" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema7Diapositiva.json", titulo: "Tema 7 Diapositiva" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema8.json", titulo: "Tema 8" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema8Diapositiva.json", titulo: "Tema 8 Diapositiva" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema9.json", titulo: "Tema 9" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema9Diapositiva.json", titulo: "Tema 9 Diapositiva" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema10.json", titulo: "Tema 10" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema10Diapositiva.json", titulo: "Tema 10 Diapositiva" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema11.json", titulo: "Tema 11" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema11Diapositiva.json", titulo: "Tema 11 Diapositiva" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema12.json", titulo: "Tema 12" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema12Diapositiva.json", titulo: "Tema 12 Diapositiva" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema13.json", titulo: "Tema 13" },
+      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema13Diapositiva.json", titulo: "Tema 13 Diapositiva" }
     ];
     let cuestionariosVisibles = false;
 
@@ -69,35 +67,35 @@
     }
 
     function listarCuestionariosLocales() {
-  const listaDiv = document.getElementById('cuestionarioLista');
-  if (cuestionariosLocales.length === 0) {
-    listaDiv.innerHTML = "<p>No hay cuestionarios locales disponibles.</p>";
-    return;
-  }
-  let html = "<div class='cuestionarios-grid'>";
-  for (let i = 0; i < cuestionariosLocales.length; i += 2) {
-    html += "<div class='cuestionarios-row'>";
-    // Primera columna: Tema X
-    if (cuestionariosLocales[i]) {
-      html += `<div class='cuestionario-col'>
-        <button onclick="seleccionarCuestionario('${cuestionariosLocales[i].archivo}', '${cuestionariosLocales[i].titulo}')">
-          ${cuestionariosLocales[i].titulo}
-        </button>
-      </div>`;
+      const listaDiv = document.getElementById('cuestionarioLista');
+      if (cuestionariosLocales.length === 0) {
+        listaDiv.innerHTML = "<p>No hay cuestionarios locales disponibles.</p>";
+        return;
+      }
+      let html = "<div class='cuestionarios-grid'>";
+      for (let i = 0; i < cuestionariosLocales.length; i += 2) {
+        html += "<div class='cuestionarios-row'>";
+        // Primera columna: Tema X
+        if (cuestionariosLocales[i]) {
+          html += `<div class='cuestionario-col'>
+            <button onclick="seleccionarCuestionario('${cuestionariosLocales[i].archivo}', '${cuestionariosLocales[i].titulo}')">
+              ${cuestionariosLocales[i].titulo}
+            </button>
+          </div>`;
+        }
+        // Segunda columna: Tema X Diapositiva
+        if (cuestionariosLocales[i + 1]) {
+          html += `<div class='cuestionario-col'>
+            <button onclick="seleccionarCuestionario('${cuestionariosLocales[i + 1].archivo}', '${cuestionariosLocales[i + 1].titulo}')">
+              ${cuestionariosLocales[i + 1].titulo}
+            </button>
+          </div>`;
+        }
+        html += "</div>"; // cierre de la fila
+      }
+      html += "</div>";
+      listaDiv.innerHTML = html;
     }
-    // Segunda columna: Tema X Diapositiva
-    if (cuestionariosLocales[i + 1]) {
-      html += `<div class='cuestionario-col'>
-        <button onclick="seleccionarCuestionario('${cuestionariosLocales[i + 1].archivo}', '${cuestionariosLocales[i + 1].titulo}')">
-          ${cuestionariosLocales[i + 1].titulo}
-        </button>
-      </div>`;
-    }
-    html += "</div>"; // cierre de la fila
-  }
-  html += "</div>";
-  listaDiv.innerHTML = html;
-}
 
     function seleccionarCuestionario(archivo, titulo) {
       cargarCuestionarioLocal(archivo, titulo);
@@ -145,6 +143,8 @@
         }
       }
     }
+    // Para comparar mejor, convertimos a minúsculas y eliminamos espacios al principio y final
+    const variantesSet = new Set(variantes.map(v => v.toLowerCase().trim()));
 
     let questions = [];
     let userAnswers = {};
@@ -157,28 +157,24 @@
       }
     }
 
-    // FUNCIÓN CORRECTA PARA BARAJAR RESPUESTAS
+    // FUNCIÓN CORREGIDA PARA BARAJAR RESPUESTAS
     function shuffleAnswers(answers) {
-  // Busca si hay una respuesta especial
-  // Busca si hay una respuesta especial
-  let idxEspecial = answers.findIndex(ans =>
-    variantes.some(v =>
-      ans.trim().toLowerCase() === v.trim().toLowerCase()
-    )
-  );
-
-  let respuestas = answers.slice();
-  let especial = null;
-
-  // Si hay una respuesta especial, la quitamos y la ponemos al final
-  if (idxEspecial !== -1) {
-    especial = respuestas.splice(idxEspecial, 1)[0];
-    respuestas.push(especial);
-  }
-
-  // NO barajamos el resto, solo movemos la especial (si existe) al final
-  return respuestas;
-}
+      // Identificar respuestas especiales
+      const respuestasEspeciales = answers.filter(ans =>
+        variantesSet.has(ans.trim().toLowerCase())
+      );
+      // Separar respuestas normales
+      const respuestasNormales = answers.filter(ans =>
+        !variantesSet.has(ans.trim().toLowerCase())
+      );
+      // Barajar solo las respuestas normales
+      for (let i = respuestasNormales.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [respuestasNormales[i], respuestasNormales[j]] = [respuestasNormales[j], respuestasNormales[i]];
+      }
+      // Combinar: normales aleatorizadas + especiales al final
+      return [...respuestasNormales, ...respuestasEspeciales];
+    }
 
     function cargarCuestionarioLocal(archivo, titulo) {
       document.getElementById('test').innerHTML = `<p>Cargando cuestionario <b>${titulo}</b>...</p>`;
@@ -240,23 +236,23 @@
 
     // Renderiza la columna lateral de marcadores
     function renderMarcadoresLateral(selectedIdx = -1) {
-  const cont = document.getElementById('marcadoresLateral');
-  let html = `<b></b><br>`;
-  questions.forEach((q, idx) => {
-    let estado = "unanswered";
-    if (results[idx] === "correct") estado = "correct";
-    else if (results[idx] === "incorrect") estado = "incorrect";
-    let icono = estado === "correct" ? "✅" : estado === "incorrect" ? "❌" : "❓";
-    let selected = (selectedIdx === idx) ? "selected" : "";
-    // Añade un icono si es repetida
-    let repeatIcon = q.isRepeat ? "🔁" : "";
-    html += `<div class="marcador-item ${estado} ${selected}" onclick="scrollToPregunta(${idx})">
-      <span class="marcador-num"> ${idx + 1}${repeatIcon}</span>
-      <span class="marcador-ico ${estado}">${icono}</span>
-    </div>`;
-  });
-  cont.innerHTML = html;
-}
+      const cont = document.getElementById('marcadoresLateral');
+      let html = `<b></b><br>`;
+      questions.forEach((q, idx) => {
+        let estado = "unanswered";
+        if (results[idx] === "correct") estado = "correct";
+        else if (results[idx] === "incorrect") estado = "incorrect";
+        let icono = estado === "correct" ? "✅" : estado === "incorrect" ? "❌" : "❓";
+        let selected = (selectedIdx === idx) ? "selected" : "";
+        // Añade un icono si es repetida
+        let repeatIcon = q.isRepeat ? "🔁" : "";
+        html += `<div class="marcador-item ${estado} ${selected}" onclick="scrollToPregunta(${idx})">
+          <span class="marcador-num"> ${idx + 1}${repeatIcon}</span>
+          <span class="marcador-ico ${estado}">${icono}</span>
+        </div>`;
+      });
+      cont.innerHTML = html;
+    }
 
     // Scroll suave a la pregunta correspondiente
     window.scrollToPregunta = function(idx) {
@@ -276,43 +272,32 @@
         results[idx] = "correct";
       } else {
         results[idx] = "incorrect";
+        // Clona la pregunta solo si no es un clon previo (evita bucles infinitos)
+        if (!questions[idx].isRepeat) {
+          let preguntaClonada = Object.assign({}, questions[idx]);
+          preguntaClonada.isRepeat = true; // Marca para no repetir infinitamente
+          questions.push(preguntaClonada);
+        }
       }
       mostrarTodasLasPreguntas();
     };
 
     function actualizarMarcadorGlobal() {
-  let total = questions.length;
-  let correctas = Object.values(results).filter(r => r === "correct").length;
-  let incorrectas = Object.values(results).filter(r => r === "incorrect").length;
-  let sinResponder = total - correctas - incorrectas;
-  let repetidas = questions.filter(q => q.isRepeat).length;
-  document.getElementById('result').innerHTML = `
-    <b>✅ Correctas:</b> ${correctas} &nbsp; 
-    <b>❌ Incorrectas:</b> ${incorrectas} &nbsp; 
-    <b>❓ Sin responder:</b> ${sinResponder} &nbsp;
-    <b>🔁 Repetidas:</b> ${repetidas}
-  `;
-}
-    window.responderPregunta = function(idx, value) {
-  userAnswers[idx] = value;
-  let correcta = questions[idx].correctText;
-  if (value === correcta) {
-    results[idx] = "correct";
-  } else {
-    results[idx] = "incorrect";
-    // Clona la pregunta solo si no es un clon previo (evita bucles infinitos)
-    if (!questions[idx].isRepeat) {
-      let preguntaClonada = Object.assign({}, questions[idx]);
-      preguntaClonada.isRepeat = true; // Marca para no repetir infinitamente
-      questions.push(preguntaClonada);
+      let total = questions.length;
+      let correctas = Object.values(results).filter(r => r === "correct").length;
+      let incorrectas = Object.values(results).filter(r => r === "incorrect").length;
+      let sinResponder = total - correctas - incorrectas;
+      let repetidas = questions.filter(q => q.isRepeat).length;
+      document.getElementById('result').innerHTML = `
+        <b>✅ Correctas:</b> ${correctas} &nbsp; 
+        <b>❌ Incorrectas:</b> ${incorrectas} &nbsp; 
+        <b>❓ Sin responder:</b> ${sinResponder} &nbsp;
+        <b>🔁 Repetidas:</b> ${repetidas}
+      `;
     }
-  }
-  mostrarTodasLasPreguntas();
-};
 
     // Inicializar
     listarCuestionariosLocales();
-</script>
-
+  </script>
 </body>
 </html>
