@@ -439,16 +439,7 @@
         ],
         "correctAnswer": "Exposición"
     },
-    {
-        "question": "¿Qué magnitud se mide en Becquerelios (Bq)?",
-        "answers": [
-            "Actividad",
-            "Dosis absorbida",
-            "Dosis equivalente",
-            "Exposición"
-        ],
-        "correctAnswer": "Actividad"
-    },
+    
     {
         "question": "¿Qué magnitud se mide en Sievert (Sv)?",
         "answers": [
@@ -650,16 +641,6 @@
         "correctAnswer": "Dosis efectiva"
     },
     {
-        "question": "¿Qué magnitud se utiliza para establecer límites máximos de exposición a radiaciones ionizantes?",
-        "answers": [
-            "Dosis efectiva",
-            "Dosis absorbida",
-            "Kerma",
-            "Exposición"
-        ],
-        "correctAnswer": "Dosis efectiva"
-    },
-    {
         "question": "¿Qué magnitud se mide en Sv/s?",
         "answers": [
             "Tasa de dosis equivalente",
@@ -670,16 +651,6 @@
         "correctAnswer": "Tasa de dosis equivalente"
     },
     {
-        "question": "¿Qué magnitud se mide en C/kg·s?",
-        "answers": [
-            "Tasa de exposición",
-            "Tasa de dosis absorbida",
-            "Tasa de kerma",
-            "Tasa de dosis equivalente"
-        ],
-        "correctAnswer": "Tasa de exposición"
-    },
-    {
         "question": "¿Qué magnitud se obtiene al dividir la carga resultante de la ionización producida por la masa de aire donde se produjo?",
         "answers": [
             "Exposición",
@@ -688,15 +659,6 @@
             "Dosis equivalente"
         ],
         "correctAnswer": "Exposición"
-    },
-    {
-        "question": "¿Qué magnitud se define exclusivamente para un haz o campo de fotones en aire?",
-        "answers": [
-            "Exposición",
-            "Dosis absorbida",
-            "Kerma",
-            "Dosis equivalente"
-        ],
-        "correctAnswer": "Exposición"
     }
+    
 ]
