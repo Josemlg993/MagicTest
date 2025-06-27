@@ -1,0 +1,221 @@
+[
+    {
+        "question": "La radiación electromagnética",
+        "answers": [
+            "Es la energía que transportan las ondas electromagnéticas",
+            "Solo puede detectarse mediante dispositivos altamente sofisticados",
+            "Siempre es ionizante",
+            "Tiene carga y masa, al igual que los electrones"
+        ],
+        "correctAnswer": "Es la energía que transportan las ondas electromagnéticas"
+    },
+    {
+        "question": "¿Qué es el espectro electromagnético?",
+        "answers": [
+            "Es la clasificación de las radiaciones electromagnéticas en función de la cantidad de energía que transporta cada una de ellas",
+            "Es la representación de los distintos tipos de partículas fundamentales descubiertas",
+            "Es la representación de los diferentes elementos químicos en función de sus propiedades",
+            "Es la clasificación de los diferentes tipos de haces de radiaciones electromagnética y partículas cargadas en función de su cantidad de masa"
+        ],
+        "correctAnswer": "Es la clasificación de las radiaciones electromagnéticas en función de la cantidad de energía que transporta cada una de ellas"
+    },
+    {
+        "question": "La descripción del átomo",
+        "answers": [
+            "Está basada en un conjunto de subpartículas clasificadas, entre otras, por su carga",
+            "Está basada en un conjunto de subpartículas que se mueven libremente por cualquier área del mismo",
+            "El nombre de todas las subparticulas tiene origen griego",
+            "Está basada en un conjunto de subpartículas que se agrupan según el valor de spin"
+        ],
+        "correctAnswer": "Está basada en un conjunto de subpartículas clasificadas, entre otras, por su carga"
+    },
+    {
+        "question": "El átomo está formado por",
+        "answers": [
+            "Protones y neutrones en el núcleo, y electrones en la corteza",
+            "Neutrinos y muones en el núcleo, y positrones en la corteza",
+            "Ninguna de las anteriores",
+            "Electrones, protones y neutrones juntos en el núcleo"
+        ],
+        "correctAnswer": "Protones y neutrones en el núcleo, y electrones en la corteza"
+    },
+    {
+        "question": "El 1/12 de la masa del átomo de Carbono-12 se denomina",
+        "answers": [
+            "La u.m.a. (1,6606x10-27 kg)",
+            "El yoctogramo (10-24 gr)",
+            "El fentogramo (10-15 gr)",
+            "El kilogramo (103 gr)"
+        ],
+        "correctAnswer": "La u.m.a. (1,6606x10-27 kg)"
+    },
+    {
+        "question": "El espectro de radiaciones electromagnéticas",
+        "answers": [
+            "Consiste en la ordenación del conjunto de todas las radiaciones electromagnéticas, según su mayor o menor frecuencia",
+            "Únicamente hace referencia a las ondas de media y baja frecuencia",
+            "Define a los rayos gamma como las radiaciones menos energéticas",
+            "Visible por el ojo humano abarca un amplio espectro, entre 10 y 2000 nm"
+        ],
+        "correctAnswer": "Consiste en la ordenación del conjunto de todas las radiaciones electromagnéticas, según su mayor o menor frecuencia"
+    },
+    {
+        "question": "Los procesos de ionización tienen lugar",
+        "answers": [
+            "Cuando un fotón o un electrón libre cede una cantidad de energía mayor que la energía de ligadura de los electrones del átomo",
+            "Si la energía que se cede al medio es muy pequeña",
+            "Únicamente ocurren cuando interaccionan los electrones con los átomos",
+            "Siempre que un fotón interacciona con la materia"
+        ],
+        "correctAnswer": "Cuando un fotón o un electrón libre cede una cantidad de energía mayor que la energía de ligadura de los electrones del átomo"
+    },
+    {
+        "question": "Cuanto mayor es la frecuencia de oscilación de las ondas electromagnéticas",
+        "answers": [
+            "Más energía tienen",
+            "Más rápido viajan",
+            "Menos energía tienen",
+            "Más lento viajan"
+        ],
+        "correctAnswer": "Más energía tienen"
+    },
+    {
+        "question": "El término átomo",
+        "answers": [
+            "Etimológicamente proviene del griego, a (sin) tomo (división)",
+            "La palabra es la transcripción del griego apéiron \"sin límites\"",
+            "Sólo es aplicable a los elementos radiactivos",
+            "El primer científico que se refirió al átomo fue Dalton a finales del siglo XVIII"
+        ],
+        "correctAnswer": "Etimológicamente proviene del griego, a (sin) tomo (división)"
+    },
+    {
+        "question": "El electronvoltio (eV) es",
+        "answers": [
+            "Todas son correctas",
+            "La energía necesaria para acelerar un electrón con una diferencia de potencial de 1V",
+            "Equivalente a 1,6*10-19 julios",
+            "Una unidad de energía"
+        ],
+        "correctAnswer": "Todas son correctas"
+    },
+    {
+        "question": "Las órbitas más próximas al núcleo corresponden a:",
+        "answers": [
+            "Niveles más bajos de energía.",
+            "Niveles con mayor número de electrones.",
+            "Niveles más altos de energía.",
+            "Ninguna de las anteriores.",
+            "La llamada energía de enlace o de ligadura se define como:",
+            "La energía necesaria para arrancar un electrón al átomo.",
+            "La energía de unión entre los constituyentes del núcleo.",
+            "La energía que desprende el átomo al ganar un electrón.",
+            "La energía que hay que suministrar a un núcleo atómico para que pierda un neutrón.",
+            "Si en un choque de una partícula con el electrón atómico la energía transferida es superior a la energía de enlace del electrón con el que colisiona se produce una:",
+            "Ionización.",
+            "Radiación de frenado.",
+            "Rayos X característicos.",
+            "Excitación.",
+            "¿Cuántos años cumple la tabla periódica de los elementos? (1 de 12)",
+            "150",
+            "100",
+            "¿Quién creó la tabla periódica?",
+            "Mendeléyev",
+            "Juan Carlos",
+            "¿Hay algún elemento de la tabla periódica dedicado a Albert Einstein?",
+            "Sí",
+            "No",
+            "La mayoría de los elementos en la tabla periódica no son metales",
+            "Falso",
+            "Verdadero",
+            "¿Cuántos elementos químicos hay verificados actualmente? (5 de 12)",
+            "118",
+            "100",
+            "¿Cuál fue el primer elemento obtenido de manera artificial en un ciclotrón? (6 de 12)",
+            "Tecnecio",
+            "Americio",
+            "¿Cuál es la principal diferencia entre la tabla periódica de Mendeléyev y la tabla moderna? (7 de 12)",
+            "Que la de Mendeléyev organiza los elementos en orden creciente de peso atómico y la moderna en orden creciente de número atómico.",
+            "Que la de Mendeléyev organiza los elementos en orden decreciente de peso atómico y la moderna en orden creciente de número atómico.",
+            "El uranio se descubrió por primera vez poco después de que se observara el planeta Urano. (8 de 12)",
+            "Verdadero",
+            "Falso",
+            "¿Por qué le pusieron al Bromo precisamente ese nombre? (9 de 12)",
+            "Porque huele horriblemente mal.",
+            "Porque su hallazgo surgió como una broma",
+            "¿Qué es la electronegatividad, tan importante en la tabla periódica? (10 de 12)",
+            "La probabilidad de que un átomo forme un enlace químico.",
+            "La facilidad con la que un átomo acepta un electrón",
+            "¿Cuántos elementos tenía la primera versión de la tabla periódica? (11 de 12)",
+            "63 elementos",
+            "61 elementos",
+            "¿Todas las letras del alfabeto aparecen en la tabla periódica? (12 de 12)",
+            "No",
+            "Sí",
+            "Uno de los isótopos del carbono (número atómico = 6) es el carbono 14. Podemos afirmar sobre este isótopo:",
+            "A y B son correctas",
+            "que presenta 8 neutrones en su núcleo.",
+            "que después de sufrir una desintegración radioactiva aumenta su número atómico.",
+            "que emite radiaciones de tipo beta -",
+            "que no es radioactivo",
+            "El número de protones de un átomo se denomina:",
+            "número atómico Z",
+            "número másico Z",
+            "número atómico A",
+            "número másico A",
+            "El número de protones que tiene un átomo en el núcleo:",
+            "A y C son correctas",
+            "es el número atómico",
+            "debe ser igual al de neutrones",
+            "debe ser igual al de electrones",
+            "es la carga del átomo",
+            "En átomos excitados al volver los electrones desplazados a sus órbitas normales:",
+            "Se libera el exceso de energía mediante la emisión de radiación electromagnética (fotón luminoso o de rayos X).",
+            "Se producen dos iones uno positivo y otro negativo.",
+            "Se produce recombinación de los iones para así alcanzar la estabilidad del átomo.",
+            "Se produce radiación gamma por desexcitación del núcleo atómico.",
+            "Un átomo está ionizado cuando:",
+            "Tiene un número distinto de electrones que de protones.",
+            "Posee más energía que el átomo neutro de igual Z",
+            "Es insensible a la acción de campos eléctricos",
+            "Posee menos energía que el átomo neutro de igual Z",
+            "El electronvoltio y el Julio son unidades de:",
+            "Energía.",
+            "Dosis absorbida.",
+            "Masa.",
+            "Potencial eléctrico.",
+            "Un átomo está compuesto por 6 neutrones, 5 protones y 5 electrones. Podemos decir que este átomo:",
+            "A y B son correctas",
+            "tiene número atómico 5",
+            "no tiene carga",
+            "es un catión",
+            "tiene masa atómica 10",
+            "El número de neutrones presentes en los núcleos de los átomos de un mismo elemento químico:",
+            "no tiene por qué ser siempre igual",
+            "es igual al número de electrones presentes en la corteza",
+            "se llama número másico",
+            "se llama número atómico",
+            "Se denomina longitud de onda a:",
+            "La distancia que separa dos puntos que se encuentren en un mismo estado de oscilación.",
+            "La energía de la radiación electromagnética.",
+            "Distancia que atraviesa la radiación electromagnética al incidir en un cuerpo",
+            "El número de oscilaciones o ciclos por unidad de tiempo",
+            "La radiación electromagnética tiene más energía:",
+            "Cuando la frecuencia es mayor.",
+            "Cuando la frecuencia es menor.",
+            "La energía de la radiación electromagnética es independiente de la frecuencia y la longitud de onda.",
+            "Cuando la longitud de onda es mayor.",
+            "Los corpúsculos de energía sin masa de la radiación electromagnética reciben el nombre de:",
+            "Fotones.",
+            "Muones.",
+            "Rayos X.",
+            "Electrones.",
+            "La luz, los rayos X y los infrarrojos:",
+            "Son ondas electromagnéticas.",
+            "Son partículas materiales.",
+            "Tienen poder de penetración en la materia muy parecido.",
+            "Constituyen fenómenos de muy distinta naturaleza."
+        ],
+        "correctAnswer": "Niveles más bajos de energía."
+    }
+]
