@@ -1,0 +1,502 @@
+[
+    {
+        "question": "¿Cuál es el monitor más extendido en los servicios de radiodiagnóstico?",
+        "answers": [
+            "de centelleo sólido",
+            "de centelleo líquido",
+            "de ionización gaseosa",
+            "de semiconductor"
+        ],
+        "correctAnswer": "de centelleo sólido"
+    },
+    {
+        "question": "¿Cuál es el principal objetivo de medir la dosis en pacientes en radiodiagnóstico?",
+        "answers": [
+            "Optimizar la protección y justificar técnicas diagnósticas",
+            "Aumentar la dosis recibida",
+            "Evitar el uso de dosímetros",
+            "Reducir la calidad de la imagen"
+        ],
+        "correctAnswer": "Optimizar la protección y justificar técnicas diagnósticas"
+    },
+    {
+        "question": "¿Qué magnitud se define como la integral de la dosis absorbida en aire sobre un área perpendicular al haz de rayos X?",
+        "answers": [
+            "Producto dosis-área (PDA)",
+            "Dosis piel a la entrada (DPE)",
+            "Kerma en aire",
+            "Dosis absorbida en tejido"
+        ],
+        "correctAnswer": "Producto dosis-área (PDA)"
+    },
+    {
+        "question": "¿Qué instrumento se utiliza para medir la PDA?",
+        "answers": [
+            "Cámara de ionización plano-paralela",
+            "Dosímetro termoluminiscente",
+            "Contador Geiger",
+            "Detector de centelleo"
+        ],
+        "correctAnswer": "Cámara de ionización plano-paralela"
+    },
+    {
+        "question": "¿Qué magnitud incluye la radiación retrodispersada por el paciente?",
+        "answers": [
+            "Dosis piel a la entrada (DPE)",
+            "Producto dosis-área (PDA)",
+            "Kerma en aire",
+            "Dosis absorbida en aire"
+        ],
+        "correctAnswer": "Dosis piel a la entrada (DPE)"
+    },
+    {
+        "question": "¿Con qué instrumento se mide la DPE?",
+        "answers": [
+            "Dosímetro termoluminiscente",
+            "Cámara de ionización",
+            "Contador proporcional",
+            "Detector de centelleo"
+        ],
+        "correctAnswer": "Dosímetro termoluminiscente"
+    },
+    {
+        "question": "¿Por qué se utilizan dosímetros TL en la superficie del paciente?",
+        "answers": [
+            "Producen menos artefactos en la imagen",
+            "Son más grandes",
+            "No detectan radiación",
+            "Son más costosos"
+        ],
+        "correctAnswer": "Producen menos artefactos en la imagen"
+    },
+    {
+        "question": "¿Qué magnitud es invariante con la distancia al foco del tubo de rayos X?",
+        "answers": [
+            "Producto dosis-área (PDA)",
+            "Dosis piel a la entrada (DPE)",
+            "Kerma en aire",
+            "Dosis absorbida en tejido"
+        ],
+        "correctAnswer": "Producto dosis-área (PDA)"
+    },
+    {
+        "question": "¿Cuál es la principal razón para medir la dosis absorbida en aire en el haz directo?",
+        "answers": [
+            "Establecer buenas prácticas y justificar técnicas",
+            "Aumentar la exposición",
+            "Reducir el uso de detectores",
+            "Evitar la protección del paciente"
+        ],
+        "correctAnswer": "Establecer buenas prácticas y justificar técnicas"
+    },
+    {
+        "question": "¿Qué efecto permite detectar la radiación ionizante al atravesar un gas?",
+        "answers": [
+            "Ionización",
+            "Excitación",
+            "Disociación",
+            "Atenuación"
+        ],
+        "correctAnswer": "Ionización"
+    },
+    {
+        "question": "¿Qué ocurre cuando la radiación ionizante atraviesa un gas?",
+        "answers": [
+            "El gas se vuelve parcialmente conductor",
+            "El gas se enfría",
+            "El gas se vuelve opaco",
+            "El gas se solidifica"
+        ],
+        "correctAnswer": "El gas se vuelve parcialmente conductor"
+    },
+    {
+        "question": "¿Cómo se detecta la intensidad de la radiación en un gas ionizado?",
+        "answers": [
+            "Midiendo la corriente eléctrica",
+            "Midiendo la temperatura",
+            "Midiendo la presión",
+            "Midiendo la masa"
+        ],
+        "correctAnswer": "Midiendo la corriente eléctrica"
+    },
+    {
+        "question": "¿Cuál de los siguientes efectos NO es producido por los rayos X al atravesar la materia?",
+        "answers": [
+            "Aumento de la temperatura",
+            "Excitación de luminiscencia",
+            "Disociación",
+            "Producción de carga"
+        ],
+        "correctAnswer": "Aumento de la temperatura"
+    },
+    {
+        "question": "¿Qué tipo de detector basa su funcionamiento en la ionización de gases?",
+        "answers": [
+            "Cámara de ionización",
+            "Detector de centelleo",
+            "Dosímetro de película",
+            "Detector de semiconductor"
+        ],
+        "correctAnswer": "Cámara de ionización"
+    },
+    {
+        "question": "¿En qué zona de trabajo de un detector gaseoso la amplitud del impulso es proporcional a la ionización inicial?",
+        "answers": [
+            "Zona proporcional",
+            "Zona Geiger",
+            "Zona de cámara de ionización",
+            "Zona de descarga continua"
+        ],
+        "correctAnswer": "Zona proporcional"
+    },
+    {
+        "question": "¿Cuál es la tensión habitual de trabajo de una cámara de ionización?",
+        "answers": [
+            "200-250 V",
+            "10 V",
+            "1000 V",
+            "5000 V"
+        ],
+        "correctAnswer": "200-250 V"
+    },
+    {
+        "question": "¿Qué tipo de detector NO puede funcionar como espectrómetro?",
+        "answers": [
+            "Contador Geiger",
+            "Contador proporcional",
+            "Cámara de ionización",
+            "Detector de semiconductor"
+        ],
+        "correctAnswer": "Contador Geiger"
+    },
+    {
+        "question": "¿En qué detector todos los impulsos tienen la misma amplitud?",
+        "answers": [
+            "Contador Geiger",
+            "Cámara de ionización",
+            "Contador proporcional",
+            "Detector de centelleo"
+        ],
+        "correctAnswer": "Contador Geiger"
+    },
+    {
+        "question": "¿Qué gas se utiliza habitualmente en los contadores Geiger?",
+        "answers": [
+            "Argón",
+            "Oxígeno",
+            "Nitrógeno",
+            "Helio"
+        ],
+        "correctAnswer": "Argón"
+    },
+    {
+        "question": "¿Cuál es la principal ventaja del contador Geiger?",
+        "answers": [
+            "Alta sensibilidad para partículas alfa y beta",
+            "Proporciona información espectrométrica",
+            "No necesita calibración",
+            "Detecta neutrones"
+        ],
+        "correctAnswer": "Alta sensibilidad para partículas alfa y beta"
+    },
+    {
+        "question": "¿Qué detector utiliza un fotomultiplicador para convertir luz en impulsos eléctricos?",
+        "answers": [
+            "Detector de centelleo",
+            "Cámara de ionización",
+            "Contador proporcional",
+            "Detector de semiconductor"
+        ],
+        "correctAnswer": "Detector de centelleo"
+    },
+    {
+        "question": "¿Cuál es el material de centelleo más utilizado para detectar radiación gamma?",
+        "answers": [
+            "NaI(Tl)",
+            "SZn(Ag)",
+            "Plomo",
+            "Cobre"
+        ],
+        "correctAnswer": "NaI(Tl)"
+    },
+    {
+        "question": "¿Qué propiedad tienen los cristales de NaI(Tl)?",
+        "answers": [
+            "Alta eficiencia para radiación gamma",
+            "No son higroscópicos",
+            "Baja transparencia",
+            "No emiten luz visible"
+        ],
+        "correctAnswer": "Alta eficiencia para radiación gamma"
+    },
+    {
+        "question": "¿Qué dispositivo convierte la luz del centelleador en una señal eléctrica?",
+        "answers": [
+            "Fotomultiplicador",
+            "Electrómetro",
+            "Amplificador",
+            "Densitómetro"
+        ],
+        "correctAnswer": "Fotomultiplicador"
+    },
+    {
+        "question": "¿Cuál de los siguientes detectores NO basa su funcionamiento en la producción directa de carga?",
+        "answers": [
+            "Detector de centelleo",
+            "Cámara de ionización",
+            "Contador proporcional",
+            "Contador Geiger"
+        ],
+        "correctAnswer": "Detector de centelleo"
+    },
+    {
+        "question": "¿Qué es la dosimetría?",
+        "answers": [
+            "Medida de la dosis absorbida por un material o tejido",
+            "Medida de la presión",
+            "Medida de la masa",
+            "Medida de la temperatura"
+        ],
+        "correctAnswer": "Medida de la dosis absorbida por un material o tejido"
+    },
+    {
+        "question": "¿Cuál es el objetivo principal de la dosimetría de radiaciones ionizantes?",
+        "answers": [
+            "Prevenir efectos nocivos de la radiación",
+            "Aumentar la dosis",
+            "Reducir la calidad de la imagen",
+            "Eliminar el uso de detectores"
+        ],
+        "correctAnswer": "Prevenir efectos nocivos de la radiación"
+    },
+    {
+        "question": "¿Qué tipo de dosimetría se realiza en zonas accesibles al público?",
+        "answers": [
+            "Dosimetría ambiental",
+            "Dosimetría personal",
+            "Dosimetría interna",
+            "Dosimetría clínica"
+        ],
+        "correctAnswer": "Dosimetría ambiental"
+    },
+    {
+        "question": "¿Qué tipo de dosimetría evalúa la dosis recibida por trabajadores expuestos?",
+        "answers": [
+            "Dosimetría de área",
+            "Dosimetría ambiental",
+            "Dosimetría personal",
+            "Dosimetría interna"
+        ],
+        "correctAnswer": "Dosimetría de área"
+    },
+    {
+        "question": "¿Qué tipo de dosímetro integra la dosis durante la exposición sin necesidad de alimentación?",
+        "answers": [
+            "Dosímetro pasivo",
+            "Dosímetro activo",
+            "Dosímetro electrónico",
+            "Dosímetro de centelleo"
+        ],
+        "correctAnswer": "Dosímetro pasivo"
+    },
+    {
+        "question": "¿Cuál de los siguientes es un dosímetro pasivo?",
+        "answers": [
+            "Dosímetro termoluminiscente",
+            "Dosímetro electrónico",
+            "Contador Geiger",
+            "Detector de semiconductor"
+        ],
+        "correctAnswer": "Dosímetro termoluminiscente"
+    },
+    {
+        "question": "¿Cuál es una ventaja de los dosímetros termoluminiscentes?",
+        "answers": [
+            "Reutilizables",
+            "Necesitan baterías",
+            "Son grandes y pesados",
+            "No son equivalentes a tejido"
+        ],
+        "correctAnswer": "Reutilizables"
+    },
+    {
+        "question": "¿Cuál es una desventaja de los dosímetros termoluminiscentes?",
+        "answers": [
+            "La información se destruye al leer",
+            "No son reutilizables",
+            "Son muy caros",
+            "No pueden medir dosis bajas"
+        ],
+        "correctAnswer": "La información se destruye al leer"
+    },
+    {
+        "question": "¿Qué material se utiliza en dosímetros TL para dosimetría personal?",
+        "answers": [
+            "LiF:Mg,Ti",
+            "NaI(Tl)",
+            "SZn(Ag)",
+            "Plomo"
+        ],
+        "correctAnswer": "LiF:Mg,Ti"
+    },
+    {
+        "question": "¿Qué ocurre en la dosimetría de película al exponer la emulsión a radiación ionizante?",
+        "answers": [
+            "Se ennegrece la película",
+            "Se vuelve transparente",
+            "Se funde",
+            "Se vuelve líquida"
+        ],
+        "correctAnswer": "Se ennegrece la película"
+    },
+    {
+        "question": "¿Qué ventaja tiene la dosimetría de película?",
+        "answers": [
+            "Registro permanente",
+            "No necesita revelado",
+            "No aporta información sobre la radiación",
+            "No es selectiva"
+        ],
+        "correctAnswer": "Registro permanente"
+    },
+    {
+        "question": "¿Cuál es una limitación de la dosimetría de película?",
+        "answers": [
+            "Problemas de saturación a dosis altas",
+            "No requiere cámara oscura",
+            "No necesita filtros",
+            "No puede medir radiación gamma"
+        ],
+        "correctAnswer": "Problemas de saturación a dosis altas"
+    },
+    {
+        "question": "¿Qué detector utiliza pares electrón-hueco generados en un sólido?",
+        "answers": [
+            "Detector de semiconductor",
+            "Cámara de ionización",
+            "Contador proporcional",
+            "Detector de centelleo"
+        ],
+        "correctAnswer": "Detector de semiconductor"
+    },
+    {
+        "question": "¿Qué ventaja tienen los dosímetros electrónicos de lectura directa?",
+        "answers": [
+            "Estimación de dosis en tiempo real",
+            "No necesitan calibración",
+            "No requieren baterías",
+            "No pueden emitir alarmas"
+        ],
+        "correctAnswer": "Estimación de dosis en tiempo real"
+    },
+    {
+        "question": "¿Qué magnitud operacional se utiliza para la vigilancia individual de la radiación externa?",
+        "answers": [
+            "Dosis equivalente personal Hp(d)",
+            "Kerma en aire",
+            "Dosis absorbida en aire",
+            "Dosis piel a la entrada"
+        ],
+        "correctAnswer": "Dosis equivalente personal Hp(d)"
+    },
+    {
+        "question": "¿A qué profundidad se mide la dosis para radiación fuertemente penetrante?",
+        "answers": [
+            "10 mm",
+            "0,07 mm",
+            "3 mm",
+            "1 mm"
+        ],
+        "correctAnswer": "10 mm"
+    },
+    {
+        "question": "¿Qué instrumento se utiliza para medir la densidad óptica en dosimetría de película?",
+        "answers": [
+            "Densitómetro",
+            "Fotomultiplicador",
+            "Electrómetro",
+            "Amplificador"
+        ],
+        "correctAnswer": "Densitómetro"
+    },
+    {
+        "question": "¿Cuál es el nivel de registro de dosis mensual en España según el CSN?",
+        "answers": [
+            "0,1 mSv",
+            "1 mSv",
+            "10 mSv",
+            "0,01 mSv"
+        ],
+        "correctAnswer": "0,1 mSv"
+    },
+    {
+        "question": "¿Qué detector es más sensible para partículas alfa y beta?",
+        "answers": [
+            "Contador Geiger",
+            "Cámara de ionización",
+            "Dosímetro de película",
+            "Detector de centelleo"
+        ],
+        "correctAnswer": "Contador Geiger"
+    },
+    {
+        "question": "¿Qué detector es más utilizado para medir dosis bajas de radiación?",
+        "answers": [
+            "Contador Geiger",
+            "Cámara de ionización",
+            "Contador proporcional",
+            "Detector de centelleo"
+        ],
+        "correctAnswer": "Contador Geiger"
+    },
+    {
+        "question": "¿Qué tipo de detector es adecuado para espectrometría de energía?",
+        "answers": [
+            "Contador proporcional",
+            "Contador Geiger",
+            "Dosímetro de película",
+            "Detector de centelleo"
+        ],
+        "correctAnswer": "Contador proporcional"
+    },
+    {
+        "question": "¿Qué detector se utiliza principalmente para la vigilancia radiológica ambiental?",
+        "answers": [
+            "Cámara de ionización",
+            "Contador Geiger",
+            "Dosímetro de película",
+            "Detector de centelleo"
+        ],
+        "correctAnswer": "Cámara de ionización"
+    },
+    {
+        "question": "¿Qué detector tiene una eficiencia de detección cercana al 100% para partículas alfa y beta?",
+        "answers": [
+            "Contador Geiger",
+            "Cámara de ionización",
+            "Detector de centelleo",
+            "Dosímetro de película"
+        ],
+        "correctAnswer": "Contador Geiger"
+    },
+    {
+        "question": "¿Qué detector suele tener un volumen sensible de 0,5 litros y usa aire a presión atmosférica?",
+        "answers": [
+            "Cámara de ionización",
+            "Contador Geiger",
+            "Contador proporcional",
+            "Detector de centelleo"
+        ],
+        "correctAnswer": "Cámara de ionización"
+    },
+    {
+        "question": "¿Cuál es la principal desventaja de los dosímetros electrónicos?",
+        "answers": [
+            "Necesitan baterías",
+            "No pueden emitir alarmas",
+            "No pueden almacenar datos",
+            "No pueden conectarse a ordenadores"
+        ],
+        "correctAnswer": "Necesitan baterías"
+    }
+]
