@@ -213,21 +213,23 @@
 
     // Renderiza la columna lateral de marcadores
     function renderMarcadoresLateral(selectedIdx = -1) {
-      const cont = document.getElementById('marcadoresLateral');
-      let html = `<b></b><br>`;
-      questions.forEach((q, idx) => {
-        let estado = "unanswered";
-        if (results[idx] === "correct") estado = "correct";
-        else if (results[idx] === "incorrect") estado = "incorrect";
-        let icono = estado === "correct" ? "✅" : estado === "incorrect" ? "❌" : "❓";
-        let selected = (selectedIdx === idx) ? "selected" : "";
-        html += `<div class="marcador-item ${estado} ${selected}" onclick="scrollToPregunta(${idx})">
-          <span class="marcador-num"> ${idx + 1}</span>
-          <span class="marcador-ico ${estado}">${icono}</span>
-        </div>`;
-      });
-      cont.innerHTML = html;
-    }
+  const cont = document.getElementById('marcadoresLateral');
+  let html = `<b></b><br>`;
+  questions.forEach((q, idx) => {
+    let estado = "unanswered";
+    if (results[idx] === "correct") estado = "correct";
+    else if (results[idx] === "incorrect") estado = "incorrect";
+    let icono = estado === "correct" ? "✅" : estado === "incorrect" ? "❌" : "❓";
+    let selected = (selectedIdx === idx) ? "selected" : "";
+    // Añade un icono si es repetida
+    let repeatIcon = q.isRepeat ? "🔁" : "";
+    html += `<div class="marcador-item ${estado} ${selected}" onclick="scrollToPregunta(${idx})">
+      <span class="marcador-num"> ${idx + 1}${repeatIcon}</span>
+      <span class="marcador-ico ${estado}">${icono}</span>
+    </div>`;
+  });
+  cont.innerHTML = html;
+}
 
     // Scroll suave a la pregunta correspondiente
     window.scrollToPregunta = function(idx) {
@@ -252,16 +254,34 @@
     };
 
     function actualizarMarcadorGlobal() {
-      let total = questions.length;
-      let correctas = Object.values(results).filter(r => r === "correct").length;
-      let incorrectas = Object.values(results).filter(r => r === "incorrect").length;
-      let sinResponder = total - correctas - incorrectas;
-      document.getElementById('result').innerHTML = `
-        <b>✅ Correctas:</b> ${correctas} &nbsp; 
-        <b>❌ Incorrectas:</b> ${incorrectas} &nbsp; 
-        <b>❓ Sin responder:</b> ${sinResponder}
-      `;
+  let total = questions.length;
+  let correctas = Object.values(results).filter(r => r === "correct").length;
+  let incorrectas = Object.values(results).filter(r => r === "incorrect").length;
+  let sinResponder = total - correctas - incorrectas;
+  let repetidas = questions.filter(q => q.isRepeat).length;
+  document.getElementById('result').innerHTML = `
+    <b>✅ Correctas:</b> ${correctas} &nbsp; 
+    <b>❌ Incorrectas:</b> ${incorrectas} &nbsp; 
+    <b>❓ Sin responder:</b> ${sinResponder} &nbsp;
+    <b>🔁 Repetidas:</b> ${repetidas}
+  `;
+}
+    window.responderPregunta = function(idx, value) {
+  userAnswers[idx] = value;
+  let correcta = questions[idx].correctText;
+  if (value === correcta) {
+    results[idx] = "correct";
+  } else {
+    results[idx] = "incorrect";
+    // Clona la pregunta solo si no es un clon previo (evita bucles infinitos)
+    if (!questions[idx].isRepeat) {
+      let preguntaClonada = Object.assign({}, questions[idx]);
+      preguntaClonada.isRepeat = true; // Marca para no repetir infinitamente
+      questions.push(preguntaClonada);
     }
+  }
+  mostrarTodasLasPreguntas();
+};
 
     // Inicializar
     listarCuestionariosLocales();
