@@ -228,13 +228,14 @@
     {
         "question": "Uno de los isótopos del carbono (número atómico = 6) es el carbono 14. Podemos afirmar sobre este isótopo:",
         "answers": [
-            "A y B son correctas",
             "que presenta 8 neutrones en su núcleo.",
             "que después de sufrir una desintegración radioactiva aumenta su número atómico.",
             "que emite radiaciones de tipo beta -",
             "que no es radioactivo"
         ],
-        "correctAnswer": "A y B son correctas"
+        "correctAnswer": "que presenta 8 neutrones en su núcleo.",
+        "correctAnswer1": "que después de sufrir una desintegración radioactiva aumenta su número atómico."
+            
     },
     {
         "question": "El número de protones de un átomo se denomina:",
@@ -249,13 +250,17 @@
     {
         "question": "El número de protones que tiene un átomo en el núcleo:",
         "answers": [
-            "A y C son correctas",
             "es el número atómico",
             "debe ser igual al de neutrones",
             "debe ser igual al de electrones",
             "es la carga del átomo"
         ],
-        "correctAnswer": "A y C son correctas"
+        "correctAnswers": [
+         "es el número atómico",
+         "debe ser igual al de electrones"
+  ]
+
+
     },
     {
         "question": "En átomos excitados al volver los electrones desplazados a sus órbitas normales:",
@@ -290,13 +295,15 @@
     {
         "question": "Un átomo está compuesto por 6 neutrones, 5 protones y 5 electrones. Podemos decir que este átomo:",
         "answers": [
-            "A y B son correctas",
             "tiene número atómico 5",
             "no tiene carga",
             "es un catión",
             "tiene masa atómica 10"
         ],
-        "correctAnswer": "A y B son correctas"
+        "correctAnswers": [
+          "tiene número atómico 5", 
+          "no tiene carga"
+        ]
     },
     {
         "question": "El número de neutrones presentes en los núcleos de los átomos de un mismo elemento químico:",
