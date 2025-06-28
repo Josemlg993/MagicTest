@@ -7,7 +7,7 @@
             "Siempre es ionizante",
             "Tiene carga y masa, al igual que los electrones"
         ],
-        "correctAnswer": "Es la energía que transportan las ondas electromagnéticas"
+        "correctAnswers": "Es la energía que transportan las ondas electromagnéticas"
     },
     {
         "question": "¿Qué es el espectro electromagnético?",
@@ -17,7 +17,7 @@
             "Es la representación de los diferentes elementos químicos en función de sus propiedades",
             "Es la clasificación de los diferentes tipos de haces de radiaciones electromagnética y partículas cargadas en función de su cantidad de masa"
         ],
-        "correctAnswer": "Es la clasificación de las radiaciones electromagnéticas en función de la cantidad de energía que transporta cada una de ellas"
+        "correctAnswers": "Es la clasificación de las radiaciones electromagnéticas en función de la cantidad de energía que transporta cada una de ellas"
     },
     {
         "question": "La descripción del átomo",
@@ -27,7 +27,7 @@
             "El nombre de todas las subparticulas tiene origen griego",
             "Está basada en un conjunto de subpartículas que se agrupan según el valor de spin"
         ],
-        "correctAnswer": "Está basada en un conjunto de subpartículas clasificadas, entre otras, por su carga"
+        "correctAnswers": "Está basada en un conjunto de subpartículas clasificadas, entre otras, por su carga"
     },
     {
         "question": "El átomo está formado por",
@@ -37,7 +37,7 @@
             "Ninguna de las anteriores",
             "Electrones, protones y neutrones juntos en el núcleo"
         ],
-        "correctAnswer": "Protones y neutrones en el núcleo, y electrones en la corteza"
+        "correctAnswers": "Protones y neutrones en el núcleo, y electrones en la corteza"
     },
     {
         "question": "El 1/12 de la masa del átomo de Carbono-12 se denomina",
@@ -47,7 +47,7 @@
             "El fentogramo (10-15 gr)",
             "El kilogramo (103 gr)"
         ],
-        "correctAnswer": "La u.m.a. (1,6606x10-27 kg)"
+        "correctAnswers": "La u.m.a. (1,6606x10-27 kg)"
     },
     {
         "question": "El espectro de radiaciones electromagnéticas",
@@ -57,7 +57,7 @@
             "Define a los rayos gamma como las radiaciones menos energéticas",
             "Visible por el ojo humano abarca un amplio espectro, entre 10 y 2000 nm"
         ],
-        "correctAnswer": "Consiste en la ordenación del conjunto de todas las radiaciones electromagnéticas, según su mayor o menor frecuencia"
+        "correctAnswers": "Consiste en la ordenación del conjunto de todas las radiaciones electromagnéticas, según su mayor o menor frecuencia"
     },
     {
         "question": "Los procesos de ionización tienen lugar",
@@ -67,7 +67,7 @@
             "Únicamente ocurren cuando interaccionan los electrones con los átomos",
             "Siempre que un fotón interacciona con la materia"
         ],
-        "correctAnswer": "Cuando un fotón o un electrón libre cede una cantidad de energía mayor que la energía de ligadura de los electrones del átomo"
+        "correctAnswers": "Cuando un fotón o un electrón libre cede una cantidad de energía mayor que la energía de ligadura de los electrones del átomo"
     },
     {
         "question": "Cuanto mayor es la frecuencia de oscilación de las ondas electromagnéticas",
@@ -77,7 +77,7 @@
             "Menos energía tienen",
             "Más lento viajan"
         ],
-        "correctAnswer": "Más energía tienen"
+        "correctAnswers": "Más energía tienen"
     },
     {
         "question": "El término átomo",
@@ -87,7 +87,7 @@
             "Sólo es aplicable a los elementos radiactivos",
             "El primer científico que se refirió al átomo fue Dalton a finales del siglo XVIII"
         ],
-        "correctAnswer": "Etimológicamente proviene del griego, a (sin) tomo (división)"
+        "correctAnswers": "Etimológicamente proviene del griego, a (sin) tomo (división)"
     },
     {
         "question": "El electronvoltio (eV) es",
@@ -97,7 +97,7 @@
             "Equivalente a 1,6*10-19 julios",
             "Una unidad de energía"
         ],
-        "correctAnswer": "Todas son correctas"
+        "correctAnswers": "Todas son correctas"
     },
     {
         "question": "Las órbitas más próximas al núcleo corresponden a:",
@@ -107,7 +107,7 @@
             "Niveles más altos de energía.",
             "Ninguna de las anteriores."
         ],
-        "correctAnswer": "Niveles más bajos de energía."
+        "correctAnswers": "Niveles más bajos de energía."
     },
     {
         "question": "La llamada energía de enlace o de ligadura se define como:",
@@ -117,7 +117,7 @@
             "La energía que desprende el átomo al ganar un electrón.",
             "La energía que hay que suministrar a un núcleo atómico para que pierda un neutrón."
         ],
-        "correctAnswer": "La energía necesaria para arrancar un electrón al átomo."
+        "correctAnswers": "La energía necesaria para arrancar un electrón al átomo."
     },
     {
         "question": "Si en un choque de una partícula con el electrón atómico la energía transferida es superior a la energía de enlace del electrón con el que colisiona se produce una:",
@@ -127,7 +127,7 @@
             "Rayos X característicos.",
             "Excitación."
         ],
-        "correctAnswer": "Ionización."
+        "correctAnswers": "Ionización."
     },
     {
         "question": "¿Cuántos años cumple la tabla periódica de los elementos? (1 de 12)",
@@ -135,7 +135,7 @@
             "150",
             "100"
         ],
-        "correctAnswer": "150"
+        "correctAnswers": "150"
     },
     {
         "question": "¿Quién creó la tabla periódica?",
@@ -143,7 +143,7 @@
             "Mendeléyev",
             "Juan Carlos"
         ],
-        "correctAnswer": "Mendeléyev"
+        "correctAnswers": "Mendeléyev"
     },
     {
         "question": "¿Hay algún elemento de la tabla periódica dedicado a Albert Einstein?",
@@ -151,7 +151,7 @@
             "Sí",
             "No"
         ],
-        "correctAnswer": "Sí"
+        "correctAnswers": "Sí"
     },
     {
         "question": "La mayoría de los elementos en la tabla periódica no son metales",
@@ -159,7 +159,7 @@
             "Falso",
             "Verdadero"
         ],
-        "correctAnswer": "Falso"
+        "correctAnswers": "Falso"
     },
     {
         "question": "¿Cuántos elementos químicos hay verificados actualmente? (5 de 12)",
@@ -167,7 +167,7 @@
             "118",
             "100"
         ],
-        "correctAnswer": "118"
+        "correctAnswers": "118"
     },
     {
         "question": "¿Cuál fue el primer elemento obtenido de manera artificial en un ciclotrón? (6 de 12)",
@@ -175,7 +175,7 @@
             "Tecnecio",
             "Americio"
         ],
-        "correctAnswer": "Tecnecio"
+        "correctAnswers": "Tecnecio"
     },
     {
         "question": "¿Cuál es la principal diferencia entre la tabla periódica de Mendeléyev y la tabla moderna? (7 de 12)",
@@ -183,7 +183,7 @@
             "Que la de Mendeléyev organiza los elementos en orden creciente de peso atómico y la moderna en orden creciente de número atómico.",
             "Que la de Mendeléyev organiza los elementos en orden decreciente de peso atómico y la moderna en orden creciente de número atómico."
         ],
-        "correctAnswer": "Que la de Mendeléyev organiza los elementos en orden creciente de peso atómico y la moderna en orden creciente de número atómico."
+        "correctAnswers": "Que la de Mendeléyev organiza los elementos en orden creciente de peso atómico y la moderna en orden creciente de número atómico."
     },
     {
         "question": "El uranio se descubrió por primera vez poco después de que se observara el planeta Urano. (8 de 12)",
@@ -191,7 +191,7 @@
             "Verdadero",
             "Falso"
         ],
-        "correctAnswer": "Verdadero"
+        "correctAnswers": "Verdadero"
     },
     {
         "question": "¿Por qué le pusieron al Bromo precisamente ese nombre? (9 de 12)",
@@ -199,7 +199,7 @@
             "Porque huele horriblemente mal.",
             "Porque su hallazgo surgió como una broma"
         ],
-        "correctAnswer": "Porque huele horriblemente mal."
+        "correctAnswers": "Porque huele horriblemente mal."
     },
     {
         "question": "¿Qué es la electronegatividad, tan importante en la tabla periódica? (10 de 12)",
@@ -207,7 +207,7 @@
             "La probabilidad de que un átomo forme un enlace químico.",
             "La facilidad con la que un átomo acepta un electrón"
         ],
-        "correctAnswer": "La probabilidad de que un átomo forme un enlace químico."
+        "correctAnswers": "La probabilidad de que un átomo forme un enlace químico."
     },
     {
         "question": "¿Cuántos elementos tenía la primera versión de la tabla periódica? (11 de 12)",
@@ -215,7 +215,7 @@
             "63 elementos",
             "61 elementos"
         ],
-        "correctAnswer": "63 elementos"
+        "correctAnswers": "63 elementos"
     },
     {
         "question": "¿Todas las letras del alfabeto aparecen en la tabla periódica? (12 de 12)",
@@ -223,7 +223,7 @@
             "No",
             "Sí"
         ],
-        "correctAnswer": "No"
+        "correctAnswers": "No"
     },
     {
         "question": "Uno de los isótopos del carbono (número atómico = 6) es el carbono 14. Podemos afirmar sobre este isótopo:",
@@ -233,9 +233,9 @@
             "que emite radiaciones de tipo beta -",
             "que no es radioactivo"
         ],
-        "correctAnswer": "que presenta 8 neutrones en su núcleo.",
-        "correctAnswer1": "que después de sufrir una desintegración radioactiva aumenta su número atómico."
-            
+        "correctAnswers": ["que presenta 8 neutrones en su núcleo.",
+        "que después de sufrir una desintegración radioactiva aumenta su número atómico."
+    ]    
     },
     {
         "question": "El número de protones de un átomo se denomina:",
@@ -245,7 +245,7 @@
             "número atómico A",
             "número másico A"
         ],
-        "correctAnswer": "número atómico Z"
+        "correctAnswers": "número atómico Z"
     },
     {
         "question": "El número de protones que tiene un átomo en el núcleo:",
@@ -255,7 +255,7 @@
             "debe ser igual al de electrones",
             "es la carga del átomo"
         ],
-        "correctAnswers": [
+        "correctAnswerss": [
          "es el número atómico",
          "debe ser igual al de electrones"
   ]
@@ -270,7 +270,7 @@
             "Se produce recombinación de los iones para así alcanzar la estabilidad del átomo.",
             "Se produce radiación gamma por desexcitación del núcleo atómico."
         ],
-        "correctAnswer": "Se libera el exceso de energía mediante la emisión de radiación electromagnética (fotón luminoso o de rayos X)."
+        "correctAnswers": "Se libera el exceso de energía mediante la emisión de radiación electromagnética (fotón luminoso o de rayos X)."
     },
     {
         "question": "Un átomo está ionizado cuando:",
@@ -280,7 +280,7 @@
             "Es insensible a la acción de campos eléctricos",
             "Posee menos energía que el átomo neutro de igual Z"
         ],
-        "correctAnswer": "Tiene un número distinto de electrones que de protones."
+        "correctAnswers": "Tiene un número distinto de electrones que de protones."
     },
     {
         "question": "El electronvoltio y el Julio son unidades de:",
@@ -290,7 +290,7 @@
             "Masa.",
             "Potencial eléctrico."
         ],
-        "correctAnswer": "Energía."
+        "correctAnswers": "Energía."
     },
     {
         "question": "Un átomo está compuesto por 6 neutrones, 5 protones y 5 electrones. Podemos decir que este átomo:",
@@ -300,7 +300,7 @@
             "es un catión",
             "tiene masa atómica 10"
         ],
-        "correctAnswers": [
+        "correctAnswerss": [
           "tiene número atómico 5", 
           "no tiene carga"
         ]
@@ -313,7 +313,7 @@
             "se llama número másico",
             "se llama número atómico"
         ],
-        "correctAnswer": "no tiene por qué ser siempre igual"
+        "correctAnswers": "no tiene por qué ser siempre igual"
     },
     {
         "question": "Se denomina longitud de onda a:",
@@ -323,7 +323,7 @@
             "Distancia que atraviesa la radiación electromagnética al incidir en un cuerpo",
             "El número de oscilaciones o ciclos por unidad de tiempo"
         ],
-        "correctAnswer": "La distancia que separa dos puntos que se encuentren en un mismo estado de oscilación."
+        "correctAnswers": "La distancia que separa dos puntos que se encuentren en un mismo estado de oscilación."
     },
     {
         "question": "La radiación electromagnética tiene más energía:",
@@ -333,7 +333,7 @@
             "La energía de la radiación electromagnética es independiente de la frecuencia y la longitud de onda.",
             "Cuando la longitud de onda es mayor."
         ],
-        "correctAnswer": "Cuando la frecuencia es mayor."
+        "correctAnswers": "Cuando la frecuencia es mayor."
     },
     {
         "question": "Los corpúsculos de energía sin masa de la radiación electromagnética reciben el nombre de:",
@@ -343,7 +343,7 @@
             "Rayos X.",
             "Electrones."
         ],
-        "correctAnswer": "Fotones."
+        "correctAnswers": "Fotones."
     },
     {
         "question": "La luz, los rayos X y los infrarrojos:",
@@ -353,6 +353,6 @@
             "Tienen poder de penetración en la materia muy parecido.",
             "Constituyen fenómenos de muy distinta naturaleza."
         ],
-        "correctAnswer": "Son ondas electromagnéticas."
+        "correctAnswers": "Son ondas electromagnéticas."
     }
 ]
