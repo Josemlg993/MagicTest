@@ -7,7 +7,7 @@
             "Hay una transformación de un único protón en dos electrones que son liberados del átomo.",
             "Los electrones recoben energía promocionando a un nivel energético superior."
         ],
-        "correctAnswer": "Tiene lugar la liberación de electrones ligados al átomo."
+        "correctAnswers": "Tiene lugar la liberación de electrones ligados al átomo."
     },
     {
         "question": "En las colisiones elásticas",
@@ -17,7 +17,7 @@
             "Se pierde energía en forma de electricidad.",
             "Ninguna de las anteriores."
         ],
-        "correctAnswer": "No se pierde energía."
+        "correctAnswers": "No se pierde energía."
     },
     {
         "question": "En el efecto fotoeléctrico",
@@ -27,7 +27,7 @@
             "El fotón rebota.",
             "El electrón se absorbe completamente."
         ],
-        "correctAnswer": "El fotón se absorbe totalmente."
+        "correctAnswers": "El fotón se absorbe totalmente."
     },
     {
         "question": "El efecto Compton",
@@ -37,7 +37,7 @@
             "El electrón cede toda su energía.",
             "El fotón cede toda su energía."
         ],
-        "correctAnswer": "Se produce comúnmente a medias y altas energías."
+        "correctAnswers": "Se produce comúnmente a medias y altas energías."
     },
     {
         "question": "Durante el efecto Compton se produce",
@@ -47,7 +47,7 @@
             "Una captura neutrónica.",
             "La captura de un electrón para compensar la carga del sistema."
         ],
-        "correctAnswer": "La dispersión de un fotón de energía menor que la del fotón incidente y que depende del ángulo de incidencia."
+        "correctAnswers": "La dispersión de un fotón de energía menor que la del fotón incidente y que depende del ángulo de incidencia."
     },
     {
         "question": "La excitación/desexcitación son procesos",
@@ -57,7 +57,7 @@
             "Que tienen lugar por separado.",
             "Producidos únicamente por la interacción de electrones libres con la materia."
         ],
-        "correctAnswer": "En los que un electrón ligado promociona a un nivel energético superior tras recibir energía externa y, unos pocos ns después, vuelve a su nivel fundamental emitiendo energía en forma de fotones."
+        "correctAnswers": "En los que un electrón ligado promociona a un nivel energético superior tras recibir energía externa y, unos pocos ns después, vuelve a su nivel fundamental emitiendo energía en forma de fotones."
     },
     {
         "question": "El poder de frenado",
@@ -67,7 +67,7 @@
             "Es la capacidad de una onda electromagnética de atravesar materia.",
             "Es la capacidad de un material para frenar los rayos X."
         ],
-        "correctAnswer": "Es la energía depositada por unidad de distancia recorrida."
+        "correctAnswers": "Es la energía depositada por unidad de distancia recorrida."
     },
     {
         "question": "¿De qué depende la probabilidad de interacción de la radiación con la materia?",
@@ -77,7 +77,7 @@
             "De las partículas neutras, que pueden acelerarse mediante diferencias de potencial.",
             "Es independiente de la carga de la partícula."
         ],
-        "correctAnswer": "De la energía, del tipo de partícula y del número atómico del medio absorbente."
+        "correctAnswers": "De la energía, del tipo de partícula y del número atómico del medio absorbente."
     },
     {
         "question": "El efecto Fotoeléctrico",
@@ -87,7 +87,7 @@
             "Se produce cuando el fotón incidente tiene una energía inferior o igual a la energía de ligadura del electrón con el que interacciona.",
             "Es dominante a altas energías, por encima de los 100 keV."
         ],
-        "correctAnswer": "Tiene lugar cuando un fotón pasa por las próximidades de un átomo e interacciona con uno de sus electrones cediéndole toda la energía (cinética) y arrancándolo del átomo."
+        "correctAnswers": "Tiene lugar cuando un fotón pasa por las próximidades de un átomo e interacciona con uno de sus electrones cediéndole toda la energía (cinética) y arrancándolo del átomo."
     },
     {
         "question": "La creación de pares",
@@ -97,9 +97,9 @@
             "Es muy usado en radiodiagnóstico.",
             "Se produce a bajas energías."
         ],
-        "correctAnswer": "Se produce a muy altas energías."
+        "correctAnswers": "Se produce a muy altas energías."
     },
-     {
+    {
         "question": "La pérdida de energía al pasar un electrón por las proximidades de un núcleo se denomina:",
         "answers": [
             "Radiación de frenado.",
@@ -187,4 +187,5 @@
         ],
         "correctAnswers": "Los que no interaccionan con el objeto y algunos dispersados."
     }
+     
 ]
