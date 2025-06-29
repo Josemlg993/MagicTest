@@ -53,251 +53,240 @@
       { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema13.json", titulo: "Tema 13" },
       { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema13Diapositiva.json", titulo: "Tema 13 Diapositiva" }
     ];
-    let cuestionariosVisibles = false;
-
     function toggleCuestionarios() {
-      const listaDiv = document.getElementById('cuestionarioLista');
-      if (!cuestionariosVisibles) {
-        listarCuestionariosLocales();
-        listaDiv.style.display = "block";
+  mostrarCuestionariosLocales();
+}
+
+    function mostrarCuestionariosLocales() {
+  const listaDiv = document.getElementById('cuestionarioLista');
+  if (listaDiv.style.display === "block") {
+    listaDiv.style.display = "none";
+  } else {
+    listaDiv.style.display = "block";
+    listarCuestionariosLocales();
+  }
+}
+function mostrarCuestionariosLocales() {
+  const listaDiv = document.getElementById('cuestionarioLista');
+  if (listaDiv.style.display === "block") {
+    listaDiv.style.display = "none";
+  } else {
+    listaDiv.style.display = "block";
+    listarCuestionariosLocales();
+  }
+}
+
+    let cuestionariosVisibles = false;
+let questions = [];
+let userAnswers = {};
+let results = {};
+
+// ================== UTILIDADES ==================
+function shuffle(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+}
+
+function shuffleAnswers(array) {
+  let arr = array.slice();
+  shuffle(arr);
+  return arr;
+}
+
+// ================== CARGA DE CUESTIONARIO ==================
+function cargarCuestionarioLocal(archivo, titulo) {
+  document.getElementById('test').innerHTML = `<p>Cargando cuestionario <b>${titulo}</b>...</p>`;
+  document.getElementById('result').textContent = "";
+  fetch(archivo)
+    .then(response => response.json())
+    .then(data => {
+      let preguntasBarajadas = data.slice();
+      shuffle(preguntasBarajadas);
+      questions = preguntasBarajadas.map(q => {
+        const shuffled = shuffleAnswers(q.answers);
+        return {
+          question: q.question,
+          answers: shuffled,
+          correctAnswers: q.correctAnswers // siempre array
+        };
+      });
+      userAnswers = {};
+      results = {};
+      mostrarTodasLasPreguntas();
+    })
+    .catch(err => {
+      document.getElementById('test').innerHTML = "Error al cargar el cuestionario.";
+      console.error(err);
+    });
+}
+
+// ================== RENDERIZADO DE PREGUNTAS ==================
+function mostrarTodasLasPreguntas() {
+  let html = '';
+  questions.forEach((q, idx) => {
+    let clase = results[idx] === "correct" ? "pregunta-grupo correct" : results[idx] === "incorrect" ? "pregunta-grupo incorrect" : "pregunta-grupo";
+    const multiple = Array.isArray(q.correctAnswers) && q.correctAnswers.length > 1;
+
+    html += `<div class="${clase}" id="pregunta-${idx}">
+      <div class="question">${idx + 1}. ${q.question}</div>`;
+
+    if (multiple) {
+      html += `<div style="color:#b44dc1;font-weight:bold;margin-bottom:8px;">Tiene varias respuestas</div>`;
+    }
+
+    html += `<ul class="answers">`;
+    q.answers.forEach((ans, i) => {
+      let checked = '';
+      if (multiple) {
+        checked = (userAnswers[idx] || []).includes(ans) ? 'checked' : '';
       } else {
-        listaDiv.style.display = "none";
+        checked = userAnswers[idx] === ans ? 'checked' : '';
       }
-      cuestionariosVisibles = !cuestionariosVisibles;
+      let disabled = results[idx] ? 'disabled' : '';
+      html += `<li>
+        <label>
+          <input type="${multiple ? 'checkbox' : 'radio'}" name="q${idx}${multiple ? '[]' : ''}" value="${ans.replace(/"/g, '&quot;')}" ${checked} ${disabled}
+            onchange="responderPregunta(${idx}, this.value, ${multiple})">
+          ${ans}
+        </label>
+      </li>`;
+    });
+    html += `</ul>`;
+
+    // Si falló, muestra la respuesta correcta debajo
+    if (results[idx] === "incorrect") {
+      html += `<div class="respuesta-correcta">Respuesta correcta: ${q.correctAnswers.join(", ")}</div>`;
     }
+    html += `</div>`;
+  });
+  document.getElementById('test').innerHTML = html;
+  actualizarMarcadorGlobal();
+  renderMarcadoresLateral();
+}
 
-    function listarCuestionariosLocales() {
-      const listaDiv = document.getElementById('cuestionarioLista');
-      if (cuestionariosLocales.length === 0) {
-        listaDiv.innerHTML = "<p>No hay cuestionarios locales disponibles.</p>";
-        return;
-      }
-      let html = "<div class='cuestionarios-grid'>";
-      for (let i = 0; i < cuestionariosLocales.length; i += 2) {
-        html += "<div class='cuestionarios-row'>";
-        // Primera columna: Tema X
-        if (cuestionariosLocales[i]) {
-          html += `<div class='cuestionario-col'>
-            <button onclick="seleccionarCuestionario('${cuestionariosLocales[i].archivo}', '${cuestionariosLocales[i].titulo}')">
-              ${cuestionariosLocales[i].titulo}
-            </button>
-          </div>`;
-        }
-        // Segunda columna: Tema X Diapositiva
-        if (cuestionariosLocales[i + 1]) {
-          html += `<div class='cuestionario-col'>
-            <button onclick="seleccionarCuestionario('${cuestionariosLocales[i + 1].archivo}', '${cuestionariosLocales[i + 1].titulo}')">
-              ${cuestionariosLocales[i + 1].titulo}
-            </button>
-          </div>`;
-        }
-        html += "</div>"; // cierre de la fila
-      }
-      html += "</div>";
-      listaDiv.innerHTML = html;
-    }
+// ================== RESPUESTA DEL USUARIO ==================
+window.responderPregunta = function(idx, value, multiple) {
+  if (multiple) {
+    // Recoge todos los checkbox marcados
+    const checkboxes = document.querySelectorAll(`#pregunta-${idx} input[type=checkbox]`);
+    userAnswers[idx] = [];
+    checkboxes.forEach(cb => {
+      if (cb.checked) userAnswers[idx].push(cb.value);
+    });
 
-    function seleccionarCuestionario(archivo, titulo) {
-      cargarCuestionarioLocal(archivo, titulo);
-      document.getElementById('cuestionarioLista').style.display = "none";
-      cuestionariosVisibles = false;
-    }
+    const corrects = questions[idx].correctAnswers;
+    const selected = userAnswers[idx] || [];
 
-    // RESPUESTAS ESPECIALES Y VARIANTES
-    const resp = [
-      "todas las anteriores",
-      "todas las opciones anteriores",
-      "niguna de las opciones anteriores",
-      "ninguna de las anteriores",
-      "todas son correctas",
-      "todas son incorrectas",
-      "niguna es correcta",
-      "A y B son correctas",
-      "A y C son correctas",
-      "B y C son correctas",
-      "A, B y C son correctas"
-    ];
-
-    const sufijos = [
-      "",
-      ".",
-      " son correctas",
-      " son correctas.",
-      " son ciertas",
-      " son ciertas.",
-      " son verdaderas",
-      " son verdaderas."
-    ];
-
-    const mayusculas = (str) => [
-      str,
-      str.charAt(0).toUpperCase() + str.slice(1)
-    ];
-
-    // Generar todas las variantes posibles
-    let variantes = [];
-    for (let base of resp) {
-      for (let variante of mayusculas(base)) {
-        for (let suf of sufijos) {
-          variantes.push((variante + suf).trim());
-        }
-      }
-    }
-    // Para comparar mejor, convertimos a minúsculas y eliminamos espacios al principio y final
-    const variantesSet = new Set(variantes.map(v => v.toLowerCase().trim()));
-
-    let questions = [];
-    let userAnswers = {};
-    let results = {};
-
-    function shuffle(array) {
-      for (let i = array.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [array[i], array[j]] = [array[j], array[i]];
-      }
-    }
-
-    // FUNCIÓN CORREGIDA PARA BARAJAR RESPUESTAS
-    function shuffleAnswers(answers) {
-      // Identificar respuestas especiales
-      const respuestasEspeciales = answers.filter(ans =>
-        variantesSet.has(ans.trim().toLowerCase())
-      );
-      // Separar respuestas normales
-      const respuestasNormales = answers.filter(ans =>
-        !variantesSet.has(ans.trim().toLowerCase())
-      );
-      // Barajar solo las respuestas normales
-      for (let i = respuestasNormales.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [respuestasNormales[i], respuestasNormales[j]] = [respuestasNormales[j], respuestasNormales[i]];
-      }
-      // Combinar: normales aleatorizadas + especiales al final
-      return [...respuestasNormales, ...respuestasEspeciales];
-    }
-
-    function cargarCuestionarioLocal(archivo, titulo) {
-      document.getElementById('test').innerHTML = `<p>Cargando cuestionario <b>${titulo}</b>...</p>`;
-      document.getElementById('result').textContent = "";
-      fetch(archivo.includes('http') ? archivo : 'cuestionarios/' + archivo)
-        .then(response => response.json())
-        .then(data => {
-          let preguntasBarajadas = data.slice();
-          shuffle(preguntasBarajadas);
-          questions = preguntasBarajadas.map(q => {
-            const originalAnswers = q.answers.slice();
-            const correctText = originalAnswers[0];
-            const shuffled = shuffleAnswers(originalAnswers);
-            return {
-              question: q.question,
-              answers: shuffled,
-              correctText: correctText
-            };
-          });
-          userAnswers = {};
-          results = {};
-          mostrarTodasLasPreguntas();
-        })
-        .catch(err => {
-          document.getElementById('test').innerHTML = "Error al cargar el cuestionario.";
-          console.error(err);
-        });
-    }
-
-    function mostrarTodasLasPreguntas() {
-      let html = '';
-      questions.forEach((q, idx) => {
-        let clase = results[idx] === "correct" ? "pregunta-grupo correct" : results[idx] === "incorrect" ? "pregunta-grupo incorrect" : "pregunta-grupo";
-        html += `<div class="${clase}" id="pregunta-${idx}">
-          <div class="question">${idx + 1}. ${q.question}</div>
-          <ul class="answers">`;
-        q.answers.forEach((ans, i) => {
-          let checked = userAnswers[idx] === ans ? 'checked' : '';
-          let disabled = results[idx] ? 'disabled' : '';
-          html += `<li>
-            <label>
-              <input type="radio" name="q${idx}" value="${ans.replace(/"/g, '&quot;')}" ${checked} ${disabled}
-                onchange="responderPregunta(${idx}, this.value)">
-              ${ans}
-            </label>
-          </li>`;
-        });
-        html += `</ul>`;
-        // Si falló, muestra la respuesta correcta debajo
-        if (results[idx] === "incorrect") {
-          html += `<div class="respuesta-correcta">Respuesta correcta: ${q.correctText}</div>`;
-        }
-        html += `</div>`;
-      });
-      document.getElementById('test').innerHTML = html;
-      actualizarMarcadorGlobal();
-      renderMarcadoresLateral();
-    }
-
-    // Renderiza la columna lateral de marcadores
-    function renderMarcadoresLateral(selectedIdx = -1) {
-      const cont = document.getElementById('marcadoresLateral');
-      let html = `<b></b><br>`;
-      questions.forEach((q, idx) => {
-        let estado = "unanswered";
-        if (results[idx] === "correct") estado = "correct";
-        else if (results[idx] === "incorrect") estado = "incorrect";
-        let icono = estado === "correct" ? "✅" : estado === "incorrect" ? "❌" : "❓";
-        let selected = (selectedIdx === idx) ? "selected" : "";
-        // Añade un icono si es repetida
-        let repeatIcon = q.isRepeat ? "🔁" : "";
-        html += `<div class="marcador-item ${estado} ${selected}" onclick="scrollToPregunta(${idx})">
-          <span class="marcador-num"> ${idx + 1}${repeatIcon}</span>
-          <span class="marcador-ico ${estado}">${icono}</span>
-        </div>`;
-      });
-      cont.innerHTML = html;
-    }
-
-    // Scroll suave a la pregunta correspondiente
-    window.scrollToPregunta = function(idx) {
-      const el = document.getElementById('pregunta-' + idx);
-      if (el) {
-        el.scrollIntoView({ behavior: 'smooth', block: 'center' });
-        renderMarcadoresLateral(idx);
-        setTimeout(() => renderMarcadoresLateral(), 1300);
-      }
-    };
-
-    // Esta función se llama al marcar una respuesta
-    window.responderPregunta = function(idx, value) {
-      userAnswers[idx] = value;
-      let correcta = questions[idx].correctText;
-      if (value === correcta) {
+    // Solo valida si el usuario ha seleccionado el mismo número de respuestas que las correctas
+    if (selected.length === corrects.length) {
+      if (
+        corrects.every(ans => selected.includes(ans)) &&
+        selected.every(ans => corrects.includes(ans))
+      ) {
         results[idx] = "correct";
       } else {
         results[idx] = "incorrect";
-        // Clona la pregunta solo si no es un clon previo (evita bucles infinitos)
-        if (!questions[idx].isRepeat) {
-          let preguntaClonada = Object.assign({}, questions[idx]);
-          preguntaClonada.isRepeat = true; // Marca para no repetir infinitamente
-          questions.push(preguntaClonada);
-        }
       }
-      mostrarTodasLasPreguntas();
-    };
-
-    function actualizarMarcadorGlobal() {
-      let total = questions.length;
-      let correctas = Object.values(results).filter(r => r === "correct").length;
-      let incorrectas = Object.values(results).filter(r => r === "incorrect").length;
-      let sinResponder = total - correctas - incorrectas;
-      let repetidas = questions.filter(q => q.isRepeat).length;
-      document.getElementById('result').innerHTML = `
-        <b>✅ Correctas:</b> ${correctas} &nbsp; 
-        <b>❌ Incorrectas:</b> ${incorrectas} &nbsp; 
-        <b>❓ Sin responder:</b> ${sinResponder} &nbsp;
-        <b>🔁 Repetidas:</b> ${repetidas}
-      `;
+    } else {
+      // Si aún no ha seleccionado todas, no valida ni bloquea la pregunta
+      delete results[idx];
     }
+  } else {
+    userAnswers[idx] = value;
+    const corrects = questions[idx].correctAnswers;
+    if (userAnswers[idx] === corrects[0]) {
+      results[idx] = "correct";
+    } else {
+      results[idx] = "incorrect";
+    }
+  }
+  mostrarTodasLasPreguntas();
+};
 
-    // Inicializar
-    listarCuestionariosLocales();
-  </script>
+// ================== MARCADOR LATERAL ==================
+function renderMarcadoresLateral(selectedIdx = -1) {
+  const cont = document.getElementById('marcadoresLateral');
+  let html = `<b></b><br>`;
+  questions.forEach((q, idx) => {
+    let estado = "unanswered";
+    if (results[idx] === "correct") estado = "correct";
+    else if (results[idx] === "incorrect") estado = "incorrect";
+    let icono = estado === "correct" ? "✅" : estado === "incorrect" ? "❌" : "❓";
+    let selected = (selectedIdx === idx) ? "selected" : "";
+    html += `<div class="marcador-item ${estado} ${selected}" onclick="scrollToPregunta(${idx})">
+      <span class="marcador-num"> ${idx + 1}</span>
+      <span class="marcador-ico ${estado}">${icono}</span>
+    </div>`;
+  });
+  cont.innerHTML = html;
+}
+
+// ================== SCROLL SUAVE ==================
+window.scrollToPregunta = function(idx) {
+  const el = document.getElementById('pregunta-' + idx);
+  if (el) {
+    el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    renderMarcadoresLateral(idx);
+    setTimeout(() => renderMarcadoresLateral(), 1300);
+  }
+};
+
+// ================== MARCADOR GLOBAL ==================
+function actualizarMarcadorGlobal() {
+  let total = questions.length;
+  let correctas = Object.values(results).filter(r => r === "correct").length;
+  let incorrectas = Object.values(results).filter(r => r === "incorrect").length;
+  let sinResponder = total - correctas - incorrectas;
+  document.getElementById('result').innerHTML = `
+    <b>✅ Correctas:</b> ${correctas} &nbsp; 
+    <b>❌ Incorrectas:</b> ${incorrectas} &nbsp; 
+    <b>❓ Sin responder:</b> ${sinResponder}
+  `;
+}
+
+// ================== LISTA DE CUESTIONARIOS ==================
+function listarCuestionariosLocales() {
+  const listaDiv = document.getElementById('cuestionarioLista');
+  if (cuestionariosLocales.length === 0) {
+    listaDiv.innerHTML = "<p>No hay cuestionarios locales disponibles.</p>";
+    return;
+  }
+  let html = "<div class='cuestionarios-grid'>";
+  for (let i = 0; i < cuestionariosLocales.length; i += 2) {
+    html += "<div class='cuestionarios-row'>";
+    if (cuestionariosLocales[i]) {
+      html += `<div class='cuestionario-col'>
+        <button onclick="seleccionarCuestionario('${cuestionariosLocales[i].archivo}', '${cuestionariosLocales[i].titulo}')">
+          ${cuestionariosLocales[i].titulo}
+        </button>
+      </div>`;
+    }
+    if (cuestionariosLocales[i + 1]) {
+      html += `<div class='cuestionario-col'>
+        <button onclick="seleccionarCuestionario('${cuestionariosLocales[i + 1].archivo}', '${cuestionariosLocales[i + 1].titulo}')">
+          ${cuestionariosLocales[i + 1].titulo}
+        </button>
+      </div>`;
+    }
+    html += "</div>";
+  }
+  html += "</div>";
+  listaDiv.innerHTML = html;
+}
+
+function seleccionarCuestionario(archivo, titulo) {
+  cargarCuestionarioLocal(archivo, titulo);
+  document.getElementById('cuestionarioLista').style.display = "none";
+  cuestionariosVisibles = false;
+}
+
+// ================== INICIALIZACIÓN ==================
+window.onload = function() {
+  listarCuestionariosLocales();
+};
+</script>
+
 </body>
 </html>
