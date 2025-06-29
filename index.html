@@ -1,7 +1,19 @@
-   <div id="selectorCuestionario" class="selector-cuestionario">
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Test Rx</title>
+  <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+  <div class="test-column">
+    <div id="selectorCuestionario" class="selector-cuestionario">
       <button id="toggleCuestionariosBtn" class="btn" onclick="toggleCuestionarios()">
         ELIGE UN CUESTIONARIO
-      </button>More actions
+      </button>
       <div id="cuestionarioLista"></div>
     </div>
     <div class="test-layout">
@@ -11,8 +23,6 @@
       </main>
       <aside class="marcadores-lateral" id="marcadoresLateral"></aside>
     </div>
-  </div>
-
   <script>
     // Lista de cuestionarios
     const cuestionariosLocales = [
