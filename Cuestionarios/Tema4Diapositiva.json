@@ -7,7 +7,7 @@
             "Radiografía digital directa",
             "Radiografía computarizada (CR) o radiografía digital indirecta (IR)"
         ],
-        "correctAnswer": "Todas las anteriores"
+        "correctAnswers": "Todas las anteriores"
     },
     {
         "question": "Cuando el kV es bajo",
@@ -17,7 +17,7 @@
             "Hay menos contraste y menos dispersa, pero más dosis al paciente",
             "Hay más contraste y más dispersa, pero más dosis al paciente"
         ],
-        "correctAnswer": "Hay más contraste y menos dispersa, pero más dosis al paciente"
+        "correctAnswers": "Hay más contraste y menos dispersa, pero más dosis al paciente"
     },
     {
         "question": "Los sistemas digitales",
@@ -27,7 +27,7 @@
             "En el ámbito dental están en deshuso, ya que su uso es complicado y aumentan el tiempo de procesado de la imagen",
             "Todas las anteriores"
         ],
-        "correctAnswer": "Permiten capturar la imagen y visualizarla en la pantalla de un ordenador"
+        "correctAnswers": "Permiten capturar la imagen y visualizarla en la pantalla de un ordenador"
     },
     {
         "question": "Un kV demasiado bajo produce",
@@ -37,7 +37,7 @@
             "Una imagen oscura por el exceso de fotones",
             "Una imagen clara por exceso de fotones"
         ],
-        "correctAnswer": "Una imagen clara por la falta de fotones"
+        "correctAnswers": "Una imagen clara por la falta de fotones"
     },
     {
         "question": "La radiación de fuga",
@@ -47,7 +47,7 @@
             "No debe ser mayor de 1mSv/h",
             "Debe ser mayor de 1mSv/h"
         ],
-        "correctAnswer": "No debe ser mayor de 1mSv/h a 1m"
+        "correctAnswers": "No debe ser mayor de 1mSv/h a 1m"
     },
     {
         "question": "El espectro de rayos x de un equipo",
@@ -57,7 +57,7 @@
             "Tiene una parte fija y una variable",
             "No afecta al paciente"
         ],
-        "correctAnswer": "Tiene una parte discreta (RX característicos) y una continua (Bremsstrahlung)"
+        "correctAnswers": "Tiene una parte discreta (RX característicos) y una continua (Bremsstrahlung)"
     },
     {
         "question": "El haz primario",
@@ -67,7 +67,7 @@
             "Es el que se queda remanente en la sala",
             "Es el que dispersa el paciente"
         ],
-        "correctAnswer": "Es el que sale colimado por el tubo de rayos x"
+        "correctAnswers": "Es el que sale colimado por el tubo de rayos x"
     },
     {
         "question": "Los rayos x característicos",
@@ -77,7 +77,7 @@
             "Ninguna de las anteriores",
             "Siempre tiene el mismo valor"
         ],
-        "correctAnswer": "Dan lugar a la parte discreta del espectro de rayos x"
+        "correctAnswers": "Dan lugar a la parte discreta del espectro de rayos x"
     },
     {
         "question": "Respecto al uso de sistemas digitales de imagen a diferencia de los sistemas de película...",
@@ -87,7 +87,7 @@
             "Los sistemas digitales nunca superarán a los sistemas analógicos en calidad de imagen aunque la dosis sea inferior",
             "Siempre permiten reducir la dosis a paciente significativamente en cualquier caso."
         ],
-        "correctAnswer": "Siempre permiten reducir la dosis a paciente significativamente y de forma óptima cuando la sensibilidad del receptor de imagen se ajusta de acuerdo a las características del equipo de rayos X para utilizar las dosis más bajas posibles compatibles con la imagen diagnóstica."
+        "correctAnswers": "Siempre permiten reducir la dosis a paciente significativamente y de forma óptima cuando la sensibilidad del receptor de imagen se ajusta de acuerdo a las características del equipo de rayos X para utilizar las dosis más bajas posibles compatibles con la imagen diagnóstica."
     },
     {
         "question": "La función de la filtración en los equipos de rayos X es",
@@ -97,7 +97,77 @@
             "Facilitar el posicionamiento del detector de la imagen",
             "Disminuir al tamaño de la imagen obtenida"
         ],
-        "correctAnswer": "Eliminar la fracción de fotones de baja energía, que producen una irradiación innecesaria en la piel del paciente"
+        "correctAnswers": "Eliminar la fracción de fotones de baja energía, que producen una irradiación innecesaria en la piel del paciente"
+    },
+    {
+        "question": "¿Qué fotones de rayos X alcanzan la placa radiográfica?",
+        "answers": [
+            "Los que no interaccionan con el objeto y algunos dispersados.",
+            "Sólo los que han sufrido efecto Compton.",
+            "Todos los que han sufrido efecto fotoeléctrico.",
+            "Todos los que llegan al objeto examinado."
+        ],
+        "correctAnswers": "Los que no interaccionan con el objeto y algunos dispersados."
+    },
+    {
+        "question": "¿Los rayos X característicos se producen cuando?",
+        "answers": [
+            "El ánodo del tubo de rayos X alcanza 500ºC.",
+            "Se desexcitan las moléculas de agua del paciente.",
+            "La radiación dispersa incide en la placa radiográfica.",
+            "Los átomos excitados del ánodo se desexcitan y emiten su exceso de energía en forma de radiación electromagnética."
+        ],
+        "correctAnswers": "Los átomos excitados del ánodo se desexcitan y emiten su exceso de energía en forma de radiación electromagnética."
+    },
+    {
+        "question": "¿En una radiografía realizada con 90 kV la energía media de los fotones que han intervenido para formar la imagen es?",
+        "answers": [
+            "Exactamente igual a 90 kV.",
+            "Superior a 90 kV.",
+            "Depende del tiempo de exposición.",
+            "Inferior a 90 kV."
+        ],
+        "correctAnswers": "Inferior a 90 kV."
+    },
+    {
+        "question": "¿Si aumentamos el miliamperaje al realizar una radiografía?",
+        "answers": [
+            "Aumenta la dosis de radiación que recibe el paciente.",
+            "Mejora la resolución espacial de la radiografía.",
+            "Aumenta el ruido de la imagen radiográfica.",
+            "Aumenta el contraste entre las densidades radiológicas."
+        ],
+        "correctAnswers": "Aumenta la dosis de radiación que recibe el paciente."
+    },
+    {
+        "question": "¿El espesor de material que se debe interponer para reducir a la mitad la exposición de un haz recibe el nombre de?",
+        "answers": [
+            "coraza.",
+            "filtración total.",
+            "colimación.",
+            "capa hemirreductora."
+        ],
+        "correctAnswers": "capa hemirreductora."
+    },
+    {
+        "question": "¿El contraste de la imagen radiográfica con 80 kV de tensión de tubo, es en relación con una tensión de 60 kV?",
+        "answers": [
+            "mayor.",
+            "el mismo.",
+            "menor.",
+            "sólo depende de la región anatómica."
+        ],
+        "correctAnswers": "menor."
+    },
+    {
+        "question": "¿Con respecto a las diferencias entre la radiografía digital y la radiografía convencional, cuál de las siguientes afirmaciones es cierta?",
+        "answers": [
+            "Con radiografía digital se radia menos al paciente.",
+            "La radiografía digital tiene mayor resolución espacial.",
+            "La radiografía digital necesita mayor kilovoltaje.",
+            "La radiografía digital tiene mayor gama dinámica que la convencional."
+        ],
+        "correctAnswers": "La radiografía digital tiene mayor gama dinámica que la convencional."
     }
     
         
