@@ -1,132 +1,85 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Test Rx</title>
-  <link rel="stylesheet" href="main.css">
-</head>
-<body>
-  <div class="test-column">
-    <div id="selectorCuestionario" class="selector-cuestionario">
-      <button id="toggleCuestionariosBtn" class="btn" onclick="toggleCuestionarios()">
-        ELIGE UN CUESTIONARIO
-      </button>
-      <div id="cuestionarioLista"></div>
-    </div>
-    <div class="test-layout">
-      <main class="test-column">
-        <div id="test"></div>
-        <div id="result" class="result"></div>
-      </main>
-      <aside class="marcadores-lateral" id="marcadoresLateral"></aside>
-    </div>
-  </div>
 
-  <script>
-    // Lista de cuestionarios
-    const cuestionariosLocales = [
-      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema1.json", titulo: "Tema 1" },
-      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema1Diapositiva.json", titulo: "Tema 1 Diapositiva" },
-      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema2.json", titulo: "Tema 2" },
-      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema2Diapositiva.json", titulo: "Tema 2 Diapositiva" },
-      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema3.json", titulo: "Tema 3" },
-      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema3Diapositiva.json", titulo: "Tema 3 Diapositiva" },
-      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema4.json", titulo: "Tema 4" },
-      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema4Diapositiva.json", titulo: "Tema 4 Diapositiva" },
-      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema5.json", titulo: "Tema 5" },
-      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema5Diapositiva.json", titulo: "Tema 5 Diapositiva" },
-      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema6.json", titulo: "Tema 6" },
-      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema6Diapositiva.json", titulo: "Tema 6 Diapositiva" },
-      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema7.json", titulo: "Tema 7" },
-      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema7Diapositiva.json", titulo: "Tema 7 Diapositiva" },
-      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema8.json", titulo: "Tema 8" },
-      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema8Diapositiva.json", titulo: "Tema 8 Diapositiva" },
-      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema9.json", titulo: "Tema 9" },
-      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema9Diapositiva.json", titulo: "Tema 9 Diapositiva" },
-      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema10.json", titulo: "Tema 10" },
-      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema10Diapositiva.json", titulo: "Tema 10 Diapositiva" },
-      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema11.json", titulo: "Tema 11" },
-      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema11Diapositiva.json", titulo: "Tema 11 Diapositiva" },
-      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema12.json", titulo: "Tema 12" },
-      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema12Diapositiva.json", titulo: "Tema 12 Diapositiva" },
-      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema13.json", titulo: "Tema 13" },
-      { archivo: "https://josemlg993.github.io/MagicTest/Cuestionarios/Tema13Diapositiva.json", titulo: "Tema 13 Diapositiva" }
-    ];
-    function toggleCuestionarios() {
-  mostrarCuestionariosLocales();
-}
 
-    function mostrarCuestionariosLocales() {
-  const listaDiv = document.getElementById('cuestionarioLista');
-  if (listaDiv.style.display === "block") {
-    listaDiv.style.display = "none";
-  } else {
-    listaDiv.style.display = "block";
-    listarCuestionariosLocales();
-  }
-}
-function mostrarCuestionariosLocales() {
-  const listaDiv = document.getElementById('cuestionarioLista');
-  if (listaDiv.style.display === "block") {
-    listaDiv.style.display = "none";
-  } else {
-    listaDiv.style.display = "block";
-    listarCuestionariosLocales();
-  }
-}
+      ];
+      let questions = [];
+      let originalQuestions = [];
+      let userAnswers = {};
+      let results = {};
+      let modoSoloFalladas = false;
+      let cuestionariosVisibles = false;
 
-    let cuestionariosVisibles = false;
-let questions = [];
-let userAnswers = {};
-let results = {};
+      function toggleCuestionarios() {
+        mostrarCuestionariosLocales();
+      }
 
-// ================== UTILIDADES ==================
-function shuffle(array) {
-  for (let i = array.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [array[i], array[j]] = [array[j], array[i]];
-  }
-}
+      function mostrarCuestionariosLocales() {
+        const listaDiv = document.getElementById('cuestionarioLista');
+        if (listaDiv.style.display === "block") {
+          listaDiv.style.display = "none";
+        } else {
+          listaDiv.style.display = "block";
+          listarCuestionariosLocales();
+        }
+      }
+      function mostrarCuestionariosLocales() {
+        const listaDiv = document.getElementById('cuestionarioLista');
+        if (listaDiv.style.display === "block") {
+          listaDiv.style.display = "none";
+        } else {
+          listaDiv.style.display = "block";
+          listarCuestionariosLocales();
+        }
+      }
 
-function shuffleAnswers(array) {
-  let arr = array.slice();
-  shuffle(arr);
-  return arr;
-}
+      // ================== UTILIDADES ==================
+      function shuffle(array) {
+        for (let i = array.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [array[i], array[j]] = [array[j], array[i]];
+        }
+      }
 
-// ================== CARGA DE CUESTIONARIO ==================
-function cargarCuestionarioLocal(archivo, titulo) {
-  document.getElementById('test').innerHTML = `<p>Cargando cuestionario <b>${titulo}</b>...</p>`;
-  document.getElementById('result').textContent = "";
-  fetch(archivo)
-    .then(response => response.json())
-    .then(data => {
-      let preguntasBarajadas = data.slice();
-      shuffle(preguntasBarajadas);
-      questions = preguntasBarajadas.map(q => {
-        const shuffled = shuffleAnswers(q.answers);
-        return {
-          question: q.question,
-          answers: shuffled,
-          correctAnswers: q.correctAnswers // siempre array
-        };
-      });
-      userAnswers = {};
-      results = {};
-      mostrarTodasLasPreguntas();
-    })
-    .catch(err => {
-      document.getElementById('test').innerHTML = "Error al cargar el cuestionario.";
-      console.error(err);
-    });
-}
+      function shuffleAnswers(array) {
+        let arr = array.slice();
+        shuffle(arr);
+        return arr;
+      }
 
-// ================== RENDERIZADO DE PREGUNTAS ==================
-function mostrarTodasLasPreguntas() {
+      // ================== CARGA DE CUESTIONARIO ==================
+      function cargarCuestionarioLocal(archivo, titulo) {
+        document.getElementById('test').innerHTML = `<p>Cargando cuestionario <b>${titulo}</b>...</p>`;
+        document.getElementById('result').textContent = "";
+        fetch(archivo)
+          .then(response => response.json())
+          .then(data => {
+            let preguntasBarajadas = data.slice();
+            shuffle(preguntasBarajadas);
+            questions = preguntasBarajadas.map(q => {
+              const shuffled = shuffleAnswers(q.answers);
+              return {
+                question: q.question,
+                answers: shuffled,
+                correctAnswers: q.correctAnswers
+              };
+            });
+            originalQuestions = questions.slice(); // <-- Guarda copia original
+            userAnswers = {};
+            results = {};
+            modoSoloFalladas = false;
+            mostrarTodasLasPreguntas();
+          });
+      }
+      function getCorrectAnswers(q) {
+        return Array.isArray(q.correctAnswers) ? q.correctAnswers : [q.correctAnswers];
+      }
+
+      // ================== RENDERIZADO DE PREGUNTAS ==================
+      function mostrarTodasLasPreguntas() {
   let html = '';
   questions.forEach((q, idx) => {
-    let clase = results[idx] === "correct" ? "pregunta-grupo correct" : results[idx] === "incorrect" ? "pregunta-grupo incorrect" : "pregunta-grupo";
+let clase = "pregunta-grupo";
+if (results[idx] === "incorrect") clase += " incorrect";
+if (results[idx] === "correct") clase += " correct";
     const multiple = Array.isArray(q.correctAnswers) && q.correctAnswers.length > 1;
 
     html += `<div class="${clase}" id="pregunta-${idx}">
@@ -144,6 +97,7 @@ function mostrarTodasLasPreguntas() {
       } else {
         checked = userAnswers[idx] === ans ? 'checked' : '';
       }
+      // Deshabilita si está respondida (correcta o incorrecta)
       let disabled = results[idx] ? 'disabled' : '';
       html += `<li>
         <label>
@@ -154,139 +108,184 @@ function mostrarTodasLasPreguntas() {
       </li>`;
     });
     html += `</ul>`;
-
-    // Si falló, muestra la respuesta correcta debajo
+    // Muestra solo una vez la respuesta correcta si está fallada
     if (results[idx] === "incorrect") {
-      html += `<div class="respuesta-correcta">Respuesta correcta: ${q.correctAnswers.join(", ")}</div>`;
+      html += `<div class="respuesta-correcta">Respuesta correcta: ${toArray(q.correctAnswers).join(", ")}</div>`;
     }
     html += `</div>`;
   });
   document.getElementById('test').innerHTML = html;
   actualizarMarcadorGlobal();
   renderMarcadoresLateral();
+
+  // Si todas están correctas, muestra resultado final
+  if (questions.every((q, idx) => results[idx] === "correct")) {
+    document.getElementById('test').innerHTML += `<h2>¡Test terminado!</h2><div class="result-final">Has acertado todas las preguntas.</div>`;
+  }
 }
 
-// ================== RESPUESTA DEL USUARIO ==================
-window.responderPregunta = function(idx, value, multiple) {
-  if (multiple) {
-    // Recoge todos los checkbox marcados
-    const checkboxes = document.querySelectorAll(`#pregunta-${idx} input[type=checkbox]`);
-    userAnswers[idx] = [];
-    checkboxes.forEach(cb => {
-      if (cb.checked) userAnswers[idx].push(cb.value);
-    });
 
-    const corrects = questions[idx].correctAnswers;
-    const selected = userAnswers[idx] || [];
-
-    // Solo valida si el usuario ha seleccionado el mismo número de respuestas que las correctas
-    if (selected.length === corrects.length) {
-      if (
-        corrects.every(ans => selected.includes(ans)) &&
-        selected.every(ans => corrects.includes(ans))
-      ) {
-        results[idx] = "correct";
-      } else {
-        results[idx] = "incorrect";
+      function toArray(val) {
+        return Array.isArray(val) ? val : [val];
       }
-    } else {
-      // Si aún no ha seleccionado todas, no valida ni bloquea la pregunta
-      delete results[idx];
-    }
-  } else {
-    userAnswers[idx] = value;
-    const corrects = questions[idx].correctAnswers;
-    if (userAnswers[idx] === corrects[0]) {
-      results[idx] = "correct";
-    } else {
-      results[idx] = "incorrect";
-    }
+      function clonarPreguntaFallada(idx) {
+  const preguntaOriginal = questions[idx];
+  // Solo clona si no es ya un clon
+  if (!preguntaOriginal.esClon) {
+    const nuevaPregunta = JSON.parse(JSON.stringify(preguntaOriginal));
+    nuevaPregunta.esClon = true;
+    questions.push(nuevaPregunta);
+    // También hay que añadir su estado
+    // No añadas resultado ni respuesta marcada
   }
-  mostrarTodasLasPreguntas();
-};
+}
 
-// ================== MARCADOR LATERAL ==================
-function renderMarcadoresLateral(selectedIdx = -1) {
-  const cont = document.getElementById('marcadoresLateral');
-  let html = `<b></b><br>`;
-  questions.forEach((q, idx) => {
-    let estado = "unanswered";
-    if (results[idx] === "correct") estado = "correct";
-    else if (results[idx] === "incorrect") estado = "incorrect";
-    let icono = estado === "correct" ? "✅" : estado === "incorrect" ? "❌" : "❓";
-    let selected = (selectedIdx === idx) ? "selected" : "";
-    html += `<div class="marcador-item ${estado} ${selected}" onclick="scrollToPregunta(${idx})">
+
+
+      // ================== RESPUESTA DEL USUARIO ==================
+      window.responderPregunta = function (idx, value, multiple) {
+        const corrects = Array.isArray(questions[idx].correctAnswers)
+          ? questions[idx].correctAnswers
+          : [questions[idx].correctAnswers];
+
+        if (multiple) {
+          // Checkbox (varias respuestas)
+          const checkboxes = document.querySelectorAll(`#pregunta-${idx} input[type=checkbox]`);
+          userAnswers[idx] = [];
+          checkboxes.forEach(cb => {
+            if (cb.checked) userAnswers[idx].push(cb.value);
+          });
+
+          const selected = userAnswers[idx] || [];
+          if (selected.length === corrects.length) {
+            if (
+              corrects.every(ans => selected.includes(ans)) &&
+              selected.every(ans => corrects.includes(ans))
+            ) {
+              results[idx] = "correct";
+            } else {
+              results[idx] = "incorrect";
+              clonarPreguntaFallada(idx);
+            }
+          }
+        } else {
+          // Radio (una sola respuesta)
+          userAnswers[idx] = value;
+          if (userAnswers[idx] === corrects[0]) {
+            results[idx] = "correct";
+          } else {
+            results[idx] = "incorrect";
+            clonarPreguntaFallada(idx);
+          }
+        }
+        mostrarTodasLasPreguntas();
+      };
+
+
+
+
+      // ================== MARCADOR LATERAL ==================
+      function renderMarcadoresLateral(selectedIdx = -1) {
+        const cont = document.getElementById('marcadoresLateral');
+        let html = `<b></b><br>`;
+        questions.forEach((q, idx) => {
+          let estado = "unanswered";
+          if (results[idx] === "correct") estado = "correct";
+          else if (results[idx] === "incorrect") estado = "incorrect";
+          let icono = estado === "correct" ? "✅" : estado === "incorrect" ? "❌" : "❓";
+          let selected = (selectedIdx === idx) ? "selected" : "";
+          html += `<div class="marcador-item ${estado} ${selected}" onclick="scrollToPregunta(${idx})">
       <span class="marcador-num"> ${idx + 1}</span>
       <span class="marcador-ico ${estado}">${icono}</span>
     </div>`;
-  });
-  cont.innerHTML = html;
-}
+        });
+        cont.innerHTML = html;
+      }
 
-// ================== SCROLL SUAVE ==================
-window.scrollToPregunta = function(idx) {
-  const el = document.getElementById('pregunta-' + idx);
-  if (el) {
-    el.scrollIntoView({ behavior: 'smooth', block: 'center' });
-    renderMarcadoresLateral(idx);
-    setTimeout(() => renderMarcadoresLateral(), 1300);
-  }
-};
+      // ================== SCROLL SUAVE ==================
+      window.scrollToPregunta = function (idx) {
+        const el = document.getElementById('pregunta-' + idx);
+        if (el) {
+          el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          renderMarcadoresLateral(idx);
+          setTimeout(() => renderMarcadoresLateral(), 1300);
+        }
+      };
 
-// ================== MARCADOR GLOBAL ==================
-function actualizarMarcadorGlobal() {
-  let total = questions.length;
-  let correctas = Object.values(results).filter(r => r === "correct").length;
-  let incorrectas = Object.values(results).filter(r => r === "incorrect").length;
-  let sinResponder = total - correctas - incorrectas;
-  document.getElementById('result').innerHTML = `
+      // ================== MARCADOR GLOBAL ==================
+      function actualizarMarcadorGlobal() {
+        let total = questions.length;
+        let correctas = Object.values(results).filter(r => r === "correct").length;
+        let incorrectas = Object.values(results).filter(r => r === "incorrect").length;
+        let sinResponder = total - correctas - incorrectas;
+        document.getElementById('result').innerHTML = `
     <b>✅ Correctas:</b> ${correctas} &nbsp; 
     <b>❌ Incorrectas:</b> ${incorrectas} &nbsp; 
     <b>❓ Sin responder:</b> ${sinResponder}
   `;
-}
+      }
+      function repetirPreguntasFalladas() {
+        // Recoge los índices de las preguntas falladas
+        const falladasIdx = questions
+          .map((q, idx) => results[idx] === "incorrect" ? idx : null)
+          .filter(idx => idx !== null);
 
-// ================== LISTA DE CUESTIONARIOS ==================
-function listarCuestionariosLocales() {
-  const listaDiv = document.getElementById('cuestionarioLista');
-  if (cuestionariosLocales.length === 0) {
-    listaDiv.innerHTML = "<p>No hay cuestionarios locales disponibles.</p>";
-    return;
-  }
-  let html = "<div class='cuestionarios-grid'>";
-  for (let i = 0; i < cuestionariosLocales.length; i += 2) {
-    html += "<div class='cuestionarios-row'>";
-    if (cuestionariosLocales[i]) {
-      html += `<div class='cuestionario-col'>
+        if (falladasIdx.length === 0) {
+          alert("¡No hay preguntas falladas para repetir!");
+          return;
+        }
+
+        // Filtra solo las preguntas falladas
+        questions = falladasIdx.map(idx => originalQuestions[idx]);
+        userAnswers = {};
+        results = {};
+        modoSoloFalladas = true;
+        mostrarTodasLasPreguntas();
+        window.scrollTo(0, 0);
+      }
+
+      // ================== LISTA DE CUESTIONARIOS ==================
+      function listarCuestionariosLocales() {
+        const listaDiv = document.getElementById('cuestionarioLista');
+        if (cuestionariosLocales.length === 0) {
+          listaDiv.innerHTML = "<p>No hay cuestionarios locales disponibles.</p>";
+          return;
+        }
+        let html = "<div class='cuestionarios-grid'>";
+        for (let i = 0; i < cuestionariosLocales.length; i += 2) {
+          html += "<div class='cuestionarios-row'>";
+          if (cuestionariosLocales[i]) {
+            html += `<div class='cuestionario-col'>
         <button onclick="seleccionarCuestionario('${cuestionariosLocales[i].archivo}', '${cuestionariosLocales[i].titulo}')">
           ${cuestionariosLocales[i].titulo}
         </button>
       </div>`;
-    }
-    if (cuestionariosLocales[i + 1]) {
-      html += `<div class='cuestionario-col'>
+          }
+          if (cuestionariosLocales[i + 1]) {
+            html += `<div class='cuestionario-col'>
         <button onclick="seleccionarCuestionario('${cuestionariosLocales[i + 1].archivo}', '${cuestionariosLocales[i + 1].titulo}')">
           ${cuestionariosLocales[i + 1].titulo}
         </button>
       </div>`;
-    }
-    html += "</div>";
-  }
-  html += "</div>";
-  listaDiv.innerHTML = html;
-}
+          }
+          html += "</div>";
+        }
+        html += "</div>";
+        listaDiv.innerHTML = html;
+      }
 
-function seleccionarCuestionario(archivo, titulo) {
-  cargarCuestionarioLocal(archivo, titulo);
-  document.getElementById('cuestionarioLista').style.display = "none";
-  cuestionariosVisibles = false;
-}
+      function seleccionarCuestionario(archivo, titulo) {
+        cargarCuestionarioLocal(archivo, titulo);
+        document.getElementById('cuestionarioLista').style.display = "none";
+        cuestionariosVisibles = false;
+      }
 
-// ================== INICIALIZACIÓN ==================
-window.onload = function() {
-  listarCuestionariosLocales();
-};
-</script>
+      // ================== INICIALIZACIÓN ==================
+      window.onload = function () {
+        listarCuestionariosLocales();
+      };
+    </script>
 
 </body>
+
 </html>
