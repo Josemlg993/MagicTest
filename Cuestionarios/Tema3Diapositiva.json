@@ -7,7 +7,7 @@
             "Menor cantidad de radiación",
             "Alta penetrabilidad"
         ],
-        "correctAnswer": "Mayor cantidad de radiación"
+        "correctAnswers": "Mayor cantidad de radiación"
     },
     {
         "question": "Los equipos generadores de alta frecuencia se caracterizan por",
@@ -17,7 +17,7 @@
             "Formas de onda multipulso",
             "Más tiempo de exposición"
         ],
-        "correctAnswer": "Mejor calidad de imagen"
+        "correctAnswers": "Mejor calidad de imagen"
     },
     {
         "question": "La ampolla de vidrio",
@@ -27,7 +27,7 @@
             "Dispone de un vacío absoluto en su interior",
             "Posee baja resistencia a la temperatura, y su fragilidad es un problema en estos equipos"
         ],
-        "correctAnswer": "Esta formado por un vidrio especial llamado Pyrex"
+        "correctAnswers": "Esta formado por un vidrio especial llamado Pyrex"
     },
     {
         "question": "La película radiográfica",
@@ -37,7 +37,7 @@
             "Conlleva una mayor rapidez en la obtención de la imagen diagnóstica en comparación con el sistema digital",
             "No se ve influenciada por los factores ambientales"
         ],
-        "correctAnswer": "Consiste en una emulsión formada por una mezcla uniforme de gelatina y cristales de haluro de plata"
+        "correctAnswers": "Consiste en una emulsión formada por una mezcla uniforme de gelatina y cristales de haluro de plata"
     },
     {
         "question": "Las características del Wolframio o Tungsteno son",
@@ -47,7 +47,7 @@
             "Alta tendencia a evaporarse",
             "Bajo número atómico"
         ],
-        "correctAnswer": "Alto efecto termoiónico"
+        "correctAnswers": "Alto efecto termoiónico"
     },
     {
         "question": "El ánodo en un equipo de rayos X dental",
@@ -57,7 +57,7 @@
             "Produce la liberación de electrones por efecto termoiónico",
             "Es mejor estático a rotatorio ya que disipa peor el calor"
         ],
-        "correctAnswer": "Es el material blanco contra el que colisionan los electrones acelerados"
+        "correctAnswers": "Es el material blanco contra el que colisionan los electrones acelerados"
     },
     {
         "question": "La diferencia de potencial entre el cátodo y el ánodo",
@@ -67,7 +67,7 @@
             "No tiene consecuencias sobre el equipo",
             "Provoca la direccionalidad de los electrones, para desplazarse del ánodo al cátodo"
         ],
-        "correctAnswer": "Acelera la velocidad de los electrones, provocando mayor poder de penetración"
+        "correctAnswers": "Acelera la velocidad de los electrones, provocando mayor poder de penetración"
     },
     {
         "question": "¿Cuál de estas afirmaciones NO es correcta?",
@@ -77,7 +77,7 @@
             "Con una filtración adecuada, se puede reducir hasta un 80% la dosis en piel del paciente, sin afectar a la calidad de la imagen",
             "La filtración de un equipo de rayos X se mide en milímetros de aluminio equivalente"
         ],
-        "correctAnswer": "A mayor dosis al paciente, dentro y fuera del campo exploratorio provoca menor radiación dispersa"
+        "correctAnswers": "A mayor dosis al paciente, dentro y fuera del campo exploratorio provoca menor radiación dispersa"
     },
     {
         "question": "Los problemas asociados al tubo del rayos X son",
@@ -87,7 +87,7 @@
             "Mantenimiento del ánodo a altas temperaturas durante largos periodos de tiempos que impiden la disipación correcta del calor",
             "Altas temperaturas del ánodo que conllevan la fusión y \"picado\" del mismo"
         ],
-        "correctAnswer": "Todas son correctas"
+        "correctAnswers": "Todas son correctas"
     },
     {
         "question": "¿Cuál de los siguientes elementos no ayuda a la refrigeración del tubo de rayos X?",
@@ -97,7 +97,7 @@
             "Tungsteno como material del ánodo y cátodo",
             "Ampolla de vidrio Pyrex"
         ],
-        "correctAnswer": "El blindaje del tubo"
+        "correctAnswers": "El blindaje del tubo"
     },
     {
         "question": "La función de la carcasa y coraza del equipo de rayos X es",
@@ -107,7 +107,7 @@
             "Ninguna es correcta",
             "Contener los distintos elementos que forman el tubo"
         ],
-        "correctAnswer": "Las dos son correctas"
+        "correctAnswers": "Las dos son correctas"
     },
     {
         "question": "¿Qué tipos de ánodos existen en los equipos de rayos X?",
@@ -117,7 +117,7 @@
             "Ánodo rotatorio",
             "Cátodo rotatorio"
         ],
-        "correctAnswer": "Ánodo estacionario y rotatorio"
+        "correctAnswers": "Ánodo estacionario y rotatorio"
     },
     {
         "question": "¿Cuál de estas afirmaciones no es correcta?",
@@ -127,7 +127,7 @@
             "Tiene alto punto de fusión",
             "Posee alta conductividad térmica"
         ],
-        "correctAnswer": "Tiene bajo efecto termoiónico"
+        "correctAnswers": "Tiene bajo efecto termoiónico"
     },
     {
         "question": "Dentro del tubo de rayos X",
@@ -137,7 +137,7 @@
             "Los electrones se desplazan del ánodo al cátodo, y viceversa",
             "Los electrones impactan en el cátodo para producir electrones"
         ],
-        "correctAnswer": "Se producen los electrones en el cátodo por efecto termoiónico"
+        "correctAnswers": "Se producen los electrones en el cátodo por efecto termoiónico"
     },
     {
         "question": "El refrigerante en un tubo de rayos X",
@@ -147,7 +147,7 @@
             "Favorece el aumento de la temperatura, favoreciendo la formación de rayos X",
             "Todas las anteriores"
         ],
-        "correctAnswer": "Evita que se alcancen temperaturas elevadas, y de esta manera evita la fusión de material del ánodo"
+        "correctAnswers": "Evita que se alcancen temperaturas elevadas, y de esta manera evita la fusión de material del ánodo"
     },
     {
         "question": "En los equipos de rayos X",
@@ -157,7 +157,7 @@
             "El material más utilizado para la formación del filamento es el estaño o el zinc, debido a su bajo punto de fusión",
             "Es necesario que se realice un control mensual de los parámetros fundamentales, tal como marca la normativa vigente"
         ],
-        "correctAnswer": "La eficiencia de la producción de rayos X es baja, ya que más del 99% de la energía de los electrones se pierde en forma de calor"
+        "correctAnswers": "La eficiencia de la producción de rayos X es baja, ya que más del 99% de la energía de los electrones se pierde en forma de calor"
     },
     {
         "question": "¿Cuál de estas afirmaciones es incorrecta?",
@@ -167,7 +167,7 @@
             "El localizador es un dispositivo de alineación del haz que ayuda al odontólogo a posicionar el dispositivo de indicador de posición (DIP) en relación con el diente y el sistema de imagen.",
             "La filtración elimina los fotones de baja energía"
         ],
-        "correctAnswer": "La rejilla antidifusora aumenta la radiación dispersa que llega a la placa, que empeora la calidad de imagen."
+        "correctAnswers": "La rejilla antidifusora aumenta la radiación dispersa que llega a la placa, que empeora la calidad de imagen."
     },
     {
         "question": "¿Cuál de estas afirmaciones es correcta?",
@@ -177,7 +177,7 @@
             "El generador es el elemento encargado de suministrar al tubo la energía necesaria para su funcionamiento",
             "Los equipos de rayos X poseen rectificadores de onda que transforma la corriente alterna en continua"
         ],
-        "correctAnswer": "Todas las anteriores"
+        "correctAnswers": "Todas las anteriores"
     },
     {
         "question": "¿Cuál de estas afirmaciones es correcta?",
@@ -187,7 +187,7 @@
             "El ánodo es siempre rotatorio",
             "El material donde colisionan los electrones es el cátodo"
         ],
-        "correctAnswer": "Mas del 99% de la energía de los electrones se pierde en forma de calor"
+        "correctAnswers": "Mas del 99% de la energía de los electrones se pierde en forma de calor"
     },
     {
         "question": "El ánodo rotatorio",
@@ -197,6 +197,106 @@
             "Aumenta el área del foco real en la mancha focal",
             "Dispersa mejor el calor"
         ],
-        "correctAnswer": "Todas son correctas"
+        "correctAnswers": "Todas son correctas"
+    },
+    {
+        "question": "¿El poder de penetración de una radiación X está relacionada con?",
+        "answers": [
+            "Tensión aplicada (kilovoltaje).",
+            "La distancia foco-película.",
+            "Corriente del tubo (miliamperaje).",
+            "Tiempo."
+        ],
+        "correctAnswers": "Tensión aplicada (kilovoltaje)."
+    },
+    {
+        "question": "¿Cuanto más se aumenta la corriente que atraviesa el tubo de rayos X?",
+        "answers": [
+            "menos cantidad de rayos X se genera.",
+            "menor es la potencia disipada en el anticátodo.",
+            "mayor es la energía de los rayos X.",
+            "más cantidad de rayos X se genera."
+        ],
+        "correctAnswers": "más cantidad de rayos X se genera."
+    },
+    {
+        "question": "¿En un tubo de rayos X se producen fotones por frenado de electrones. Estos electrones se generan?",
+        "answers": [
+            "en el cátodo, por efecto termoiónico.",
+            "en el ánodo, por efecto Compton.",
+            "por efecto de creación de pares electrón-positrón.",
+            "por ionización del gas encerrado en el tubo."
+        ],
+        "correctAnswers": "en el cátodo, por efecto termoiónico."
+    },
+    {
+        "question": "¿Algunos tubos de rayos X se fabrican con ánodo giratorio para?",
+        "answers": [
+            "evitar problemas por calentamiento del ánodo.",
+            "que los rayos X posean mayor energía.",
+            "ninguna de las anteriores.",
+            "que los rayos se emitan en todas las direcciones."
+        ],
+        "correctAnswers": "evitar problemas por calentamiento del ánodo."
+    },
+    {
+        "question": "¿La radiación que logra atravesar la coraza de plomo en la que está encapsulado el tubo recibe el nombre de?",
+        "answers": [
+            "Radiación Compton.",
+            "Radiación inútil.",
+            "Radiación de fuga.",
+            "Radiación dispersa."
+        ],
+        "correctAnswers": "Radiación de fuga."
+    },
+    {
+        "question": "¿Se denomina filtración inherente a la producida por?",
+        "answers": [
+            "Ninguna de las anteriores.",
+            "A la originada por colocar materiales adecuados a la salida del haz de radiación.",
+            "A la suma de las dos anteriores.",
+            "Los materiales estructurales del tubo de rayos X."
+        ],
+        "correctAnswers": "Los materiales estructurales del tubo de rayos X."
+    },
+    {
+        "question": "¿La filtración de un tubo de rayos X tiene como objetivo fundamental?",
+        "answers": [
+            "aumentar la producción de fotones.",
+            "atenuar los fotones de alta energía.",
+            "evitar que aparezcan electrones en el exterior.",
+            "disminuir el porcentaje de fotones de baja energía."
+        ],
+        "correctAnswers": "disminuir el porcentaje de fotones de baja energía."
+    },
+    {
+        "question": "¿Las rejillas antidifusoras sirven para?",
+        "answers": [
+            "absorber la radiación dispersa que se produce dentro del paciente.",
+            "reducir la radiación extrafocal.",
+            "reducir el contraste de la imagen.",
+            "disminuir la dosis en piel de los pacientes."
+        ],
+        "correctAnswers": "absorber la radiación dispersa que se produce dentro del paciente."
+    },
+    {
+        "question": "¿La dosis impartida a un paciente, al realizar una radiografía con dos películas de velocidades diferentes y los mismos parámetros radiológicos, es?",
+        "answers": [
+            "mayor con la película de menor velocidad.",
+            "mayor con la película de mayor velocidad.",
+            "función de las condiciones de procesado.",
+            "la misma con ambas películas."
+        ],
+        "correctAnswers": "mayor con la película de menor velocidad."
+    },
+    {
+        "question": "¿El papel de las cartulinas de refuerzo consiste en?",
+        "answers": [
+            "transformar los RX en fotones de luz visible.",
+            "hacer que finalice la exposición cuando ha llegado una cantidad suficiente de radiación.",
+            "transformar los r-x en electrones.",
+            "disminuir la radiación dispersa producida por el paciente."
+        ],
+        "correctAnswers": "transformar los RX en fotones de luz visible."
     }
 ]
