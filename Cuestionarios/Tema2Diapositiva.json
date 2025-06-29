@@ -156,16 +156,21 @@
             "Efecto Compton.",
             "Efecto fotoeléctrico.",
             "Radiación característica.",
-            "La generación de rayos X implica emisión de:",
+            "La generación de rayos X implica emisión de:"
+            
+        ],
+        "correctAnswers": "Efecto fotoeléctrico."
+    },
+     {
+        "question": "La generación de rayos X implica emisión de:",
+        "answers": [  
             "Electrones.",
             "Neutrones.",
             "Dos neutrones y dos protones.",
             "Radiación electromagnética."
         ],
-        "correctAnswers": [
-            "Efecto fotoeléctrico.",
-            "Radiación electromagnética."
-        ]
+        "correctAnswers":  "Radiación electromagnética."
+        
     },
     {
         "question": "Como consecuencia del efecto Compton la imagen radiográfica obtenida es:",
