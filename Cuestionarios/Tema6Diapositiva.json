@@ -1,0 +1,202 @@
+[
+    {
+        "question": "La ventaja de los dosímetros de termoluminiscencia.",
+        "answers": [
+            "Son equivalentes a la piel.",
+            "Son baratos y pequeños.",
+            "No necesitan baterías.",
+            "Todas las anteriores."
+        ],
+        "correctAnswers": "Todas las anteriores."
+    },
+    {
+        "question": "Los tres detectores de ionización gaseosa son.",
+        "answers": [
+            "Cámara de ionización, contador proporcional y Geiger.",
+            "Cámara de ionización, de fisión y de fusión.",
+            "Cámara de excitación, de disociación y de fusión.",
+            "Cámara de disociación, de ionización y de Geiger."
+        ],
+        "correctAnswers": "Cámara de ionización, contador proporcional y Geiger."
+    },
+    {
+        "question": "Los detectores más usados en radiodiagnóstico son.",
+        "answers": [
+            "Cámaras de ionización.",
+            "Detectores de centelleo.",
+            "Detectores Geiger-Müller.",
+            "Dosímetros de película."
+        ],
+        "correctAnswers": "Cámaras de ionización."
+    },
+    {
+        "question": "Los detectores se pueden clasificar en.",
+        "answers": [
+            "Inmediatos y retardados.",
+            "Fuertes y débiles.",
+            "Altos y bajos.",
+            "Grandes y pequeños."
+        ],
+        "correctAnswers": "Inmediatos y retardados."
+    },
+    {
+        "question": "Las desventajas de los dosímetros de termoluminiscencia.",
+        "answers": [
+            "No se puede reutilizar.",
+            "La información se borra en el proceso de lectura.",
+            "No es equivalente a tejido humano.",
+            "Todas las anteriores."
+        ],
+        "correctAnswers": "La información se borra en el proceso de lectura."
+    },
+    {
+        "question": "La dosimetría se utiliza para.",
+        "answers": [
+            "Detección de posibles cambios en las condiciones radiológicas de trabajo.",
+            "Confirmar la correcta clasificación de la zona.",
+            "Verificar idoneidad de las medidas de protección en los lugares de trabajo.",
+            "Todas son correctas."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "La eficiencia de un detector depende de.",
+        "answers": [
+            "El volumen activo del detector, el espesor físico y la energía de la radiación.",
+            "Únicamente del tipo de radiación recibida.",
+            "Únicamente de las características físicas del detector.",
+            "Ninguna de las anteriores."
+        ],
+        "correctAnswers": "El volumen activo del detector, el espesor físico y la energía de la radiación."
+    },
+    {
+        "question": "Los dosímetros ambientales o de área.",
+        "answers": [
+            "Tienen como objetivo la medida y evaluación del fondo de radiación ambiental.",
+            "Únicamente son capaces de detectar la radiación muy penetrante (radiación gamma, cósmica o neutrones).",
+            "Siempre son de tipo Geiger-Müller.",
+            "No tienen suficiente sensibilidad como para evaluar campos de radiación con niveles tan bajos como el fondo radiactivo."
+        ],
+        "correctAnswers": "Tienen como objetivo la medida y evaluación del fondo de radiación ambiental."
+    },
+    {
+        "question": "Los tres dosímetros que se utilizan son.",
+        "answers": [
+            "Película, ambiente y profundo.",
+            "Alto, medio y bajo.",
+            "Superficial, profundo y medio.",
+            "Termoluminiscente, película y lectura directa."
+        ],
+        "correctAnswers": "Termoluminiscente, película y lectura directa."
+    },
+    {
+        "question": "El detector cámara de ionización se clasifica como.",
+        "answers": [
+            "Detector retardad de excitación.",
+            "Detector inmediato de excitación.",
+            "Detector inmediato de ionización gaseosa.",
+            "Detector retardado de ionización."
+        ],
+        "correctAnswers": "Detector inmediato de ionización gaseosa."
+    },
+    {
+        "question": "Las cámaras de ionización.",
+        "answers": [
+            "Tienen un rendimiento menor del 1% para fotones.",
+            "Ninguna de las anteriores.",
+            "Necesitan estar conectadas a la red eléctrica para funcionar.",
+            "Presentan un recinto abierto con gas."
+        ],
+        "correctAnswers": "Tienen un rendimiento menor del 1% para fotones."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones es incorrecta respecto a los dosímetros de película?",
+        "answers": [
+            "Constituye un registro permanente, y permite la reevaluación de las dosis.",
+            "Poseen en su interior una emulsión fotográfica, formada por cristales microscópicos de AgBr suspendidos en material gelatinoso.",
+            "El material utilizado es equivalente al tejido biológico, lo que favorece su uso.",
+            "La película revelada aporta información sobre el tipo y energía de la radiación."
+        ],
+        "correctAnswers": "El material utilizado es equivalente al tejido biológico, lo que favorece su uso."
+    },
+    {
+        "question": "El dosímetro de luminescencia se clasifica como.",
+        "answers": [
+            "Detector inmediato de ionización gaseosa.",
+            "Detector retardado de ionización.",
+            "Detector retardado de excitación.",
+            "Detector inmediato de excitación."
+        ],
+        "correctAnswers": "Detector retardado de excitación."
+    },
+    {
+        "question": "¿Cuál de estos se basa en el fenómeno físico de la excitación?",
+        "answers": [
+            "Contador proporcional.",
+            "contador Geiger.",
+            "Detector de centelleo.",
+            "Cámara de ionización."
+        ],
+        "correctAnswers": "Detector de centelleo."
+    },
+    {
+        "question": "La dosimetría de área.",
+        "answers": [
+            "Determina medidas de dosis equivalente personal mensual por trabajadores expuestos.",
+            "Ninguna es correcta.",
+            "Determina la dosis equivalente ambiental en las zonas vigiladas y controladas.",
+            "Determina la dosis equivalente ambiental, en las zonas accesibles para el público."
+        ],
+        "correctAnswers": "Determina la dosis equivalente ambiental en las zonas vigiladas y controladas."
+    },
+    {
+        "question": "Los dosímetros personales.",
+        "answers": [
+            "Miden dosis equivalentes profundas Hp(0,10).",
+            "Deben estar supervisados por Empresas Autorizadas por el CSN.",
+            "Miden dosis equivalente superficial Hp(0,07).",
+            "Todas las anteriores."
+        ],
+        "correctAnswers": "Todas las anteriores."
+    },
+    {
+        "question": "El dosímetro de termoluminescencia.",
+        "answers": [
+            "Sólo se usa como dosimetría personal.",
+            "Necesita baterías para su funcionamiento.",
+            "Es la dosimetría autorizada en España.",
+            "No se usa, ya que se prioriza el uso del de película."
+        ],
+        "correctAnswers": "Es la dosimetría autorizada en España."
+    },
+    {
+        "question": "Las desventajas de los dosímetros de película.",
+        "answers": [
+            "No son equivalentes a tejido humano.",
+            "No son reutilizables.",
+            "El proceso de revelado es costoso y tóxico.",
+            "Todas las anteriores."
+        ],
+        "correctAnswers": "Todas las anteriores."
+    },
+    {
+        "question": "Los detectores de radiación se basan en.",
+        "answers": [
+            "Desaparición, ionización y separación.",
+            "Ionización, excitación y disociación.",
+            "Solo hay un tipo, que es la disociación.",
+            "Ninguna de las anteriores."
+        ],
+        "correctAnswers": "Ionización, excitación y disociación."
+    },
+    {
+        "question": "Los dosímetros de película.",
+        "answers": [
+            "Se valora el grado de ennegrecimiento de la película con densitómetro.",
+            "Está muy extendido su uso en el ámbito del radiodiagnóstico.",
+            "Es muy usado para medidas de dosis superiores a 50 mSv.",
+            "Se usan para medida de dosis ambiental."
+        ],
+        "correctAnswers": "Se valora el grado de ennegrecimiento de la película con densitómetro."
+    }
+]
