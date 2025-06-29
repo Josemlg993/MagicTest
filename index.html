@@ -58,6 +58,43 @@
 
 
       ];
+      // RESPUESTAS ESPECIALES Y VARIANTES
+const resp = [
+  "todas las anteriores",
+  "todas las opciones anteriores",
+  "niguna de las opciones anteriores",
+  "ninguna de las anteriores",
+  "todas son correctas",
+  "todas son incorrectas",
+  "ninguna es correcta",   
+];
+
+const sufijos = [
+  "",
+  ".",
+  " son correctas",
+  " son correctas.",
+  " son ciertas",
+  " son ciertas.",
+  " son verdaderas",
+  " son verdaderas."
+];
+
+const mayusculas = (str) => [
+  str,
+  str.charAt(0).toUpperCase() + str.slice(1)
+];
+
+// Generar todas las variantes posibles
+let variantes = [];
+for (let base of resp) {
+  for (let variante of mayusculas(base)) {
+    for (let suf of sufijos) {
+      variantes.push((variante + suf).trim());
+    }
+  }
+}
+
       let questions = [];
       let originalQuestions = [];
       let userAnswers = {};
@@ -96,11 +133,21 @@
         }
       }
 
+      // Define fuera, en el ámbito global:
+      function shuffleAnswersConEspeciales(array) {
+        const especiales = array.filter(ans => variantes.includes(ans.trim()));
+        const normales = array.filter(ans => !variantes.includes(ans.trim()));
+        shuffle(normales);
+        return normales.concat(especiales);
+      }
+
       function shuffleAnswers(array) {
         let arr = array.slice();
         shuffle(arr);
         return arr;
       }
+
+      
 
       // ================== CARGA DE CUESTIONARIO ==================
       function cargarCuestionarioLocal(archivo, titulo) {
@@ -112,13 +159,14 @@
             let preguntasBarajadas = data.slice();
             shuffle(preguntasBarajadas);
             questions = preguntasBarajadas.map(q => {
-              const shuffled = shuffleAnswers(q.answers);
+              const shuffled = shuffleAnswersConEspeciales(q.answers);
               return {
                 question: q.question,
                 answers: shuffled,
                 correctAnswers: q.correctAnswers
               };
             });
+
             originalQuestions = questions.slice(); // <-- Guarda copia original
             userAnswers = {};
             results = {};
@@ -239,9 +287,7 @@
         mostrarTodasLasPreguntas();
       };
 
-
-
-
+      
       // ================== MARCADOR LATERAL ==================
       function renderMarcadoresLateral(selectedIdx = -1) {
         const cont = document.getElementById('marcadoresLateral');
