@@ -98,6 +98,93 @@
             "Se produce a bajas energías."
         ],
         "correctAnswer": "Se produce a muy altas energías."
+    },
+     {
+        "question": "La pérdida de energía al pasar un electrón por las proximidades de un núcleo se denomina:",
+        "answers": [
+            "Radiación de frenado.",
+            "Rayos X característicos.",
+            "Ionización.",
+            "Excitación."
+        ],
+        "correctAnswers": "Radiación de frenado."
+    },
+    {
+        "question": "El espectro emitido por la radiación de frenado es:",
+        "answers": [
+            "Continuo, entre 0 y la energía cinética de la partícula.",
+            "Continuo, entre 0 y la raíz cuadrada de la energía cinética de la partícula.",
+            "Continuo, igual a la energía cinética de la partícula.",
+            "Discreto, corresponde a los saltos electrónicos entre la capa K y L de un átomo."
+        ],
+        "correctAnswers": "Continuo, entre 0 y la energía cinética de la partícula."
+    },
+    {
+        "question": "En relación a la radiación dispersa generada en el paciente explorado con rayos X, indicar la opción falsa:",
+        "answers": [
+            "produce mayor contraste en la imagen.",
+            "conviene minimizarla para disminuir la dosis al personal.",
+            "conviene colimar el haz adecuándolo a la zona explorada.",
+            "es conveniente eliminarla con las rejillas antidifusoras."
+        ],
+        "correctAnswers": "produce mayor contraste en la imagen."
+    },
+    {
+        "question": "El efecto fotoeléctrico se interpreta en base a:",
+        "answers": [
+            "la teoría ondulatoria de la luz.",
+            "la teoría corpuscular.",
+            "en base a las dos teorías.",
+            "ninguna de las dos."
+        ],
+        "correctAnswers": "en base a las dos teorías."
+    },
+    {
+        "question": "Los rayos X de baja energía (40-90 keV) permiten la discriminación de las estructuras orgánicas gracias a la interacción por:",
+        "answers": [
+            "Colisión elástica.",
+            "Efecto fotoeléctrico.",
+            "Efecto Compton.",
+            "Creación de pares."
+        ],
+        "correctAnswers": "Efecto fotoeléctrico."
+    },
+    {
+        "question": "La desaparición de un fotón del haz de rayos X al incidir sobre un electrón de la corteza tiene la denominación de:",
+        "answers": [
+            "Creación de pares.",
+            "Efecto Compton.",
+            "Efecto fotoeléctrico.",
+            "Radiación característica.",
+            "La generación de rayos X implica emisión de:",
+            "Electrones.",
+            "Neutrones.",
+            "Dos neutrones y dos protones.",
+            "Radiación electromagnética."
+        ],
+        "correctAnswers": [
+            "Efecto fotoeléctrico.",
+            "Radiación electromagnética."
+        ]
+    },
+    {
+        "question": "Como consecuencia del efecto Compton la imagen radiográfica obtenida es:",
+        "answers": [
+            "Mejor al llegar más fotones a la placa.",
+            "No tienen incidencia en la calidad de la radiografía.",
+            "Mejor ya que contribuye a mejorar la nitidez.",
+            "Peor ya que los fotones dispersos disminuyen la calidad."
+        ],
+        "correctAnswers": "Peor ya que los fotones dispersos disminuyen la calidad."
+    },
+    {
+        "question": "¿Qué fotones de rayos X alcanzan la placa radiográfica?",
+        "answers": [
+            "Todos los que han sufrido efecto fotoeléctrico.",
+            "Todos los que llegan al objeto examinado.",
+            "Sólo los que han sufrido efecto Compton.",
+            "Los que no interaccionan con el objeto y algunos dispersados."
+        ],
+        "correctAnswers": "Los que no interaccionan con el objeto y algunos dispersados."
     }
-     
 ]
