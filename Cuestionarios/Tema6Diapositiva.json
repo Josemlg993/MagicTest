@@ -198,5 +198,109 @@
             "Se usan para medida de dosis ambiental."
         ],
         "correctAnswers": "Se valora el grado de ennegrecimiento de la película con densitómetro."
+    },
+    [
+    {
+        "question": "Los principales efectos que producen los rayos X al atravesar la materia son..",
+        "answers": [
+            "Excitación de luminiscencia en algunos sólidos.",
+            "Producción de carga o ionización.",
+            "Aumento de la temperatura.",
+            "Disociación de la materia o ruptura molecular."
+        ],
+        "correctAnswers": [
+            "Excitación de luminiscencia en algunos sólidos.",
+            "Producción de carga o ionización.",
+            "Disociación de la materia o ruptura molecular."
+        ]
+    },
+    {
+        "question": "El hecho de que los gases sean conductores de la electricidad al ser atravesados por la radiación se puede aprovechar para:",
+        "answers": [
+            "Construir detectores de radiación.",
+            "Refrigerar los equipos de rayos X.",
+            "Refrigerar el transformador del equipo.",
+            "Proteger contra la radiación."
+        ],
+        "correctAnswers": "Construir detectores de radiación."
+    },
+    {
+        "question": "De las siguientes afirmaciones, sobre las cámaras de ionización:",
+        "answers": [
+            "Son poco sensibles.",
+            "El rendimiento para fotones de radiación X es de 10%.",
+            "Tienen una baja dependencia a la tensión aplicada.",
+            "Se emplean para medir radiación de tipo X, gamma y beta."
+        ],
+        "correctAnswers": [
+            "Son poco sensibles.",
+            "Tienen una baja dependencia a la tensión aplicada.",
+            "Se emplean para medir radiación de tipo X, gamma y beta."
+        ]
+    },
+    {
+        "question": "Si un dispositivo de detección de radiaciones tiene que funcionar como espectrómetro:",
+        "answers": [
+            "La señal de salida no debe ser amplificada.",
+            "La amplitud de los impulsos de salida debe ser proporcional a la energía.",
+            "Debe entregar una corriente media tan alta como sea posible.",
+            "La amplitud de los impulsos de salida debe ser independiente de la entrada"
+        ],
+        "correctAnswers": "La amplitud de los impulsos de salida debe ser proporcional a la energía."
+    },
+    {
+        "question": "Los detectores de termoluminiscencia están constituidos por:",
+        "answers": [
+            "cristal de INa.",
+            "emulsión de BrAg.",
+            "Sólidos aislantes o semiconductores.",
+            "compuestos de Sulfato de Cobre."
+        ],
+        "correctAnswers": "Sólidos aislantes o semiconductores."
+    },
+    {
+        "question": "En relación a los dosímetros de termoluminiscencia...",
+        "answers": [
+            "La termoluminiscencia se basa en la energía del fotón incidente.",
+            "La luz producida por calentamiento no es proporcional a la energía de la radiación incidente.",
+            "Contienen una banda de valencia y otra de conducción.",
+            "El proceso por el que se descarga el dosímetro sin ser calentado, se denomina \"fading\"."
+        ],
+        "correctAnswers": [
+            "La termoluminiscencia se basa en la energía del fotón incidente.",
+            "Contienen una banda de valencia y otra de conducción.",
+            "El proceso por el que se descarga el dosímetro sin ser calentado, se denomina \"fading\"."
+        ]
+    },
+    {
+        "question": "¿Cuál de los siguientes tipos de detector no se basa su funcionamiento en la producción directa de carga?",
+        "answers": [
+            "Contadores proporcionales.",
+            "Detectores de Semiconductores.",
+            "Detectores de centelleo.",
+            "Contadores Geiger."
+        ],
+        "correctAnswers": "Detectores de centelleo."
+    },
+    {
+        "question": "El monitor más extendido en los servicios de radiodiagnóstico son...",
+        "answers": [
+            "de centelleo sólido.",
+            "de semiconductor.",
+            "de ionización gaseosa.",
+            "de centelleo líquido."
+        ],
+        "correctAnswers": "de ionización gaseosa."
+    },
+    {
+        "question": "En los detectores Geiger-Muller:",
+        "answers": [
+            "Son importantes el tiempo muerto y el tiempo de recuperación.",
+            "Todos los impulsos medidos alcanzan la misma amplitud.",
+            "No puede funcionar como espectrómetro.",
+            "Todas son ciertas."
+        ],
+        "correctAnswers": "Todas son ciertas."
     }
+]
 ]
