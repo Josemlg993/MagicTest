@@ -7,7 +7,7 @@
             "Sv/s",
             "Rem/s"
         ],
-        "correctAnswer": "Sv"
+        "correctAnswers": "Sv"
     },
     {
         "question": "Para dosimetría de película, ¿cuál de estas afirmaciones es incorrecta?",
@@ -17,7 +17,7 @@
             "Límite inferior de detección es demasiado alto",
             "Registro permanente"
         ],
-        "correctAnswer": "Son reutilizables"
+        "correctAnswers": "Son reutilizables"
     },
     {
         "question": "¿Cuál de estas afirmaciones es correcta?",
@@ -27,7 +27,7 @@
             "La magnitud es el fenómeno que puede distinguirse cualitativamente y determinarse cuantitativamente",
             "La metrología es la parte de la ciencia que trata de las medidas"
         ],
-        "correctAnswer": "Todas son correctas"
+        "correctAnswers": "Todas son correctas"
     },
     {
         "question": "¿Cuál de estas equivalencias es correcta?",
@@ -37,7 +37,7 @@
             "1 rem = 1 Gy",
             "1 rem = 0,1 Sv"
         ],
-        "correctAnswer": "1 rad = 0,01 Gy"
+        "correctAnswers": "1 rad = 0,01 Gy"
     },
     {
         "question": "La unidad de Dosis Equivalente según el S.I. es",
@@ -47,7 +47,7 @@
             "Gy",
             "Sv/s"
         ],
-        "correctAnswer": "Ninguna de las anteriores"
+        "correctAnswers": "Ninguna de las anteriores"
     },
     {
         "question": "La unidad de la tasa de la exposición es",
@@ -57,7 +57,7 @@
             "C/kg",
             "Sv/s"
         ],
-        "correctAnswer": "C/(kg·s)"
+        "correctAnswers": "C/(kg·s)"
     },
     {
         "question": "La magnitud que expresa el daño biológico de la radiación es",
@@ -67,7 +67,7 @@
             "Dosis absorbida",
             "Tasa de exposición"
         ],
-        "correctAnswer": "Dosis equivalente"
+        "correctAnswers": "Dosis equivalente"
     },
     {
         "question": "El LET",
@@ -77,7 +77,7 @@
             "Se mide en Julios/metro",
             "Es alta para partículas pesadas y baja para partículas ligeras"
         ],
-        "correctAnswer": "Todas las anteriores"
+        "correctAnswers": "Todas las anteriores"
     },
     {
         "question": "La dosis efectiva se mide en",
@@ -87,7 +87,7 @@
             "Gy",
             "rad"
         ],
-        "correctAnswer": "Sv"
+        "correctAnswers": "Sv"
     },
     {
         "question": "Los resultados de la Dosimetría Personal son de utilidad para",
@@ -97,7 +97,7 @@
             "Verificar la idoneidad de las medidas de protección contra la radiación en los lugares de trabajo",
             "Detectar posibles cambios en las condiciones radiológicas de trabajo"
         ],
-        "correctAnswer": "Todas las anteriores"
+        "correctAnswers": "Todas las anteriores"
     },
     {
         "question": "Las magnitudes de protección radiológica",
@@ -107,7 +107,7 @@
             "Permiten evaluar los posibles riesgos de la exposición de las radiaciones ionizantes",
             "Permiten evaluar los posibles efectos biológicos debidos a la exposición de las radiaciones ionizantes"
         ],
-        "correctAnswer": "Todas las anteriores"
+        "correctAnswers": "Todas las anteriores"
     },
     {
         "question": "Se usan materiales termoluminiscentes porque",
@@ -117,7 +117,7 @@
             "Son detectores de ionización gaseosa",
             "Ninguna es correcta"
         ],
-        "correctAnswer": "La luz emitida al ser calentado es proporcional a la dosis de radiación absorbida"
+        "correctAnswers": "La luz emitida al ser calentado es proporcional a la dosis de radiación absorbida"
     },
     {
         "question": "La dosis absorbida",
@@ -127,7 +127,7 @@
             "Se mide en Gy",
             "Es la energía depositada sobre el cuerpo radiado por unidad de masa"
         ],
-        "correctAnswer": "Todas son correctas"
+        "correctAnswers": "Todas son correctas"
     },
     {
         "question": "La unidad de la tasa de dosis equivalente es:",
@@ -137,7 +137,7 @@
             "C/kg",
             "mGy/s"
         ],
-        "correctAnswer": "mSv/s"
+        "correctAnswers": "mSv/s"
     },
     {
         "question": "La exposición se mide en",
@@ -147,7 +147,7 @@
             "Sv",
             "rem"
         ],
-        "correctAnswer": "C/kg"
+        "correctAnswers": "C/kg"
     },
     {
         "question": "La dosis absorbida se mide en",
@@ -157,7 +157,7 @@
             "rem",
             "Julios"
         ],
-        "correctAnswer": "Gy"
+        "correctAnswers": "Gy"
     },
     {
         "question": "La tasa de dosis efectiva es",
@@ -167,7 +167,7 @@
             "La dosis por unidad de longitud",
             "La dosis equivalente por unidad de tiempo"
         ],
-        "correctAnswer": "La dosis por unidad de tiempo"
+        "correctAnswers": "La dosis por unidad de tiempo"
     },
     {
         "question": "Tipos de dosimetría",
@@ -177,7 +177,7 @@
             "Personal",
             "Área"
         ],
-        "correctAnswer": "Todas son correctas"
+        "correctAnswers": "Todas son correctas"
     },
     {
         "question": "La transferencia lineal de energía (LET)",
@@ -187,7 +187,7 @@
             "Ninguna de las anteriores es correcta",
             "Su unidad es Sv"
         ],
-        "correctAnswer": "Describe la deposición de energía de una partícula al atravesar linealmente un medio."
+        "correctAnswers": "Describe la deposición de energía de una partícula al atravesar linealmente un medio."
     },
     {
         "question": "Las siglas de Comisión Internacional de Protección Radiológica son",
@@ -197,6 +197,96 @@
             "ICRU",
             "NCRP"
         ],
-        "correctAnswer": "ICRP"
+        "correctAnswers": "ICRP"
+    },
+    {
+        "question": "¿En qué unidad de medida se cuantifica el daño biológico que ocasionan las radiaciones ionizantes?",
+        "answers": [
+            "Becquerelio (Bq).",
+            "Gray (Gy).",
+            "Julios (J).",
+            "Sievert (Sv)."
+        ],
+        "correctAnswers": "Sievert (Sv)."
+    },
+    {
+        "question": "¿La atenuación y la absorción son conceptos relacionados con...?",
+        "answers": [
+            "Dosis equivalente.",
+            "Coeficiente de interacción con la materia.",
+            "Kerma.",
+            "Radiación ionizante."
+        ],
+        "correctAnswers": "Coeficiente de interacción con la materia."
+    },
+    {
+        "question": "¿El concepto de Exposición...?",
+        "answers": [
+            "Se introdujo para permitir la comparación de cantidades de radiación suministradas por los tubos de rayos X.",
+            "Es una unidad en el que los positrones se aceleran linealmente.",
+            "Ninguna es verdadera.",
+            "Se obtiene al dividir la carga resultante de la ionización producida por la masa de aire donde se produjo."
+        ],
+        "correctAnswers": "Se obtiene al dividir la carga resultante de la ionización producida por la masa de aire donde se produjo."
+    },
+    {
+        "question": "¿Sv/h es el símbolo de una unidad de?",
+        "answers": [
+            "Exposición.",
+            "Tasa de exposición.",
+            "Tasa de dosis equivalente.",
+            "Tasa de dosis absorbida."
+        ],
+        "correctAnswers": "Tasa de dosis equivalente."
+    },
+    {
+        "question": "¿Con objeto de evaluar los efectos de las radiaciones ionizantes sobre la población, se utiliza la magnitud?",
+        "answers": [
+            "Dosis absorbida.",
+            "Dosis efectiva.",
+            "Tasa de exposición.",
+            "Actividad."
+        ],
+        "correctAnswers": "Dosis efectiva."
+    },
+    {
+        "question": "¿La unidad de dosis equivalente en el Sistema internacional es el?",
+        "answers": [
+            "Sievert.",
+            "Curio.",
+            "Rad.",
+            "Gray."
+        ],
+        "correctAnswers": "Sievert."
+    },
+    {
+        "question": "¿Una persona que estuviera 2 horas en un área donde la tasa de dosis es de 5 rem/h recibiría una dosis equivalente de?",
+        "answers": [
+            "1,0 Sv.",
+            "10 Sv.",
+            "1,0 Gy.",
+            "0,10 Sv."
+        ],
+        "correctAnswers": "0,10 Sv."
+    },
+    {
+        "question": "¿Hablando de rayos X, cuál de las siguientes equivalencias es la cierta?",
+        "answers": [
+            "1 R = 1 Gy = 1 rem = 10 mSv.",
+            "1 R = 1 rad = 1 rem = 50 mSv.",
+            "1 R = 1 rad = 1 rem = 1 Sv.",
+            "1 R = 1 rad = 1 rem = 10 mSv."
+        ],
+        "correctAnswers": "1 R = 1 rad = 1 rem = 10 mSv."
+    },
+    {
+        "question": "¿En radiología veterinaria, la dosis a optimizar es...?",
+        "answers": [
+            "La que puede recibir el operador, que será la mínima necesaria compatible con los requerimientos del receptor de imagen según especificaciones y características del equipo de rayos X para la obtención de la imagen más adecuada para el diagnóstico.",
+            "La dosis a la entrada de la sala.",
+            "La dosis superficie a la entrada del animal (DSE), de acuerdo con el RD 1976/1999.",
+            "La dosis-área del animal, teniendo en cuenta los Niveles de Referencia de Dosis."
+        ],
+        "correctAnswers": "La que puede recibir el operador, que será la mínima necesaria compatible con los requerimientos del receptor de imagen según especificaciones y características del equipo de rayos X para la obtención de la imagen más adecuada para el diagnóstico."
     }
 ]
