@@ -1,0 +1,469 @@
+[
+    {
+        "question": "¿Cuáles son las características de los efectos probabilísticos?",
+        "answers": [
+            "De naturaleza somática o hereditaria.",
+            "Sus efectos son independientes de la dosis recibida.",
+            "Lesión letal de una o pocas células.",
+            "Todas son correctas."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "El mecanismo de interacción de los efectos deterministas.",
+        "answers": [
+            "Da lugar a un alto número de muertes celulares.",
+            "Da lugar a un bajo número de muertes celulares.",
+            "Es independiente el número de muertes celulares de la dosis recibida.",
+            "Es probabilista."
+        ],
+        "correctAnswers": "Da lugar a un alto número de muertes celulares."
+    },
+    {
+        "question": "Las radiaciones X que se producen en las clínicas dentales son del tipo.",
+        "answers": [
+            "Baja LET (Transferencia de Energía Lineal).",
+            "Radiocatalizador.",
+            "Radioinhibidor.",
+            "Alto LET (Transferencia de Energía Lineal)."
+        ],
+        "correctAnswers": "Baja LET (Transferencia de Energía Lineal)."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones no es correcta?",
+        "answers": [
+            "La interacción de la radiación con las células es función de probabilidad.",
+            "Los efectos y acciones de las radiaciones siempre se consideran de tipo LESIVO, ya que ocasiona una lesión o pérdida de información en el material genético.",
+            "Los cambios producidos en las células, tejidos y órganos no son únicos, son específicos.",
+            "La interacción de la radiación en una célula es de carácter no selectivo."
+        ],
+        "correctAnswers": "Los cambios producidos en las células, tejidos y órganos no son únicos, son específicos."
+    },
+    {
+        "question": "Los factores a tener en cuenta en los efectos deterministas del feto son.",
+        "answers": [
+            "Edad gestacional.",
+            "Distribución de la dosis en el tiempo.",
+            "Dosis absorbida.",
+            "Todas las anteriores."
+        ],
+        "correctAnswers": "Todas las anteriores."
+    },
+    {
+        "question": "El primer síndrome cuando tiene lugar una irradiación aguda en todo el cuerpo es.",
+        "answers": [
+            "Prodrómica.",
+            "Enfermedad manifiesta.",
+            "Latente.",
+            "Crónica."
+        ],
+        "correctAnswers": "Prodrómica."
+    },
+    {
+        "question": "¿En qué período los efectos o daños al embrión serían más graves?",
+        "answers": [
+            "Tercer trimestre.",
+            "Segundo trimestre.",
+            "Primer trimestre.",
+            "Es independiente del trimestre."
+        ],
+        "correctAnswers": "Primer trimestre."
+    },
+    {
+        "question": "Las etapas de Síndrome Agudo de Irradiación son.",
+        "answers": [
+            "Prodrómica, Latente y de Enfermedad manifiesta.",
+            "Prodrómica y Latente.",
+            "Prodrómica y Crónica.",
+            "Latente y Crónica."
+        ],
+        "correctAnswers": "Prodrómica, Latente y de Enfermedad manifiesta."
+    },
+    {
+        "question": "Los efectos estocásticos se clasifican en.",
+        "answers": [
+            "Somáticos.",
+            "Hereditarios.",
+            "Ninguno de los anteriores.",
+            "Hereditarios y somáticos."
+        ],
+        "correctAnswers": "Hereditarios y somáticos."
+    },
+    {
+        "question": "Los efectos deterministas se caracterizan por.",
+        "answers": [
+            "Tener un período de latencia corto.",
+            "Solo afectar al Sistema Nervioso.",
+            "Solo afectar al Sistema Hematopoyético.",
+            "Tener un período de latencia largo."
+        ],
+        "correctAnswers": "Tener un período de latencia corto."
+    },
+    {
+        "question": "El tiempo de interacción de radiación X a nivel celular es.",
+        "answers": [
+            "Inexistente.",
+            "Instantáneo (10-17 s).",
+            "Intenso.",
+            "Prolongado."
+        ],
+        "correctAnswers": "Instantáneo (10-17 s)."
+    },
+    {
+        "question": "Los efectos deterministas en cuerpo completo (Síndrome de Irradiación Aguda) pueden clasificarse como.",
+        "answers": [
+            "SAI Neurológico.",
+            "SAI Gastrointestinal.",
+            "Todas son correctas.",
+            "SAI Hemopoyético."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "Los tipos de efectos en función de la dosis y periodo gestacional en fetos pueden ser.",
+        "answers": [
+            "Anomalías congénitas que aparecen en la infancia.",
+            "Muerte en organismo en desarrollo.",
+            "Todas las anteriores.",
+            "Anomalías congénitas que aparecen en el nacimiento (irradiación del útero)."
+        ],
+        "correctAnswers": "Todas las anteriores."
+    },
+    {
+        "question": "Una población de células es muy radiosensible cuando.",
+        "answers": [
+            "A altas dosis de radiación muere una fracción importante de la misma.",
+            "A dosis moderadas de radiación muere una baja fracción de la misma.",
+            "A bajas dosis de radiación muere una fracción importante de la misma.",
+            "Radiación de alta LET mata una fracción importante de la misma."
+        ],
+        "correctAnswers": "A bajas dosis de radiación muere una fracción importante de la misma."
+    },
+    {
+        "question": "La gravedad de los efectos estocásticos es.",
+        "answers": [
+            "Dependiente de la dosis.",
+            "Dependiente del momento de irradiación.",
+            "Independiente de la dosis.",
+            "Independiente del momento de irradiación."
+        ],
+        "correctAnswers": "Independiente de la dosis."
+    },
+    {
+        "question": "Los efectos de la radiación siempre se consideran de carácter lesivo porque.",
+        "answers": [
+            "Ninguna es correcta.",
+            "Nunca ocasionan lesión o pérdida de información genética.",
+            "Siempre se produce un daño a la célula y nunca un beneficio.",
+            "Las acciones sobre la célula nunca son dañinas."
+        ],
+        "correctAnswers": "Siempre se produce un daño a la célula y nunca un beneficio."
+    },
+    {
+        "question": "La respuesta tras la irradiación en un feto depende de.",
+        "answers": [
+            "Todas son correctas.",
+            "Estado de desarrollo.",
+            "Cantidad de radiación recibida.",
+            "El momento de irradiación."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "La molécula de oxígeno (O2) es.",
+        "answers": [
+            "Radiocatalizador.",
+            "Radioinhibidor.",
+            "Radioprotector.",
+            "Ninguna es correcta."
+        ],
+        "correctAnswers": "Radiocatalizador."
+    },
+    {
+        "question": "El mecanismo de acción de interacción radiación-célula más probable es.",
+        "answers": [
+            "Acción Directa.",
+            "Acción indirecta.",
+            "Ambas por igual.",
+            "Ninguna de las dos."
+        ],
+        "correctAnswers": "Acción indirecta."
+    },
+    {
+        "question": "¿Cuál de estas regiones anatómicas es más sensible a la radiación?",
+        "answers": [
+            "Cristalino.",
+            "Cerebro.",
+            "Extremidades.",
+            "Piel."
+        ],
+        "correctAnswers": "Cristalino."
+    },
+    {
+        "question": "Las lesiones producidas por la radiación en el DNA podrían ser.",
+        "answers": [
+            "Daños en las bases nitrogenadas.",
+            "Roturas uniones proteínas DNA.",
+            "Todas son correctas.",
+            "Roturas en una cadena o varias cadenas."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "Los efectos en embrión o feto se pueden manifestar.",
+        "answers": [
+            "En el parto.",
+            "Las dos anteriores.",
+            "En la etapa de crecimiento.",
+            "Exclusivamente en la madre."
+        ],
+        "correctAnswers": "Las dos anteriores."
+    },
+    {
+        "question": "Los efectos estocásticos hereditarios.",
+        "answers": [
+            "Se producen cuando se irradian las células somáticas.",
+            "Son dependientes del umbral de dosis.",
+            "Son independientes de las células irradiadas.",
+            "Se producen cuando se irradian las células germinales."
+        ],
+        "correctAnswers": "Se producen cuando se irradian las células germinales."
+    },
+    {
+        "question": "La relación en Dosis/Efectos en los efectos deterministas es.",
+        "answers": [
+            "Lineal.",
+            "Constante.",
+            "Exponencial.",
+            "Lineal cuadrática."
+        ],
+        "correctAnswers": "Lineal."
+    },
+    {
+        "question": "Los efectos deterministas localizados a nivel ocular son.",
+        "answers": [
+            "Quemaduras en el párpado.",
+            "Daño en la retina.",
+            "Ninguna es correcta.",
+            "Opacidad del cristalino (cataratas)."
+        ],
+        "correctAnswers": "Opacidad del cristalino (cataratas)."
+    },
+    {
+        "question": "La radiosensibilidad es.",
+        "answers": [
+            "La medida de la proliferación celular.",
+            "La medida del daño celular.",
+            "Sensibilidad que tienen los diferentes órganos, tejidos y células a las radiaciones ionizantes.",
+            "El tiempo en dar lugar a un daño por radiación."
+        ],
+        "correctAnswers": "Sensibilidad que tienen los diferentes órganos, tejidos y células a las radiaciones ionizantes."
+    },
+    {
+        "question": "La disciplina que se ocupa del estudio de los efectos de la radiación a nivel celular se denomina.",
+        "answers": [
+            "Radioquímica.",
+            "Radiofísica.",
+            "Radiofarmacia.",
+            "Radiobiología."
+        ],
+        "correctAnswers": "Radiobiología."
+    },
+    {
+        "question": "La acción indirecta a nivel celular se produce por.",
+        "answers": [
+            "Todas las anteriores.",
+            "Las reacciones químicas que producen los radicales libres, pudiendo causar varias lesiones en la célula.",
+            "La absorción de la energía disipada en el medio intracelular (principalmente el agua, ya que la célula está formada por un 75-80% de agua).",
+            "La creación de radicales libres al interaccionar la radiación con la molécula de agua."
+        ],
+        "correctAnswers": "Todas las anteriores."
+    },
+    {
+        "question": "Las células más radiosensibles son aquellas.",
+        "answers": [
+            "Es independiente de la actividad mitótica.",
+            "Que presentan una menor actividad meiótica.",
+            "Que presentan una menor actividad mitótica.",
+            "Que presentan una mayor actividad mitótica."
+        ],
+        "correctAnswers": "Que presentan una mayor actividad mitótica."
+    },
+    {
+        "question": "La interacción de la radiación a nivel celular es.",
+        "answers": [
+            "Insignificante.",
+            "Específica.",
+            "Inespecífica.",
+            "Selectiva."
+        ],
+        "correctAnswers": "Inespecífica."
+    },
+    {
+        "question": "El daño celular causado por radiaciones ionizantes es:",
+        "answers": [
+            "Inespecífico.",
+            "A veces no lesivo.",
+            "Específico.",
+            "Específico si se sobrepasa un cierto umbral."
+        ],
+        "correctAnswers": "Inespecífico."
+    },
+    {
+        "question": "¿Cuáles de las siguientes afirmaciones NO es cierta? Una célula es más radiosensible:",
+        "answers": [
+            "Cuanto más próxima a la superficie de la piel se encuentre al poder interaccionar con mayor probabilidad con el haz de radiación.",
+            "Cuanto más largo sea su futuro de divisiones.",
+            "Cuanto mayor sea su actividad reproductiva.",
+            "Cuanto menos diferenciadas sea."
+        ],
+        "correctAnswers": "Cuanto más próxima a la superficie de la piel se encuentre al poder interaccionar con mayor probabilidad con el haz de radiación."
+    },
+    {
+        "question": "Los agentes químicos, físicos o biológicos que aumentan el daño celular a las radiaciones se denominan:",
+        "answers": [
+            "Radioprotectores.",
+            "Radiosensibilizantes.",
+            "Protectores celulares a la radiación.",
+            "Captadores de radicales libres."
+        ],
+        "correctAnswers": "Radiosensibilizantes."
+    },
+    {
+        "question": "Los efectos biológicos estocásticos (genéticos) de las radiaciones se producen con:",
+        "answers": [
+            "Cualquier dosis absorbida.",
+            "Fotones gamma exclusivamente.",
+            "Dosis absorbidas superiores a ciertos valores umbrales.",
+            "Dosis absorbidas muy altas."
+        ],
+        "correctAnswers": "Cualquier dosis absorbida."
+    },
+    {
+        "question": "La respuesta sistémica a la radiación va a depender:",
+        "answers": [
+            "De la probabilidad de que se produzca el síndrome correspondiente.",
+            "De la radiosensibilidad del tejido u órgano afectado.",
+            "Del periodo de latencia.",
+            "De la dosis recibida."
+        ],
+        "correctAnswers": [
+            "De la radiosensibilidad del tejido u órgano afectado.",
+            "Del periodo de latencia.",
+            "De la dosis recibida."
+        ]
+    },
+    {
+        "question": "De las siguientes afirmaciones, ¿cuáles son ciertas?",
+        "answers": [
+            "Por encima de la dosis umbral para la aparición de efectos no estocásticos, la gravedad del daño aumenta al aumentar la dosis.",
+            "Los efectos estocásticos pueden manifestarse en los descendientes de la persona irradiada.",
+            "Los efectos deterministas son el resultado de la muerte de células.",
+            "La probabilidad de aparición de un cáncer debido a la radiación es un efecto determinista."
+        ],
+        "correctAnswers": [
+            "Por encima de la dosis umbral para la aparición de efectos no estocásticos, la gravedad del daño aumenta al aumentar la dosis.",
+            "Los efectos estocásticos pueden manifestarse en los descendientes de la persona irradiada.",
+            "Los efectos deterministas son el resultado de la muerte de células."
+        ]
+    },
+    {
+        "question": "De las siguientes estirpes celulares ¿cuál es más radiosensible?",
+        "answers": [
+            "Leucocitos.",
+            "Neuronas.",
+            "Linfocitos.",
+            "Hematíes."
+        ],
+        "correctAnswers": "Linfocitos."
+    },
+    {
+        "question": "Los efectos de la radiación que se manifiestan de una manera probabilística, los conocemos como:",
+        "answers": [
+            "Escolásticos.",
+            "Escatológicos.",
+            "Estocásticos.",
+            "Todas son falsas."
+        ],
+        "correctAnswers": "Estocásticos."
+    },
+    {
+        "question": "De las siguientes afirmaciones, sobre los efectos somáticos inmediatos, señala las que son ciertas:",
+        "answers": [
+            "Se pueden manifestar tanto en un tejido en concreto o sobre todo el cuerpo.",
+            "Se trata de efectos estocásticos.",
+            "Se trata de efectos deterministas.",
+            "Su gravedad varía con la dosis."
+        ],
+        "correctAnswers": [
+            "Se pueden manifestar tanto en un tejido en concreto o sobre todo el cuerpo.",
+            "Se trata de efectos deterministas.",
+            "Su gravedad varía con la dosis."
+        ]
+    },
+    {
+        "question": "En relación a los efectos estocásticos. Señala la opción correcta:",
+        "answers": [
+            "Nunca están relacionados con las mutaciones en células germinales.",
+            "Se caracterizan por la posibilidad de que ocurran y esta depende de la dosis.",
+            "La gravedad de estos efectos no depende de la dosis.",
+            "Son siempre de tipo somático."
+        ],
+        "correctAnswers": [
+            "Se caracterizan por la posibilidad de que ocurran y esta depende de la dosis.",
+            "La gravedad de estos efectos no depende de la dosis."
+        ]
+    },
+    {
+        "question": "¿Cuáles de los siguientes es un determinante de los efectos biológicos debidos a la radiación?",
+        "answers": [
+            "Cantidad total de radiación absorbida.",
+            "Tiempo de exposición.",
+            "Tasa de dosis absorbida.",
+            "Área expuesta."
+        ],
+        "correctAnswers": [
+            "Cantidad total de radiación absorbida.",
+            "Tiempo de exposición.",
+            "Tasa de dosis absorbida.",
+            "Área expuesta."
+        ]
+    },
+    {
+        "question": "En el ámbito de la protección radiológica según la ICRP tiene una gran influencia en los efectos radiobiológicos:",
+        "answers": [
+            "El efecto vecindad.",
+            "La respuesta adaptativa.",
+            "La ICRP estima que se pueden despreciar estos efectos no convencionales porque ya se ha tenido en cuenta implícitamente el efecto en la estimación del riesgo proveniente de estudios epidemiológicos o porque no existen pruebas de un efecto nocivo.",
+            "La inestabilidad genómica."
+        ],
+        "correctAnswers": "La ICRP estima que se pueden despreciar estos efectos no convencionales porque ya se ha tenido en cuenta implícitamente el efecto en la estimación del riesgo proveniente de estudios epidemiológicos o porque no existen pruebas de un efecto nocivo."
+    },
+    {
+        "question": "Las medidas fundamentales de protección contra la radiaciones se tomaron fundamentalmente…",
+        "answers": [
+            "A partir de la creación de la comisión internacional de protección contra los rayos x y el radio.",
+            "Antes de 1928, tras la aparición de muchos casos de cancer.",
+            "A partir de 1950, con la creación de la ICRP."
+        ],
+        "correctAnswers": "A partir de la creación de la comisión internacional de protección contra los rayos x y el radio."
+    },
+    {
+        "question": "Indica cuál de las siguiente afirmaciones es correcta.",
+        "answers": [
+            "Los rayos X se decubrieron en una sesión de espiritismo.",
+            "La primera sesión de cine, gracias a los hermanos Lumière, tuvo lugar el mismo día que Roentgen descubrió los rayos X, el 28 de diciembre de 1895.",
+            "Roentgen se inspiró en una sesión de cine cuando descubrió los rayos X."
+        ],
+        "correctAnswers": "La primera sesión de cine, gracias a los hermanos Lumière, tuvo lugar el mismo día que Roentgen descubrió los rayos X, el 28 de diciembre de 1895."
+    },
+    {
+        "question": "Indica la respuesta correcta.",
+        "answers": [
+            "Desde es primer momento se vió la utilidad de los rayos X en medicina, aunque no se conocían los riesgos de su uso.",
+            "Afortunadamente desde es primer momento se contó con los generadores de alta tensión y red electrica que permitió el uso de rayos X en los hospitales y en el campo de batalla.",
+            "Afortunadamente desde es primer momento se conocía el riesgo a la radiación y se blindaron con plomo los tubos de rayos X."
+        ],
+        "correctAnswers": "Desde es primer momento se vió la utilidad de los rayos X en medicina, aunque no se conocían los riesgos de su uso."
+    }
+]
