@@ -1,0 +1,181 @@
+[
+    {
+        "question": "El objetivo principal de la protección radiológica es:",
+        "answers": [
+            "Limitar la probabilidad de incidencia de los efectos estocásticos.",
+            "Prevenir la ocurrencia de efectos no estocásticos y limitar la probabilidad de incidencia de los efectos estocásticos.",
+            "Prevenir la ocurrencia de efectos estocástico y limitar la probabilidad de incidencia de los efectos estocásticos.",
+            "Prevenir la ocurrencia de efectos estocásticos."
+        ],
+        "correctAnswers": "Prevenir la ocurrencia de efectos no estocásticos y limitar la probabilidad de incidencia de los efectos estocásticos."
+    },
+    {
+        "question": "La ICRP para estimar el riesgo de efectos estocásticos a dosis bajas de radiación considera que:",
+        "answers": [
+            "Existe una relación lineal con la dosis y no existe dosis umbral.",
+            "Existe una relación cuadrática con la dosis y un umbral de dosis.",
+            "Existe una dosis umbral para efectos estocásticos por debajo de la cual éstos nunca se producirán.",
+            "No existe dosis umbral, siendo el efecto dependiente del cuadrado de la dosis recibida."
+        ],
+        "correctAnswers": "Existe una relación lineal con la dosis y no existe dosis umbral."
+    },
+    {
+        "question": "Según el criterio ALARA cualquier dosis de radiación por debajo de los límites anuales establecidos estará:",
+        "answers": [
+            "Permitida solo para trabajadores expuestos.",
+            "Tolerada incondicionalmente.",
+            "Permitida si su recepción está justificada y la operación que da lugar a la misma ha sido perfeccionada para hacerla lo mejor posible.",
+            "Permitida siempre en condiciones habituales."
+        ],
+        "correctAnswers": "Permitida si su recepción está justificada y la operación que da lugar a la misma ha sido perfeccionada para hacerla lo mejor posible."
+    },
+    {
+        "question": "¿Cuál de los siguientes apartados no forma parte del sistema de protección radiológica?",
+        "answers": [
+            "justificación.",
+            "optimización.",
+            "niveles de referencia de dosis.",
+            "limitación de las dosis individuales."
+        ],
+        "correctAnswers": "niveles de referencia de dosis."
+    },
+    {
+        "question": "Marca la respuesta correcta.",
+        "answers": [
+            "Las dosis tan bajas como sea razonablemente posible se alcanzan aplicando el principio...",
+            "optimización.",
+            "ALARA.",
+            "justificación.",
+            "limitación de las dosis individuales."
+        ],
+        "correctAnswers": [
+            "optimización.",
+            "ALARA."
+        ]
+    },
+    {
+        "question": "Marca la respuesta correcta.",
+        "answers": [
+            "A las exposiciones debidas a examen y tratamiento médico se le deben aplicar los principios de:",
+            "justificación, optimización y limitación.",
+            "justificación y limitación.",
+            "justificación y optimización.",
+            "justificación únicamente."
+        ],
+        "correctAnswers": "justificación y optimización."
+    },
+    {
+        "question": "Marca la respuesta correcta.",
+        "answers": [
+            "La tasa de exposición producida por una fuente puntual, varía con la distancia r proporcionalmente a:",
+            "r.",
+            "1/r2.",
+            "r2.",
+            "1/r."
+        ],
+        "correctAnswers": "1/r2."
+    },
+    {
+        "question": "¿Se clasifican como categoría A aquellos trabajadores expuestos?",
+        "answers": [
+            "que por las condiciones en que se realiza su trabajo, es muy improbable que puedan recibir una dosis superior a 6 mSv por año oficial o a 3/10 de alguno de los límites de dosis equivalente establecidos para el cristalino, la piel y las extremidades.",
+            "que por las condiciones en las que realizan su trabajo, pueden recibir dosis superiores a 6 mSv/año oficial o una dosis equivalente superior a 3/10 de los límites de dosis equivalentes establecidos para el cristalino, piel y extremidades.",
+            "Ninguna de las anteriores.",
+            "que por las condiciones en las que realizan su trabajo, pueden recibir dosis superiores a 1 mSv/año oficial o una dosis equivalente superior a 3/10 de los límites de dosis equivalentes establecidos para el cristalino, piel y extremidades."
+        ],
+        "correctAnswers": "que por las condiciones en las que realizan su trabajo, pueden recibir dosis superiores a 6 mSv/año oficial o una dosis equivalente superior a 3/10 de los límites de dosis equivalentes establecidos para el cristalino, piel y extremidades."
+    },
+    {
+        "question": "¿Se clasificarán como zonas de vigilada aquellas zonas donde?",
+        "answers": [
+            "Existe la posibilidad de recibir dosis efectivas inferiores a 20 mSv/año oficial.",
+            "Existe la posibilidad de recibir dosis efectivas superiores a 6 mSv/año oficial, o una dosis equivalente superior a tres décimos (3/10) de los límites equivalentes para el cristalino, piel o extremidades.",
+            "Existe la posibilidad de recibir dosis efectivas inferiores a 1 mSv/año oficial, o una dosis equivalente inferior a un décimo (1/10) de los límites equivalentes para el cristalino, piel o extremidades.",
+            "Existe la posibilidad de recibir dosis efectivas superiores a 1 mSv/año oficial, o una dosis equivalente superior a un décimo (1/10) de los límites equivalentes para el cristalino, piel o extremidades, siendo improbable recibir dosis efectivas superiores a 6 mSv/año oficial, o una dosis equivalente superior a tres décimos (3/10) de los límites equivalentes para el cristalino, piel o extremidades."
+        ],
+        "correctAnswers": "Existe la posibilidad de recibir dosis efectivas superiores a 1 mSv/año oficial, o una dosis equivalente superior a un décimo (1/10) de los límites equivalentes para el cristalino, piel o extremidades, siendo improbable recibir dosis efectivas superiores a 6 mSv/año oficial, o una dosis equivalente superior a tres décimos (3/10) de los límites equivalentes para el cristalino, piel o extremidades."
+    },
+    {
+        "question": "¿Los principios de la protección radiológica son?",
+        "answers": [
+            "La Limitación y los Niveles de Referencia de Dosis.",
+            "Justificación, Optimización y Alara.",
+            "Justificación, ALARA y limitación de dosis.",
+            "Justificación, Repetición y Limitación de dosis."
+        ],
+        "correctAnswers": "Justificación, ALARA y limitación de dosis."
+    },
+    {
+        "question": "¿Los criterios generales de reducción de dosis en protección radiológica operacional son?",
+        "answers": [
+            "Distancia, tiempo y blindaje.",
+            "Distancia, Blindaje y uso de delantales plomados.",
+            "Distancia y tiempo.",
+            "Distancia, tiempo y uso del aparato."
+        ],
+        "correctAnswers": "Distancia, tiempo y blindaje."
+    },
+    {
+        "question": "¿La clasificación de los trabajadores expuestos en una clínica dental es responsabilidad de?",
+        "answers": [
+            "El responsable sanitario.",
+            "El odontólogo.",
+            "El director de rayos X.",
+            "El titular de la instalación."
+        ],
+        "correctAnswers": "El titular de la instalación."
+    },
+    {
+        "question": "¿Las normas de protección radiológicas?",
+        "answers": [
+            "Son normas y medidas de vigilancia y control relativas a las diferentes zonas y las distintas categorías de los trabajadores expuestos.",
+            "Sólo se establecen para las instalaciones de radiodiagnóstico dental.",
+            "Deben estar por escrito y guardadas con el resto de la documentación de la clínica, quedando a disposición de los pacientes.",
+            "No es obligatoria su aplicación dentro de las instalaciones de radiodiagnóstico."
+        ],
+        "correctAnswers": "Son normas y medidas de vigilancia y control relativas a las diferentes zonas y las distintas categorías de los trabajadores expuestos."
+    },
+    {
+        "question": "¿Los lugares de trabajo en una instalación de radiodiagnóstico se clasificarán en función del?",
+        "answers": [
+            "Riesgo de contaminación.",
+            "Riego Laboral de las zonas.",
+            "Riesgo de exposición a radiaciones ionizantes.",
+            "Tipo de pacientes y pruebas diagnósticas a realizar."
+        ],
+        "correctAnswers": "Riesgo de exposición a radiaciones ionizantes."
+    },
+    {
+        "question": "¿Los principios de justificación y optimización?",
+        "answers": [
+            "Se aplican únicamente en las exposiciones dentro del marco de diagnóstico o tratamiento médico.",
+            "Se aplica en todas las exposiciones que resulten de las prácticas que impliquen un riesgo derivado de las radiaciones ionizantes.",
+            "Nunca se aplica en exposiciones que resulten de las prácticas que impliquen un riesgo derivado de las radiaciones ionizantes.",
+            "Se aplican únicamente a las exposiciones accidentales derivadas de las radiaciones ionizantes."
+        ],
+        "correctAnswers": "Se aplica en todas las exposiciones que resulten de las prácticas que impliquen un riesgo derivado de las radiaciones ionizantes."
+    },
+    {
+        "question": "¿La decisión final de la justificación de una prueba de radiodiagnóstico es de?",
+        "answers": [
+            "Operador de rayos.",
+            "Titular de la instalación.",
+            "Prescriptor.",
+            "Profesional sanitario habilitado."
+        ],
+        "correctAnswers": "Profesional sanitario habilitado."
+    },
+    {
+        "question": "¿Las siglas de Comisión Internacional de Protección Radiológica son?",
+        "answers": [
+            "ICRP.",
+            "CNS.",
+            "NCRP.",
+            "CIPR."
+        ],
+        "correctAnswers": [
+            "ICRP.",
+            "CIPR."
+        ]
+    }
+]
