@@ -27,7 +27,7 @@
             "Solo son de aplicación las normas autonómico.",
             "Solo son de aplicación las normas locales."
         ],
-        "correctAnswers": []
+        "correctAnswers": "Ninguna de las anteriores."
     },
     {
         "question": "El Real Decreto 1029/2022, regula.",
@@ -519,9 +519,6 @@
             "2003/122/Euratom.",
             "96/29/Euratom."
         ],
-        "correctAnswers": [
-            "2013/59/Euratom.",
-            "2003/122/Euratom."
-        ]
+        "correctAnswers": "2013/59/Euratom."
     }
 ]
