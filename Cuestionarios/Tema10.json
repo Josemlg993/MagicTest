@@ -7,7 +7,7 @@
             "Permitir el acceso libre a zonas radiactivas.",
             "Incrementar la exposición de los trabajadores."
         ],
-        "correctAnswer": "Proteger a individuos, sus descendientes y el medio ambiente de los efectos nocivos de las radiaciones ionizantes."
+        "correctAnswers": "Proteger a individuos, sus descendientes y el medio ambiente de los efectos nocivos de las radiaciones ionizantes."
     },
     {
         "question": "¿En qué Real Decreto se aprueba el Reglamento de Protección Sanitaria contra las Radiaciones Ionizantes (RPSRI)?",
@@ -17,7 +17,7 @@
             "Real Decreto 345/1999.",
             "Real Decreto 156/2005."
         ],
-        "correctAnswer": "Real Decreto 783/2001."
+        "correctAnswers": "Real Decreto 783/2001."
     },
     {
         "question": "¿Cuándo es aplicable el RPSRI?",
@@ -27,7 +27,7 @@
             "Exclusivamente en emergencias nucleares.",
             "Únicamente en laboratorios de investigación."
         ],
-        "correctAnswer": "En todas las prácticas que impliquen un riesgo derivado del uso de radiaciones ionizantes."
+        "correctAnswers": "En todas las prácticas que impliquen un riesgo derivado del uso de radiaciones ionizantes."
     },
     {
         "question": "¿Qué recomienda la ICRP-60 respecto al sistema de protección radiológica?",
@@ -37,7 +37,7 @@
             "Permitir exposiciones ilimitadas.",
             "No diferenciar tipos de exposición."
         ],
-        "correctAnswer": "Distinguir entre \"prácticas\" e \"intervenciones\"."
+        "correctAnswers": "Distinguir entre \"prácticas\" e \"intervenciones\"."
     },
     {
         "question": "Según la ICRP-103, ¿qué situaciones de exposición existen?",
@@ -47,7 +47,7 @@
             "Solo de emergencia.",
             "Solo ocupacionales."
         ],
-        "correctAnswer": "Planificadas, de emergencia y existentes."
+        "correctAnswers": "Planificadas, de emergencia y existentes."
     },
     {
         "question": "¿Qué se considera una \"práctica\" en protección radiológica?",
@@ -57,7 +57,7 @@
             "Solo el almacenamiento de fuentes.",
             "Exposición médica voluntaria."
         ],
-        "correctAnswer": "Uso o explotación de las propiedades de la radiación ionizante."
+        "correctAnswers": "Uso o explotación de las propiedades de la radiación ionizante."
     },
     {
         "question": "¿Quién puede considerar una actividad como práctica con riesgo de exposición a radiación ionizante?",
@@ -67,7 +67,7 @@
             "El público general.",
             "El fabricante de equipos."
         ],
-        "correctAnswer": "La autoridad competente previo informe del CSN."
+        "correctAnswers": "La autoridad competente previo informe del CSN."
     },
     {
         "question": "¿Qué actividades laborales requieren estudios sobre exposición a fuentes naturales de radiación?",
@@ -77,7 +77,7 @@
             "Solo actividades en hospitales.",
             "Solo transporte de materiales radiactivos."
         ],
-        "correctAnswer": "Actividades en minas, cuevas, establecimientos termales y operaciones de aeronaves."
+        "correctAnswers": "Actividades en minas, cuevas, establecimientos termales y operaciones de aeronaves."
     },
     {
         "question": "¿A partir de qué dosis anual las compañías aéreas deben considerar programas de protección radiológica para su tripulación?",
@@ -87,7 +87,7 @@
             "0,1 mSv por año oficial.",
             "5 mSv por año oficial."
         ],
-        "correctAnswer": "1 mSv por año oficial."
+        "correctAnswers": "1 mSv por año oficial."
     },
     {
         "question": "¿Está sujeta a normas de protección radiológica la exposición a radón en viviendas?",
@@ -97,7 +97,7 @@
             "Solo si supera 10 mSv/año.",
             "Solo en zonas urbanas."
         ],
-        "correctAnswer": "No, está excluida de la protección radiológica operacional."
+        "correctAnswers": "No, está excluida de la protección radiológica operacional."
     },
     {
         "question": "¿Qué debe garantizar toda intervención en caso de emergencia?",
@@ -107,7 +107,7 @@
             "Ausencia de control dosimétrico.",
             "Acceso ilimitado de personal."
         ],
-        "correctAnswer": "Justificación y optimización."
+        "correctAnswers": "Justificación y optimización."
     },
     {
         "question": "¿Quién puede participar en intervenciones con exposición superior a los límites establecidos?",
@@ -117,7 +117,7 @@
             "Solo menores de edad.",
             "Visitantes del centro."
         ],
-        "correctAnswer": "Personal voluntario debidamente informado."
+        "correctAnswers": "Personal voluntario debidamente informado."
     },
     {
         "question": "¿Qué principio fundamental aplica a todas las situaciones de exposición según la ICRP-103?",
@@ -127,7 +127,7 @@
             "Exposición ilimitada.",
             "Solo justificación."
         ],
-        "correctAnswer": "Justificación y optimización."
+        "correctAnswers": "Justificación y optimización."
     },
     {
         "question": "¿Cuál es una situación de exposición planificada?",
@@ -137,7 +137,7 @@
             "Exposición a fondo natural.",
             "Actos malintencionados."
         ],
-        "correctAnswer": "Introducción y operación planificada de fuentes."
+        "correctAnswers": "Introducción y operación planificada de fuentes."
     },
     {
         "question": "¿Qué es una situación de exposición de emergencia?",
@@ -147,7 +147,7 @@
             "Solo exposición médica.",
             "Situación de fondo natural."
         ],
-        "correctAnswer": "Situación inesperada que demanda atención urgente."
+        "correctAnswers": "Situación inesperada que demanda atención urgente."
     },
     {
         "question": "¿A quién corresponde la responsabilidad de aplicar los principios de protección radiológica en una instalación?",
@@ -157,7 +157,7 @@
             "A los estudiantes.",
             "A los pacientes."
         ],
-        "correctAnswer": "Al titular de la instalación."
+        "correctAnswers": "Al titular de la instalación."
     },
     {
         "question": "¿Qué grupo NO forma parte de la clasificación de la población según el riesgo radiológico?",
@@ -167,7 +167,7 @@
             "Miembros del público.",
             "Personas en formación."
         ],
-        "correctAnswer": "Animales domésticos."
+        "correctAnswers": "Animales domésticos."
     },
     {
         "question": "¿Quiénes son considerados trabajadores expuestos?",
@@ -177,7 +177,7 @@
             "Solo visitantes.",
             "Solo personal de limpieza."
         ],
-        "correctAnswer": "Personas que pueden recibir dosis anuales superiores a los límites fijados para el público."
+        "correctAnswers": "Personas que pueden recibir dosis anuales superiores a los límites fijados para el público."
     },
     {
         "question": "¿Quiénes son las personas en formación o estudiantes?",
@@ -187,7 +187,7 @@
             "Solo personal administrativo.",
             "Solo pacientes."
         ],
-        "correctAnswer": "Personas que reciben formación relacionada con actividades que pueden implicar exposición a radiaciones ionizantes."
+        "correctAnswers": "Personas que reciben formación relacionada con actividades que pueden implicar exposición a radiaciones ionizantes."
     },
     {
         "question": "¿Quiénes se consideran miembros del público?",
@@ -197,7 +197,7 @@
             "Solo familiares de pacientes.",
             "Solo personal sanitario."
         ],
-        "correctAnswer": "Individuos excluyendo trabajadores expuestos y estudiantes durante su trabajo."
+        "correctAnswers": "Individuos excluyendo trabajadores expuestos y estudiantes durante su trabajo."
     },
     {
         "question": "¿Cuál es la regla general para definir una cantidad de radiación excesiva?",
@@ -207,7 +207,7 @@
             "Solo exposiciones médicas son excesivas.",
             "No existen exposiciones excesivas."
         ],
-        "correctAnswer": "Cualquier exposición innecesaria es excesiva."
+        "correctAnswers": "Cualquier exposición innecesaria es excesiva."
     },
     {
         "question": "¿Qué medida es fundamental en la prevención de riesgos radiológicos?",
@@ -217,7 +217,7 @@
             "Permitir acceso libre a las zonas de riesgo.",
             "No utilizar equipos de protección."
         ],
-        "correctAnswer": "Formación previa de los trabajadores expuestos."
+        "correctAnswers": "Formación previa de los trabajadores expuestos."
     },
     {
         "question": "En caso de exposición a radiaciones ionizantes, ¿qué debe hacerse?",
@@ -227,7 +227,7 @@
             "No limitar la exposición.",
             "No informar a los trabajadores."
         ],
-        "correctAnswer": "El número de personas expuestas será el menor posible."
+        "correctAnswers": "El número de personas expuestas será el menor posible."
     },
     {
         "question": "¿Qué es una zona radiológica con riesgo de irradiación externa?",
@@ -237,7 +237,7 @@
             "Zona sin riesgos.",
             "Zona solo para almacenamiento."
         ],
-        "correctAnswer": "Zona donde es posible recibir irradiación del organismo por una fuente externa."
+        "correctAnswers": "Zona donde es posible recibir irradiación del organismo por una fuente externa."
     },
     {
         "question": "¿Cómo se protege contra el riesgo de contaminación radiactiva?",
@@ -247,7 +247,7 @@
             "No usando protección personal.",
             "Eliminando la ventilación."
         ],
-        "correctAnswer": "Aislamiento y confinamiento de fuentes no encapsuladas."
+        "correctAnswers": "Aislamiento y confinamiento de fuentes no encapsuladas."
     },
     {
         "question": "¿Qué es una zona vigilada?",
@@ -257,7 +257,7 @@
             "Zona solo con riesgo biológico.",
             "Zona de acceso libre a todos."
         ],
-        "correctAnswer": "Zona donde puede recibirse dosis superiores a 1 mSv/año."
+        "correctAnswers": "Zona donde puede recibirse dosis superiores a 1 mSv/año."
     },
     {
         "question": "¿Qué color identifica la zona vigilada en la señalización?",
@@ -267,7 +267,7 @@
             "Verde sobre fondo blanco.",
             "Amarillo sobre fondo blanco."
         ],
-        "correctAnswer": "Gris azulado sobre fondo blanco."
+        "correctAnswers": "Gris azulado sobre fondo blanco."
     },
     {
         "question": "¿Qué es una zona controlada?",
@@ -277,7 +277,7 @@
             "Zona solo para visitantes.",
             "Zona solo con riesgo químico."
         ],
-        "correctAnswer": "Zona donde se puede recibir dosis superior a 6 mSv/año."
+        "correctAnswers": "Zona donde se puede recibir dosis superior a 6 mSv/año."
     },
     {
         "question": "¿Qué color identifica la zona controlada?",
@@ -287,7 +287,7 @@
             "Gris azulado sobre fondo blanco.",
             "Amarillo sobre fondo blanco."
         ],
-        "correctAnswer": "Verde sobre fondo blanco."
+        "correctAnswers": "Verde sobre fondo blanco."
     },
     {
         "question": "¿Qué color identifica la zona controlada de permanencia limitada?",
@@ -297,7 +297,7 @@
             "Rojo sobre fondo blanco.",
             "Verde sobre fondo blanco."
         ],
-        "correctAnswer": "Amarillo sobre fondo blanco."
+        "correctAnswers": "Amarillo sobre fondo blanco."
     },
     {
         "question": "¿Qué color identifica la zona controlada de permanencia reglamentada?",
@@ -307,7 +307,7 @@
             "Rojo sobre fondo blanco.",
             "Verde sobre fondo blanco."
         ],
-        "correctAnswer": "Naranja sobre fondo blanco."
+        "correctAnswers": "Naranja sobre fondo blanco."
     },
     {
         "question": "¿Qué color identifica la zona controlada de acceso prohibido?",
@@ -317,7 +317,7 @@
             "Verde sobre fondo blanco.",
             "Amarillo sobre fondo blanco."
         ],
-        "correctAnswer": "Rojo sobre fondo blanco."
+        "correctAnswers": "Rojo sobre fondo blanco."
     },
     {
         "question": "¿Qué símbolo internacional se utiliza para señalar el riesgo de exposición a radiaciones ionizantes?",
@@ -327,7 +327,7 @@
             "Triángulo azul.",
             "Cuadrado verde."
         ],
-        "correctAnswer": "Trébol."
+        "correctAnswers": "Trébol."
     },
     {
         "question": "¿Quién puede acceder a zonas controladas y vigiladas?",
@@ -337,7 +337,7 @@
             "Solo visitantes.",
             "Solo menores de edad."
         ],
-        "correctAnswer": "Solo personas autorizadas e informadas."
+        "correctAnswers": "Solo personas autorizadas e informadas."
     },
     {
         "question": "En zonas controladas con riesgo de exposición externa, ¿qué es obligatorio?",
@@ -347,7 +347,7 @@
             "Permitir acceso libre.",
             "No realizar vigilancia."
         ],
-        "correctAnswer": "Uso de dosímetros individuales."
+        "correctAnswers": "Uso de dosímetros individuales."
     },
     {
         "question": "En zonas vigiladas, ¿es obligatorio el uso de dosímetro individual?",
@@ -357,7 +357,7 @@
             "Solo para visitantes.",
             "Solo para menores de edad."
         ],
-        "correctAnswer": "No, siempre que exista dosimetría de área."
+        "correctAnswers": "No, siempre que exista dosimetría de área."
     },
     {
         "question": "¿A partir de qué edad se puede asignar a una persona tareas que impliquen ser trabajador expuesto?",
@@ -367,7 +367,7 @@
             "21 años.",
             "No hay límite de edad."
         ],
-        "correctAnswer": "18 años."
+        "correctAnswers": "18 años."
     },
     {
         "question": "¿Qué categoría incluye a quienes pueden recibir dosis superiores a 6 mSv/año?",
@@ -377,7 +377,7 @@
             "Categoría C.",
             "Categoría D."
         ],
-        "correctAnswer": "Categoría A."
+        "correctAnswers": "Categoría A."
     },
     {
         "question": "¿Quiénes pertenecen a la categoría B?",
@@ -387,7 +387,7 @@
             "Solo visitantes.",
             "Solo personal administrativo."
         ],
-        "correctAnswer": "Personas para quienes es muy improbable recibir dosis superiores a 6 mSv/año."
+        "correctAnswers": "Personas para quienes es muy improbable recibir dosis superiores a 6 mSv/año."
     },
     {
         "question": "¿Qué formación es obligatoria para los trabajadores expuestos antes de iniciar su actividad?",
@@ -397,7 +397,7 @@
             "Ninguna formación.",
             "Solo formación en informática."
         ],
-        "correctAnswer": "Formación sobre riesgos radiológicos y procedimientos de protección."
+        "correctAnswers": "Formación sobre riesgos radiológicos y procedimientos de protección."
     },
     {
         "question": "¿Qué debe hacer una trabajadora en caso de embarazo?",
@@ -407,7 +407,7 @@
             "Abandonar el trabajo.",
             "Cambiar de puesto sin avisar."
         ],
-        "correctAnswer": "Declarar rápidamente el embarazo y notificar la lactancia."
+        "correctAnswers": "Declarar rápidamente el embarazo y notificar la lactancia."
     },
     {
         "question": "¿Qué documento debe tener toda instalación radiactiva?",
@@ -417,7 +417,7 @@
             "Ningún documento.",
             "Solo un registro de visitantes."
         ],
-        "correctAnswer": "Reglamento de Funcionamiento."
+        "correctAnswers": "Reglamento de Funcionamiento."
     },
     {
         "question": "¿Qué aspecto es fundamental en el diseño de una instalación radiactiva?",
@@ -427,7 +427,7 @@
             "No señalizar las zonas.",
             "Ubicar la instalación en zonas muy transitadas."
         ],
-        "correctAnswer": "Minimizar la exposición y facilitar la descontaminación."
+        "correctAnswers": "Minimizar la exposición y facilitar la descontaminación."
     },
     {
         "question": "¿Quién puede exigir la existencia de un Servicio de Protección Radiológica (SPR) o UTPR?",
@@ -437,7 +437,7 @@
             "Solo el público.",
             "Solo el titular de la instalación."
         ],
-        "correctAnswer": "El CSN (Consejo de Seguridad Nuclear)."
+        "correctAnswers": "El CSN (Consejo de Seguridad Nuclear)."
     },
     {
         "question": "¿Con qué frecuencia deben realizarse exámenes de salud periódicos a trabajadores de categoría A?",
@@ -447,7 +447,7 @@
             "Solo al ingresar.",
             "Nunca."
         ],
-        "correctAnswer": "Cada 12 meses o más frecuentemente si es necesario."
+        "correctAnswers": "Cada 12 meses o más frecuentemente si es necesario."
     },
     {
         "question": "¿Quién realiza la dosimetría individual de los trabajadores expuestos?",
@@ -457,7 +457,7 @@
             "Solo el supervisor.",
             "No es necesaria."
         ],
-        "correctAnswer": "Servicios de Dosimetría Personal autorizados por el CSN."
+        "correctAnswers": "Servicios de Dosimetría Personal autorizados por el CSN."
     },
     {
         "question": "¿Hasta cuándo debe archivarse el historial dosimétrico de un trabajador expuesto?",
@@ -467,7 +467,7 @@
             "Solo mientras trabaje.",
             "No es necesario archivar."
         ],
-        "correctAnswer": "Hasta los 75 años de edad y nunca menos de 30 años tras el cese."
+        "correctAnswers": "Hasta los 75 años de edad y nunca menos de 30 años tras el cese."
     },
     {
         "question": "¿Qué debe hacerse si un trabajador expuesto cambia de instalación?",
@@ -477,7 +477,7 @@
             "Solo informarle verbalmente.",
             "Eliminar su historial."
         ],
-        "correctAnswer": "Proporcionarle una copia certificada de su historial dosimétrico."
+        "correctAnswers": "Proporcionarle una copia certificada de su historial dosimétrico."
     },
     {
         "question": "¿Qué sanción corresponde a tener en funcionamiento una instalación de rayos X que incumpla las condiciones de seguridad?",
@@ -487,7 +487,7 @@
             "Ninguna.",
             "Falta administrativa."
         ],
-        "correctAnswer": "Falta muy grave."
+        "correctAnswers": "Falta muy grave."
     },
     {
         "question": "¿Cuáles son los tres factores principales para reducir la dosis recibida cerca de una fuente radiactiva?",
@@ -497,6 +497,6 @@
             "Solo la distancia.",
             "Solo el blindaje."
         ],
-        "correctAnswer": "Tiempo, distancia y blindaje."
+        "correctAnswers": "Tiempo, distancia y blindaje."
     }
 ]
