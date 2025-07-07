@@ -7,7 +7,7 @@
             "Unidades Técnicas de Protección Radiológica.",
             "Junta de Energía Nuclear (CIEMAT)."
         ],
-        "correctAnswer": "Consejo de Seguridad Nuclear."
+        "correctAnswers": "Consejo de Seguridad Nuclear."
     },
     {
         "question": "¿Qué ley regula el uso pacífico de la energía nuclear y las radiaciones ionizantes en España?",
@@ -17,7 +17,7 @@
             "Ley 14/1986 de Sanidad.",
             "Ley 54/1997 del Sector Eléctrico."
         ],
-        "correctAnswer": "Ley 25/1964 sobre Energía Nuclear."
+        "correctAnswers": "Ley 25/1964 sobre Energía Nuclear."
     },
     {
         "question": "¿Cuál es el objetivo principal de la Ley 25/1964?",
@@ -27,7 +27,7 @@
             "Eliminar las instalaciones nucleares en España.",
             "Regular solo la energía eléctrica."
         ],
-        "correctAnswer": "Proteger a las personas y bienes de los peligros de la energía nuclear y radiaciones ionizantes."
+        "correctAnswers": "Proteger a las personas y bienes de los peligros de la energía nuclear y radiaciones ionizantes."
     },
     {
         "question": "¿Quién es responsable de la ejecución de la Ley 25/1964?",
@@ -37,7 +37,7 @@
             "Ministerio de Educación.",
             "Ministerio de Agricultura."
         ],
-        "correctAnswer": "Ministerio de Industria, Turismo y Comercio."
+        "correctAnswers": "Ministerio de Industria, Turismo y Comercio."
     },
     {
         "question": "¿Qué organismo propone la iniciación de expedientes sancionadores en materia nuclear?",
@@ -47,7 +47,7 @@
             "AENOR.",
             "Ministerio de Educación."
         ],
-        "correctAnswer": "Consejo de Seguridad Nuclear (CSN)."
+        "correctAnswers": "Consejo de Seguridad Nuclear (CSN)."
     },
     {
         "question": "¿Cuál es la prescripción de las infracciones muy graves según la Ley 25/1964?",
@@ -57,7 +57,7 @@
             "1 año.",
             "10 años."
         ],
-        "correctAnswer": "5 años."
+        "correctAnswers": "5 años."
     },
     {
         "question": "¿Qué ley crea el Consejo de Seguridad Nuclear?",
@@ -67,7 +67,7 @@
             "Ley 14/1999.",
             "Ley 33/2007."
         ],
-        "correctAnswer": "Ley 15/1980."
+        "correctAnswers": "Ley 15/1980."
     },
     {
         "question": "¿Cuál es una de las misiones del CSN?",
@@ -77,7 +77,7 @@
             "Regular la educación universitaria.",
             "Gestionar hospitales públicos."
         ],
-        "correctAnswer": "Proponer reglamentaciones en materia de seguridad nuclear y protección radiológica."
+        "correctAnswers": "Proponer reglamentaciones en materia de seguridad nuclear y protección radiológica."
     },
     {
         "question": "¿Qué principio debe verificar el CSN en las instalaciones?",
@@ -87,7 +87,7 @@
             "Principio de subsidiariedad.",
             "Principio de confidencialidad."
         ],
-        "correctAnswer": "Principio ALARA (dosis tan bajas como razonablemente posible)."
+        "correctAnswers": "Principio ALARA (dosis tan bajas como razonablemente posible)."
     },
     {
         "question": "¿Quién debe informar anualmente al Congreso y Senado sobre su actividad?",
@@ -97,7 +97,7 @@
             "Ministerio de Sanidad.",
             "AENOR."
         ],
-        "correctAnswer": "Consejo de Seguridad Nuclear (CSN)."
+        "correctAnswers": "Consejo de Seguridad Nuclear (CSN)."
     },
     {
         "question": "¿Qué ley regula las tasas por servicios prestados por el CSN?",
@@ -107,7 +107,7 @@
             "Ley 15/1980.",
             "Ley 54/1997."
         ],
-        "correctAnswer": "Ley 14/1999."
+        "correctAnswers": "Ley 14/1999."
     },
     {
         "question": "¿Cuál es el hecho imponible de la tasa por inspección y control de instalaciones radiactivas?",
@@ -117,7 +117,7 @@
             "Venta de equipos médicos.",
             "Contratación de personal sanitario."
         ],
-        "correctAnswer": "Servicios de inspección y control realizados por el CSN."
+        "correctAnswers": "Servicios de inspección y control realizados por el CSN."
     },
     {
         "question": "¿Qué tipo de instalaciones regula el Real Decreto 1085/2009?",
@@ -127,7 +127,7 @@
             "Laboratorios de química.",
             "Hospitales generales."
         ],
-        "correctAnswer": "Instalaciones de rayos X con fines de diagnóstico médico."
+        "correctAnswers": "Instalaciones de rayos X con fines de diagnóstico médico."
     },
     {
         "question": "¿Quién es responsable de la inscripción de instalaciones de rayos X en su registro?",
@@ -137,7 +137,7 @@
             "Ministerio de Educación.",
             "AENOR."
         ],
-        "correctAnswer": "Comunidades Autónomas."
+        "correctAnswers": "Comunidades Autónomas."
     },
     {
         "question": "¿Qué documento es obligatorio en toda instalación de radiodiagnóstico?",
@@ -147,7 +147,7 @@
             "Convenio colectivo.",
             "Manual de usuario del equipo."
         ],
-        "correctAnswer": "Programa de Protección Radiológica (PPR)."
+        "correctAnswers": "Programa de Protección Radiológica (PPR)."
     },
     {
         "question": "¿Qué medida NO forma parte del PPR?",
@@ -157,7 +157,7 @@
             "Medidas de control.",
             "Medidas de vigilancia."
         ],
-        "correctAnswer": "Venta de equipos usados."
+        "correctAnswers": "Venta de equipos usados."
     },
     {
         "question": "¿Quién debe acreditar los conocimientos para operar equipos de rayos X?",
@@ -167,7 +167,7 @@
             "Ministerio de Educación.",
             "AENOR."
         ],
-        "correctAnswer": "Consejo de Seguridad Nuclear (CSN)."
+        "correctAnswers": "Consejo de Seguridad Nuclear (CSN)."
     },
     {
         "question": "¿Qué categoría corresponde a una clínica veterinaria con equipo de rayos X?",
@@ -177,7 +177,7 @@
             "Instalación radiactiva de 2ª categoría.",
             "Instalación de radiodiagnóstico especial."
         ],
-        "correctAnswer": "Instalación radiactiva de 3ª categoría."
+        "correctAnswers": "Instalación radiactiva de 3ª categoría."
     },
     {
         "question": "¿Qué Real Decreto establece los criterios de calidad en radiodiagnóstico?",
@@ -187,7 +187,7 @@
             "Real Decreto 783/2001.",
             "Real Decreto 1836/1999."
         ],
-        "correctAnswer": "Real Decreto 1976/1999."
+        "correctAnswers": "Real Decreto 1976/1999."
     },
     {
         "question": "¿Qué debe incluir el Programa de Garantía de Calidad?",
@@ -197,7 +197,7 @@
             "Lista de pacientes atendidos.",
             "Protocolo de limpieza."
         ],
-        "correctAnswer": "Justificación de las exploraciones radiológicas."
+        "correctAnswers": "Justificación de las exploraciones radiológicas."
     },
     {
         "question": "¿Quién es responsable de informar al paciente sobre los riesgos de una exploración de alta dosis?",
@@ -207,7 +207,7 @@
             "Administrador del hospital.",
             "Recepcionista."
         ],
-        "correctAnswer": "Médico especialista."
+        "correctAnswers": "Médico especialista."
     },
     {
         "question": "¿Qué está prohibido según el Real Decreto 1976/1999?",
@@ -217,7 +217,7 @@
             "Uso de equipos digitales.",
             "Uso de protección individual."
         ],
-        "correctAnswer": "Uso clínico de equipos de fluoroscopia sin intensificador de imagen."
+        "correctAnswers": "Uso clínico de equipos de fluoroscopia sin intensificador de imagen."
     },
     {
         "question": "¿Qué Real Decreto regula la protección sanitaria contra radiaciones ionizantes?",
@@ -227,7 +227,7 @@
             "Real Decreto 1976/1999.",
             "Real Decreto 1836/1999."
         ],
-        "correctAnswer": "Real Decreto 783/2001."
+        "correctAnswers": "Real Decreto 783/2001."
     },
     {
         "question": "¿Cuál es el límite de dosis efectiva anual para trabajadores expuestos?",
@@ -237,7 +237,7 @@
             "5 mSv por año.",
             "No tiene límite."
         ],
-        "correctAnswer": "50 mSv por año con límite de 100 mSv en cinco años."
+        "correctAnswers": "50 mSv por año con límite de 100 mSv en cinco años."
     },
     {
         "question": "¿Quién no puede trabajar con riesgo de exposición a radiaciones ionizantes?",
@@ -247,7 +247,7 @@
             "Personas con gafas.",
             "Personas con tatuajes."
         ],
-        "correctAnswer": "Menores de 18 años."
+        "correctAnswers": "Menores de 18 años."
     },
     {
         "question": "¿Qué zona requiere dosimetría personal obligatoria?",
@@ -257,7 +257,7 @@
             "Zona de acceso libre.",
             "Zona restringida."
         ],
-        "correctAnswer": "Zona controlada."
+        "correctAnswers": "Zona controlada."
     },
     {
         "question": "¿Qué principio establece que toda práctica debe estar justificada?",
@@ -267,7 +267,7 @@
             "Principio de igualdad.",
             "Principio de subsidiariedad."
         ],
-        "correctAnswer": "Principio de justificación."
+        "correctAnswers": "Principio de justificación."
     },
     {
         "question": "¿Quién es responsable de que se apliquen los principios de protección radiológica?",
@@ -277,7 +277,7 @@
             "Ministerio de Sanidad.",
             "AENOR."
         ],
-        "correctAnswer": "Titular de la práctica."
+        "correctAnswers": "Titular de la práctica."
     },
     {
         "question": "¿Qué tipo de personal se considera trabajador expuesto?",
@@ -287,7 +287,7 @@
             "Personal administrativo.",
             "Visitantes ocasionales."
         ],
-        "correctAnswer": "Personas mayores de 18 años sometidas a riesgo de exposición superior al límite del público."
+        "correctAnswers": "Personas mayores de 18 años sometidas a riesgo de exposición superior al límite del público."
     },
     {
         "question": "¿Qué Real Decreto regula la protección de trabajadores externos en zona controlada?",
@@ -297,7 +297,7 @@
             "Real Decreto 783/2001.",
             "Real Decreto 1085/2009."
         ],
-        "correctAnswer": "Real Decreto 413/1997."
+        "correctAnswers": "Real Decreto 413/1997."
     },
     {
         "question": "¿Quién es responsable de la protección radiológica de los trabajadores externos?",
@@ -307,7 +307,7 @@
             "El propio trabajador.",
             "El Ministerio de Sanidad."
         ],
-        "correctAnswer": "La empresa externa."
+        "correctAnswers": "La empresa externa."
     },
     {
         "question": "¿Qué debe incluir la formación del personal que trabaja con radiaciones ionizantes?",
@@ -317,7 +317,7 @@
             "Contabilidad básica.",
             "Gestión de recursos humanos."
         ],
-        "correctAnswer": "Protección radiológica inicial y periódica."
+        "correctAnswers": "Protección radiológica inicial y periódica."
     },
     {
         "question": "¿Qué documento debe conservar el titular de la instalación de rayos X?",
@@ -327,7 +327,7 @@
             "Currículum del personal.",
             "Recetas médicas."
         ],
-        "correctAnswer": "Certificados de pruebas de aceptación y verificación."
+        "correctAnswers": "Certificados de pruebas de aceptación y verificación."
     },
     {
         "question": "¿Quién puede retirar equipos de rayos X fuera de servicio?",
@@ -337,7 +337,7 @@
             "El titular de la instalación.",
             "El Ministerio de Sanidad."
         ],
-        "correctAnswer": "Empresa autorizada para venta y asistencia técnica."
+        "correctAnswers": "Empresa autorizada para venta y asistencia técnica."
     },
     {
         "question": "¿Qué tipo de instalaciones se consideran de 2ª categoría?",
@@ -347,7 +347,7 @@
             "Instalaciones de diagnóstico dental.",
             "Instalaciones de densitometría ósea."
         ],
-        "correctAnswer": "Aparatos de rayos X con tensión pico superior a 200kV."
+        "correctAnswers": "Aparatos de rayos X con tensión pico superior a 200kV."
     },
     {
         "question": "¿Cuál es el objetivo del Real Decreto 601/2019?",
@@ -357,7 +357,7 @@
             "Gestión de residuos radiactivos.",
             "Control de acceso a hospitales."
         ],
-        "correctAnswer": "Justificación y optimización del uso de radiaciones ionizantes en exposiciones médicas."
+        "correctAnswers": "Justificación y optimización del uso de radiaciones ionizantes en exposiciones médicas."
     },
     {
         "question": "¿Quién debe valorar la correcta indicación del procedimiento radiológico?",
@@ -367,7 +367,7 @@
             "Administrador del hospital.",
             "Personal de limpieza."
         ],
-        "correctAnswer": "Médico especialista, odontólogo o podólogo."
+        "correctAnswers": "Médico especialista, odontólogo o podólogo."
     },
     {
         "question": "¿Qué debe hacerse antes de adoptar rutinariamente nuevas prácticas con exposiciones médicas?",
@@ -377,7 +377,7 @@
             "Solicitar permiso al paciente.",
             "Notificar a la prensa."
         ],
-        "correctAnswer": "Justificarlas y revisarlas cuando haya nuevas pruebas."
+        "correctAnswers": "Justificarlas y revisarlas cuando haya nuevas pruebas."
     },
     {
         "question": "¿Quién debe recibir formación continuada en protección radiológica?",
@@ -387,7 +387,7 @@
             "Solo los técnicos.",
             "Solo el personal administrativo."
         ],
-        "correctAnswer": "Todo el personal implicado en unidades de radiodiagnóstico, radioterapia y medicina nuclear."
+        "correctAnswers": "Todo el personal implicado en unidades de radiodiagnóstico, radioterapia y medicina nuclear."
     },
     {
         "question": "¿Qué personas no pueden ayudar voluntariamente a pacientes sometidos a exposiciones médicas?",
@@ -397,7 +397,7 @@
             "Personas con tatuajes.",
             "Personas con alergias."
         ],
-        "correctAnswer": "Menores de 18 años y mujeres gestantes."
+        "correctAnswers": "Menores de 18 años y mujeres gestantes."
     },
     {
         "question": "¿Qué organismo emite las Guías de Seguridad relevantes para instalaciones de rayos X?",
@@ -407,7 +407,7 @@
             "Ministerio de Educación.",
             "AENOR."
         ],
-        "correctAnswer": "Consejo de Seguridad Nuclear (CSN)."
+        "correctAnswers": "Consejo de Seguridad Nuclear (CSN)."
     },
     {
         "question": "¿Qué norma UNE emite la Asociación Española de Normalización y Certificación?",
@@ -417,7 +417,7 @@
             "Normas de contabilidad.",
             "Normas de tráfico."
         ],
-        "correctAnswer": "Normas técnicas de seguridad."
+        "correctAnswers": "Normas técnicas de seguridad."
     },
     {
         "question": "¿Qué documento regula la clasificación y señalización de zonas según riesgos radiológicos?",
@@ -427,7 +427,7 @@
             "Contrato de trabajo.",
             "Protocolo de limpieza."
         ],
-        "correctAnswer": "Programa de Protección Radiológica (PPR)."
+        "correctAnswers": "Programa de Protección Radiológica (PPR)."
     },
     {
         "question": "¿Quién aprueba el Reglamento sobre Instalaciones Nucleares y Radiactivas?",
@@ -437,7 +437,7 @@
             "Real Decreto 783/2001.",
             "Real Decreto 1085/2009."
         ],
-        "correctAnswer": "Real Decreto 1836/1999."
+        "correctAnswers": "Real Decreto 1836/1999."
     },
     {
         "question": "¿Qué tipo de instalaciones se consideran de 3ª categoría?",
@@ -447,7 +447,7 @@
             "Instalaciones con aceleradores de partículas.",
             "Instalaciones con fuentes de neutrones."
         ],
-        "correctAnswer": "Aparatos de rayos X con tensión pico inferior a 200kV."
+        "correctAnswers": "Aparatos de rayos X con tensión pico inferior a 200kV."
     },
     {
         "question": "¿Cuál es el límite de dosis para el feto desde la comunicación al titular hasta el final del embarazo?",
@@ -457,7 +457,7 @@
             "10 mSv.",
             "50 mSv."
         ],
-        "correctAnswer": "1 mSv."
+        "correctAnswers": "1 mSv."
     },
     {
         "question": "¿Qué Directiva europea está en vigor actualmente sobre protección radiológica?",
@@ -467,7 +467,7 @@
             "89/618/Euratom.",
             "96/29/Euratom."
         ],
-        "correctAnswer": "2013/59/Euratom."
+        "correctAnswers": "2013/59/Euratom."
     },
     {
         "question": "¿Qué tipo de documento es obligatorio archivar durante la vida útil del equipo?",
@@ -477,7 +477,7 @@
             "Recetas médicas.",
             "Contratos laborales."
         ],
-        "correctAnswer": "Informes de verificación y control de calidad."
+        "correctAnswers": "Informes de verificación y control de calidad."
     },
     {
         "question": "¿Qué Real Decreto regula la información obligatoria en caso de emergencia nuclear o radiológica?",
@@ -487,7 +487,7 @@
             "Real Decreto 783/2001.",
             "Real Decreto 1976/1999."
         ],
-        "correctAnswer": "Real Decreto 586/2020."
+        "correctAnswers": "Real Decreto 586/2020."
     },
     {
         "question": "¿Qué principio se aplicó para la supresión de exploraciones radiológicas sistemáticas en exámenes de salud preventivos?",
@@ -497,6 +497,6 @@
             "Limitación.",
             "Tiempo, distancia y blindaje."
         ],
-        "correctAnswer": "Justificación."
+        "correctAnswers": "Justificación."
     }
 ]
