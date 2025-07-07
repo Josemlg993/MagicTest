@@ -7,7 +7,7 @@
             "Células musculares.",
             "Células epiteliales."
         ],
-        "correctAnswer": "Células germinales."
+        "correctAnswers": "Células germinales."
     },
     {
         "question": "¿Cómo se llaman los efectos de la radiación que sólo afectan al individuo irradiado?",
@@ -17,7 +17,7 @@
             "Efectos hereditarios.",
             "Efectos indirectos."
         ],
-        "correctAnswer": "Efectos somáticos."
+        "correctAnswers": "Efectos somáticos."
     },
     {
         "question": "¿Cuál es la característica principal de los efectos deterministas?",
@@ -27,7 +27,7 @@
             "Son siempre hereditarios.",
             "No tienen umbral de dosis."
         ],
-        "correctAnswer": "Su gravedad depende de la dosis absorbida."
+        "correctAnswers": "Su gravedad depende de la dosis absorbida."
     },
     {
         "question": "¿Cuál de los siguientes es un ejemplo de efecto determinista?",
@@ -37,7 +37,7 @@
             "Mutación hereditaria.",
             "Leucemia."
         ],
-        "correctAnswer": "Eritema cutáneo."
+        "correctAnswers": "Eritema cutáneo."
     },
     {
         "question": "¿Qué ocurre si la dosis de radiación está por debajo del umbral en los efectos deterministas?",
@@ -47,7 +47,7 @@
             "El efecto es hereditario.",
             "El efecto es irreversible."
         ],
-        "correctAnswer": "No se produce el efecto."
+        "correctAnswers": "No se produce el efecto."
     },
     {
         "question": "¿Qué tipo de efectos pueden transmitirse a la descendencia?",
@@ -57,7 +57,7 @@
             "Efectos deterministas.",
             "Efectos inmediatos."
         ],
-        "correctAnswer": "Efectos genéticos."
+        "correctAnswers": "Efectos genéticos."
     },
     {
         "question": "¿Cuál es la unidad de la dosis absorbida de radiación?",
@@ -67,7 +67,7 @@
             "Rem.",
             "Becquerel (Bq)."
         ],
-        "correctAnswer": "Gray (Gy)."
+        "correctAnswers": "Gray (Gy)."
     },
     {
         "question": "¿Cuál es la unidad de la dosis equivalente?",
@@ -77,7 +77,7 @@
             "Curie (Ci).",
             "Rad."
         ],
-        "correctAnswer": "Sievert (Sv)."
+        "correctAnswers": "Sievert (Sv)."
     },
     {
         "question": "¿Qué tipo de célula es más radiosensible según la ley de Bergonié y Tribondeau?",
@@ -87,7 +87,7 @@
             "Célula muscular.",
             "Célula nerviosa."
         ],
-        "correctAnswer": "Célula indiferenciada y con alta actividad mitótica."
+        "correctAnswers": "Célula indiferenciada y con alta actividad mitótica."
     },
     {
         "question": "¿Cuál es el principal blanco molecular de la radiación en la célula?",
@@ -97,7 +97,7 @@
             "Mitocondria.",
             "Membrana plasmática."
         ],
-        "correctAnswer": "ADN."
+        "correctAnswers": "ADN."
     },
     {
         "question": "¿Qué tipo de muerte celular se caracteriza por la fragmentación nuclear sin inflamación?",
@@ -107,7 +107,7 @@
             "Autofagia.",
             "Fagocitosis."
         ],
-        "correctAnswer": "Apoptosis."
+        "correctAnswers": "Apoptosis."
     },
     {
         "question": "¿Qué tipo de muerte celular suele acompañarse de inflamación y afecta a grupos celulares?",
@@ -117,7 +117,7 @@
             "Autofagia.",
             "Senescencia."
         ],
-        "correctAnswer": "Necrosis."
+        "correctAnswers": "Necrosis."
     },
     {
         "question": "¿Qué tipo de daño en el ADN es más difícil de reparar y peligroso?",
@@ -127,7 +127,7 @@
             "Sustitución de bases.",
             "Entrecruzamiento ADN-proteína."
         ],
-        "correctAnswer": "Rotura de doble cadena."
+        "correctAnswers": "Rotura de doble cadena."
     },
     {
         "question": "¿Qué porcentaje del daño al ADN por rayos X se debe al efecto indirecto?",
@@ -137,7 +137,7 @@
             "100%.",
             "10%."
         ],
-        "correctAnswer": "65%."
+        "correctAnswers": "65%."
     },
     {
         "question": "¿Qué radical libre es especialmente importante en el daño indirecto al ADN?",
@@ -147,7 +147,7 @@
             "Radical metilo (CH3- ).",
             "Radical etilo (C2H5- )."
         ],
-        "correctAnswer": "Radical hidroxilo (OH- )."
+        "correctAnswers": "Radical hidroxilo (OH- )."
     },
     {
         "question": "¿Qué fase del ciclo celular es más radiosensible?",
@@ -157,7 +157,7 @@
             "Go.",
             "G0."
         ],
-        "correctAnswer": "G2 y M."
+        "correctAnswers": "G2 y M."
     },
     {
         "question": "¿Cuál es el principal mecanismo de muerte celular inducida por radiación en células en división?",
@@ -167,7 +167,7 @@
             "Apoptosis.",
             "Senescencia."
         ],
-        "correctAnswer": "Catástrofe mitótica."
+        "correctAnswers": "Catástrofe mitótica."
     },
     {
         "question": "¿Qué nombre recibe la dosis de radiación que produce la muerte del 50% de una población en 60 días?",
@@ -177,7 +177,7 @@
             "Dosis umbral.",
             "Dosis efectiva."
         ],
-        "correctAnswer": "DL50,60."
+        "correctAnswers": "DL50,60."
     },
     {
         "question": "¿Qué factor químico aumenta la sensibilidad de las células a la radiación?",
@@ -187,7 +187,7 @@
             "Vitamina C.",
             "Ácido fólico."
         ],
-        "correctAnswer": "Oxígeno molecular."
+        "correctAnswers": "Oxígeno molecular."
     },
     {
         "question": "¿Cómo se llaman los compuestos que protegen a las células frente a la radiación?",
@@ -197,7 +197,7 @@
             "Mutágenos.",
             "Carcinógenos."
         ],
-        "correctAnswer": "Radioprotectores."
+        "correctAnswers": "Radioprotectores."
     },
     {
         "question": "¿Cuál es el método más específico y sensible de dosimetría biológica?",
@@ -207,7 +207,7 @@
             "Estudio de la función hepática.",
             "Evaluación de la presión arterial."
         ],
-        "correctAnswer": "Análisis de aberraciones cromosómicas inestables."
+        "correctAnswers": "Análisis de aberraciones cromosómicas inestables."
     },
     {
         "question": "¿Qué tipo de efecto biológico de la radiación no tiene dosis umbral?",
@@ -217,7 +217,7 @@
             "Efectos inmediatos.",
             "Efectos reversibles."
         ],
-        "correctAnswer": "Efectos estocásticos."
+        "correctAnswers": "Efectos estocásticos."
     },
     {
         "question": "¿Cuál es el ejemplo más relevante de efecto estocástico somático?",
@@ -227,7 +227,7 @@
             "Alopecia.",
             "Esterilidad."
         ],
-        "correctAnswer": "Cáncer."
+        "correctAnswers": "Cáncer."
     },
     {
         "question": "¿Qué tipo de efecto biológico es la esterilidad permanente por irradiación de gónadas?",
@@ -237,7 +237,7 @@
             "Genético.",
             "Indirecto."
         ],
-        "correctAnswer": "Determinista."
+        "correctAnswers": "Determinista."
     },
     {
         "question": "¿Qué órgano es especialmente sensible a la radiación en el feto?",
@@ -247,7 +247,7 @@
             "Pulmón.",
             "Páncreas."
         ],
-        "correctAnswer": "Sistema nervioso central."
+        "correctAnswers": "Sistema nervioso central."
     },
     {
         "question": "¿En qué periodo de la gestación la radiación puede causar anomalías estructurales graves?",
@@ -257,7 +257,7 @@
             "Fase fetal tardía.",
             "Nacimiento."
         ],
-        "correctAnswer": "Organogénesis (3-8 semanas)."
+        "correctAnswers": "Organogénesis (3-8 semanas)."
     },
     {
         "question": "¿Qué efecto puede tener la radiación sobre el feto en la fase de preimplantación?",
@@ -267,7 +267,7 @@
             "Anomalías óseas.",
             "Cataratas."
         ],
-        "correctAnswer": "Elevada mortalidad."
+        "correctAnswers": "Elevada mortalidad."
     },
     {
         "question": "¿Qué tipo de células presentan mayor radiosensibilidad?",
@@ -277,7 +277,7 @@
             "Hepatocitos.",
             "Células musculares."
         ],
-        "correctAnswer": "Linfocitos."
+        "correctAnswers": "Linfocitos."
     },
     {
         "question": "¿Qué es la dosis dobladora?",
@@ -287,7 +287,7 @@
             "La dosis máxima tolerada por un órgano.",
             "La dosis que produce cáncer en el 50% de los casos."
         ],
-        "correctAnswer": "La dosis necesaria para duplicar la frecuencia de mutaciones espontáneas."
+        "correctAnswers": "La dosis necesaria para duplicar la frecuencia de mutaciones espontáneas."
     },
     {
         "question": "¿Cuál es el principal mecanismo de acción de los radiosensibilizadores?",
@@ -297,7 +297,7 @@
             "Disminuir la tasa de dosis.",
             "Aumentar la síntesis de proteínas."
         ],
-        "correctAnswer": "Aumentar la producción de radicales libres."
+        "correctAnswers": "Aumentar la producción de radicales libres."
     },
     {
         "question": "¿Qué tipo de daño es más frecuente tras irradiación con rayos X: roturas de cadena sencilla o doble?",
@@ -307,7 +307,7 @@
             "Entrecruzamientos ADN-proteína.",
             "Deleciones."
         ],
-        "correctAnswer": "Roturas de cadena sencilla."
+        "correctAnswers": "Roturas de cadena sencilla."
     },
     {
         "question": "¿Qué tipo de efecto se manifiesta a corto plazo tras una exposición a dosis altas de radiación?",
@@ -317,7 +317,7 @@
             "Efecto genético.",
             "Efecto indirecto."
         ],
-        "correctAnswer": "Efecto determinista."
+        "correctAnswers": "Efecto determinista."
     },
     {
         "question": "¿Cuál es el principal factor físico que determina la gravedad del daño biológico de la radiación?",
@@ -327,7 +327,7 @@
             "Frecuencia de la radiación.",
             "Temperatura ambiental."
         ],
-        "correctAnswer": "Transferencia lineal de energía (LET)."
+        "correctAnswers": "Transferencia lineal de energía (LET)."
     },
     {
         "question": "¿Qué sucede si la tasa de dosis es baja en radiación de baja LET?",
@@ -337,7 +337,7 @@
             "No hay efectos biológicos.",
             "Produce necrosis inmediata."
         ],
-        "correctAnswer": "Permite la reparación de lesiones."
+        "correctAnswers": "Permite la reparación de lesiones."
     },
     {
         "question": "¿Cuál de los siguientes NO es un efecto estocástico?",
@@ -347,7 +347,7 @@
             "Leucemia.",
             "Mutación hereditaria."
         ],
-        "correctAnswer": "Alopecia."
+        "correctAnswers": "Alopecia."
     },
     {
         "question": "¿Qué significa radiosensibilidad?",
@@ -357,7 +357,7 @@
             "Resistencia de las células al calor.",
             "Sensibilidad de las células al oxígeno."
         ],
-        "correctAnswer": "Sensibilidad de las células al daño por radiación."
+        "correctAnswers": "Sensibilidad de las células al daño por radiación."
     },
     {
         "question": "¿Qué tipo de células son menos radiosensibles?",
@@ -367,7 +367,7 @@
             "Células germinales.",
             "Células madre hematopoyéticas."
         ],
-        "correctAnswer": "Neuronas."
+        "correctAnswers": "Neuronas."
     },
     {
         "question": "¿Qué es la respuesta adaptativa a la radiación?",
@@ -377,7 +377,7 @@
             "Muerte celular inmediata.",
             "Desarrollo de cáncer."
         ],
-        "correctAnswer": "Reducción del daño tras exposición previa a dosis bajas."
+        "correctAnswers": "Reducción del daño tras exposición previa a dosis bajas."
     },
     {
         "question": "¿Qué nombre recibe el fenómeno por el cual células no irradiadas muestran daño por señales de células vecinas irradiadas?",
@@ -387,7 +387,7 @@
             "Efecto umbral.",
             "Efecto letal."
         ],
-        "correctAnswer": "Efecto bystander (circunstante)."
+        "correctAnswers": "Efecto bystander (circunstante)."
     },
     {
         "question": "¿Cuál es el principal riesgo de la exposición ocupacional a radiación ionizante?",
@@ -397,7 +397,7 @@
             "Alopecia instantánea.",
             "Necrosis aguda."
         ],
-        "correctAnswer": "Desarrollo de cáncer a largo plazo."
+        "correctAnswers": "Desarrollo de cáncer a largo plazo."
     },
     {
         "question": "¿Qué magnitud dosimétrica se utiliza para expresar el riesgo de efectos estocásticos?",
@@ -407,7 +407,7 @@
             "Dosis umbral.",
             "Dosis máxima tolerada."
         ],
-        "correctAnswer": "Dosis efectiva (Sievert)."
+        "correctAnswers": "Dosis efectiva (Sievert)."
     },
     {
         "question": "¿Qué tipo de efecto es la leucemia inducida por radiación?",
@@ -417,7 +417,7 @@
             "Inmediato.",
             "Directo."
         ],
-        "correctAnswer": "Estocástico."
+        "correctAnswers": "Estocástico."
     },
     {
         "question": "¿Cuál es la principal diferencia entre regeneración y reparación tras daño por radiación?",
@@ -427,7 +427,7 @@
             "La regeneración produce fibrosis.",
             "La reparación solo ocurre en el hígado."
         ],
-        "correctAnswer": "La regeneración sustituye células por otras del mismo tipo; la reparación por células de distinto tipo."
+        "correctAnswers": "La regeneración sustituye células por otras del mismo tipo; la reparación por células de distinto tipo."
     },
     {
         "question": "¿Qué órgano tiene una dosis umbral baja para efectos deterministas?",
@@ -437,7 +437,7 @@
             "Corazón.",
             "Pulmón."
         ],
-        "correctAnswer": "Médula ósea."
+        "correctAnswers": "Médula ósea."
     },
     {
         "question": "¿Qué síndrome aparece tras irradiación aguda de todo el cuerpo a dosis de 3-5 Gy?",
@@ -447,7 +447,7 @@
             "Síndrome del sistema nervioso central.",
             "Síndrome cutáneo."
         ],
-        "correctAnswer": "Síndrome de la médula ósea."
+        "correctAnswers": "Síndrome de la médula ósea."
     },
     {
         "question": "¿Qué efecto puede producir la radiación en la piel a dosis de 5 Gy?",
@@ -457,7 +457,7 @@
             "Necrosis.",
             "Eritema crónico."
         ],
-        "correctAnswer": "Alopecia."
+        "correctAnswers": "Alopecia."
     },
     {
         "question": "¿Qué tipo de mutaciones inducidas por radiación son más frecuentes en humanos?",
@@ -467,7 +467,7 @@
             "Inversiones cromosómicas.",
             "Translocaciones equilibradas."
         ],
-        "correctAnswer": "Deleciones grandes que afectan a varios locus."
+        "correctAnswers": "Deleciones grandes que afectan a varios locus."
     },
     {
         "question": "¿Qué población es más sensible a los efectos teratogénicos de la radiación?",
@@ -477,7 +477,7 @@
             "Ancianos.",
             "Niños mayores de 10 años."
         ],
-        "correctAnswer": "Embriones en organogénesis."
+        "correctAnswers": "Embriones en organogénesis."
     },
     {
         "question": "¿Qué magnitud expresa la combinación de probabilidad y gravedad de los efectos estocásticos?",
@@ -487,7 +487,7 @@
             "Factor de ponderación.",
             "Dosis umbral."
         ],
-        "correctAnswer": "Detrimento."
+        "correctAnswers": "Detrimento."
     },
     {
         "question": "¿Cuál es el límite anual de dosis efectiva recomendado para el público general según la ICRP?",
@@ -497,6 +497,6 @@
             "50 mSv.",
             "100 mSv."
         ],
-        "correctAnswer": "1 mSv."
+        "correctAnswers": "1 mSv."
     }
 ]
