@@ -7,7 +7,7 @@
             "Por ionización del gas encerrado en el tubo.",
             "Por radiación secundaria."
         ],
-        "correctAnswer": "En el cátodo, por efecto termoiónico."
+        "correctAnswers": "En el cátodo, por efecto termoiónico."
     },
     {
         "question": "¿Cuál es el material más utilizado como blanco en el ánodo de los tubos de rayos X?",
@@ -17,7 +17,7 @@
             "Plomo.",
             "Aluminio."
         ],
-        "correctAnswer": "Tungsteno."
+        "correctAnswers": "Tungsteno."
     },
     {
         "question": "¿Qué función tiene el filamento en el tubo de rayos X?",
@@ -27,7 +27,7 @@
             "Aumentar la presión interna.",
             "Reducir la radiación dispersa."
         ],
-        "correctAnswer": "Emitir electrones por calentamiento."
+        "correctAnswers": "Emitir electrones por calentamiento."
     },
     {
         "question": "¿Qué propiedad NO es esencial en el material del ánodo?",
@@ -37,7 +37,7 @@
             "Alta conductividad térmica.",
             "Baja tensión de vapor."
         ],
-        "correctAnswer": "Bajo punto de fusión."
+        "correctAnswers": "Bajo punto de fusión."
     },
     {
         "question": "¿Cuál es la función principal del autotransformador en el generador de rayos X?",
@@ -47,7 +47,7 @@
             "Rectificar la corriente.",
             "Emitir electrones."
         ],
-        "correctAnswer": "Ajustar el voltaje de entrada."
+        "correctAnswers": "Ajustar el voltaje de entrada."
     },
     {
         "question": "¿Qué elemento del tubo de rayos X se encarga de enfocar los electrones hacia el ánodo?",
@@ -57,7 +57,7 @@
             "Colimador.",
             "Filtro de aluminio."
         ],
-        "correctAnswer": "Copa de enfoque."
+        "correctAnswers": "Copa de enfoque."
     },
     {
         "question": "¿Qué ocurre cuando aumenta la corriente del filamento?",
@@ -67,7 +67,7 @@
             "Se reduce la producción de rayos X.",
             "Aumenta la radiación dispersa."
         ],
-        "correctAnswer": "Se emiten más electrones."
+        "correctAnswers": "Se emiten más electrones."
     },
     {
         "question": "¿Cuál es la principal causa de la producción de calor en el ánodo?",
@@ -77,7 +77,7 @@
             "Corriente alterna.",
             "Radiación secundaria."
         ],
-        "correctAnswer": "Impacto de electrones."
+        "correctAnswers": "Impacto de electrones."
     },
     {
         "question": "¿Qué ventaja tiene el ánodo rotatorio respecto al estacionario?",
@@ -87,7 +87,7 @@
             "Mayor fragilidad.",
             "Peor definición de imagen."
         ],
-        "correctAnswer": "Mejor disipación del calor."
+        "correctAnswers": "Mejor disipación del calor."
     },
     {
         "question": "¿Qué material se utiliza habitualmente para la ampolla del tubo de rayos X?",
@@ -97,7 +97,7 @@
             "Acero inoxidable.",
             "Silicio."
         ],
-        "correctAnswer": "Vidrio Pyrex."
+        "correctAnswers": "Vidrio Pyrex."
     },
     {
         "question": "¿Qué tipo de corriente necesita el tubo de rayos X para funcionar correctamente?",
@@ -107,7 +107,7 @@
             "Corriente trifásica.",
             "Corriente pulsada."
         ],
-        "correctAnswer": "Corriente continua."
+        "correctAnswers": "Corriente continua."
     },
     {
         "question": "¿Qué dispositivo convierte la corriente alterna en continua en los equipos de rayos X?",
@@ -117,7 +117,7 @@
             "Colimador.",
             "Autotransformador."
         ],
-        "correctAnswer": "Rectificador."
+        "correctAnswers": "Rectificador."
     },
     {
         "question": "¿Qué función tiene el aceite en el recubrimiento del tubo de rayos X?",
@@ -127,7 +127,7 @@
             "Filtrar la radiación de baja energía.",
             "Mejorar la resolución de imagen."
         ],
-        "correctAnswer": "Aislamiento eléctrico y disipación térmica."
+        "correctAnswers": "Aislamiento eléctrico y disipación térmica."
     },
     {
         "question": "¿Qué es la filtración inherente en un tubo de rayos X?",
@@ -137,7 +137,7 @@
             "La suma de todas las filtraciones.",
             "La producida por el paciente."
         ],
-        "correctAnswer": "La producida por los materiales estructurales del tubo."
+        "correctAnswers": "La producida por los materiales estructurales del tubo."
     },
     {
         "question": "¿Cuál es el objetivo fundamental de la filtración en rayos X?",
@@ -147,7 +147,7 @@
             "Atenuar los fotones de alta energía.",
             "Evitar la radiación dispersa."
         ],
-        "correctAnswer": "Disminuir el porcentaje de fotones de baja energía."
+        "correctAnswers": "Disminuir el porcentaje de fotones de baja energía."
     },
     {
         "question": "¿Qué es la capa hemirreductora (CHR)?",
@@ -157,7 +157,7 @@
             "Espesor que duplica la intensidad del haz.",
             "Espesor de la ampolla de vidrio."
         ],
-        "correctAnswer": "Espesor que reduce a la mitad la intensidad del haz de rayos X."
+        "correctAnswers": "Espesor que reduce a la mitad la intensidad del haz de rayos X."
     },
     {
         "question": "¿Cuál es la función principal del colimador?",
@@ -167,7 +167,7 @@
             "Disminuir la calidad de imagen.",
             "Generar rayos X."
         ],
-        "correctAnswer": "Limitar el área de irradiación."
+        "correctAnswers": "Limitar el área de irradiación."
     },
     {
         "question": "¿Qué dispositivo se coloca entre el paciente y el receptor de imagen para reducir la radiación dispersa?",
@@ -177,7 +177,7 @@
             "Colimador.",
             "Ampolla de vidrio."
         ],
-        "correctAnswer": "Rejilla antidifusora."
+        "correctAnswers": "Rejilla antidifusora."
     },
     {
         "question": "¿Qué tipo de rejilla elimina la radiación dispersa en dos direcciones?",
@@ -187,7 +187,7 @@
             "Rejilla focalizada.",
             "Rejilla móvil."
         ],
-        "correctAnswer": "Rejilla cruzada."
+        "correctAnswers": "Rejilla cruzada."
     },
     {
         "question": "¿Qué ocurre si se usa una rejilla de alta frecuencia?",
@@ -197,7 +197,7 @@
             "Se reduce la dosis al paciente.",
             "No tiene efecto sobre la radiación dispersa."
         ],
-        "correctAnswer": "Se absorbe más radiación y aumenta la dosis al paciente."
+        "correctAnswers": "Se absorbe más radiación y aumenta la dosis al paciente."
     },
     {
         "question": "¿Qué función tiene el control automático de exposición (CAE)?",
@@ -207,7 +207,7 @@
             "Disminuir la calidad de imagen.",
             "Ajustar manualmente el tiempo de exposición."
         ],
-        "correctAnswer": "Finalizar la exposición cuando llega suficiente radiación al receptor."
+        "correctAnswers": "Finalizar la exposición cuando llega suficiente radiación al receptor."
     },
     {
         "question": "¿Qué parámetro define la capacidad de un sistema para distinguir dos objetos cercanos?",
@@ -217,7 +217,7 @@
             "Brillo.",
             "Ruido."
         ],
-        "correctAnswer": "Resolución espacial."
+        "correctAnswers": "Resolución espacial."
     },
     {
         "question": "¿Qué ocurre si se aumenta el tamaño del punto focal?",
@@ -227,7 +227,7 @@
             "Disminuye la penumbra.",
             "Aumenta el contraste."
         ],
-        "correctAnswer": "Aumenta la borrosidad geométrica."
+        "correctAnswers": "Aumenta la borrosidad geométrica."
     },
     {
         "question": "¿Cuál es la principal desventaja de las películas radiográficas de alta velocidad?",
@@ -237,7 +237,7 @@
             "Mayor contraste.",
             "Mayor estabilidad dimensional."
         ],
-        "correctAnswer": "Menor resolución."
+        "correctAnswers": "Menor resolución."
     },
     {
         "question": "¿Qué material se utiliza en la emulsión de las películas radiográficas?",
@@ -247,7 +247,7 @@
             "Aluminio y tungsteno.",
             "Vidrio y cobre."
         ],
-        "correctAnswer": "Gelatina y cristales de haluro de plata."
+        "correctAnswers": "Gelatina y cristales de haluro de plata."
     },
     {
         "question": "¿Qué ocurre durante el procesado químico de la película radiográfica?",
@@ -257,7 +257,7 @@
             "Se aumenta la velocidad de la película.",
             "Se reduce el contraste."
         ],
-        "correctAnswer": "La imagen latente se convierte en imagen manifiesta."
+        "correctAnswers": "La imagen latente se convierte en imagen manifiesta."
     },
     {
         "question": "¿Qué función tienen las cartulinas de refuerzo en el sistema película-pantalla?",
@@ -267,7 +267,7 @@
             "Aumentar la dosis al paciente.",
             "Eliminar el cruce de luz."
         ],
-        "correctAnswer": "Transformar los rayos X en luz visible."
+        "correctAnswers": "Transformar los rayos X en luz visible."
     },
     {
         "question": "¿Qué componente del tubo intensificador de imagen emite electrones por fotoemisión?",
@@ -277,7 +277,7 @@
             "Ánodo.",
             "Lente electrostática."
         ],
-        "correctAnswer": "Fotocátodo."
+        "correctAnswers": "Fotocátodo."
     },
     {
         "question": "¿Cuál es la principal ventaja de los sistemas digitales frente a la película convencional?",
@@ -287,7 +287,7 @@
             "Mayor complejidad de manejo.",
             "Mayor dosis al paciente."
         ],
-        "correctAnswer": "Mayor capacidad de manipulación y almacenamiento de imágenes."
+        "correctAnswers": "Mayor capacidad de manipulación y almacenamiento de imágenes."
     },
     {
         "question": "¿Qué material se utiliza en los detectores de radiografía computarizada (CR)?",
@@ -297,7 +297,7 @@
             "Tungsteno.",
             "Gelatina y plata."
         ],
-        "correctAnswer": "Fluorobromuro de bario con europio."
+        "correctAnswers": "Fluorobromuro de bario con europio."
     },
     {
         "question": "¿Qué ocurre si la filtración del haz de rayos X es excesiva?",
@@ -307,7 +307,7 @@
             "Mejora la resolución espacial.",
             "Aumenta la radiación dispersa."
         ],
-        "correctAnswer": "Se reduce el contraste de la imagen."
+        "correctAnswers": "Se reduce el contraste de la imagen."
     },
     {
         "question": "¿Cuál es el principal objetivo de los filtros de compensación?",
@@ -317,7 +317,7 @@
             "Aumentar la dosis al paciente.",
             "Mejorar la resolución espacial."
         ],
-        "correctAnswer": "Uniformar la dosis en zonas de diferente grosor o composición."
+        "correctAnswers": "Uniformar la dosis en zonas de diferente grosor o composición."
     },
     {
         "question": "¿Qué ocurre si se incrementa el tamaño del campo de irradiación?",
@@ -327,7 +327,7 @@
             "Mejora la resolución.",
             "Reduce la dosis al paciente."
         ],
-        "correctAnswer": "Aumenta la radiación dispersa."
+        "correctAnswers": "Aumenta la radiación dispersa."
     },
     {
         "question": "¿Qué nombre recibe la radiación que atraviesa la coraza de plomo del tubo?",
@@ -337,7 +337,7 @@
             "Radiación inútil.",
             "Radiación primaria."
         ],
-        "correctAnswer": "Radiación de fuga."
+        "correctAnswers": "Radiación de fuga."
     },
     {
         "question": "¿Qué propiedad tiene el tungsteno que lo hace ideal para el ánodo?",
@@ -347,7 +347,7 @@
             "Alta tensión de vapor.",
             "Baja conductividad térmica."
         ],
-        "correctAnswer": "Alto punto de fusión."
+        "correctAnswers": "Alto punto de fusión."
     },
     {
         "question": "¿Qué elemento se utiliza como filtro añadido en la mayoría de los tubos de rayos X?",
@@ -357,7 +357,7 @@
             "Plomo.",
             "Molibdeno."
         ],
-        "correctAnswer": "Aluminio."
+        "correctAnswers": "Aluminio."
     },
     {
         "question": "¿Cuál es la principal función del generador de alto voltaje en el sistema de rayos X?",
@@ -367,7 +367,7 @@
             "Rectificar la corriente alterna.",
             "Reducir la dosis al paciente."
         ],
-        "correctAnswer": "Incrementar el potencial eléctrico necesario para la producción de rayos X."
+        "correctAnswers": "Incrementar el potencial eléctrico necesario para la producción de rayos X."
     },
     {
         "question": "¿Qué ocurre cuando el ánodo rotatorio falla?",
@@ -377,7 +377,7 @@
             "Aumenta la producción de rayos X.",
             "Reduce la borrosidad geométrica."
         ],
-        "correctAnswer": "Se sobrecalienta y puede romperse."
+        "correctAnswers": "Se sobrecalienta y puede romperse."
     },
     {
         "question": "¿Qué tipo de corriente suministra la red eléctrica a los equipos de rayos X?",
@@ -387,7 +387,7 @@
             "Corriente alterna de 60 Hz y 110 V.",
             "Corriente pulsada de 500 Hz."
         ],
-        "correctAnswer": "Corriente alterna de 50 Hz y 220 V."
+        "correctAnswers": "Corriente alterna de 50 Hz y 220 V."
     },
     {
         "question": "¿Qué parámetro se ajusta para controlar la calidad (penetrabilidad) del haz de rayos X?",
@@ -397,7 +397,7 @@
             "Tiempo de exposición.",
             "Filtración añadida."
         ],
-        "correctAnswer": "Kilovoltaje pico (kVp)."
+        "correctAnswers": "Kilovoltaje pico (kVp)."
     },
     {
         "question": "¿Qué factor incrementa la producción de rayos X de alta energía?",
@@ -407,7 +407,7 @@
             "Disminuir el miliamperaje.",
             "Añadir más filtros."
         ],
-        "correctAnswer": "Aumentar el kilovoltaje."
+        "correctAnswers": "Aumentar el kilovoltaje."
     },
     {
         "question": "¿Qué componente del tubo de rayos X es responsable de la emisión termoiónica?",
@@ -417,7 +417,7 @@
             "Ampolla de vidrio.",
             "Colimador."
         ],
-        "correctAnswer": "Filamento."
+        "correctAnswers": "Filamento."
     },
     {
         "question": "¿Qué ocurre si el filamento se calienta en exceso durante mucho tiempo?",
@@ -427,7 +427,7 @@
             "Mejora la calidad de imagen.",
             "Reduce la radiación dispersa."
         ],
-        "correctAnswer": "Se evapora y puede romperse."
+        "correctAnswers": "Se evapora y puede romperse."
     },
     {
         "question": "¿Cuál es el principal riesgo de la radiación de fuga?",
@@ -437,7 +437,7 @@
             "Reducir la dosis al paciente.",
             "Aumentar la eficiencia del tubo."
         ],
-        "correctAnswer": "Exposición innecesaria para el paciente y el operador."
+        "correctAnswers": "Exposición innecesaria para el paciente y el operador."
     },
     {
         "question": "¿Qué función tiene el ventilador en algunos tubos de rayos X?",
@@ -447,7 +447,7 @@
             "Reducir la radiación dispersa.",
             "Mejorar la resolución espacial."
         ],
-        "correctAnswer": "Enfriar el aire o expandir el aceite para disipar el calor."
+        "correctAnswers": "Enfriar el aire o expandir el aceite para disipar el calor."
     },
     {
         "question": "¿Cuál es la principal ventaja de los sistemas de alta frecuencia en rayos X?",
@@ -457,7 +457,7 @@
             "Mayor tiempo de exposición.",
             "Menor eficiencia energética."
         ],
-        "correctAnswer": "Mejor calidad de imagen a dosis más bajas."
+        "correctAnswers": "Mejor calidad de imagen a dosis más bajas."
     },
     {
         "question": "¿Qué ocurre si se utiliza una película radiográfica de menor velocidad?",
@@ -467,7 +467,7 @@
             "Reduce el contraste.",
             "Disminuye la borrosidad."
         ],
-        "correctAnswer": "Aumenta la dosis al paciente."
+        "correctAnswers": "Aumenta la dosis al paciente."
     },
     {
         "question": "¿Qué elemento se utiliza habitualmente como base de las películas radiográficas modernas?",
@@ -477,7 +477,7 @@
             "Nitrato de celulosa.",
             "Plomo."
         ],
-        "correctAnswer": "Poliéster."
+        "correctAnswers": "Poliéster."
     },
     {
         "question": "¿Qué ocurre si el tamaño del grano de la emulsión radiográfica es mayor?",
@@ -487,7 +487,7 @@
             "Reduce el contraste.",
             "Disminuye la dosis al paciente."
         ],
-        "correctAnswer": "Aumenta la velocidad y disminuye la resolución."
+        "correctAnswers": "Aumenta la velocidad y disminuye la resolución."
     },
     {
         "question": "¿Qué función tiene el fotodetector en los sistemas digitales de radiografía?",
@@ -497,7 +497,7 @@
             "Filtrar los rayos X.",
             "Aumentar la dosis al paciente."
         ],
-        "correctAnswer": "Convertir la luz emitida en señal eléctrica."
+        "correctAnswers": "Convertir la luz emitida en señal eléctrica."
     },
     {
         "question": "¿Qué tipo de material se utiliza en los intensificadores de imagen para convertir rayos X en luz?",
@@ -507,7 +507,7 @@
             "Tungsteno.",
             "Plomo."
         ],
-        "correctAnswer": "Cristales de CsI (yoduro de cesio)."
+        "correctAnswers": "Cristales de CsI (yoduro de cesio)."
     },
     {
         "question": "¿Qué ocurre si la corriente del tubo de rayos X es demasiado alta?",
@@ -517,7 +517,7 @@
             "Reduce la dosis al paciente.",
             "Mejora la calidad de imagen."
         ],
-        "correctAnswer": "Puede dañar el ánodo por sobrecalentamiento."
+        "correctAnswers": "Puede dañar el ánodo por sobrecalentamiento."
     },
     {
         "question": "¿Qué componente protege al tubo de rayos X de daños mecánicos?",
@@ -527,7 +527,7 @@
             "Filtro añadido.",
             "Rejilla antidifusora."
         ],
-        "correctAnswer": "Revestimiento protector."
+        "correctAnswers": "Revestimiento protector."
     },
     {
         "question": "¿Qué ocurre si la distancia entre el foco y el receptor de imagen aumenta?",
@@ -537,7 +537,7 @@
             "Mejora la resolución.",
             "Aumenta la dosis al paciente."
         ],
-        "correctAnswer": "Disminuye la dosis y la magnificación."
+        "correctAnswers": "Disminuye la dosis y la magnificación."
     },
     {
         "question": "¿Qué es el efecto talón en el tubo de rayos X?",
@@ -547,7 +547,7 @@
             "Reducción del contraste.",
             "Mejor definición de imagen."
         ],
-        "correctAnswer": "Diferente intensidad de radiación a ambos lados del haz."
+        "correctAnswers": "Diferente intensidad de radiación a ambos lados del haz."
     },
     {
         "question": "¿Qué material se utiliza en los filtros de compensación para radiografías de tórax?",
@@ -557,7 +557,7 @@
             "Tungsteno.",
             "Molibdeno."
         ],
-        "correctAnswer": "Aluminio."
+        "correctAnswers": "Aluminio."
     },
     {
         "question": "¿Cuál es la principal función del generador de descarga de condensador?",
@@ -567,7 +567,7 @@
             "Reducir la dosis al paciente.",
             "Filtrar la radiación dispersa."
         ],
-        "correctAnswer": "Proporcionar alto voltaje en equipos portátiles."
+        "correctAnswers": "Proporcionar alto voltaje en equipos portátiles."
     },
     {
         "question": "¿Qué ocurre si se utiliza una rejilla focalizada fuera de su distancia focal?",
@@ -577,7 +577,7 @@
             "Reduce la dosis al paciente.",
             "Aumenta la resolución espacial."
         ],
-        "correctAnswer": "Aparece recorte de radiación primaria."
+        "correctAnswers": "Aparece recorte de radiación primaria."
     },
     {
         "question": "¿Cuál es la principal ventaja de los detectores de estado sólido (CCD, TFT) en radiografía digital directa?",
@@ -587,7 +587,7 @@
             "Mayor tamaño de píxel.",
             "Mayor dosis al paciente."
         ],
-        "correctAnswer": "Alta sensibilidad y respuesta lineal."
+        "correctAnswers": "Alta sensibilidad y respuesta lineal."
     },
     {
         "question": "¿Qué función tiene el transformador de filamento?",
@@ -597,7 +597,7 @@
             "Rectificar la corriente.",
             "Limitar la dosis al paciente."
         ],
-        "correctAnswer": "Reducir el voltaje para calentar el filamento."
+        "correctAnswers": "Reducir el voltaje para calentar el filamento."
     },
     {
         "question": "¿Qué ocurre si se utiliza un foco extenso en el tubo de rayos X?",
@@ -607,7 +607,7 @@
             "Reduce la radiación dispersa.",
             "Aumenta el contraste."
         ],
-        "correctAnswer": "Aumenta la penumbra y disminuye la definición."
+        "correctAnswers": "Aumenta la penumbra y disminuye la definición."
     },
     {
         "question": "¿Qué propiedad tiene la base de la película radiográfica para evitar distorsiones?",
@@ -617,7 +617,7 @@
             "Baja transparencia.",
             "Alta conductividad térmica."
         ],
-        "correctAnswer": "Estabilidad dimensional."
+        "correctAnswers": "Estabilidad dimensional."
     },
     {
         "question": "¿Qué ocurre si se utiliza una película de doble emulsión?",
@@ -627,7 +627,7 @@
             "Mayor borrosidad.",
             "Menor resolución."
         ],
-        "correctAnswer": "Mayor velocidad y menor dosis al paciente."
+        "correctAnswers": "Mayor velocidad y menor dosis al paciente."
     },
     {
         "question": "¿Qué ocurre si la ganancia de brillo del intensificador de imagen disminuye con el tiempo?",
@@ -637,7 +637,7 @@
             "Mejora la resolución.",
             "Reduce la dosis al paciente."
         ],
-        "correctAnswer": "La imagen se vuelve menos brillante."
+        "correctAnswers": "La imagen se vuelve menos brillante."
     },
     {
         "question": "¿Qué función tiene la capa de control de cruce en las películas de pantalla?",
@@ -647,7 +647,7 @@
             "Mejorar la resolución espacial.",
             "Eliminar la radiación dispersa."
         ],
-        "correctAnswer": "Reducir el cruce de luz entre emulsiones."
+        "correctAnswers": "Reducir el cruce de luz entre emulsiones."
     },
     {
         "question": "¿Qué ocurre si se utiliza una técnica radiológica inapropiada en sistemas digitales?",
@@ -657,7 +657,7 @@
             "Aumenta la dosis al paciente.",
             "Mejora la resolución."
         ],
-        "correctAnswer": "La imagen puede seguir siendo diagnóstica."
+        "correctAnswers": "La imagen puede seguir siendo diagnóstica."
     },
     {
         "question": "¿Qué material se utiliza en los detectores de radiografía digital directa?",
@@ -667,7 +667,7 @@
             "Aluminio.",
             "Plomo."
         ],
-        "correctAnswer": "Seleniuro de amonio (a-Se)."
+        "correctAnswers": "Seleniuro de amonio (a-Se)."
     },
     {
         "question": "¿Qué función tiene el sistema de lentes electrostáticas en el intensificador de imagen?",
@@ -677,7 +677,7 @@
             "Filtrar la radiación dispersa.",
             "Aumentar la dosis al paciente."
         ],
-        "correctAnswer": "Enfocar los electrones hacia el fósforo de salida."
+        "correctAnswers": "Enfocar los electrones hacia el fósforo de salida."
     },
     {
         "question": "¿Qué ocurre si se utiliza un generador trifásico en rayos X?",
@@ -687,7 +687,7 @@
             "Reduce la eficiencia del tubo.",
             "Disminuye la penetrabilidad del haz."
         ],
-        "correctAnswer": "Se obtiene un voltaje casi continuo y mejor calidad de imagen."
+        "correctAnswers": "Se obtiene un voltaje casi continuo y mejor calidad de imagen."
     },
     {
         "question": "¿Qué función tiene el sistema de control de línea en la consola de rayos X?",
@@ -697,6 +697,6 @@
             "Reducir la radiación dispersa.",
             "Mejorar la resolución espacial."
         ],
-        "correctAnswer": "Ajustar el voltaje suministrado para evitar variaciones en la calidad de imagen."
+        "correctAnswers": "Ajustar el voltaje suministrado para evitar variaciones en la calidad de imagen."
     }
 ]
