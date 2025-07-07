@@ -7,7 +7,7 @@
             "Hay una transformación de un único protón en dos electrones que son liberados del átomo.",
             "Los electrones recoben energía promocionando a un nivel energético superior."
         ],
-        "correctAnswer": "Tiene lugar la liberación de electrones ligados al átomo."
+        "correctAnswers": "Tiene lugar la liberación de electrones ligados al átomo."
     },
     {
         "question": "En las colisiones elásticas",
@@ -17,7 +17,7 @@
             "Se pierde energía en forma de electricidad.",
             "Ninguna de las anteriores."
         ],
-        "correctAnswer": "No se pierde energía."
+        "correctAnswers": "No se pierde energía."
     },
     {
         "question": "En el efecto fotoeléctrico",
@@ -27,7 +27,7 @@
             "El fotón rebota.",
             "El electrón se absorbe completamente."
         ],
-        "correctAnswer": "El fotón se absorbe totalmente."
+        "correctAnswers": "El fotón se absorbe totalmente."
     },
     {
         "question": "El efecto Compton",
@@ -37,7 +37,7 @@
             "El electrón cede toda su energía.",
             "El fotón cede toda su energía."
         ],
-        "correctAnswer": "Se produce comúnmente a medias y altas energías."
+        "correctAnswers": "Se produce comúnmente a medias y altas energías."
     },
     {
         "question": "Durante el efecto Compton se produce",
@@ -47,7 +47,7 @@
             "Una captura neutrónica.",
             "La captura de un electrón para compensar la carga del sistema."
         ],
-        "correctAnswer": "La dispersión de un fotón de energía menor que la del fotón incidente y que depende del ángulo de incidencia."
+        "correctAnswers": "La dispersión de un fotón de energía menor que la del fotón incidente y que depende del ángulo de incidencia."
     },
     {
         "question": "La excitación/desexcitación son procesos",
@@ -57,7 +57,7 @@
             "Que tienen lugar por separado.",
             "Producidos únicamente por la interacción de electrones libres con la materia."
         ],
-        "correctAnswer": "En los que un electrón ligado promociona a un nivel energético superior tras recibir energía externa y, unos pocos ns después, vuelve a su nivel fundamental emitiendo energía en forma de fotones."
+        "correctAnswers": "En los que un electrón ligado promociona a un nivel energético superior tras recibir energía externa y, unos pocos ns después, vuelve a su nivel fundamental emitiendo energía en forma de fotones."
     },
     {
         "question": "El poder de frenado",
@@ -67,7 +67,7 @@
             "Es la capacidad de una onda electromagnética de atravesar materia.",
             "Es la capacidad de un material para frenar los rayos X."
         ],
-        "correctAnswer": "Es la energía depositada por unidad de distancia recorrida."
+        "correctAnswers": "Es la energía depositada por unidad de distancia recorrida."
     },
     {
         "question": "¿De qué depende la probabilidad de interacción de la radiación con la materia?",
@@ -77,7 +77,7 @@
             "De las partículas neutras, que pueden acelerarse mediante diferencias de potencial.",
             "Es independiente de la carga de la partícula."
         ],
-        "correctAnswer": "De la energía, del tipo de partícula y del número atómico del medio absorbente."
+        "correctAnswers": "De la energía, del tipo de partícula y del número atómico del medio absorbente."
     },
     {
         "question": "El efecto Fotoeléctrico",
@@ -87,7 +87,7 @@
             "Se produce cuando el fotón incidente tiene una energía inferior o igual a la energía de ligadura del electrón con el que interacciona.",
             "Es dominante a altas energías, por encima de los 100 keV."
         ],
-        "correctAnswer": "Tiene lugar cuando un fotón pasa por las próximidades de un átomo e interacciona con uno de sus electrones cediéndole toda la energía (cinética) y arrancándolo del átomo."
+        "correctAnswers": "Tiene lugar cuando un fotón pasa por las próximidades de un átomo e interacciona con uno de sus electrones cediéndole toda la energía (cinética) y arrancándolo del átomo."
     },
     {
         "question": "La creación de pares",
@@ -97,7 +97,7 @@
             "Es muy usado en radiodiagnóstico.",
             "Se produce a bajas energías."
         ],
-        "correctAnswer": "Se produce a muy altas energías."
+        "correctAnswers": "Se produce a muy altas energías."
     },
     {
         "question": "La generación de rayos X implica emisión de:",
@@ -107,7 +107,7 @@
             "Electrones.",
             "Dos neutrones y dos protones."
         ],
-        "correctAnswer": "Radiación electromagnética."
+        "correctAnswers": "Radiación electromagnética."
     },
     {
         "question": "El coeficiente de atenuación total de un medio para fotones es:",
@@ -117,7 +117,7 @@
             "Solo el coeficiente Compton.",
             "Solo el coeficiente de creación de pares."
         ],
-        "correctAnswer": "La suma de los coeficientes de atenuación fotoeléctrica, Compton y de creación de pares."
+        "correctAnswers": "La suma de los coeficientes de atenuación fotoeléctrica, Compton y de creación de pares."
     },
     {
         "question": "En los tejidos blandos, ¿qué material se puede utilizar como sustituto en estudios de atenuación de rayos gamma?",
@@ -127,7 +127,7 @@
             "Aire.",
             "Cartílago."
         ],
-        "correctAnswer": "Agua."
+        "correctAnswers": "Agua."
     },
     {
         "question": "En el intervalo de energía de los fotones utilizados en radiodiagnóstico (20-120 keV), los procesos de interacción principales son:",
@@ -137,7 +137,7 @@
             "Emisión alfa y beta.",
             "Captura neutrónica y dispersión Rayleigh."
         ],
-        "correctAnswer": "Efecto fotoeléctrico e interacción Compton."
+        "correctAnswers": "Efecto fotoeléctrico e interacción Compton."
     },
     {
         "question": "El efecto fotoeléctrico representa:",
@@ -147,7 +147,7 @@
             "La creación de un par electrón-positrón.",
             "La emisión de rayos gamma secundarios."
         ],
-        "correctAnswer": "La absorción total de la energía del fotón."
+        "correctAnswers": "La absorción total de la energía del fotón."
     },
     {
         "question": "En la interacción Compton, ¿qué ocurre con el fotón?",
@@ -157,7 +157,7 @@
             "No cambia de energía.",
             "Se transforma en un neutrón."
         ],
-        "correctAnswer": "Se dispersa con menor energía que el fotón incidente."
+        "correctAnswers": "Se dispersa con menor energía que el fotón incidente."
     },
     {
         "question": "La imagen radiológica se forma con:",
@@ -167,7 +167,7 @@
             "La radiación dispersa que no sale del paciente.",
             "Los electrones emitidos por el tubo de rayos X."
         ],
-        "correctAnswer": "El haz de fotones transmitido por el paciente que alcanza el sistema de registro."
+        "correctAnswers": "El haz de fotones transmitido por el paciente que alcanza el sistema de registro."
     },
     {
         "question": "El contraste en la imagen radiológica se debe a:",
@@ -177,7 +177,7 @@
             "La velocidad de los electrones en el tubo.",
             "El tipo de película utilizada."
         ],
-        "correctAnswer": "Diferencias en la absorción de fotones por los distintos tejidos."
+        "correctAnswers": "Diferencias en la absorción de fotones por los distintos tejidos."
     },
     {
         "question": "A bajas energías, el efecto fotoeléctrico:",
@@ -187,7 +187,7 @@
             "No afecta al contraste.",
             "Genera más radiación dispersa."
         ],
-        "correctAnswer": "Aumenta el contraste de la imagen."
+        "correctAnswers": "Aumenta el contraste de la imagen."
     },
     {
         "question": "El aumento del número atómico efectivo (Z) de un tejido:",
@@ -197,7 +197,7 @@
             "No afecta la atenuación de la radiación.",
             "Solo afecta a la densidad del tejido."
         ],
-        "correctAnswer": "Aumenta la probabilidad de absorción por efecto fotoeléctrico."
+        "correctAnswers": "Aumenta la probabilidad de absorción por efecto fotoeléctrico."
     },
     {
         "question": "La probabilidad de interacción por efecto fotoeléctrico depende principalmente de:",
@@ -207,7 +207,7 @@
             "La velocidad de los fotones.",
             "El grosor del paciente."
         ],
-        "correctAnswer": "La tercera potencia del número atómico (Z³)."
+        "correctAnswers": "La tercera potencia del número atómico (Z³)."
     },
     {
         "question": "Cuando se aumenta la tensión (kV) del tubo de rayos X:",
@@ -217,7 +217,7 @@
             "No afecta al contraste.",
             "Solo afecta la dosis al paciente."
         ],
-        "correctAnswer": "Disminuye el contraste de la imagen."
+        "correctAnswers": "Disminuye el contraste de la imagen."
     },
     {
         "question": "La dosis absorbida por el paciente es mayor cuando predomina:",
@@ -227,7 +227,7 @@
             "La dispersión coherente.",
             "La creación de pares."
         ],
-        "correctAnswer": "El efecto fotoeléctrico."
+        "correctAnswers": "El efecto fotoeléctrico."
     },
     {
         "question": "La radiación dispersa en la imagen radiológica se origina mayoritariamente por:",
@@ -237,7 +237,7 @@
             "Creación de pares.",
             "Emisión alfa."
         ],
-        "correctAnswer": "Interacción Compton."
+        "correctAnswers": "Interacción Compton."
     },
     {
         "question": "Para mejorar la calidad de la imagen y reducir la radiación dispersa, se utiliza:",
@@ -247,7 +247,7 @@
             "Películas de baja sensibilidad.",
             "Aumento del grosor del paciente."
         ],
-        "correctAnswer": "Rejilla antidifusora."
+        "correctAnswers": "Rejilla antidifusora."
     },
     {
         "question": "La energía depositada en el paciente por interacción Compton es:",
@@ -257,7 +257,7 @@
             "Mayor que en el efecto fotoeléctrico.",
             "Igual a la energía de ligadura del electrón."
         ],
-        "correctAnswer": "Una pequeña fracción de la energía del fotón incidente."
+        "correctAnswers": "Una pequeña fracción de la energía del fotón incidente."
     },
     {
         "question": "El número atómico efectivo (Zef) de un material compuesto:",
@@ -267,7 +267,7 @@
             "No tiene relevancia en radiodiagnóstico.",
             "Solo se usa en materiales metálicos."
         ],
-        "correctAnswer": "Permite comparar su comportamiento en la interacción con fotones con materiales puros."
+        "correctAnswers": "Permite comparar su comportamiento en la interacción con fotones con materiales puros."
     },
     {
         "question": "La diferencia entre los coeficientes de atenuación de hueso y tejido blando:",
@@ -277,7 +277,7 @@
             "No cambia con la energía.",
             "Solo depende de la densidad."
         ],
-        "correctAnswer": "Es mayor a bajas energías."
+        "correctAnswers": "Es mayor a bajas energías."
     },
     {
         "question": "La probabilidad de interacción Compton:",
@@ -287,7 +287,7 @@
             "Es independiente de la energía del fotón.",
             "Disminuye con la densidad."
         ],
-        "correctAnswer": "Es proporcional a la densidad del material."
+        "correctAnswers": "Es proporcional a la densidad del material."
     },
     {
         "question": "El efecto fotoeléctrico es más probable en:",
@@ -297,7 +297,7 @@
             "Fotones de alta energía y materiales de alto Z.",
             "Fotones de baja energía y materiales de bajo Z."
         ],
-        "correctAnswer": "Fotones de baja energía y materiales de alto Z."
+        "correctAnswers": "Fotones de baja energía y materiales de alto Z."
     },
     {
         "question": "La dispersión Compton:",
@@ -307,7 +307,7 @@
             "No afecta la calidad de la imagen.",
             "Solo ocurre en materiales metálicos."
         ],
-        "correctAnswer": "Disminuye el contraste de la imagen radiológica."
+        "correctAnswers": "Disminuye el contraste de la imagen radiológica."
     },
     {
         "question": "El uso de tensiones bajas en mamografía:",
@@ -317,7 +317,7 @@
             "No afecta la dosis al paciente.",
             "Solo se usa para huesos."
         ],
-        "correctAnswer": "Aumenta el contraste entre tejidos blandos."
+        "correctAnswers": "Aumenta el contraste entre tejidos blandos."
     },
     {
         "question": "La atenuación total de los rayos X en un tejido depende de:",
@@ -327,7 +327,7 @@
             "Solo de la densidad del tejido.",
             "Solo del grosor del paciente."
         ],
-        "correctAnswer": "Energía del fotón, número atómico y densidad del tejido."
+        "correctAnswers": "Energía del fotón, número atómico y densidad del tejido."
     },
     {
         "question": "Para obtener una imagen con gran latitud y poco contraste, se recomienda:",
@@ -337,7 +337,7 @@
             "Aumentar la dosis al paciente.",
             "Reducir el número de fotones."
         ],
-        "correctAnswer": "Utilizar tensiones elevadas."
+        "correctAnswers": "Utilizar tensiones elevadas."
     },
     {
         "question": "La radiación dispersa en la sala de rayos X:",
@@ -347,7 +347,7 @@
             "Solo afecta al paciente.",
             "No se puede reducir."
         ],
-        "correctAnswer": "Debe ser evaluada para la protección radiológica del profesional."
+        "correctAnswers": "Debe ser evaluada para la protección radiológica del profesional."
     },
     {
         "question": "La colimación del haz de rayos X:",
@@ -357,7 +357,7 @@
             "No afecta la imagen radiológica.",
             "Solo se usa en tomografía."
         ],
-        "correctAnswer": "Reduce la radiación dispersa y mejora la calidad de la imagen."
+        "correctAnswers": "Reduce la radiación dispersa y mejora la calidad de la imagen."
     },
     {
         "question": "La compresión del medio irradiado:",
@@ -367,7 +367,7 @@
             "No afecta la imagen.",
             "Solo se usa en radioterapia."
         ],
-        "correctAnswer": "Reduce la radiación dispersa."
+        "correctAnswers": "Reduce la radiación dispersa."
     },
     {
         "question": "La probabilidad de absorción por efecto fotoeléctrico:",
@@ -377,7 +377,7 @@
             "No depende de la energía.",
             "Solo depende del tipo de detector."
         ],
-        "correctAnswer": "Disminuye al aumentar la energía de los fotones."
+        "correctAnswers": "Disminuye al aumentar la energía de los fotones."
     },
     {
         "question": "El coeficiente de atenuación lineal:",
@@ -387,7 +387,7 @@
             "Solo depende de la energía del fotón.",
             "No se usa en radiología."
         ],
-        "correctAnswer": "Depende de la densidad del material."
+        "correctAnswers": "Depende de la densidad del material."
     },
     {
         "question": "El coeficiente de atenuación másico:",
@@ -397,7 +397,7 @@
             "Solo se usa para líquidos.",
             "Es igual al coeficiente lineal."
         ],
-        "correctAnswer": "No varía con la densidad del material."
+        "correctAnswers": "No varía con la densidad del material."
     },
     {
         "question": "La ecuación de atenuación de un haz de rayos X es:",
@@ -407,7 +407,7 @@
             "I=I0−μx",
             "I=I0/μx"
         ],
-        "correctAnswer": "I=I0e−μx"
+        "correctAnswers": "I=I0e−μx"
     },
     {
         "question": "En la interacción fotoeléctrica, el fotón:",
@@ -417,7 +417,7 @@
             "No transfiere energía.",
             "Se transforma en un neutrón."
         ],
-        "correctAnswer": "Cede toda su energía al electrón."
+        "correctAnswers": "Cede toda su energía al electrón."
     },
     {
         "question": "En la dispersión Compton, el electrón:",
@@ -427,7 +427,7 @@
             "Recibe toda la energía del fotón.",
             "Emite un fotón nuevo."
         ],
-        "correctAnswer": "Recibe parte de la energía del fotón."
+        "correctAnswers": "Recibe parte de la energía del fotón."
     },
     {
         "question": "La creación de pares ocurre:",
@@ -437,7 +437,7 @@
             "En todos los materiales.",
             "Solo en presencia de electrones libres."
         ],
-        "correctAnswer": "A energías superiores a 1,022 MeV."
+        "correctAnswers": "A energías superiores a 1,022 MeV."
     },
     {
         "question": "La probabilidad de creación de pares:",
@@ -447,7 +447,7 @@
             "Es independiente del material.",
             "Solo depende de la densidad."
         ],
-        "correctAnswer": "Aumenta con la energía del fotón y el número atómico."
+        "correctAnswers": "Aumenta con la energía del fotón y el número atómico."
     },
     {
         "question": "La dispersión coherente (Rayleigh):",
@@ -457,7 +457,7 @@
             "Solo ocurre a altas energías.",
             "Genera radiación secundaria intensa."
         ],
-        "correctAnswer": "No implica pérdida de energía del fotón."
+        "correctAnswers": "No implica pérdida de energía del fotón."
     },
     {
         "question": "El efecto fotoeléctrico es dominante en:",
@@ -467,7 +467,7 @@
             "Energías altas y materiales de alto Z.",
             "Energías bajas y materiales de bajo Z."
         ],
-        "correctAnswer": "Energías bajas y materiales de alto Z."
+        "correctAnswers": "Energías bajas y materiales de alto Z."
     },
     {
         "question": "En la formación de la imagen radiológica, los fotones primarios:",
@@ -477,7 +477,7 @@
             "No llegan al detector.",
             "Solo se producen en mamografía."
         ],
-        "correctAnswer": "Transportan la información más útil."
+        "correctAnswers": "Transportan la información más útil."
     },
     {
         "question": "La utilización de rejillas antidifusoras:",
@@ -487,7 +487,7 @@
             "No afecta la calidad de la imagen.",
             "Solo se usa en TAC."
         ],
-        "correctAnswer": "Elimina hasta un 90% de la radiación dispersa."
+        "correctAnswers": "Elimina hasta un 90% de la radiación dispersa."
     },
     {
         "question": "El contraste natural entre tejidos depende de:",
@@ -497,7 +497,7 @@
             "La velocidad de los fotones.",
             "El grosor del paciente."
         ],
-        "correctAnswer": "Diferencias en el número atómico efectivo (Zef)."
+        "correctAnswers": "Diferencias en el número atómico efectivo (Zef)."
     },
     {
         "question": "La absorción de rayos X en hueso es:",
@@ -507,7 +507,7 @@
             "Igual en todos los tejidos.",
             "Solo depende de la densidad."
         ],
-        "correctAnswer": "Mayor que en tejido blando a bajas energías."
+        "correctAnswers": "Mayor que en tejido blando a bajas energías."
     },
     {
         "question": "La radiación dispersa que llega al detector:",
@@ -517,7 +517,7 @@
             "No afecta la imagen.",
             "Solo ocurre en materiales metálicos."
         ],
-        "correctAnswer": "Deteriora el contraste de la imagen."
+        "correctAnswers": "Deteriora el contraste de la imagen."
     },
     {
         "question": "El uso de energías altas en radiodiagnóstico:",
@@ -527,7 +527,7 @@
             "No afecta al contraste.",
             "Solo se usa en mamografía."
         ],
-        "correctAnswer": "Reduce el contraste y la dosis al paciente."
+        "correctAnswers": "Reduce el contraste y la dosis al paciente."
     },
     {
         "question": "La latitud de una película radiográfica se refiere a:",
@@ -537,7 +537,7 @@
             "La velocidad de los electrones.",
             "El grosor del paciente."
         ],
-        "correctAnswer": "El rango de exposiciones que produce imágenes útiles."
+        "correctAnswers": "El rango de exposiciones que produce imágenes útiles."
     },
     {
         "question": "El efecto Compton es más probable en:",
@@ -547,7 +547,7 @@
             "Materiales metálicos únicamente.",
             "Solo a energías muy bajas."
         ],
-        "correctAnswer": "Tejidos con alta densidad."
+        "correctAnswers": "Tejidos con alta densidad."
     },
     {
         "question": "El coeficiente de atenuación total (μ) se expresa en:",
@@ -557,7 +557,7 @@
             "keV.",
             "mSv."
         ],
-        "correctAnswer": "cm⁻¹."
+        "correctAnswers": "cm⁻¹."
     },
     {
         "question": "La absorción por efecto fotoeléctrico:",
@@ -567,7 +567,7 @@
             "No afecta la dosis.",
             "Solo se produce en materiales metálicos."
         ],
-        "correctAnswer": "Aumenta la dosis absorbida por el paciente."
+        "correctAnswers": "Aumenta la dosis absorbida por el paciente."
     },
     {
         "question": "La probabilidad de dispersión Compton:",
@@ -577,7 +577,7 @@
             "No depende de la energía.",
             "Solo ocurre en hueso."
         ],
-        "correctAnswer": "Varía lentamente con la energía del fotón."
+        "correctAnswers": "Varía lentamente con la energía del fotón."
     },
     {
         "question": "El número atómico efectivo del agua es aproximadamente:",
@@ -587,7 +587,7 @@
             "13,0.",
             "82,0."
         ],
-        "correctAnswer": "7,5."
+        "correctAnswers": "7,5."
     },
     {
         "question": "La formación de la imagen radiológica es un compromiso entre:",
@@ -597,6 +597,6 @@
             "Solo alta resolución.",
             "Solo baja dosis."
         ],
-        "correctAnswer": "Baja dosis y alto contraste."
+        "correctAnswers": "Baja dosis y alto contraste."
     }
 ]
