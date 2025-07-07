@@ -7,7 +7,7 @@
             "Rad",
             "Gray"
         ],
-        "correctAnswer": "Sievert (Sv)"
+        "correctAnswers": "Sievert (Sv)"
     },
     {
         "question": "¿Qué magnitud se usa para evaluar los efectos de las radiaciones ionizantes sobre la población?",
@@ -17,7 +17,7 @@
             "Actividad",
             "Tasa de exposición"
         ],
-        "correctAnswer": "Dosis efectiva"
+        "correctAnswers": "Dosis efectiva"
     },
     {
         "question": "¿Cuál es la unidad de exposición en el SI?",
@@ -27,7 +27,7 @@
             "Sievert (Sv)",
             "Becquerelio (Bq)"
         ],
-        "correctAnswer": "Culombio por kilogramo (C/kg)"
+        "correctAnswers": "Culombio por kilogramo (C/kg)"
     },
     {
         "question": "¿Qué magnitud expresa el daño biológico de la radiación?",
@@ -37,7 +37,7 @@
             "Dosis absorbida",
             "Tasa de exposición"
         ],
-        "correctAnswer": "Dosis equivalente"
+        "correctAnswers": "Dosis equivalente"
     },
     {
         "question": "¿Qué magnitud se mide en Gray (Gy)?",
@@ -47,7 +47,7 @@
             "Exposición",
             "Actividad"
         ],
-        "correctAnswer": "Dosis absorbida"
+        "correctAnswers": "Dosis absorbida"
     },
     {
         "question": "¿Qué magnitud se mide en Becquerelios (Bq)?",
@@ -57,7 +57,7 @@
             "Dosis equivalente",
             "Exposición"
         ],
-        "correctAnswer": "Actividad"
+        "correctAnswers": "Actividad"
     },
     {
         "question": "¿Qué magnitud se utiliza para establecer límites máximos de protección radiológica?",
@@ -67,7 +67,7 @@
             "Magnitudes radiométricas",
             "Magnitudes de radiactividad"
         ],
-        "correctAnswer": "Magnitudes limitadoras"
+        "correctAnswers": "Magnitudes limitadoras"
     },
     {
         "question": "¿Cuál es la magnitud operacional para vigilancia individual recomendada por la ICRU?",
@@ -77,7 +77,7 @@
             "Dosis efectiva",
             "Kerma"
         ],
-        "correctAnswer": "Equivalente de dosis personal, Hp(d)"
+        "correctAnswers": "Equivalente de dosis personal, Hp(d)"
     },
     {
         "question": "¿Qué magnitud operacional se usa para vigilancia de área?",
@@ -87,7 +87,7 @@
             "Dosis absorbida",
             "Actividad"
         ],
-        "correctAnswer": "Equivalente de dosis ambiental, H*(d)"
+        "correctAnswers": "Equivalente de dosis ambiental, H*(d)"
     },
     {
         "question": "¿A qué profundidad se mide el equivalente de dosis ambiental para radiación fuertemente penetrante?",
@@ -97,7 +97,7 @@
             "3 mm",
             "1 mm"
         ],
-        "correctAnswer": "10 mm"
+        "correctAnswers": "10 mm"
     },
     {
         "question": "¿Cuál es la magnitud que se mide sobre el cuerpo humano y no sobre la esfera ICRU?",
@@ -107,7 +107,7 @@
             "Equivalente de dosis direccional, H'(d,Ω)",
             "Dosis absorbida"
         ],
-        "correctAnswer": "Equivalente de dosis personal, Hp(d)"
+        "correctAnswers": "Equivalente de dosis personal, Hp(d)"
     },
     {
         "question": "¿Cuál es la unidad de la tasa de exposición en el SI?",
@@ -117,7 +117,7 @@
             "Gy/h",
             "Bq/s"
         ],
-        "correctAnswer": "C/(kg·s)"
+        "correctAnswers": "C/(kg·s)"
     },
     {
         "question": "¿Qué magnitud se define como la energía depositada por la radiación en una unidad de masa?",
@@ -127,7 +127,7 @@
             "Exposición",
             "Actividad"
         ],
-        "correctAnswer": "Dosis absorbida"
+        "correctAnswers": "Dosis absorbida"
     },
     {
         "question": "¿Qué magnitud se mide en julios (J)?",
@@ -137,7 +137,7 @@
             "Dosis equivalente",
             "Exposición"
         ],
-        "correctAnswer": "Dosis integral (energía impartida)"
+        "correctAnswers": "Dosis integral (energía impartida)"
     },
     {
         "question": "¿Qué magnitud se utiliza para estimar el riesgo en radiodiagnóstico humano?",
@@ -147,7 +147,7 @@
             "Dosis equivalente",
             "Kerma"
         ],
-        "correctAnswer": "Dosis superficie a la entrada del paciente (DSE)"
+        "correctAnswers": "Dosis superficie a la entrada del paciente (DSE)"
     },
     {
         "question": "¿Cuál es la magnitud más importante a evaluar para estimar el riesgo al paciente en radiodiagnóstico?",
@@ -157,7 +157,7 @@
             "Kerma",
             "Exposición"
         ],
-        "correctAnswer": "Dosis en órganos"
+        "correctAnswers": "Dosis en órganos"
     },
     {
         "question": "¿Qué magnitud se mide directamente solo en órganos superficiales?",
@@ -167,7 +167,7 @@
             "Dosis equivalente",
             "Dosis efectiva"
         ],
-        "correctAnswer": "Dosis en órganos"
+        "correctAnswers": "Dosis en órganos"
     },
     {
         "question": "¿Qué magnitud se calcula como el producto de la dosis por la masa irradiada si la dosis es constante?",
@@ -177,7 +177,7 @@
             "Dosis equivalente",
             "Kerma"
         ],
-        "correctAnswer": "Dosis integral"
+        "correctAnswers": "Dosis integral"
     },
     {
         "question": "¿Cuál es la unidad de kerma en el SI?",
@@ -187,7 +187,7 @@
             "Culombio por kilogramo (C/kg)",
             "Becquerelio (Bq)"
         ],
-        "correctAnswer": "Gray (Gy)"
+        "correctAnswers": "Gray (Gy)"
     },
     {
         "question": "¿Cuál es la relación entre rad y cGy?",
@@ -197,7 +197,7 @@
             "1 rad = 0,1 cGy",
             "1 rad = 100 cGy"
         ],
-        "correctAnswer": "1 rad = 1 cGy"
+        "correctAnswers": "1 rad = 1 cGy"
     },
     {
         "question": "¿Qué magnitud se define solo para fotones en aire?",
@@ -207,7 +207,7 @@
             "Kerma",
             "Dosis equivalente"
         ],
-        "correctAnswer": "Exposición"
+        "correctAnswers": "Exposición"
     },
     {
         "question": "¿Cuál es la equivalencia entre C/kg y roentgen (R)?",
@@ -217,7 +217,7 @@
             "1 C/kg = 10 R",
             "1 C/kg = 1000 R"
         ],
-        "correctAnswer": "1 C/kg = 3876 R"
+        "correctAnswers": "1 C/kg = 3876 R"
     },
     {
         "question": "¿Qué magnitud disminuye con el cuadrado de la distancia a la fuente emisora?",
@@ -227,7 +227,7 @@
             "Dosis equivalente",
             "Kerma"
         ],
-        "correctAnswer": "Exposición"
+        "correctAnswers": "Exposición"
     },
     {
         "question": "¿Qué magnitud se define como la suma de todas las energías cinéticas iniciales de todas las partículas ionizantes cargadas liberadas por partículas no cargadas?",
@@ -237,7 +237,7 @@
             "Exposición",
             "Dosis equivalente"
         ],
-        "correctAnswer": "Kerma"
+        "correctAnswers": "Kerma"
     },
     {
         "question": "¿Qué magnitud es válida tanto para neutrones como para fotones?",
@@ -247,7 +247,7 @@
             "Dosis absorbida",
             "Actividad"
         ],
-        "correctAnswer": "Kerma"
+        "correctAnswers": "Kerma"
     },
     {
         "question": "¿Qué magnitud requiere condiciones de equilibrio electrónico para su medida?",
@@ -257,7 +257,7 @@
             "Exposición",
             "Radiactividad"
         ],
-        "correctAnswer": "Dosis absorbida"
+        "correctAnswers": "Dosis absorbida"
     },
     {
         "question": "¿Qué magnitud se define como la energía neta que se queda en el volumen de materia considerado?",
@@ -267,7 +267,7 @@
             "Exposición",
             "Dosis equivalente"
         ],
-        "correctAnswer": "Dosis absorbida"
+        "correctAnswers": "Dosis absorbida"
     },
     {
         "question": "¿Qué magnitud se mide en Gy/s, Gy/min o Gy/h según el nivel de radiación?",
@@ -277,7 +277,7 @@
             "Tasa de kerma",
             "Tasa de actividad"
         ],
-        "correctAnswer": "Tasa de dosis absorbida"
+        "correctAnswers": "Tasa de dosis absorbida"
     },
     {
         "question": "¿Qué magnitud se define como el cociente de la energía disipada por una partícula cargada al atravesar una longitud?",
@@ -287,7 +287,7 @@
             "Exposición",
             "Dosis absorbida"
         ],
-        "correctAnswer": "Transferencia lineal de energía (LET)"
+        "correctAnswers": "Transferencia lineal de energía (LET)"
     },
     {
         "question": "¿Cuál es la unidad del LET en el SI?",
@@ -297,7 +297,7 @@
             "Sievert (Sv)",
             "Becquerelio (Bq)"
         ],
-        "correctAnswer": "Julio/metro (J/m)"
+        "correctAnswers": "Julio/metro (J/m)"
     },
     {
         "question": "¿Qué magnitud tiene en cuenta la distinta eficacia biológica relativa de los diferentes tipos de radiación?",
@@ -307,7 +307,7 @@
             "Kerma",
             "Exposición"
         ],
-        "correctAnswer": "Dosis equivalente"
+        "correctAnswers": "Dosis equivalente"
     },
     {
         "question": "¿Cómo se calcula la dosis equivalente en un punto?",
@@ -317,7 +317,7 @@
             "H = D+Q",
             "H = D-Q"
         ],
-        "correctAnswer": "H = Q·D"
+        "correctAnswers": "H = Q·D"
     },
     {
         "question": "¿Qué factor se introduce para cuantificar la eficacia biológica de las partículas cargadas?",
@@ -327,7 +327,7 @@
             "Factor de ponderación de radiación (wR)",
             "Factor de absorción"
         ],
-        "correctAnswer": "Factor de calidad (Q)"
+        "correctAnswers": "Factor de calidad (Q)"
     },
     {
         "question": "¿Qué magnitud depende del tipo y energía de la radiación considerada y del órgano?",
@@ -337,7 +337,7 @@
             "Kerma",
             "Exposición"
         ],
-        "correctAnswer": "Dosis equivalente en un órgano"
+        "correctAnswers": "Dosis equivalente en un órgano"
     },
     {
         "question": "¿Qué factor se utiliza en la definición de dosis equivalente en un órgano o tejido?",
@@ -347,7 +347,7 @@
             "Factor de ponderación tisular (wT)",
             "Factor de absorción"
         ],
-        "correctAnswer": "Factor de ponderación de radiación (wR)"
+        "correctAnswers": "Factor de ponderación de radiación (wR)"
     },
     {
         "question": "¿Cuál es la unidad de la dosis equivalente en un órgano?",
@@ -357,7 +357,7 @@
             "Culombio por kilogramo (C/kg)",
             "Becquerelio (Bq)"
         ],
-        "correctAnswer": "Sievert (Sv)"
+        "correctAnswers": "Sievert (Sv)"
     },
     {
         "question": "¿Qué magnitud combina diferentes dosis en diferentes órganos para estimar el riesgo total?",
@@ -367,7 +367,7 @@
             "Kerma",
             "Exposición"
         ],
-        "correctAnswer": "Dosis efectiva"
+        "correctAnswers": "Dosis efectiva"
     },
     {
         "question": "¿Qué factor se utiliza en la definición de dosis efectiva?",
@@ -377,7 +377,7 @@
             "Factor de calidad (Q)",
             "Factor de absorción"
         ],
-        "correctAnswer": "Factor de ponderación tisular (wT)"
+        "correctAnswers": "Factor de ponderación tisular (wT)"
     },
     {
         "question": "¿Qué magnitud se define como la suma ponderada de las dosis equivalentes en los órganos y tejidos?",
@@ -387,7 +387,7 @@
             "Kerma",
             "Exposición"
         ],
-        "correctAnswer": "Dosis efectiva"
+        "correctAnswers": "Dosis efectiva"
     },
     {
         "question": "¿Qué magnitud se utiliza para establecer límites máximos de exposición a radiaciones ionizantes?",
@@ -397,7 +397,7 @@
             "Kerma",
             "Exposición"
         ],
-        "correctAnswer": "Dosis efectiva"
+        "correctAnswers": "Dosis efectiva"
     },
     {
         "question": "¿Cuál es la unidad de la tasa de dosis equivalente en el SI?",
@@ -407,7 +407,7 @@
             "C/kg",
             "Bq/s"
         ],
-        "correctAnswer": "Sv/s"
+        "correctAnswers": "Sv/s"
     },
     {
         "question": "¿Qué magnitud se mide en C/kg·s?",
@@ -417,7 +417,7 @@
             "Tasa de kerma",
             "Tasa de dosis equivalente"
         ],
-        "correctAnswer": "Tasa de exposición"
+        "correctAnswers": "Tasa de exposición"
     },
     {
         "question": "¿Cuál es la magnitud que se obtiene al dividir la carga resultante de la ionización producida por la masa de aire donde se produjo?",
@@ -427,7 +427,7 @@
             "Kerma",
             "Dosis equivalente"
         ],
-        "correctAnswer": "Exposición"
+        "correctAnswers": "Exposición"
     },
     {
         "question": "¿Qué magnitud se define exclusivamente para un haz o campo de fotones en aire?",
@@ -437,7 +437,7 @@
             "Kerma",
             "Dosis equivalente"
         ],
-        "correctAnswer": "Exposición"
+        "correctAnswers": "Exposición"
     },
     
     {
@@ -448,7 +448,7 @@
             "Kerma",
             "Exposición"
         ],
-        "correctAnswer": "Dosis equivalente"
+        "correctAnswers": "Dosis equivalente"
     },
     {
         "question": "¿Qué magnitud se mide en Gray (Gy)?",
@@ -458,7 +458,7 @@
             "Kerma",
             "Exposición"
         ],
-        "correctAnswer": "Dosis absorbida"
+        "correctAnswers": "Dosis absorbida"
     },
     {
         "question": "¿Qué magnitud se mide en Culombio por kilogramo (C/kg)?",
@@ -468,7 +468,7 @@
             "Kerma",
             "Dosis equivalente"
         ],
-        "correctAnswer": "Exposición"
+        "correctAnswers": "Exposición"
     },
     {
         "question": "¿Qué magnitud se mide en Julio por kilogramo (J/kg)?",
@@ -478,7 +478,7 @@
             "Kerma",
             "Exposición"
         ],
-        "correctAnswer": "Dosis absorbida"
+        "correctAnswers": "Dosis absorbida"
     },
     {
         "question": "¿Qué magnitud se mide en Julio (J)?",
@@ -488,7 +488,7 @@
             "Dosis equivalente",
             "Exposición"
         ],
-        "correctAnswer": "Dosis integral"
+        "correctAnswers": "Dosis integral"
     },
     {
         "question": "¿Cuál es la magnitud operacional se mide en la superficie del cuerpo con un detector cubierto de material equivalente a tejido?",
@@ -498,7 +498,7 @@
             "Dosis efectiva",
             "Kerma"
         ],
-        "correctAnswer": "Equivalente de dosis personal, Hp(d)"
+        "correctAnswers": "Equivalente de dosis personal, Hp(d)"
     },
     {
         "question": "¿Qué magnitud operacional enlaza la irradiación externa con la dosis en la piel y el cristalino?",
@@ -508,7 +508,7 @@
             "Dosis absorbida",
             "Kerma"
         ],
-        "correctAnswer": "Equivalente de dosis direccional, H'(d,Ω)"
+        "correctAnswers": "Equivalente de dosis direccional, H'(d,Ω)"
     },
     {
         "question": "¿Qué magnitud se utiliza para evaluar la calidad de la imagen en estudios preclínicos de radioterapia con animales pequeños?",
@@ -518,7 +518,7 @@
             "Dosis efectiva",
             "Kerma"
         ],
-        "correctAnswer": "Dosis absorbida"
+        "correctAnswers": "Dosis absorbida"
     },
     {
         "question": "¿Qué magnitud se utiliza para estimar el riesgo en radiología veterinaria?",
@@ -528,7 +528,7 @@
             "Dosis equivalente",
             "Kerma"
         ],
-        "correctAnswer": "Dosis superficie a la entrada del animal (DSE)"
+        "correctAnswers": "Dosis superficie a la entrada del animal (DSE)"
     },
     {
         "question": "¿Qué magnitud se mide con dosímetros termoluminiscentes o cámaras de ionización apropiadas?",
@@ -538,7 +538,7 @@
             "Dosis equivalente",
             "Kerma"
         ],
-        "correctAnswer": "Dosis a la entrada del paciente"
+        "correctAnswers": "Dosis a la entrada del paciente"
     },
     {
         "question": "¿Qué magnitud depende de la energía de los fotones y del tamaño de área irradiada?",
@@ -548,7 +548,7 @@
             "Kerma",
             "Exposición"
         ],
-        "correctAnswer": "Factor de retrodispersión"
+        "correctAnswers": "Factor de retrodispersión"
     },
     {
         "question": "¿Qué magnitud se define como la suma de los productos de las dosis en cada elemento de masa por los valores de esos elementos de masa?",
@@ -558,7 +558,7 @@
             "Dosis equivalente",
             "Kerma"
         ],
-        "correctAnswer": "Dosis integral"
+        "correctAnswers": "Dosis integral"
     },
     {
         "question": "¿Qué magnitud se utiliza para la estimación del riesgo en la mayoría de los países de la CE?",
@@ -568,7 +568,7 @@
             "Dosis equivalente",
             "Kerma"
         ],
-        "correctAnswer": "Dosis en órganos"
+        "correctAnswers": "Dosis en órganos"
     },
     {
         "question": "¿Qué magnitud se mide directamente en órganos superficiales como mama, tiroides o testículos?",
@@ -578,7 +578,7 @@
             "Dosis equivalente",
             "Kerma"
         ],
-        "correctAnswer": "Dosis en órganos"
+        "correctAnswers": "Dosis en órganos"
     },
     {
         "question": "¿Qué magnitud requiere el uso de maniquíes para su medida en órganos profundos?",
@@ -588,7 +588,7 @@
             "Dosis equivalente",
             "Kerma"
         ],
-        "correctAnswer": "Dosis en órganos"
+        "correctAnswers": "Dosis en órganos"
     },
     {
         "question": "¿Qué magnitud se define como el cociente de la energía media impartida por la radiación a un material de masa dm?",
@@ -598,7 +598,7 @@
             "Kerma",
             "Exposición"
         ],
-        "correctAnswer": "Dosis absorbida"
+        "correctAnswers": "Dosis absorbida"
     },
     {
         "question": "¿Qué magnitud se mide en Gy/s, Gy/min o Gy/h según el nivel de radiación?",
@@ -608,7 +608,7 @@
             "Tasa de kerma",
             "Tasa de dosis equivalente"
         ],
-        "correctAnswer": "Tasa de dosis absorbida"
+        "correctAnswers": "Tasa de dosis absorbida"
     },
     {
         "question": "¿Qué magnitud se define como el cociente de la energía disipada por una partícula cargada al atravesar una longitud dl?",
@@ -618,7 +618,7 @@
             "Kerma",
             "Exposición"
         ],
-        "correctAnswer": "Transferencia lineal de energía (LET)"
+        "correctAnswers": "Transferencia lineal de energía (LET)"
     },
     {
         "question": "¿Qué magnitud se mide en Julio/metro (J/m)?",
@@ -628,7 +628,7 @@
             "Kerma",
             "Exposición"
         ],
-        "correctAnswer": "Transferencia lineal de energía (LET)"
+        "correctAnswers": "Transferencia lineal de energía (LET)"
     },
     {
         "question": "¿Qué magnitud se define como la suma ponderada de las dosis equivalentes en los órganos y tejidos del cuerpo humano?",
@@ -638,7 +638,7 @@
             "Kerma",
             "Exposición"
         ],
-        "correctAnswer": "Dosis efectiva"
+        "correctAnswers": "Dosis efectiva"
     },
     {
         "question": "¿Qué magnitud se mide en Sv/s?",
@@ -648,7 +648,7 @@
             "Tasa de kerma",
             "Tasa de dosis absorbida"
         ],
-        "correctAnswer": "Tasa de dosis equivalente"
+        "correctAnswers": "Tasa de dosis equivalente"
     },
     {
         "question": "¿Qué magnitud se obtiene al dividir la carga resultante de la ionización producida por la masa de aire donde se produjo?",
@@ -658,7 +658,7 @@
             "Kerma",
             "Dosis equivalente"
         ],
-        "correctAnswer": "Exposición"
+        "correctAnswers": "Exposición"
     }
     
 ]
