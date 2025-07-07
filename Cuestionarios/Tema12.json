@@ -7,7 +7,7 @@
             "Calidad es la ausencia de errores.",
             "Calidad es la máxima producción posible."
         ],
-        "correctAnswer": "Calidad es el conjunto de características de una entidad que le confieren capacidad para satisfacer necesidades del cliente."
+        "correctAnswers": "Calidad es el conjunto de características de una entidad que le confieren capacidad para satisfacer necesidades del cliente."
     },
     {
         "question": "¿Qué busca la calidad en radiodiagnóstico dental?",
@@ -17,7 +17,7 @@
             "Reducir el tiempo de exploración.",
             "Aumentar la dosis al paciente."
         ],
-        "correctAnswer": "Obtener imágenes diagnósticas adecuadas con mínima exposición y bajo coste."
+        "correctAnswers": "Obtener imágenes diagnósticas adecuadas con mínima exposición y bajo coste."
     },
     {
         "question": "¿Qué es la Garantía de Calidad según la Norma ISO 6215:1980?",
@@ -27,7 +27,7 @@
             "La compra de equipos nuevos.",
             "La reducción de personal."
         ],
-        "correctAnswer": "Acciones planificadas y sistemáticas para asegurar el funcionamiento satisfactorio de un sistema."
+        "correctAnswers": "Acciones planificadas y sistemáticas para asegurar el funcionamiento satisfactorio de un sistema."
     },
     {
         "question": "¿Cuál es el objetivo principal de un programa de Garantía de Calidad en radiodiagnóstico?",
@@ -37,7 +37,7 @@
             "Reducir la formación del personal.",
             "Incrementar los costes operativos."
         ],
-        "correctAnswer": "Optimización de imágenes, protección radiológica y minimizar dosis y costes."
+        "correctAnswers": "Optimización de imágenes, protección radiológica y minimizar dosis y costes."
     },
     {
         "question": "¿Quién es el responsable de implantar el Programa de Garantía de Calidad en radiología humana?",
@@ -47,7 +47,7 @@
             "El director de la instalación.",
             "El médico especialista."
         ],
-        "correctAnswer": "El titular de la instalación."
+        "correctAnswers": "El titular de la instalación."
     },
     {
         "question": "¿Qué debe perseguir un programa de garantía de calidad? (Señala la falsa)",
@@ -57,7 +57,7 @@
             "Disminuir la dosis.",
             "Optimizar la imagen."
         ],
-        "correctAnswer": "Aumentar los costes."
+        "correctAnswers": "Aumentar los costes."
     },
     {
         "question": "¿Qué son los criterios de calidad?",
@@ -67,7 +67,7 @@
             "Equipos de última generación.",
             "Protocolos de limpieza."
         ],
-        "correctAnswer": "Reglas y valores para calificar una actuación como adecuada o inadecuada."
+        "correctAnswers": "Reglas y valores para calificar una actuación como adecuada o inadecuada."
     },
     {
         "question": "¿Quién puede delegar obligaciones en la Comisión de Garantía de Calidad?",
@@ -77,7 +77,7 @@
             "El técnico de mantenimiento.",
             "El paciente."
         ],
-        "correctAnswer": "El titular de la unidad asistencial."
+        "correctAnswers": "El titular de la unidad asistencial."
     },
     {
         "question": "¿Qué formación debe tener el personal que utiliza equipos de rayos X?",
@@ -87,7 +87,7 @@
             "Solo formación universitaria.",
             "No necesita formación específica."
         ],
-        "correctAnswer": "Cualificación profesional y formación en protección radiológica."
+        "correctAnswers": "Cualificación profesional y formación en protección radiológica."
     },
     {
         "question": "¿Qué especialista debe verificar las dosis impartidas a los pacientes?",
@@ -97,7 +97,7 @@
             "Odontólogo.",
             "Técnico de laboratorio."
         ],
-        "correctAnswer": "Especialista en Radiofísica Hospitalaria."
+        "correctAnswers": "Especialista en Radiofísica Hospitalaria."
     },
     {
         "question": "¿Qué debe incluir el programa de garantía de calidad respecto a las exploraciones?",
@@ -107,7 +107,7 @@
             "Listados de pacientes.",
             "Manuales de usuario."
         ],
-        "correctAnswer": "Protocolos escritos para cada tipo de práctica radiológica estándar."
+        "correctAnswers": "Protocolos escritos para cada tipo de práctica radiológica estándar."
     },
     {
         "question": "¿Qué debe hacerse tras una reparación que afecte a la calidad de imagen o dosis?",
@@ -117,7 +117,7 @@
             "Cambiar el operador.",
             "No es necesario ningún control."
         ],
-        "correctAnswer": "Verificación del funcionamiento y certificado de restitución."
+        "correctAnswers": "Verificación del funcionamiento y certificado de restitución."
     },
     {
         "question": "¿Qué indicador se utiliza para medir la dosis en radiología dental intraoral?",
@@ -127,7 +127,7 @@
             "Dosis media poblacional.",
             "Dosis de laboratorio."
         ],
-        "correctAnswer": "Dosis superficie a la entrada del paciente (DSE)."
+        "correctAnswers": "Dosis superficie a la entrada del paciente (DSE)."
     },
     {
         "question": "¿Con qué frecuencia debe verificarse la dosis a pacientes?",
@@ -137,7 +137,7 @@
             "Cada cinco años.",
             "Solo al instalar el equipo."
         ],
-        "correctAnswer": "Anualmente."
+        "correctAnswers": "Anualmente."
     },
     {
         "question": "¿Cuál es el valor de referencia de DSE para radiología dental intraoral según RD 1976/1999?",
@@ -147,7 +147,7 @@
             "0,7 mGy.",
             "10 mGy."
         ],
-        "correctAnswer": "7 mGy."
+        "correctAnswers": "7 mGy."
     },
     {
         "question": "¿Qué ocurre si el valor medio de dosis supera el de referencia?",
@@ -157,7 +157,7 @@
             "Se repite la prueba.",
             "Se ignora el resultado."
         ],
-        "correctAnswer": "Debe aplicarse una medida correctora."
+        "correctAnswers": "Debe aplicarse una medida correctora."
     },
     {
         "question": "¿Qué es la tasa de rechazo de imágenes?",
@@ -167,7 +167,7 @@
             "Tiempo de exposición.",
             "Nivel de contraste."
         ],
-        "correctAnswer": "Porcentaje de exploraciones no diagnósticas."
+        "correctAnswers": "Porcentaje de exploraciones no diagnósticas."
     },
     {
         "question": "¿Qué tasa de rechazo se considera inaceptable en radiología dental en Gran Bretaña?",
@@ -177,7 +177,7 @@
             "Superior al 20%.",
             "Superior al 1%."
         ],
-        "correctAnswer": "Superior al 10%."
+        "correctAnswers": "Superior al 10%."
     },
     {
         "question": "¿Qué objetivo debe tener el análisis de rechazo?",
@@ -187,7 +187,7 @@
             "Mantener la tasa estable.",
             "Eliminar la tasa de rechazo."
         ],
-        "correctAnswer": "Reducir la tasa en un 50% respecto a la etapa anterior."
+        "correctAnswers": "Reducir la tasa en un 50% respecto a la etapa anterior."
     },
     {
         "question": "¿Qué debe incluir el control de calidad de los aspectos clínicos?",
@@ -197,7 +197,7 @@
             "Solo la elección de técnica.",
             "Solo la emisión de informes."
         ],
-        "correctAnswer": "Justificación, responsabilidad, elección de técnica e informes."
+        "correctAnswers": "Justificación, responsabilidad, elección de técnica e informes."
     },
     {
         "question": "¿Qué establece el RD 815/2001?",
@@ -207,7 +207,7 @@
             "Exclusión de la justificación.",
             "Justificación opcional."
         ],
-        "correctAnswer": "Obligatoriedad de justificación de cada exploración con rayos X."
+        "correctAnswers": "Obligatoriedad de justificación de cada exploración con rayos X."
     },
     {
         "question": "¿Qué debe contener el programa de control de calidad del equipamiento?",
@@ -217,7 +217,7 @@
             "Listados de pacientes.",
             "Registros de limpieza."
         ],
-        "correctAnswer": "Protocolos de medidas del equipamiento y sistemas asociados."
+        "correctAnswers": "Protocolos de medidas del equipamiento y sistemas asociados."
     },
     {
         "question": "¿En qué orden deben controlarse los sistemas de la cadena de imagen?",
@@ -227,7 +227,7 @@
             "Orden aleatorio.",
             "Solo visualización."
         ],
-        "correctAnswer": "Primero visualización, luego procesado, finalmente equipo de rayos X."
+        "correctAnswers": "Primero visualización, luego procesado, finalmente equipo de rayos X."
     },
     {
         "question": "¿Qué parámetro debe tener el brillo del negatoscopio?",
@@ -237,7 +237,7 @@
             "Exactamente 1000 candelas/m².",
             "No importa el valor."
         ],
-        "correctAnswer": "Mayor de 1700 candelas/m²."
+        "correctAnswers": "Mayor de 1700 candelas/m²."
     },
     {
         "question": "¿Cuál debe ser la resolución mínima de un monitor para imágenes digitales?",
@@ -247,7 +247,7 @@
             "1280 x 720 píxeles.",
             "640 x 480 píxeles."
         ],
-        "correctAnswer": "1024 x 768 píxeles."
+        "correctAnswers": "1024 x 768 píxeles."
     },
     {
         "question": "¿Qué prueba se realiza para comprobar la hermeticidad de los chasis?",
@@ -257,7 +257,7 @@
             "Verificación de peso.",
             "Prueba de sonido."
         ],
-        "correctAnswer": "Exposición a luz intensa tras cargar con película."
+        "correctAnswers": "Exposición a luz intensa tras cargar con película."
     },
     {
         "question": "¿Qué parámetro es fundamental en el procesado de películas radiográficas?",
@@ -267,7 +267,7 @@
             "Color de la película.",
             "Tamaño del chasis."
         ],
-        "correctAnswer": "Condiciones de revelado (temperatura, tiempo, químicos)."
+        "correctAnswers": "Condiciones de revelado (temperatura, tiempo, químicos)."
     },
     {
         "question": "¿Qué desaparece con la adquisición digital de imagen?",
@@ -277,7 +277,7 @@
             "Control de calidad.",
             "Formación del personal."
         ],
-        "correctAnswer": "Procesado clásico, película y cuartos oscuros."
+        "correctAnswers": "Procesado clásico, película y cuartos oscuros."
     },
     {
         "question": "¿Qué se controla en la calidad del haz de RX?",
@@ -287,7 +287,7 @@
             "Solo el tiempo de exposición.",
             "Solo el tamaño del campo."
         ],
-        "correctAnswer": "Tensión (kV) y filtración (CHR)."
+        "correctAnswers": "Tensión (kV) y filtración (CHR)."
     },
     {
         "question": "¿Cuál es la tolerancia para la tensión en equipos de RX?",
@@ -297,7 +297,7 @@
             "5%.",
             "50%."
         ],
-        "correctAnswer": "10%."
+        "correctAnswers": "10%."
     },
     {
         "question": "¿Qué garantiza la filtración en equipos de RX dental?",
@@ -307,7 +307,7 @@
             "Reducción de la calidad de imagen.",
             "Incremento de artefactos."
         ],
-        "correctAnswer": "Eliminación de fotones de baja energía y minimización de dosis."
+        "correctAnswers": "Eliminación de fotones de baja energía y minimización de dosis."
     },
     {
         "question": "¿Cuál es el valor mínimo de capa hemirreductora para equipos ≤70 kV?",
@@ -317,7 +317,7 @@
             "0,5 mm de plomo.",
             "3 mm de aluminio."
         ],
-        "correctAnswer": "1,5 mm de aluminio."
+        "correctAnswers": "1,5 mm de aluminio."
     },
     {
         "question": "¿Qué tamaño máximo debe tener el haz en el extremo del cono localizador en intraoral?",
@@ -327,7 +327,7 @@
             "2 cm de diámetro.",
             "8 cm de diámetro."
         ],
-        "correctAnswer": "6 cm de diámetro."
+        "correctAnswers": "6 cm de diámetro."
     },
     {
         "question": "¿Cuál es la mínima distancia foco-piel para tensiones >60 kV?",
@@ -337,7 +337,7 @@
             "5 cm.",
             "30 cm."
         ],
-        "correctAnswer": "20 cm."
+        "correctAnswers": "20 cm."
     },
     {
         "question": "¿Qué parámetro geométrico no se controla en ortopantomografía según el PECCRX?",
@@ -347,7 +347,7 @@
             "Distancia foco-piel.",
             "Tamaño de la imagen."
         ],
-        "correctAnswer": "No se establecen parámetros de control."
+        "correctAnswers": "No se establecen parámetros de control."
     },
     {
         "question": "¿Qué exactitud debe tener el tiempo de exposición en telerradiografía?",
@@ -357,7 +357,7 @@
             "Peor del 50%.",
             "No se controla."
         ],
-        "correctAnswer": "Mejor del 20%."
+        "correctAnswers": "Mejor del 20%."
     },
     {
         "question": "¿Qué es el rendimiento en equipos de RX?",
@@ -367,7 +367,7 @@
             "Cantidad de imágenes por hora.",
             "Consumo eléctrico."
         ],
-        "correctAnswer": "Dosis en aire a 1 m dividida por mAs nominales."
+        "correctAnswers": "Dosis en aire a 1 m dividida por mAs nominales."
     },
     {
         "question": "¿Cuál es el rango orientativo de rendimiento para equipos de 50-70 kV?",
@@ -377,7 +377,7 @@
             "100-200 microGy/mAs.",
             "5-10 microGy/mAs."
         ],
-        "correctAnswer": "30-80 microGy/mAs."
+        "correctAnswers": "30-80 microGy/mAs."
     },
     {
         "question": "¿Qué tolerancia de reproducibilidad se exige para el rendimiento?",
@@ -387,7 +387,7 @@
             "50%.",
             "1%."
         ],
-        "correctAnswer": "10%."
+        "correctAnswers": "10%."
     },
     {
         "question": "¿Qué coeficiente de linealidad se exige para la variación del rendimiento con el tiempo de exposición?",
@@ -397,7 +397,7 @@
             "Exactamente 0,5.",
             "No se controla."
         ],
-        "correctAnswer": "Inferior a 0,1."
+        "correctAnswers": "Inferior a 0,1."
     },
     {
         "question": "¿Por cuánto tiempo deben archivarse los informes de dosis a pacientes?",
@@ -407,7 +407,7 @@
             "1 año.",
             "Toda la vida útil del paciente."
         ],
-        "correctAnswer": "Mínimo 30 años."
+        "correctAnswers": "Mínimo 30 años."
     },
     {
         "question": "¿Qué debe incluir el archivo de documentación?",
@@ -417,7 +417,7 @@
             "Solo manuales de usuario.",
             "Listados de pacientes."
         ],
-        "correctAnswer": "Registros de intervenciones, controles de calidad y medidas correctoras."
+        "correctAnswers": "Registros de intervenciones, controles de calidad y medidas correctoras."
     },
     {
         "question": "¿Quién establece la auditoría externa del programa de Garantía de Calidad?",
@@ -427,7 +427,7 @@
             "El técnico de mantenimiento.",
             "El paciente."
         ],
-        "correctAnswer": "La autoridad sanitaria competente."
+        "correctAnswers": "La autoridad sanitaria competente."
     },
     {
         "question": "¿Qué debe incluir toda auditoría interna?",
@@ -437,7 +437,7 @@
             "Solo responsables.",
             "Solo resultados finales."
         ],
-        "correctAnswer": "Descripción de cuándo y cómo se realizan las auditorías."
+        "correctAnswers": "Descripción de cuándo y cómo se realizan las auditorías."
     },
     {
         "question": "¿Qué se logra exigiendo un valor mínimo de filtración?",
@@ -447,7 +447,7 @@
             "Reducción de la calidad de imagen.",
             "Incremento de artefactos."
         ],
-        "correctAnswer": "Minimización de la dosis al paciente."
+        "correctAnswers": "Minimización de la dosis al paciente."
     },
     {
         "question": "¿Qué ocurre si la filtración es insuficiente?",
@@ -457,7 +457,7 @@
             "Disminuye la dosis.",
             "No afecta en nada."
         ],
-        "correctAnswer": "Aumenta la dosis al paciente sin mejorar la imagen."
+        "correctAnswers": "Aumenta la dosis al paciente sin mejorar la imagen."
     },
     {
         "question": "¿Qué documento regula la justificación del uso de rayos X en exploraciones médicas?",
@@ -467,7 +467,7 @@
             "Norma ISO 8402.",
             "Protocolo Español de Control de Calidad."
         ],
-        "correctAnswer": "Real Decreto 815/2001."
+        "correctAnswers": "Real Decreto 815/2001."
     },
     {
         "question": "¿Qué debe hacerse si tras reparación el equipo no recupera su estado de referencia?",
@@ -477,7 +477,7 @@
             "Solo se informa al paciente.",
             "No es necesario ningún informe."
         ],
-        "correctAnswer": "No se debe usar hasta corregir la anomalía."
+        "correctAnswers": "No se debe usar hasta corregir la anomalía."
     },
     {
         "question": "¿Qué parámetro se utiliza para evaluar la calidad de imagen en radiodiagnóstico?",
@@ -487,7 +487,7 @@
             "Solo la resolución.",
             "Solo el contraste."
         ],
-        "correctAnswer": "Cumplimiento de criterios científicos o uso de objetos de prueba."
+        "correctAnswers": "Cumplimiento de criterios científicos o uso de objetos de prueba."
     },
     {
         "question": "¿Qué debe hacerse si se detecta un incumplimiento significativo de los criterios de imagen?",
@@ -497,6 +497,6 @@
             "Repetir la exploración sin cambios.",
             "Reducir la dosis automáticamente."
         ],
-        "correctAnswer": "Aplicar medidas correctoras."
+        "correctAnswers": "Aplicar medidas correctoras."
     }
 ]
