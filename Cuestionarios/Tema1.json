@@ -7,7 +7,7 @@
             "Neutrón",
             "Fotón"
         ],
-        "correctAnswer": "Electrón"
+        "correctAnswers": "Electrón"
     },
     {
         "question": "¿Quién propuso el modelo atómico con núcleo central y electrones girando a su alrededor?",
@@ -17,7 +17,7 @@
             "Thomson",
             "Dalton"
         ],
-        "correctAnswer": "Rutherford"
+        "correctAnswers": "Rutherford"
     },
     {
         "question": "¿Qué es un isótopo?",
@@ -27,7 +27,7 @@
             "Átomos con igual número de neutrones",
             "Átomos con diferente número de electrones"
         ],
-        "correctAnswer": "Átomos del mismo elemento con diferente número de neutrones"
+        "correctAnswers": "Átomos del mismo elemento con diferente número de neutrones"
     },
     {
         "question": "¿Cuál es el mediador de la fuerza electromagnética?",
@@ -37,7 +37,7 @@
             "Bosón W",
             "Neutrón"
         ],
-        "correctAnswer": "Fotón"
+        "correctAnswers": "Fotón"
     },
     {
         "question": "¿Qué ocurre cuando un electrón salta de un nivel energético alto a uno más bajo?",
@@ -47,7 +47,7 @@
             "Se convierte en neutrón",
             "Aumenta su masa"
         ],
-        "correctAnswer": "Emite un fotón"
+        "correctAnswers": "Emite un fotón"
     },
     {
         "question": "¿Qué tipo de radiación electromagnética tiene mayor energía?",
@@ -57,7 +57,7 @@
             "Microondas",
             "Ondas de radio"
         ],
-        "correctAnswer": "Rayos gamma"
+        "correctAnswers": "Rayos gamma"
     },
     {
         "question": "¿Qué es la configuración electrónica?",
@@ -67,7 +67,7 @@
             "Número de electrones en el núcleo",
             "Cantidad de energía de un átomo"
         ],
-        "correctAnswer": "Distribución de los electrones en los niveles y subniveles energéticos"
+        "correctAnswers": "Distribución de los electrones en los niveles y subniveles energéticos"
     },
     {
         "question": "¿Qué partícula subatómica no tiene carga eléctrica?",
@@ -77,7 +77,7 @@
             "Electrón",
             "Fotón"
         ],
-        "correctAnswer": "Neutrón"
+        "correctAnswers": "Neutrón"
     },
     {
         "question": "¿Qué es la fuerza nuclear fuerte?",
@@ -87,7 +87,7 @@
             "La que permite la interacción entre electrones",
             "La que produce la radiación electromagnética"
         ],
-        "correctAnswer": "La que mantiene unidos protones y neutrones en el núcleo"
+        "correctAnswers": "La que mantiene unidos protones y neutrones en el núcleo"
     },
     {
         "question": "¿Qué es el espectro de emisión?",
@@ -97,7 +97,7 @@
             "Conjunto de partículas emitidas por un núcleo",
             "Conjunto de electrones en un átomo"
         ],
-        "correctAnswer": "Conjunto de longitudes de onda emitidas por un elemento"
+        "correctAnswers": "Conjunto de longitudes de onda emitidas por un elemento"
     },
     {
         "question": "¿Qué es el espectro de absorción?",
@@ -107,7 +107,7 @@
             "Conjunto de partículas emitidas por un núcleo",
             "Conjunto de electrones en un átomo"
         ],
-        "correctAnswer": "Conjunto de longitudes de onda absorbidas por un elemento"
+        "correctAnswers": "Conjunto de longitudes de onda absorbidas por un elemento"
     },
     {
         "question": "¿Qué ocurre si la energía de un fotón es menor que la energía de ligadura de un electrón?",
@@ -117,7 +117,7 @@
             "El átomo se desintegra",
             "Se produce fisión nuclear"
         ],
-        "correctAnswer": "No se produce ionización"
+        "correctAnswers": "No se produce ionización"
     },
     {
         "question": "¿Qué es la radiación ionizante?",
@@ -127,7 +127,7 @@
             "Radiación que solo calienta la materia",
             "Radiación que no transporta energía"
         ],
-        "correctAnswer": "Radiación capaz de arrancar electrones de los átomos"
+        "correctAnswers": "Radiación capaz de arrancar electrones de los átomos"
     },
     {
         "question": "¿Qué es la radiación no ionizante?",
@@ -137,7 +137,7 @@
             "Radiación que solo existe en el vacío",
             "Radiación que tiene masa"
         ],
-        "correctAnswer": "Radiación que no tiene suficiente energía para ionizar átomos"
+        "correctAnswers": "Radiación que no tiene suficiente energía para ionizar átomos"
     },
     {
         "question": "¿Qué ocurre cuando un átomo pierde un electrón?",
@@ -147,7 +147,7 @@
             "Se convierte en un neutrón",
             "Se convierte en un fotón"
         ],
-        "correctAnswer": "Se convierte en un ion positivo"
+        "correctAnswers": "Se convierte en un ion positivo"
     },
     {
         "question": "¿Qué es el número atómico (Z)?",
@@ -157,7 +157,7 @@
             "Suma de protones y neutrones",
             "Número de electrones en la corteza"
         ],
-        "correctAnswer": "Número de protones en el núcleo"
+        "correctAnswers": "Número de protones en el núcleo"
     },
     {
         "question": "¿Qué es el número másico (A)?",
@@ -167,7 +167,7 @@
             "Número de electrones",
             "Número de orbitales"
         ],
-        "correctAnswer": "Suma de protones y neutrones"
+        "correctAnswers": "Suma de protones y neutrones"
     },
     {
         "question": "¿Qué es un espectro continuo?",
@@ -177,7 +177,7 @@
             "Conjunto de bandas oscuras",
             "Conjunto de electrones libres"
         ],
-        "correctAnswer": "Conjunto ininterrumpido de longitudes de onda"
+        "correctAnswers": "Conjunto ininterrumpido de longitudes de onda"
     },
     {
         "question": "¿Qué es un espectro de líneas?",
@@ -187,7 +187,7 @@
             "Conjunto de electrones libres",
             "Conjunto de protones en el núcleo"
         ],
-        "correctAnswer": "Conjunto de líneas brillantes sobre fondo oscuro"
+        "correctAnswers": "Conjunto de líneas brillantes sobre fondo oscuro"
     },
     {
         "question": "¿Qué es la fluorescencia?",
@@ -197,7 +197,7 @@
             "Reflexión total de la luz",
             "Ionización espontánea"
         ],
-        "correctAnswer": "Emisión de luz tras absorber radiación"
+        "correctAnswers": "Emisión de luz tras absorber radiación"
     },
     {
         "question": "¿Qué es la fosforescencia?",
@@ -207,7 +207,7 @@
             "No emisión de luz",
             "Desintegración nuclear"
         ],
-        "correctAnswer": "Emisión de luz durante un tiempo después de cesar la radiación"
+        "correctAnswers": "Emisión de luz durante un tiempo después de cesar la radiación"
     },
     {
         "question": "¿Qué es la dualidad onda-partícula?",
@@ -217,7 +217,7 @@
             "Las ondas no tienen energía",
             "La radiación solo se comporta como partícula"
         ],
-        "correctAnswer": "La radiación puede comportarse como onda y como partícula"
+        "correctAnswers": "La radiación puede comportarse como onda y como partícula"
     },
     {
         "question": "¿Quién propuso la dualidad onda-partícula para los electrones?",
@@ -227,7 +227,7 @@
             "Dalton",
             "Rutherford"
         ],
-        "correctAnswer": "De Broglie"
+        "correctAnswers": "De Broglie"
     },
     {
         "question": "¿Qué bloque de la tabla periódica pertenece el sodio?",
@@ -237,7 +237,7 @@
             "Bloque d",
             "Bloque f"
         ],
-        "correctAnswer": "Bloque s"
+        "correctAnswers": "Bloque s"
     },
     {
         "question": "¿Cuál es el elemento con número atómico 8?",
@@ -247,7 +247,7 @@
             "Nitrógeno",
             "Helio"
         ],
-        "correctAnswer": "Oxígeno"
+        "correctAnswers": "Oxígeno"
     },
     {
         "question": "¿Qué elemento tiene 12 protones en su núcleo?",
@@ -257,7 +257,7 @@
             "Neón",
             "Aluminio"
         ],
-        "correctAnswer": "Magnesio"
+        "correctAnswers": "Magnesio"
     },
     {
         "question": "¿Qué tipo de espectro es característico de los sólidos incandescentes?",
@@ -267,7 +267,7 @@
             "Espectro de absorción",
             "Espectro de bandas"
         ],
-        "correctAnswer": "Espectro continuo"
+        "correctAnswers": "Espectro continuo"
     },
     {
         "question": "¿Qué tipo de espectro es característico de los gases a baja presión?",
@@ -277,7 +277,7 @@
             "Espectro de bandas",
             "Espectro de absorción"
         ],
-        "correctAnswer": "Espectro de líneas"
+        "correctAnswers": "Espectro de líneas"
     },
     {
         "question": "¿Qué ocurre en el proceso de ionización?",
@@ -287,7 +287,7 @@
             "Un átomo emite luz",
             "Un átomo se convierte en molécula"
         ],
-        "correctAnswer": "Un átomo pierde o gana electrones"
+        "correctAnswers": "Un átomo pierde o gana electrones"
     },
     {
         "question": "¿Qué ocurre en el proceso de excitación?",
@@ -297,7 +297,7 @@
             "Un protón se convierte en neutrón",
             "Un átomo se divide en dos"
         ],
-        "correctAnswer": "Un electrón pasa a un nivel superior de energía"
+        "correctAnswers": "Un electrón pasa a un nivel superior de energía"
     },
     {
         "question": "¿Qué es la energía de ionización?",
@@ -307,7 +307,7 @@
             "Energía de movimiento de un electrón",
             "Energía de enlace nuclear"
         ],
-        "correctAnswer": "Energía necesaria para arrancar un electrón de un átomo"
+        "correctAnswers": "Energía necesaria para arrancar un electrón de un átomo"
     },
     {
         "question": "¿Qué es la energía de excitación?",
@@ -317,7 +317,7 @@
             "Energía de enlace",
             "Energía de masa"
         ],
-        "correctAnswer": "Energía necesaria para elevar un electrón a un nivel superior"
+        "correctAnswers": "Energía necesaria para elevar un electrón a un nivel superior"
     },
     {
         "question": "¿Qué es la energía de enlace nuclear?",
@@ -327,7 +327,7 @@
             "Energía de movimiento de los electrones",
             "Energía de absorción de fotones"
         ],
-        "correctAnswer": "Energía que mantiene unidos protones y neutrones"
+        "correctAnswers": "Energía que mantiene unidos protones y neutrones"
     },
     {
         "question": "¿Qué es el fotón?",
@@ -337,7 +337,7 @@
             "Protón excitado",
             "Neutrón con carga"
         ],
-        "correctAnswer": "Cuanto de energía electromagnética"
+        "correctAnswers": "Cuanto de energía electromagnética"
     },
     {
         "question": "¿Qué es el electrón-voltio (eV)?",
@@ -347,7 +347,7 @@
             "Unidad de volumen",
             "Unidad de longitud"
         ],
-        "correctAnswer": "Unidad de energía"
+        "correctAnswers": "Unidad de energía"
     },
     {
         "question": "¿Cuál es la velocidad de la luz en el vacío?",
@@ -357,7 +357,7 @@
             "3.000 km/s",
             "1.000 km/s"
         ],
-        "correctAnswer": "300.000 km/s"
+        "correctAnswers": "300.000 km/s"
     },
     {
         "question": "¿Qué ocurre cuando la radiación interactúa con la materia?",
@@ -367,7 +367,7 @@
             "Nunca es absorbida",
             "Siempre se refleja"
         ],
-        "correctAnswer": "Puede ser absorbida, emitida o dispersada"
+        "correctAnswers": "Puede ser absorbida, emitida o dispersada"
     },
     {
         "question": "¿Qué ocurre cuando un electrón regresa al estado fundamental?",
@@ -377,7 +377,7 @@
             "Se convierte en protón",
             "Se desintegra"
         ],
-        "correctAnswer": "Emite energía en forma de fotón"
+        "correctAnswers": "Emite energía en forma de fotón"
     },
     {
         "question": "¿Qué es un orbital atómico?",
@@ -387,7 +387,7 @@
             "Zona donde se encuentra el núcleo",
             "Órbita circular de Bohr"
         ],
-        "correctAnswer": "Región del espacio donde es probable encontrar un electrón"
+        "correctAnswers": "Región del espacio donde es probable encontrar un electrón"
     },
     {
         "question": "¿Qué principio dice que dos electrones en un mismo átomo no pueden tener los mismos números cuánticos?",
@@ -397,7 +397,7 @@
             "Ley de Dalton",
             "Teoría de Bohr"
         ],
-        "correctAnswer": "Principio de exclusión de Pauli"
+        "correctAnswers": "Principio de exclusión de Pauli"
     },
     {
         "question": "¿Qué es la constante de Planck?",
@@ -407,7 +407,7 @@
             "Relación entre la velocidad y la longitud de onda",
             "Relación entre la carga y la masa"
         ],
-        "correctAnswer": "Relación entre la energía y la frecuencia de un fotón"
+        "correctAnswers": "Relación entre la energía y la frecuencia de un fotón"
     },
     {
         "question": "¿Qué es un espectro atómico?",
@@ -417,7 +417,7 @@
             "Conjunto de neutrones de un átomo",
             "Conjunto de electrones de un átomo"
         ],
-        "correctAnswer": "Conjunto de líneas características de cada elemento"
+        "correctAnswers": "Conjunto de líneas características de cada elemento"
     },
     {
         "question": "¿Qué es la absorción?",
@@ -427,7 +427,7 @@
             "Reflexión total de la luz",
             "Desintegración espontánea"
         ],
-        "correctAnswer": "Proceso por el cual la materia recibe energía de la radiación"
+        "correctAnswers": "Proceso por el cual la materia recibe energía de la radiación"
     },
     {
         "question": "¿Qué ocurre cuando la radiación es dispersada?",
@@ -437,7 +437,7 @@
             "Es emitida por la materia",
             "Se convierte en masa"
         ],
-        "correctAnswer": "Cambia de dirección al interactuar con la materia"
+        "correctAnswers": "Cambia de dirección al interactuar con la materia"
     },
     {
         "question": "¿Qué es la refracción?",
@@ -447,7 +447,7 @@
             "Absorción de radiación",
             "Ionización espontánea"
         ],
-        "correctAnswer": "Cambio de dirección de la radiación al pasar de un medio a otro"
+        "correctAnswers": "Cambio de dirección de la radiación al pasar de un medio a otro"
     },
     {
         "question": "¿Qué es la reflexión?",
@@ -457,7 +457,7 @@
             "Absorción total",
             "Fisión nuclear"
         ],
-        "correctAnswer": "Cambio de dirección de la radiación al chocar con una superficie"
+        "correctAnswers": "Cambio de dirección de la radiación al chocar con una superficie"
     },
     {
         "question": "¿Qué es la longitud de onda?",
@@ -467,7 +467,7 @@
             "Frecuencia de una onda",
             "Velocidad de una onda"
         ],
-        "correctAnswer": "Distancia entre dos crestas consecutivas de una onda"
+        "correctAnswers": "Distancia entre dos crestas consecutivas de una onda"
     },
     {
         "question": "¿Qué es la frecuencia?",
@@ -477,7 +477,7 @@
             "Energía de la onda",
             "Velocidad de la onda"
         ],
-        "correctAnswer": "Número de oscilaciones por segundo"
+        "correctAnswers": "Número de oscilaciones por segundo"
     },
     {
         "question": "¿Qué es la amplitud de una onda?",
@@ -487,7 +487,7 @@
             "Frecuencia de la onda",
             "Energía de la onda"
         ],
-        "correctAnswer": "Máxima altura de la onda respecto al equilibrio"
+        "correctAnswers": "Máxima altura de la onda respecto al equilibrio"
     },
     {
         "question": "¿Qué ocurre en la espectroscopía?",
@@ -497,7 +497,7 @@
             "Se determina la carga nuclear",
             "Se mide la velocidad de la luz"
         ],
-        "correctAnswer": "Se estudian los espectros de emisión y absorción de la materia"
+        "correctAnswers": "Se estudian los espectros de emisión y absorción de la materia"
     },
     {
         "question": "El espectro de radiaciones electromagnéticas",
@@ -507,7 +507,7 @@
             "Define a los rayos gamma como las radiaciones menos energéticas",
             "Visible por el ojo humano abarca un amplio espectro, entre 10 y 2000 nm"
         ],
-        "correctAnswer": "Consiste en la ordenación del conjunto de todas las radiaciones electromagnéticas, según su mayor o menor frecuencia"
+        "correctAnswers": "Consiste en la ordenación del conjunto de todas las radiaciones electromagnéticas, según su mayor o menor frecuencia"
     },
     {
         "question": "Cuanto mayor es la frecuencia de oscilación de las ondas electromagnéticas",
@@ -517,7 +517,7 @@
             "Más lento viajan",
             "Más rápido viajan"
         ],
-        "correctAnswer": "Más energía tienen"
+        "correctAnswers": "Más energía tienen"
     },
     {
         "question": "Los protones",
@@ -527,7 +527,7 @@
             "No tienen carga y 1 uma de masa",
             "Tienen carga negativa y 10 uma de masa"
         ],
-        "correctAnswer": "Tienen carga positiva y 1 uma de masa"
+        "correctAnswers": "Tienen carga positiva y 1 uma de masa"
     },
     {
         "question": "Los electrones son un tipo de partícula fundamental",
@@ -537,7 +537,7 @@
             "Con estructura interna y se aniquilan con los positrones para dar lugar a neutrones",
             "Con una masa similar a la de los protones"
         ],
-        "correctAnswer": "Que interaccionan electromagnéticamente con la materia pudiendo generar ionizaciones en los medios con los que interaccionan"
+        "correctAnswers": "Que interaccionan electromagnéticamente con la materia pudiendo generar ionizaciones en los medios con los que interaccionan"
     },
     {
         "question": "El electrón-voltio",
@@ -547,7 +547,7 @@
             "El electrón recorre una diferencia de potencial equivalente a 1 V",
             "El electrón parte en reposo"
         ],
-        "correctAnswer": "Todas las anteriores"
+        "correctAnswers": "Todas las anteriores"
     },
     {
         "question": "El electronvoltio (eV) es",
@@ -557,7 +557,7 @@
             "Una unidad de energía",
             "La energía necesaria para acelerar un electrón con una diferencia de potencial de 1V"
         ],
-        "correctAnswer": "Todas son correctas"
+        "correctAnswers": "Todas son correctas"
     },
     {
         "question": "El término átomo",
@@ -567,7 +567,7 @@
             "La palabra es la transcripción del griego apéiron \"sin límites\"",
             "Sólo es aplicable a los elementos radiactivos"
         ],
-        "correctAnswer": "Etimológicamente proviene del griego, a (sin) tomo (división)"
+        "correctAnswers": "Etimológicamente proviene del griego, a (sin) tomo (división)"
     },
     {
         "question": "Tras la excitación de un electrón ligado en un átomo",
@@ -577,7 +577,7 @@
             "Se produce una desexcitación de forma cuasi-instantánea sin liberar energía",
             "Éste se mantiene en ese nuevo nivel de forma indefinida en el tiempo"
         ],
-        "correctAnswer": "Generalmente se da una desexcitación del electrón en el marco temporal de unos pocos ns en la que se libera energía en forma de fotones"
+        "correctAnswers": "Generalmente se da una desexcitación del electrón en el marco temporal de unos pocos ns en la que se libera energía en forma de fotones"
     },
     {
         "question": "Los procesos de ionización tienen lugar",
@@ -587,7 +587,7 @@
             "Si la energía que se cede al medio es muy pequeña",
             "Siempre que un fotón interacciona con la materia"
         ],
-        "correctAnswer": "Cuando un fotón o un electrón libre cede una cantidad de energía mayor que la energía de ligadura de los electrones del átomo"
+        "correctAnswers": "Cuando un fotón o un electrón libre cede una cantidad de energía mayor que la energía de ligadura de los electrones del átomo"
     },
     {
         "question": "El uma es",
@@ -597,7 +597,7 @@
             "Lo que pesan los protones y los neutrones",
             "La 1/12 parte de la masa de Carbono-12"
         ],
-        "correctAnswer": "Todas son correctas"
+        "correctAnswers": "Todas son correctas"
     },
     {
         "question": "Los elementos de la tabla periódica se definen por",
@@ -607,7 +607,7 @@
             "El número de electrones",
             "El número de protones y neutrones A (número másico)"
         ],
-        "correctAnswer": "El número de protones Z (número atómico)"
+        "correctAnswers": "El número de protones Z (número atómico)"
     },
     {
         "question": "Los neutrones",
@@ -617,7 +617,7 @@
             "Tienen carga positiva y 10 uma de masa",
             "Tienen carga negativa y 1 uma de masa"
         ],
-        "correctAnswer": "Tienen carga neutra y 1 uma de masa"
+        "correctAnswers": "Tienen carga neutra y 1 uma de masa"
     },
     {
         "question": "Cuanto mayor es la frecuencia de una radiación electromagnética",
@@ -627,7 +627,7 @@
             "Ninguna de las anteriores",
             "Menor es su energía y mayor es su longitud de onda"
         ],
-        "correctAnswer": "Mayor es su energía y menor es su longitud de onda"
+        "correctAnswers": "Mayor es su energía y menor es su longitud de onda"
     },
     {
         "question": "Cuanto mayor es la longitud de onda de un fotón",
@@ -637,7 +637,7 @@
             "Viaja más rápido",
             "Es más energético"
         ],
-        "correctAnswer": "Es menos energético"
+        "correctAnswers": "Es menos energético"
     },
     {
         "question": "Los fotones son",
@@ -647,7 +647,7 @@
             "Las dos anteriores",
             "Partículas que pertenecen al átomo"
         ],
-        "correctAnswer": "Cuantos de energía"
+        "correctAnswers": "Cuantos de energía"
     },
     {
         "question": "Un electrón-voltio (eV)",
@@ -657,7 +657,7 @@
             "Es una unidad de energía",
             "El electrón parte en reposo"
         ],
-        "correctAnswer": "Todas son correctas"
+        "correctAnswers": "Todas son correctas"
     },
     {
         "question": "El fotón",
@@ -667,7 +667,7 @@
             "Tiene masa distinta de cero",
             "Existe en reposo"
         ],
-        "correctAnswer": "Se caracteriza por su frecuencia y tiene un comportamiento corpuscular"
+        "correctAnswers": "Se caracteriza por su frecuencia y tiene un comportamiento corpuscular"
     },
     {
         "question": "El número másico (A) de un átomo",
@@ -677,7 +677,7 @@
             "Siempre coincide con el número atómico (Z)",
             "Coincide con el número de electrones cuando el átomo es neutro"
         ],
-        "correctAnswer": "Es el número de neutrones y de protones del átomo"
+        "correctAnswers": "Es el número de neutrones y de protones del átomo"
     },
     {
         "question": "El número atómico (Z) de un átomo",
@@ -687,7 +687,7 @@
             "Es la suma del número de protones y de electrones del átomo",
             "Es el número de neutrones y de protones del átomo"
         ],
-        "correctAnswer": "Se define como el número de protones del núcleo de un átomo"
+        "correctAnswers": "Se define como el número de protones del núcleo de un átomo"
     },
     {
         "question": "El conjunto de propiedades de los átomos",
@@ -697,7 +697,7 @@
             "Vienen establecidas exclusivamente por los electrones",
             "Vienen establecidas exclusivamente por los neutrones"
         ],
-        "correctAnswer": "Ninguna es correcta"
+        "correctAnswers": "Ninguna es correcta"
     },
     {
         "question": "La radiación electromagnética",
@@ -707,7 +707,7 @@
             "Siempre es ionizante",
             "Tiene carga y masa, al igual que los electrones"
         ],
-        "correctAnswer": "Es la energía que transportan las ondas electromagnéticas"
+        "correctAnswers": "Es la energía que transportan las ondas electromagnéticas"
     },
     {
         "question": "¿Qué es el espectro electromagnético?",
@@ -717,7 +717,7 @@
             "Es la representación de los diferentes elementos químicos en función de sus propiedades",
             "Es la clasificación de los diferentes tipos de haces de radiaciones electromagnética y partículas cargadas en función de su cantidad de masa"
         ],
-        "correctAnswer": "Es la clasificación de las radiaciones electromagnéticas en función de la cantidad de energía que transporta cada una de ellas"
+        "correctAnswers": "Es la clasificación de las radiaciones electromagnéticas en función de la cantidad de energía que transporta cada una de ellas"
     },
     {
         "question": "La descripción del átomo",
@@ -727,7 +727,7 @@
             "El nombre de todas las subparticulas tiene origen griego",
             "Está basada en un conjunto de subpartículas que se agrupan según el valor de spin"
         ],
-        "correctAnswer": "Está basada en un conjunto de subpartículas clasificadas, entre otras, por su carga"
+        "correctAnswers": "Está basada en un conjunto de subpartículas clasificadas, entre otras, por su carga"
     },
     {
         "question": "El átomo está formado por",
@@ -737,7 +737,7 @@
             "Ninguna de las anteriores",
             "Electrones, protones y neutrones juntos en el núcleo"
         ],
-        "correctAnswer": "Protones y neutrones en el núcleo, y electrones en la corteza"
+        "correctAnswers": "Protones y neutrones en el núcleo, y electrones en la corteza"
     },
     {
         "question": "El 1/12 de la masa del átomo de Carbono-12 se denomina",
@@ -747,7 +747,7 @@
             "El fentogramo (10-15 gr)",
             "El kilogramo (103 gr)"
         ],
-        "correctAnswer": "La u.m.a. (1,6606x10-27 kg)"
+        "correctAnswers": "La u.m.a. (1,6606x10-27 kg)"
     },
     {
         "question": "Los procesos de ionización tienen lugar",
@@ -757,7 +757,7 @@
             "Únicamente ocurren cuando interaccionan los electrones con los átomos",
             "Siempre que un fotón interacciona con la materia"
         ],
-        "correctAnswer": "Cuando un fotón o un electrón libre cede una cantidad de energía mayor que la energía de ligadura de los electrones del átomo"
+        "correctAnswers": "Cuando un fotón o un electrón libre cede una cantidad de energía mayor que la energía de ligadura de los electrones del átomo"
     },
     {
         "question": "Cuanto mayor es la frecuencia de oscilación de las ondas electromagnéticas",
@@ -767,7 +767,7 @@
             "Menos energía tienen",
             "Más lento viajan"
         ],
-        "correctAnswer": "Más energía tienen"
+        "correctAnswers": "Más energía tienen"
     },
     {
         "question": "El término átomo",
@@ -777,7 +777,7 @@
             "Sólo es aplicable a los elementos radiactivos",
             "El primer científico que se refirió al átomo fue Dalton a finales del siglo XVIII"
         ],
-        "correctAnswer": "Etimológicamente proviene del griego, a (sin) tomo (división)"
+        "correctAnswers": "Etimológicamente proviene del griego, a (sin) tomo (división)"
     },
     {
         "question": "El electronvoltio (eV) es",
@@ -787,7 +787,7 @@
             "Equivalente a 1,6*10-19 julios",
             "Una unidad de energía"
         ],
-        "correctAnswer": "Todas son correctas"
+        "correctAnswers": "Todas son correctas"
     },
      {
         "question": "Las órbitas más próximas al núcleo corresponden a:",
@@ -797,7 +797,7 @@
             "Niveles más altos de energía.",
             "Ninguna de las anteriores."
         ],
-        "correctAnswer": "Niveles más bajos de energía."
+        "correctAnswers": "Niveles más bajos de energía."
     },
     {
         "question": "La llamada energía de enlace o de ligadura se define como:",
@@ -807,7 +807,7 @@
             "La energía que desprende el átomo al ganar un electrón.",
             "La energía que hay que suministrar a un núcleo atómico para que pierda un neutrón."
         ],
-        "correctAnswer": "La energía necesaria para arrancar un electrón al átomo."
+        "correctAnswers": "La energía necesaria para arrancar un electrón al átomo."
     },
     {
         "question": "Si en un choque de una partícula con el electrón atómico la energía transferida es superior a la energía de enlace del electrón con el que colisiona se produce una:",
@@ -817,7 +817,7 @@
             "Rayos X característicos.",
             "Excitación."
         ],
-        "correctAnswer": "Ionización."
+        "correctAnswers": "Ionización."
     },
     {
         "question": "¿Cuántos años cumple la tabla periódica de los elementos? (1 de 12)",
@@ -825,7 +825,7 @@
             "150",
             "100"
         ],
-        "correctAnswer": "150"
+        "correctAnswers": "150"
     },
     {
         "question": "¿Quién creó la tabla periódica?",
@@ -833,7 +833,7 @@
             "Mendeléyev",
             "Juan Carlos"
         ],
-        "correctAnswer": "Mendeléyev"
+        "correctAnswers": "Mendeléyev"
     },
     {
         "question": "¿Hay algún elemento de la tabla periódica dedicado a Albert Einstein?",
@@ -841,7 +841,7 @@
             "Sí",
             "No"
         ],
-        "correctAnswer": "Sí"
+        "correctAnswers": "Sí"
     },
     {
         "question": "La mayoría de los elementos en la tabla periódica no son metales",
@@ -849,7 +849,7 @@
             "Falso",
             "Verdadero"
         ],
-        "correctAnswer": "Falso"
+        "correctAnswers": "Falso"
     },
     {
         "question": "¿Cuántos elementos químicos hay verificados actualmente? (5 de 12)",
@@ -857,7 +857,7 @@
             "118",
             "100"
         ],
-        "correctAnswer": "118"
+        "correctAnswers": "118"
     },
     {
         "question": "¿Cuál fue el primer elemento obtenido de manera artificial en un ciclotrón? (6 de 12)",
@@ -865,7 +865,7 @@
             "Tecnecio",
             "Americio"
         ],
-        "correctAnswer": "Tecnecio"
+        "correctAnswers": "Tecnecio"
     },
     {
         "question": "¿Cuál es la principal diferencia entre la tabla periódica de Mendeléyev y la tabla moderna? (7 de 12)",
@@ -873,7 +873,7 @@
             "Que la de Mendeléyev organiza los elementos en orden creciente de peso atómico y la moderna en orden creciente de número atómico.",
             "Que la de Mendeléyev organiza los elementos en orden decreciente de peso atómico y la moderna en orden creciente de número atómico."
         ],
-        "correctAnswer": "Que la de Mendeléyev organiza los elementos en orden creciente de peso atómico y la moderna en orden creciente de número atómico."
+        "correctAnswers": "Que la de Mendeléyev organiza los elementos en orden creciente de peso atómico y la moderna en orden creciente de número atómico."
     },
     {
         "question": "El uranio se descubrió por primera vez poco después de que se observara el planeta Urano. (8 de 12)",
@@ -881,7 +881,7 @@
             "Verdadero",
             "Falso"
         ],
-        "correctAnswer": "Verdadero"
+        "correctAnswers": "Verdadero"
     },
     {
         "question": "¿Por qué le pusieron al Bromo precisamente ese nombre? (9 de 12)",
@@ -889,7 +889,7 @@
             "Porque huele horriblemente mal.",
             "Porque su hallazgo surgió como una broma"
         ],
-        "correctAnswer": "Porque huele horriblemente mal."
+        "correctAnswers": "Porque huele horriblemente mal."
     },
     {
         "question": "¿Qué es la electronegatividad, tan importante en la tabla periódica? (10 de 12)",
@@ -897,7 +897,7 @@
             "La probabilidad de que un átomo forme un enlace químico.",
             "La facilidad con la que un átomo acepta un electrón"
         ],
-        "correctAnswer": "La probabilidad de que un átomo forme un enlace químico."
+        "correctAnswers": "La probabilidad de que un átomo forme un enlace químico."
     },
     {
         "question": "¿Cuántos elementos tenía la primera versión de la tabla periódica? (11 de 12)",
@@ -905,7 +905,7 @@
             "63 elementos",
             "61 elementos"
         ],
-        "correctAnswer": "63 elementos"
+        "correctAnswers": "63 elementos"
     },
     {
         "question": "¿Todas las letras del alfabeto aparecen en la tabla periódica? (12 de 12)",
@@ -913,7 +913,7 @@
             "No",
             "Sí"
         ],
-        "correctAnswer": "No"
+        "correctAnswers": "No"
     },
     {
         "question": "Uno de los isótopos del carbono (número atómico = 6) es el carbono 14. Podemos afirmar sobre este isótopo:",
@@ -924,7 +924,7 @@
             "que emite radiaciones de tipo beta -",
             "que no es radioactivo"
         ],
-        "correctAnswer": "A y B son correctas"
+        "correctAnswers": "A y B son correctas"
     },
     {
         "question": "El número de protones de un átomo se denomina:",
@@ -934,7 +934,7 @@
             "número atómico A",
             "número másico A"
         ],
-        "correctAnswer": "número atómico Z"
+        "correctAnswers": "número atómico Z"
     },
     {
         "question": "El número de protones que tiene un átomo en el núcleo:",
@@ -945,7 +945,7 @@
             "debe ser igual al de electrones",
             "es la carga del átomo"
         ],
-        "correctAnswer": "A y C son correctas"
+        "correctAnswers": "A y C son correctas"
     },
     {
         "question": "En átomos excitados al volver los electrones desplazados a sus órbitas normales:",
@@ -955,7 +955,7 @@
             "Se produce recombinación de los iones para así alcanzar la estabilidad del átomo.",
             "Se produce radiación gamma por desexcitación del núcleo atómico."
         ],
-        "correctAnswer": "Se libera el exceso de energía mediante la emisión de radiación electromagnética (fotón luminoso o de rayos X)."
+        "correctAnswers": "Se libera el exceso de energía mediante la emisión de radiación electromagnética (fotón luminoso o de rayos X)."
     },
     {
         "question": "Un átomo está ionizado cuando:",
@@ -965,7 +965,7 @@
             "Es insensible a la acción de campos eléctricos",
             "Posee menos energía que el átomo neutro de igual Z"
         ],
-        "correctAnswer": "Tiene un número distinto de electrones que de protones."
+        "correctAnswers": "Tiene un número distinto de electrones que de protones."
     },
     {
         "question": "El electronvoltio y el Julio son unidades de:",
@@ -975,7 +975,7 @@
             "Masa.",
             "Potencial eléctrico."
         ],
-        "correctAnswer": "Energía."
+        "correctAnswers": "Energía."
     },
     {
         "question": "Un átomo está compuesto por 6 neutrones, 5 protones y 5 electrones. Podemos decir que este átomo:",
@@ -986,7 +986,7 @@
             "es un catión",
             "tiene masa atómica 10"
         ],
-        "correctAnswer": "A y B son correctas"
+        "correctAnswers": "A y B son correctas"
     },
     {
         "question": "El número de neutrones presentes en los núcleos de los átomos de un mismo elemento químico:",
@@ -996,7 +996,7 @@
             "se llama número másico",
             "se llama número atómico"
         ],
-        "correctAnswer": "no tiene por qué ser siempre igual"
+        "correctAnswers": "no tiene por qué ser siempre igual"
     },
     {
         "question": "Se denomina longitud de onda a:",
@@ -1006,7 +1006,7 @@
             "Distancia que atraviesa la radiación electromagnética al incidir en un cuerpo",
             "El número de oscilaciones o ciclos por unidad de tiempo"
         ],
-        "correctAnswer": "La distancia que separa dos puntos que se encuentren en un mismo estado de oscilación."
+        "correctAnswers": "La distancia que separa dos puntos que se encuentren en un mismo estado de oscilación."
     },
     {
         "question": "La radiación electromagnética tiene más energía:",
@@ -1016,7 +1016,7 @@
             "La energía de la radiación electromagnética es independiente de la frecuencia y la longitud de onda.",
             "Cuando la longitud de onda es mayor."
         ],
-        "correctAnswer": "Cuando la frecuencia es mayor."
+        "correctAnswers": "Cuando la frecuencia es mayor."
     },
     {
         "question": "Los corpúsculos de energía sin masa de la radiación electromagnética reciben el nombre de:",
@@ -1026,7 +1026,7 @@
             "Rayos X.",
             "Electrones."
         ],
-        "correctAnswer": "Fotones."
+        "correctAnswers": "Fotones."
     },
     {
         "question": "La luz, los rayos X y los infrarrojos:",
@@ -1036,6 +1036,6 @@
             "Tienen poder de penetración en la materia muy parecido.",
             "Constituyen fenómenos de muy distinta naturaleza."
         ],
-        "correctAnswer": "Son ondas electromagnéticas."
+        "correctAnswers": "Son ondas electromagnéticas."
     }
 ]
