@@ -7,7 +7,7 @@
             "De la atmósfera terrestre.",
             "De la corteza terrestre."
         ],
-        "correctAnswer": "Del espacio exterior."
+        "correctAnswers": "Del espacio exterior."
     },
     {
         "question": "¿Qué gas noble radiactivo es 7 veces más pesado que el aire?",
@@ -17,7 +17,7 @@
             "Argón.",
             "Neón."
         ],
-        "correctAnswer": "Radón."
+        "correctAnswers": "Radón."
     },
     {
         "question": "¿Cuál es la principal fuente de exposición a radiaciones artificiales en la población?",
@@ -27,7 +27,7 @@
             "Industria alimentaria.",
             "Agricultura."
         ],
-        "correctAnswer": "Diagnóstico médico."
+        "correctAnswers": "Diagnóstico médico."
     },
     {
         "question": "¿Qué elemento radiactivo se encuentra de forma natural en los tejidos orgánicos?",
@@ -37,7 +37,7 @@
             "Plomo-210.",
             "Radón-222."
         ],
-        "correctAnswer": "Potasio-40."
+        "correctAnswers": "Potasio-40."
     },
     {
         "question": "¿Cuál es la vida media del Carbono-14?",
@@ -47,7 +47,7 @@
             "14.000 años.",
             "100 años."
         ],
-        "correctAnswer": "5.730 años."
+        "correctAnswers": "5.730 años."
     },
     {
         "question": "¿Qué material de construcción tiene alta concentración de uranio?",
@@ -57,7 +57,7 @@
             "Hormigón.",
             "Ladrillo."
         ],
-        "correctAnswer": "Granito."
+        "correctAnswers": "Granito."
     },
     {
         "question": "¿Qué provincia española NO presenta altos valores radiométricos por granito?",
@@ -67,7 +67,7 @@
             "Salamanca.",
             "Madrid."
         ],
-        "correctAnswer": "Almería."
+        "correctAnswers": "Almería."
     },
     {
         "question": "¿Cuál es el objetivo principal de la protección radiológica?",
@@ -77,7 +77,7 @@
             "Eliminar toda radiación del entorno.",
             "Permitir cualquier práctica sin restricciones."
         ],
-        "correctAnswer": "Prevenir efectos estocásticos y limitar su incidencia."
+        "correctAnswers": "Prevenir efectos estocásticos y limitar su incidencia."
     },
     {
         "question": "¿Qué organismo establece la filosofía de la protección radiológica a nivel internacional?",
@@ -87,7 +87,7 @@
             "FAO.",
             "AEN-OCDE."
         ],
-        "correctAnswer": "ICRP."
+        "correctAnswers": "ICRP."
     },
     {
         "question": "¿Qué principio implica mantener las exposiciones tan bajas como sea razonablemente posible?",
@@ -97,7 +97,7 @@
             "Limitación.",
             "Restricción."
         ],
-        "correctAnswer": "Optimización (ALARA)."
+        "correctAnswers": "Optimización (ALARA)."
     },
     {
         "question": "¿Qué tipo de radiación es la mayor contribuyente al fondo natural?",
@@ -107,7 +107,7 @@
             "Rayos gamma industriales.",
             "Radiación médica."
         ],
-        "correctAnswer": "Radón."
+        "correctAnswers": "Radón."
     },
     {
         "question": "¿Qué se utiliza en la industria para verificar uniones de soldadura en tuberías?",
@@ -117,7 +117,7 @@
             "Mamografía.",
             "Scanner."
         ],
-        "correctAnswer": "Gammagrafía."
+        "correctAnswers": "Gammagrafía."
     },
     {
         "question": "¿En qué consiste el método de datación por Carbono-14?",
@@ -127,7 +127,7 @@
             "Calcular la edad de rocas ígneas.",
             "Determinar la humedad del suelo."
         ],
-        "correctAnswer": "Determinar la antigüedad de restos orgánicos."
+        "correctAnswers": "Determinar la antigüedad de restos orgánicos."
     },
     {
         "question": "¿Cuál de las siguientes NO es una fuente artificial de radiación?",
@@ -137,7 +137,7 @@
             "Radionucleidos artificiales.",
             "Radioterapia."
         ],
-        "correctAnswer": "Rayos cósmicos."
+        "correctAnswers": "Rayos cósmicos."
     },
     {
         "question": "¿Qué provincia española tiene niveles bajos de radiación natural?",
@@ -147,7 +147,7 @@
             "Madrid.",
             "Pontevedra."
         ],
-        "correctAnswer": "Almería."
+        "correctAnswers": "Almería."
     },
     {
         "question": "¿Qué variable NO afecta a la capacidad de reparación de los daños por radiación?",
@@ -157,7 +157,7 @@
             "Estado de salud.",
             "Predisposición genética."
         ],
-        "correctAnswer": "Color de ojos."
+        "correctAnswers": "Color de ojos."
     },
     {
         "question": "¿Cómo se denominan los efectos biológicos que dependen de la probabilidad y no tienen umbral?",
@@ -167,7 +167,7 @@
             "Somáticos.",
             "Hereditarios."
         ],
-        "correctAnswer": "Estocásticos."
+        "correctAnswers": "Estocásticos."
     },
     {
         "question": "¿Qué relación dosis-efecto caracteriza a los efectos deterministas?",
@@ -177,7 +177,7 @@
             "Probabilística y sin umbral.",
             "No depende de la dosis."
         ],
-        "correctAnswer": "Dependiente de dosis y con umbral."
+        "correctAnswers": "Dependiente de dosis y con umbral."
     },
     {
         "question": "¿Qué principio NO forma parte del sistema de protección radiológica?",
@@ -187,7 +187,7 @@
             "Optimización.",
             "Limitación de dosis individuales."
         ],
-        "correctAnswer": "Niveles de referencia de dosis."
+        "correctAnswers": "Niveles de referencia de dosis."
     },
     {
         "question": "¿A qué dosis es proporcional la dosis acumulada recibida por un trabajador?",
@@ -197,7 +197,7 @@
             "A la edad del trabajador.",
             "A la temperatura ambiente."
         ],
-        "correctAnswer": "Al tiempo de exposición."
+        "correctAnswers": "Al tiempo de exposición."
     },
     {
         "question": "¿Qué tipo de exposición se produce durante el desarrollo del trabajo?",
@@ -207,7 +207,7 @@
             "Del público.",
             "Potencial."
         ],
-        "correctAnswer": "Ocupacional."
+        "correctAnswers": "Ocupacional."
     },
     {
         "question": "¿Qué ley describe la disminución de la dosis con la distancia respecto a la fuente?",
@@ -217,7 +217,7 @@
             "Ley de Hooke.",
             "Ley de Ohm."
         ],
-        "correctAnswer": "Ley del inverso del cuadrado."
+        "correctAnswers": "Ley del inverso del cuadrado."
     },
     {
         "question": "¿Qué organismo es el único competente en España en materia de seguridad nuclear?",
@@ -227,7 +227,7 @@
             "OMS.",
             "ICRP."
         ],
-        "correctAnswer": "Consejo de Seguridad Nuclear (CSN)."
+        "correctAnswers": "Consejo de Seguridad Nuclear (CSN)."
     },
     {
         "question": "¿Qué medida básica reduce la dosis recibida por radiación?",
@@ -237,7 +237,7 @@
             "Aumentar el tiempo de exposición.",
             "Eliminar los blindajes."
         ],
-        "correctAnswer": "Aumentar la distancia a la fuente."
+        "correctAnswers": "Aumentar la distancia a la fuente."
     },
     {
         "question": "¿Qué se utiliza para protegerse cuando tiempo y distancia no son suficientes?",
@@ -247,7 +247,7 @@
             "Termómetro.",
             "Lámpara de luz UV."
         ],
-        "correctAnswer": "Blindaje."
+        "correctAnswers": "Blindaje."
     },
     {
         "question": "¿Cuál es el principal contribuyente a la radiación artificial en la población?",
@@ -257,7 +257,7 @@
             "Industria química.",
             "Agricultura."
         ],
-        "correctAnswer": "Diagnóstico médico."
+        "correctAnswers": "Diagnóstico médico."
     },
     {
         "question": "¿Quién fija el valor monetario de la unidad de dosis colectiva?",
@@ -267,7 +267,7 @@
             "La FAO.",
             "El público general."
         ],
-        "correctAnswer": "Las autoridades nacionales."
+        "correctAnswers": "Las autoridades nacionales."
     },
     {
         "question": "¿Qué principio exige que toda práctica con radiaciones tenga un beneficio neto positivo?",
@@ -277,7 +277,7 @@
             "Limitación.",
             "Restricción."
         ],
-        "correctAnswer": "Justificación."
+        "correctAnswers": "Justificación."
     },
     {
         "question": "¿Qué significa ALARA?",
@@ -287,7 +287,7 @@
             "Aumentar la radiación artificial.",
             "Evitar toda exposición."
         ],
-        "correctAnswer": "Tan bajo como razonablemente sea posible."
+        "correctAnswers": "Tan bajo como razonablemente sea posible."
     },
     {
         "question": "¿Cuál NO es una aplicación industrial de la radiación?",
@@ -297,7 +297,7 @@
             "Medición de espesores.",
             "Gammagrafía."
         ],
-        "correctAnswer": "Fotografía artística."
+        "correctAnswers": "Fotografía artística."
     },
     {
         "question": "¿Qué gas se produce por desintegración del uranio en el suelo?",
@@ -307,7 +307,7 @@
             "Neón.",
             "Oxígeno."
         ],
-        "correctAnswer": "Radón."
+        "correctAnswers": "Radón."
     },
     {
         "question": "¿En qué año se creó el Comité Internacional de Protección para los rayos X y el Radio?",
@@ -317,7 +317,7 @@
             "1976.",
             "2007."
         ],
-        "correctAnswer": "1928."
+        "correctAnswers": "1928."
     },
     {
         "question": "¿Qué organismo internacional recomienda un mínimo de 3.000 dólares por Sievert-persona?",
@@ -327,7 +327,7 @@
             "ICRP.",
             "CSN."
         ],
-        "correctAnswer": "OIEA."
+        "correctAnswers": "OIEA."
     },
     {
         "question": "¿Qué tipo de radiación se utiliza para prolongar la conservación de alimentos?",
@@ -337,7 +337,7 @@
             "Rayos X.",
             "Microondas."
         ],
-        "correctAnswer": "Rayos gamma."
+        "correctAnswers": "Rayos gamma."
     },
     {
         "question": "¿Cuál es el principal objetivo de la optimización en protección radiológica?",
@@ -347,7 +347,7 @@
             "Eliminar toda radiación.",
             "Aumentar la dosis recibida."
         ],
-        "correctAnswer": "Mantener las dosis tan bajas como sea razonablemente posible."
+        "correctAnswers": "Mantener las dosis tan bajas como sea razonablemente posible."
     },
     {
         "question": "¿Qué exposición resulta de efectos residuales de una emergencia radiológica?",
@@ -357,7 +357,7 @@
             "Exposición médica.",
             "Exposición potencial."
         ],
-        "correctAnswer": "Exposición perdurable."
+        "correctAnswers": "Exposición perdurable."
     },
     {
         "question": "¿Qué relación caracteriza la aparición de efectos estocásticos según la ICRP?",
@@ -367,7 +367,7 @@
             "Relación exponencial con umbral.",
             "Relación logarítmica sin umbral."
         ],
-        "correctAnswer": "Relación lineal sin umbral."
+        "correctAnswers": "Relación lineal sin umbral."
     },
     {
         "question": "¿Quién es responsable de otorgar autorizaciones de instalaciones radiactivas en España?",
@@ -377,7 +377,7 @@
             "ICRP.",
             "OMS."
         ],
-        "correctAnswer": "Ministerio de Industria."
+        "correctAnswers": "Ministerio de Industria."
     },
     {
         "question": "¿Qué tipo de exposición se produce en procedimientos de diagnóstico o tratamiento médico?",
@@ -387,7 +387,7 @@
             "Exposición del público.",
             "Exposición potencial."
         ],
-        "correctAnswer": "Exposición médica."
+        "correctAnswers": "Exposición médica."
     },
     {
         "question": "¿Qué organización recopila y revisa información sobre los niveles de radiación a nivel mundial?",
@@ -397,7 +397,7 @@
             "AEN-OCDE.",
             "OMS."
         ],
-        "correctAnswer": "UNSCEAR."
+        "correctAnswers": "UNSCEAR."
     },
     {
         "question": "¿Qué principio debe aplicarse antes de iniciar una intervención radiológica?",
@@ -407,7 +407,7 @@
             "Limitación.",
             "Restricción."
         ],
-        "correctAnswer": "Justificación."
+        "correctAnswers": "Justificación."
     },
     {
         "question": "¿Qué se entiende por grupo crítico en protección radiológica?",
@@ -417,7 +417,7 @@
             "El grupo de mayor edad.",
             "El grupo con menor exposición."
         ],
-        "correctAnswer": "El que recibe la dosis más alta de una fuente."
+        "correctAnswers": "El que recibe la dosis más alta de una fuente."
     },
     {
         "question": "¿Qué NO es una medida de protección para el público frente a la radiación?",
@@ -427,7 +427,7 @@
             "Aplicar medidas al medio ambiente.",
             "Aplicar medidas a los individuos."
         ],
-        "correctAnswer": "Aumentar el tiempo de exposición."
+        "correctAnswers": "Aumentar el tiempo de exposición."
     },
     {
         "question": "¿A qué se refiere la exposición potencial?",
@@ -437,7 +437,7 @@
             "Exposición médica programada.",
             "Exposición natural inevitable."
         ],
-        "correctAnswer": "Exposición que ocurre solo en caso de accidente."
+        "correctAnswers": "Exposición que ocurre solo en caso de accidente."
     },
     {
         "question": "¿Qué tipo de efectos pueden ser somáticos y hereditarios?",
@@ -447,7 +447,7 @@
             "Mecánicos.",
             "Químicos."
         ],
-        "correctAnswer": "Estocásticos."
+        "correctAnswers": "Estocásticos."
     },
     {
         "question": "¿Qué variable NO influye en la respuesta a la radiación de una población expuesta?",
@@ -457,7 +457,7 @@
             "Estado de salud.",
             "Sexo."
         ],
-        "correctAnswer": "Color de piel."
+        "correctAnswers": "Color de piel."
     },
     {
         "question": "¿Qué organización internacional tiene sede en París y promueve la cooperación en energía nuclear?",
@@ -467,7 +467,7 @@
             "FAO.",
             "ICRP."
         ],
-        "correctAnswer": "AEN-OCDE."
+        "correctAnswers": "AEN-OCDE."
     },
     {
         "question": "¿A quién corresponde la transposición de la Directiva 96/29 EURATOM en España?",
@@ -477,7 +477,7 @@
             "A la ICRP.",
             "A la FAO."
         ],
-        "correctAnswer": "A los Estados miembros de la UE."
+        "correctAnswers": "A los Estados miembros de la UE."
     },
     {
         "question": "¿En qué año se publicaron las recomendaciones ICRP-103?",
@@ -487,7 +487,7 @@
             "1950.",
             "1976."
         ],
-        "correctAnswer": "2007."
+        "correctAnswers": "2007."
     },
     {
         "question": "¿Qué tres factores básicos permiten reducir la dosis de radiación recibida?",
@@ -497,6 +497,6 @@
             "Peso, altura y edad.",
             "Color, textura y forma."
         ],
-        "correctAnswer": "Tiempo, distancia y blindaje."
+        "correctAnswers": "Tiempo, distancia y blindaje."
     }
 ]
