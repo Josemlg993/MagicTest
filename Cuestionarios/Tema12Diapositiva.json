@@ -1,5 +1,45 @@
 [
     {
+        "question": "El responsable de implantar un Programa de Garantía de Calidad en radiología humana es:",
+        "answers": [
+            "el operador de la instalación.",
+            "el director de la instalación.",
+            "el titular de la instalación.",
+            "el médico especialista."
+        ],
+        "correctAnswers": "el titular de la instalación."
+    },
+    {
+        "question": "Un programa de garantía de calidad debe perseguir (señalar la respuesta falsa):",
+        "answers": [
+            "Disminuir los costes.",
+            "Aumentar los costes.",
+            "Disminuir la dosis.",
+            "Optimizar la imagen."
+        ],
+        "correctAnswers": "Aumentar los costes."
+    },
+    {
+        "question": "El conjunto de reglas y valores de parámetros que sirven para calificar una actuación, un documento o un servicio, como adecuado o inadecuado para el fin que se persigue, se denomina:",
+        "answers": [
+            "Criterios de Calidad.",
+            "Programa de Protección Radiológica.",
+            "Control de Calidad.",
+            "Informe de Evaluación."
+        ],
+        "correctAnswers": "Criterios de Calidad."
+    },
+    {
+        "question": "Respecto a la filtración en un equipo de RX dental con tensión pico igual o inferior a 70 KV, podemos decir que:",
+        "answers": [
+            "Garantizamos que es adecuada si obtenemos un valor de capa hemirreductora igual o mayor a 1,5 mm de aluminio.",
+            "Exigir un valor mínimo es garantizar minimización de la dosis que recibirá el paciente.",
+            "Son todas verdaderas.",
+            "Con ella eliminamos del haz los fotones de más baja energía que no aportan nada a la imagen, y sí dosis al paciente."
+        ],
+        "correctAnswers": "Son todas verdaderas."
+    },
+    {
         "question": "Las etapas necesarias para asegurar un buen diagnóstico son",
         "answers": [
             "a. Mejora de la calidad.",
