@@ -270,16 +270,6 @@
         "correctAnswers": "El colimador localizador tiene una longitud máxima de 20 cm en los equipos de rayos X intraorales."
     },
     {
-        "question": "El personal que opere con los equipos de rayos X:",
-        "answers": [
-            "Debe ser clasificado como trabajador expuesto categoría A.",
-            "Debe realizar diariamente el mantenimiento del equipo de rayos X.",
-            "Debe disponer de acreditación de director u operador de instalaciones de radiodiagnóstico.",
-            "Ninguna de las anteriores."
-        ],
-        "correctAnswers": "Debe disponer de acreditación de director u operador de instalaciones de radiodiagnóstico."
-    },
-    {
         "question": "El principio ALARA:",
         "answers": [
             "Pretende que la dosis disminuya, independientemente de la metodología de actuación, conjunto de acciones y análisis de la aplicación de la protección radiológica.",
