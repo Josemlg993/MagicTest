@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Cuál de estas normas de protección radiológica intraorales NO es correcta?",
+        "answers": [
+            "La tensión de trabajo de los equipos de rayos X no pueden ser inferior a 50 kVp.",
+            "Los equipos de rayos X deberán pasar un control mínimo anual, según RD 1976/1999.",
+            "La sujeción del receptor de imagen la realizará el propio paciente, o mediante sistemas de sujeción mecánica.",
+            "A la salida de colimadores cilíndricos, no es recomendable el uso de localizadores rectangulares, ya que aumentan un tercio la dosis a pacientes."
+        ],
+        "correctAnswers": "A la salida de colimadores cilíndricos, no es recomendable el uso de localizadores rectangulares, ya que aumentan un tercio la dosis a pacientes."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones es correcta para disminuir exposiciones innecesarias en radiodiagnóstico?",
+        "answers": [
+            "Utilizar las prendas de protección adecuadas como delantales, guantes y gafas plomadas.",
+            "Seleccionar los mAs más bajos posibles compatibles con la imagen diagnóstica acordes con la densidad y espesor de la región anatómica.",
+            "Utilizar la geometría foco-objeto / objeto-sistema de imagen adecuada.",
+            "Todas son correctas."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones es correcta?",
+        "answers": [
+            "Las películas radiográficas deben estar almacenadas en la sala de exploraciones.",
+            "En la salida de los colimadores cilíndricos, no es recomendable el uso de localizadores rectangulares, que van a conseguir una disminución de un tercio de la dosis a pacientes.",
+            "La cabeza del tubo de rayos X no debe tener una posición estable, sin movimientos ni oscilaciones.",
+            "La sujeción del receptor de imagen la realizará el propio paciente, o mediante sistemas de sujeción mecánicos. Si por alguna circunstancia, el receptor de imagen, no lo pudiera sujetar el paciente, la persona que lo sujete deberá llevar un delantal plomado."
+        ],
+        "correctAnswers": "La sujeción del receptor de imagen la realizará el propio paciente, o mediante sistemas de sujeción mecánicos. Si por alguna circunstancia, el receptor de imagen, no lo pudiera sujetar el paciente, la persona que lo sujete deberá llevar un delantal plomado."
+    },
+    {
+        "question": "El mantenimiento correctivo de un equipo de rayos X.",
+        "answers": [
+            "Debe ser realizadas por el titular de la instalación.",
+            "Comprende unas pruebas de control de calidad anual para los intraorales y semestrales para los panorámicos.",
+            "Comprende las actividades que van encaminadas a eliminar los fallos que se han podido producir en el equipo por el uso.",
+            "Todas las anteriores."
+        ],
+        "correctAnswers": "Comprende las actividades que van encaminadas a eliminar los fallos que se han podido producir en el equipo por el uso."
+    },
+    {
+        "question": "Las salas de esterilización están clasificadas como:",
+        "answers": [
+            "Zona de libre acceso.",
+            "Zona Vigilada.",
+            "Zona controlada de permanencia libre.",
+            "Zona controlada de permanencia limitada."
+        ],
+        "correctAnswers": "Zona de libre acceso."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones NO es correcta?",
+        "answers": [
+            "El kV y mA del equipo son variables, y se seleccionan en función del paciente.",
+            "Existen equipo intraorales portátiles y fijos.",
+            "El tubo de rayos X se encuentra en el cabezal del equipo.",
+            "Existen posicionadores que facilitan la colocación del sistema de imagen para optimizar la exploración."
+        ],
+        "correctAnswers": "El kV y mA del equipo son variables, y se seleccionan en función del paciente."
+    },
+    {
+        "question": "Para trabajadores expuestos, el límite de dosis equivalente para el cristalino será de:",
+        "answers": [
+            "15 mSv por año oficial.",
+            "1,5 mSv por año oficial.",
+            "No existe límite.",
+            "150 mSv por año oficial."
+        ],
+        "correctAnswers": "150 mSv por año oficial."
+    },
+    {
+        "question": "El personal que opere con los equipos de rayos X:",
+        "answers": [
+            "Debe disponer de acreditación de director u operador de instalaciones de radiodiagnóstico.",
+            "Debe ser clasificado como trabajador expuesto categoría B.",
+            "Debe ser clasificado como trabajador expuesto categoría A.",
+            "Debe realizar diariamente el mantenimiento del equipo de rayos X."
+        ],
+        "correctAnswers": "Debe disponer de acreditación de director u operador de instalaciones de radiodiagnóstico."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones no reduce las dosis innecesarias?",
+        "answers": [
+            "Disminuir la distancia foco-piel o foco-sistema de imagen por debajo de los valores recomendados.",
+            "Controlar los tiempos de irradiación.",
+            "Disminuir el tamaño del campo de irradiación.",
+            "Reducir el número de repeticiones de irradiaciones."
+        ],
+        "correctAnswers": "Disminuir la distancia foco-piel o foco-sistema de imagen por debajo de los valores recomendados."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones es correcta?",
+        "answers": [
+            "Todas las anteriores.",
+            "Una vez declarado el embarazo, habría que proteger al embrión mediante la aplicación de un límite suplementario de dosis equivalente de 1 mSv en la superficie del abdomen de la mujer durante el resto del embarazo.",
+            "La dosis equivalente en feto debe ser tan baja como razonablemente sea posible, de forma que sea improbable que dicha dosis exceda 1mSv, al menos desde que la futura madre comunique su estado de gestación hasta el final del mismo.",
+            "Siempre que una mujer trabajadora se quede embarazada, se la debe prohibir el trabajo con radiaciones ionizantes y el acceso a zonas radiológicas."
+        ],
+        "correctAnswers": "La dosis equivalente en feto debe ser tan baja como razonablemente sea posible, de forma que sea improbable que dicha dosis exceda 1mSv, al menos desde que la futura madre comunique su estado de gestación hasta el final del mismo."
+    },
+    {
+        "question": "La regla general para definir que una cantidad de radiación recibida es excesiva es:",
+        "answers": [
+            "Si bien pequeñas cantidades de dosis de radiación son beneficiosas, al desarrollar una inmunidad a las radiaciones, cualquier dosis mayor es excesiva.",
+            "Cualquier exposición innecesaria es excesiva.",
+            "Ninguna de las anteriores.",
+            "Cualquier dosis superior a 0,5 mSv/sem es excesiva."
+        ],
+        "correctAnswers": "Cualquier exposición innecesaria es excesiva."
+    },
+    {
+        "question": "Siempre que haya exposición a las radiaciones ionizantes:",
+        "answers": [
+            "Se limitará la exposición por debajo de 1 mSv/año.",
+            "Deberá estar presente al menos un operador de la instalación.",
+            "Deberán estar presentes el mayor número de personas.",
+            "El número de personas expuestas será el menor posible."
+        ],
+        "correctAnswers": "El número de personas expuestas será el menor posible."
+    },
+    {
+        "question": "En las zonas vigiladas:",
+        "answers": [
+            "Serán excluidos totalmente los menores de 18 años.",
+            "Será obligatorio el uso de dosímetros individuales.",
+            "No es obligatorio el uso de dosímetro individual siempre y cuando exista dosimetría de área.",
+            "Se requerirá vestir ropas especiales de trabajo."
+        ],
+        "correctAnswers": "No es obligatorio el uso de dosímetro individual siempre y cuando exista dosimetría de área."
+    },
+    {
+        "question": "La zona controlada de libre acceso con riesgo de irradiación externa requiere señal constituida por un trébol:",
+        "answers": [
+            "Rojo con fondo blanco.",
+            "Gris con fondo blanco.",
+            "Amarillo con fondo blanco.",
+            "Verde con fondo blanco."
+        ],
+        "correctAnswers": "Verde con fondo blanco."
+    },
+    {
+        "question": "En las zonas vigiladas:",
+        "answers": [
+            "Será obligatorio el uso de dosímetros individuales.",
+            "Se requerirá vestir ropas especiales de trabajo.",
+            "No es obligatorio el uso de dosímetro personal individual siempre y cuando exista dosimetría de área.",
+            "Serán excluidos totalmente, los menores de 18 años."
+        ],
+        "correctAnswers": "No es obligatorio el uso de dosímetro personal individual siempre y cuando exista dosimetría de área."
+    },
+    {
+        "question": "Los límites de dosis para estudiantes de 19 años son:",
+        "answers": [
+            "Los del TPE.",
+            "Los del público.",
+            "1/10 del profesionalmente expuesto.",
+            "3/10 del TPE."
+        ],
+        "correctAnswers": "Los del TPE."
+    },
+    {
+        "question": "El titular de la instalación es responsable de:",
+        "answers": [
+            "Todas las respuestas son correctas.",
+            "Todas aquellas áreas del centro radiológico en las que se pueda superar el límite de dosis para el público.",
+            "De la implantación de un Programa de Protección Radiológica.",
+            "Realizar la vigilancia de los niveles de radiación como mínimo anualmente."
+        ],
+        "correctAnswers": "Todas las respuestas son correctas."
+    },
+    {
+        "question": "Tener en funcionamiento una instalación de rayos X con fines de diagnóstico médico, que, aún estando inscrita, incumpla las condiciones de seguridad o Protección Radiológica previstas en la legislación vigente se considera:",
+        "answers": [
+            "Una falta leve.",
+            "Una falta grave.",
+            "Ninguna es correcta.",
+            "Una falta muy grave."
+        ],
+        "correctAnswers": "Una falta grave."
+    },
+    {
+        "question": "Para el blindaje de salas de rayos X conviene usar materiales:",
+        "answers": [
+            "De número atómico bajo.",
+            "De número atómico alto.",
+            "De número másico intermedio.",
+            "De número másico bajo."
+        ],
+        "correctAnswers": "De número atómico alto."
+    },
+    {
+        "question": "La dosis recibida por un individuo depende exclusivamente del:",
+        "answers": [
+            "Tiempo de permanencia en el campo de radiación.",
+            "Distancia de la fuente de radiación-individuo.",
+            "Tiempo de permanencia, distancia fuente-individuo y blindaje interpuesto entre ambos.",
+            "Blindaje interpuesto entre ambos."
+        ],
+        "correctAnswers": "Tiempo de permanencia, distancia fuente-individuo y blindaje interpuesto entre ambos."
+    },
+    {
+        "question": "El control de la exposición externa se realizará mediante:",
+        "answers": [
+            "Protección Radiológica Operacional.",
+            "Señalización de zonas y dispositivos luminosos o acústicos.",
+            "Todas son correctas.",
+            "Blindajes estructurales y no estructurales."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones es correcta para disminuir radiaciones innecesarias en radiodiagnóstico dental?",
+        "answers": [
+            "Todas las anteriores.",
+            "Controlar los tiempos de exposición en función del paciente.",
+            "Disminuir distancia foco-piel o foco-sistema de imagen.",
+            "Colocar al paciente el delantal plomado cada vez que se le vaya a realizar una exploración con radiaciones ionizantes."
+        ],
+        "correctAnswers": "Controlar los tiempos de exposición en función del paciente."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones NO es correcta?",
+        "answers": [
+            "Debe existir una distancia mínima de dos metros desde el elemento dispersor a la posición del operador.",
+            "Es necesario reducir el número de repeticiones para disminuir irradiaciones innecesarias.",
+            "A la hora de realizar la imagen radiográfica, debe mantenerse el acompañante dentro de la sala.",
+            "No se debe dirigir el haz directo a ninguna persona que no sea el paciente."
+        ],
+        "correctAnswers": "A la hora de realizar la imagen radiográfica, debe mantenerse el acompañante dentro de la sala."
+    },
+    {
+        "question": "El animal en una exploración radiográfica debe ser sujetado por:",
+        "answers": [
+            "Todas son correctas.",
+            "El operador.",
+            "Nadie si el animal permanece sedado y posicionado mediante sujecciones mecánicas.",
+            "El dueño del animal."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "Las técnicas para disminuir las radiaciones innecesarias en el radiodiagnóstico dental:",
+        "answers": [
+            "Reducción del número de repeticiones de las irradiaciones.",
+            "Controlar los tiempos de irradiación.",
+            "Disminuir el campo de irradiación.",
+            "Todas las anteriores."
+        ],
+        "correctAnswers": "Todas las anteriores."
+    },
+    {
+        "question": "El historial dosimétrico individual:",
+        "answers": [
+            "Deberán registrarse las dosis mensuales, las acumuladas durante cada año oficial y las acumuladas durante periodos de 5 años oficiales consecutivos.",
+            "Debe ser guardado durante toda la vida laboral de los trabajadores expuestos.",
+            "Deberá mantenerse actualizado y estar en todo momento a disposición del trabajador.",
+            "Todas las anteriores."
+        ],
+        "correctAnswers": "Todas las anteriores."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones NO es correcta?",
+        "answers": [
+            "El colimador localizador tiene una longitud máxima de 20 cm en los equipos de rayos X intraorales.",
+            "Los equipos intraorales pueden ser fijos o portátiles.",
+            "El disparador del equipo de rayos X intraoral debe tener una longitud mínima de 2 metros cuando se encuentre dentro de la sala.",
+            "El cabezal de equipo de rayos X contiene blindado en su interior el tubo de rayos X."
+        ],
+        "correctAnswers": "El colimador localizador tiene una longitud máxima de 20 cm en los equipos de rayos X intraorales."
+    },
+    {
+        "question": "El personal que opere con los equipos de rayos X:",
+        "answers": [
+            "Debe ser clasificado como trabajador expuesto categoría A.",
+            "Debe realizar diariamente el mantenimiento del equipo de rayos X.",
+            "Debe disponer de acreditación de director u operador de instalaciones de radiodiagnóstico.",
+            "Ninguna de las anteriores."
+        ],
+        "correctAnswers": "Debe disponer de acreditación de director u operador de instalaciones de radiodiagnóstico."
+    },
+    {
+        "question": "El principio ALARA:",
+        "answers": [
+            "Pretende que la dosis disminuya, independientemente de la metodología de actuación, conjunto de acciones y análisis de la aplicación de la protección radiológica.",
+            "No tiene en cuenta ni el diseño ni de la ejecución de la actuación.",
+            "Ninguna es correcta.",
+            "Intenta que las dosis individuales, el número de individuos expuestos o las probabilidades de que se originen exposiciones distintas de las previstas, se mantengan tan bajas como sea posible."
+        ],
+        "correctAnswers": "Intenta que las dosis individuales, el número de individuos expuestos o las probabilidades de que se originen exposiciones distintas de las previstas, se mantengan tan bajas como sea posible."
+    },
+    {
+        "question": "El mantenimiento correctivo de un equipo de rayos X:",
+        "answers": [
+            "Todas son correctas.",
+            "El titular de la instalación es responsable de su realización.",
+            "Comprende las actividades que van encaminadas a eliminar los fallos que se han podido producir en el equipo por el uso.",
+            "Comprende unas pruebas de control de calidad anual para los intraorales y semestrales para los panorámicos."
+        ],
+        "correctAnswers": "Comprende las actividades que van encaminadas a eliminar los fallos que se han podido producir en el equipo por el uso."
+    }
+]
