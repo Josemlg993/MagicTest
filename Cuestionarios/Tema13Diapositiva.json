@@ -1,4 +1,54 @@
 [
+     {
+        "question": "Indique cuál de las siguientes modificaciones en una instalación de radiodiagnóstico dental se debe declarar ante la autoridad competente:",
+        "answers": [
+            "La implantación o baja de cualquier equipo de rayos X.",
+            "La implantación de un nuevo equipo de rayos X, sólo si utiliza tensiones superiores a 70 kV.",
+            "La baja de un equipo de rayos X, sólo si utilizaba tensiones superiores a 70 kV.",
+            "La implantación de un equipo de rayos X si sustituye a otro igual no necesita declaración."
+        ],
+        "correctAnswers": "La implantación o baja de cualquier equipo de rayos X."
+    },
+    {
+        "question": "Una sala de radiodiagnóstico veterinario sería:",
+        "answers": [
+            "De tipo 3 si tiene un equipo de radiografía intraoral y otro convencional.",
+            "De tipo 1 en cualquier caso pues requiere realizar siempre las exploraciones a pie de tubo.",
+            "Típicamente de tipo 2 si tiene un equipo de radiología convencional.",
+            "De tipo 2 si tiene un equipo TAC."
+        ],
+        "correctAnswers": "De tipo 2 si tiene un equipo TAC."
+    },
+    {
+        "question": "En el momento de la adquisición de nuevo equipamiento radiológico, se debe realizar una prueba previa a su uso clínico (prueba de aceptación). Esta prueba:",
+        "answers": [
+            "Debe realizarla el vendedor en presencia del comprador. Incluirá como mínimo las medidas que aseguren el cumplimiento de las especificaciones de compra.",
+            "No es obligatorio realizar pruebas de aceptación de los equipos radiológicos nuevos.",
+            "Debe realizarla el comprador, con sus medios, en presencia de un representante del vendedor. Incluirá como mínimo las medidas que aseguren el cumplimiento de las especificaciones de compra.",
+            "Con objeto de que sea lo más imparcial posible, la realizará un tercero en presencia de comprador y vendedor, e incluirá como mínimo las medidas que aseguren el cumplimiento de las especificaciones de compra."
+        ],
+        "correctAnswers": "Debe realizarla el vendedor en presencia del comprador. Incluirá como mínimo las medidas que aseguren el cumplimiento de las especificaciones de compra."
+    },
+    {
+        "question": "Antes de la puesta en funcionamiento de una instalación de rayos X con fines de diagnóstico médico el titular debe implantar un programa de protección radiológica que debe incluir:",
+        "answers": [
+            "Medidas administrativas.",
+            "Medidas de prevención.",
+            "Medidas de vigilancia.",
+            "Todas son correctas."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "Señala la afirmación INCORRECTA. Verificaciones periódicas y especiales de los equipos de rayos X para diagnóstico médico.",
+        "answers": [
+            "La verificación de los niveles de radiación de los puestos de trabajo y aquellos lugares accesibles al público se hará como mínimo con periodicidad mensual.",
+            "Las unidades asistenciales de radiodiagnóstico serán sometidas a un control de calidad del equipamiento para garantizar que las dosis impartidas a pacientes son tan bajas como razonablemente puede conseguirse.",
+            "Los programas de control de calidad del equipamiento utilizado en unidades asistenciales de radiodiagnóstico se ajustarán a protocolos establecidos para tal fin.",
+            "Los equipos que se pongan en funcionamiento serán sometidos a una prueba previa a su uso, que determinará su aceptación."
+        ],
+        "correctAnswers": "La verificación de los niveles de radiación de los puestos de trabajo y aquellos lugares accesibles al público se hará como mínimo con periodicidad mensual."
+    },
     {
         "question": "El Real Decreto 1085/2009 se ocupa, entre otros aspectos",
         "answers": [
