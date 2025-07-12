@@ -26,75 +26,88 @@
 
     <script>
       //index.html
-      
+
       // Lista de cuestionarios
       const cuestionariosLocales = [
 
         { archivo: "Cuestionarios/Tema1.json", titulo: "Tema 1" },
         { archivo: "Cuestionarios/Tema1Diapositiva.json", titulo: "Tema 1 Diapositiva" },
+        { archivo: "Cuestionarios/chicas/Tema1.json", titulo: "Tema 1 Chicas" },
         { archivo: "Cuestionarios/Tema2.json", titulo: "Tema 2" },
         { archivo: "Cuestionarios/Tema2Diapositiva.json", titulo: "Tema 2 Diapositiva" },
+        { archivo: "Cuestionarios/chicas/Tema2.json", titulo: "Tema 2 Chicas" },
         { archivo: "Cuestionarios/Tema3.json", titulo: "Tema 3" },
         { archivo: "Cuestionarios/Tema3Diapositiva.json", titulo: "Tema 3 Diapositiva" },
+        { archivo: "Cuestionarios/chicas/Tema3.json", titulo: "Tema 3 Chicas" },
         { archivo: "Cuestionarios/Tema4.json", titulo: "Tema 4" },
         { archivo: "Cuestionarios/Tema4Diapositiva.json", titulo: "Tema 4 Diapositiva" },
+        { archivo: "Cuestionarios/chicas/Tema4.json", titulo: "Tema 4 Chicas" },
         { archivo: "Cuestionarios/Tema5.json", titulo: "Tema 5" },
         { archivo: "Cuestionarios/Tema5Diapositiva.json", titulo: "Tema 5 Diapositiva" },
+        { archivo: "Cuestionarios/chicas/Tema5.json", titulo: "Tema 5 Chicas" },
         { archivo: "Cuestionarios/Tema6.json", titulo: "Tema 6" },
         { archivo: "Cuestionarios/Tema6Diapositiva.json", titulo: "Tema 6 Diapositiva" },
+        { archivo: "Cuestionarios/chicas/Tema6.json", titulo: "Tema 6 Chicas" },
         { archivo: "Cuestionarios/Tema7.json", titulo: "Tema 7" },
         { archivo: "Cuestionarios/Tema7Diapositiva.json", titulo: "Tema 7 Diapositiva" },
+        { archivo: "Cuestionarios/chicas/Tema7.json", titulo: "Tema 7 Chicas" },
         { archivo: "Cuestionarios/Tema8.json", titulo: "Tema 8" },
         { archivo: "Cuestionarios/Tema8Diapositiva.json", titulo: "Tema 8 Diapositiva" },
+        { archivo: "Cuestionarios/chicas/Tema8.json", titulo: "Tema 8 Chicas" },
         { archivo: "Cuestionarios/Tema9.json", titulo: "Tema 9" },
         { archivo: "Cuestionarios/Tema9Diapositiva.json", titulo: "Tema 9 Diapositiva" },
+        { archivo: "Cuestionarios/chicas/Tema9.json", titulo: "Tema 9 Chicas" },
         { archivo: "Cuestionarios/Tema10.json", titulo: "Tema 10" },
         { archivo: "Cuestionarios/Tema10Diapositiva.json", titulo: "Tema 10 Diapositiva" },
+        { archivo: "Cuestionarios/chicas/Tema10.json", titulo: "Tema 10 Chicas" },
         { archivo: "Cuestionarios/Tema11.json", titulo: "Tema 11" },
         { archivo: "Cuestionarios/Tema11Diapositiva.json", titulo: "Tema 11 Diapositiva" },
+        { archivo: "Cuestionarios/chicas/Tema11.json", titulo: "Tema 11 Chicas" },
         { archivo: "Cuestionarios/Tema12.json", titulo: "Tema 12" },
         { archivo: "Cuestionarios/Tema12Diapositiva.json", titulo: "Tema 12 Diapositiva" },
+        { archivo: "Cuestionarios/chicas/Tema12.json", titulo: "Tema 12 Chicas" },
         { archivo: "Cuestionarios/Tema13.json", titulo: "Tema 13" },
-        { archivo: "Cuestionarios/Tema13Diapositiva.json", titulo: "Tema 13 Diapositiva" }
+        { archivo: "Cuestionarios/Tema13Diapositiva.json", titulo: "Tema 13 Diapositiva" },
+        { archivo: "Cuestionarios/chicas/Tema13.json", titulo: "Tema 13 Chicas" },
 
 
       ];
       // RESPUESTAS ESPECIALES Y VARIANTES
-const resp = [
-  "todas las anteriores",
-  "todas las opciones anteriores",
-  "niguna de las opciones anteriores",
-  "ninguna de las anteriores",
-  "todas son correctas",
-  "todas son incorrectas",
-  "ninguna es correcta",   
-];
+      const resp = [
+        "todas las anteriores",
+        "todas las opciones anteriores",
+        "niguna de las opciones anteriores",
+        "ninguna de las anteriores",
+        "todas son correctas",
+        "todas son incorrectas",
+        "ninguna es correcta",
+      ];
 
-const sufijos = [
-  "",
-  ".",
-  " son correctas",
-  " son correctas.",
-  " son ciertas",
-  " son ciertas.",
-  " son verdaderas",
-  " son verdaderas."
-];
+      const sufijos = [
+        "",
+        ".",
+        " son correctas",
+        " son correctas.",
+        " son ciertas",
+        " son ciertas.",
+        " son verdaderas",
+        " son verdaderas."
+      ];
 
-const mayusculas = (str) => [
-  str,
-  str.charAt(0).toUpperCase() + str.slice(1)
-];
+      const mayusculas = (str) => [
+        str,
+        str.charAt(0).toUpperCase() + str.slice(1)
+      ];
 
-// Generar todas las variantes posibles
-let variantes = [];
-for (let base of resp) {
-  for (let variante of mayusculas(base)) {
-    for (let suf of sufijos) {
-      variantes.push((variante + suf).trim());
-    }
-  }
-}
+      // Generar todas las variantes posibles
+      let variantes = [];
+      for (let base of resp) {
+        for (let variante of mayusculas(base)) {
+          for (let suf of sufijos) {
+            variantes.push((variante + suf).trim());
+          }
+        }
+      }
 
       let questions = [];
       let originalQuestions = [];
@@ -148,7 +161,7 @@ for (let base of resp) {
         return arr;
       }
 
-      
+
 
       // ================== CARGA DE CUESTIONARIO ==================
       function cargarCuestionarioLocal(archivo, titulo) {
@@ -288,7 +301,7 @@ for (let base of resp) {
         mostrarTodasLasPreguntas();
       };
 
-      
+
       // ================== MARCADOR LATERAL ==================
       function renderMarcadoresLateral(selectedIdx = -1) {
         const cont = document.getElementById('marcadoresLateral');
@@ -353,33 +366,29 @@ for (let base of resp) {
 
       // ================== LISTA DE CUESTIONARIOS ==================
       function listarCuestionariosLocales() {
-        const listaDiv = document.getElementById('cuestionarioLista');
-        if (cuestionariosLocales.length === 0) {
-          listaDiv.innerHTML = "<p>No hay cuestionarios locales disponibles.</p>";
-          return;
-        }
-        let html = "<div class='cuestionarios-grid'>";
-        for (let i = 0; i < cuestionariosLocales.length; i += 2) {
-          html += "<div class='cuestionarios-row'>";
-          if (cuestionariosLocales[i]) {
-            html += `<div class='cuestionario-col'>
-        <button onclick="seleccionarCuestionario('${cuestionariosLocales[i].archivo}', '${cuestionariosLocales[i].titulo}')">
-          ${cuestionariosLocales[i].titulo}
-        </button>
-      </div>`;
-          }
-          if (cuestionariosLocales[i + 1]) {
-            html += `<div class='cuestionario-col'>
-        <button onclick="seleccionarCuestionario('${cuestionariosLocales[i + 1].archivo}', '${cuestionariosLocales[i + 1].titulo}')">
-          ${cuestionariosLocales[i + 1].titulo}
-        </button>
-      </div>`;
-          }
-          html += "</div>";
-        }
-        html += "</div>";
-        listaDiv.innerHTML = html;
+  const listaDiv = document.getElementById('cuestionarioLista');
+  if (cuestionariosLocales.length === 0) {
+    listaDiv.innerHTML = "<p>No hay cuestionarios locales disponibles.</p>";
+    return;
+  }
+  let html = "<div class='cuestionarios-grid'>";
+  for (let i = 0; i < cuestionariosLocales.length; i += 3) {
+    html += "<div class='cuestionarios-row'>";
+    for (let j = 0; j < 3; j++) {
+      if (cuestionariosLocales[i + j]) {
+        html += `<div class='cuestionario-col'>
+          <button onclick="seleccionarCuestionario('${cuestionariosLocales[i + j].archivo}', '${cuestionariosLocales[i + j].titulo}')">
+            ${cuestionariosLocales[i + j].titulo}
+          </button>
+        </div>`;
       }
+    }
+    html += "</div>";
+  }
+  html += "</div>";
+  listaDiv.innerHTML = html;
+}
+
 
       function seleccionarCuestionario(archivo, titulo) {
         cargarCuestionarioLocal(archivo, titulo);
