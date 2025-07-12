@@ -250,16 +250,6 @@
         "correctAnswers": "Todas las anteriores."
     },
     {
-        "question": "En los equipos de rayos X",
-        "answers": [
-            "El material más utilizado para la formación del filamento es el estaño o el zinc, debido a su bajo punto de fusión.",
-            "La eficiencia de la producción de rayos X es baja, ya que más del 99% de la energía de los electrones se pierde en forma de calor.",
-            "Es necesario que se realice un control mensual de los parámetros fundamentales, tal como marca la normativa vigente.",
-            "El refrigerante sirve para mantener una temperatura constante dentro del equipo, que favorece la mayor formación de rayos X."
-        ],
-        "correctAnswers": "La eficiencia de la producción de rayos X es baja, ya que más del 99% de la energía de los electrones se pierde en forma de calor."
-    },
-    {
         "question": "¿Cuál de los siguientes elementos no ayuda a la refrigeración del tubo de rayos X?",
         "answers": [
             "Tunsgteno como material del ánodo y cátodo.",
