@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <title>Test Rx</title>
   <link rel="stylesheet" href="main.css">
 </head>
@@ -11,15 +11,15 @@
 <body>
   <div class="test-column">
     <div id="selectorCuestionario" class="selector-cuestionario">
-  <div class="selector-bar">
-    <button id="toggleCuestionariosBtn" class="btn" onclick="toggleCuestionarios()">
-      ELIGE UN CUESTIONARIO
-    </button>
-    <button id="fontIncreaseBtn" class="btn font-btn" title="Aumentar tamaño">A+</button>
-    <button id="fontDecreaseBtn" class="btn font-btn" title="Disminuir tamaño">A-</button>
-  </div>
-  <div id="cuestionarioLista"></div>
-</div>
+      <div class="selector-bar">
+        <button id="toggleCuestionariosBtn" class="btn" onclick="toggleCuestionarios()">
+          ELIGE UN CUESTIONARIO
+        </button>
+        <button id="fontIncreaseBtn" class="btn font-btn" title="Aumentar tamaño">A+</button>
+        <button id="fontDecreaseBtn" class="btn font-btn" title="Disminuir tamaño">A-</button>
+      </div>
+      <div id="cuestionarioLista"></div>
+    </div>
 
     <div class="test-layout">
       <main class="test-column">
@@ -122,14 +122,14 @@
       let cuestionariosVisibles = false;
 
       function toggleCuestionarios() {
-  const listaDiv = document.getElementById('cuestionarioLista');
-  if (listaDiv.style.display === "block") {
-    listaDiv.style.display = "none";
-  } else {
-    listaDiv.style.display = "block";
-    listarCuestionariosLocales();
-  }
-}
+        const listaDiv = document.getElementById('cuestionarioLista');
+        if (listaDiv.style.display === "block") {
+          listaDiv.style.display = "none";
+        } else {
+          listaDiv.style.display = "block";
+          listarCuestionariosLocales();
+        }
+      }
 
       function mostrarCuestionariosLocales() {
         const listaDiv = document.getElementById('cuestionarioLista');
@@ -222,23 +222,20 @@
 
           html += `<ul class="answers">`;
           q.answers.forEach((ans, i) => {
-            let checked = '';
-            if (multiple) {
-              checked = (userAnswers[idx] || []).includes(ans) ? 'checked' : '';
-            } else {
-              checked = userAnswers[idx] === ans ? 'checked' : '';
-            }
-            // Deshabilita si está respondida (correcta o incorrecta)
-            let disabled = results[idx] ? 'disabled' : '';
-            html += `<li>
-        <label>
-          <input type="${multiple ? 'checkbox' : 'radio'}" name="q${idx}${multiple ? '[]' : ''}" value="${ans.replace(/"/g, '&quot;')}" ${checked} ${disabled}
-            onchange="responderPregunta(${idx}, this.value, ${multiple})">
-          ${ans}
-        </label>
-      </li>`;
-          });
-          html += `</ul>`;
+  let checked = '';
+  if (multiple) {
+    checked = (userAnswers[idx] || []).includes(ans) ? 'checked' : '';
+  } else {
+    checked = userAnswers[idx] === ans ? 'checked' : '';
+  }
+  let disabled = results[idx] ? 'disabled' : '';
+  const inputId = `q${idx}_${i}`;
+  html += `<li>
+    <input id="${inputId}" type="${multiple ? 'checkbox' : 'radio'}" name="q${idx}${multiple ? '[]' : ''}" value="${ans.replace(/"/g, '&quot;')}" ${checked} ${disabled}
+      onchange="responderPregunta(${idx}, this.value, ${multiple})">
+    <label for="${inputId}">${ans}</label>
+  </li>`;
+});
           // Muestra solo una vez la respuesta correcta si está fallada
           if (results[idx] === "incorrect") {
             html += `<div class="respuesta-correcta">Respuesta correcta: ${toArray(q.correctAnswers).join(", ")}</div>`;
@@ -415,13 +412,13 @@
       let fontSize = 1; // 1em por defecto
 
       document.getElementById('fontIncreaseBtn').onclick = function () {
-        if (fontSize < 2.2) { // Límite superior
+        if (fontSize < 4) { // Límite superior
           fontSize += 0.1;
           document.body.style.fontSize = fontSize + 'em';
         }
       };
       document.getElementById('fontDecreaseBtn').onclick = function () {
-        if (fontSize > 0.7) { // Límite inferior
+        if (fontSize > 0.5) { // Límite inferior
           fontSize -= 0.1;
           document.body.style.fontSize = fontSize + 'em';
         }
