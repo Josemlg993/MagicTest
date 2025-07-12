@@ -316,7 +316,7 @@
       // ================== MARCADOR LATERAL ==================
       function renderMarcadoresLateral(selectedIdx = -1) {
         const cont = document.getElementById('marcadoresLateral');
-        let html = `<b></b><br>`;
+        let html = "";
         questions.forEach((q, idx) => {
           let estado = "unanswered";
           if (results[idx] === "correct") estado = "correct";
