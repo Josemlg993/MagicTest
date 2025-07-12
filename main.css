@@ -1,15 +1,17 @@
-/* Fondo de pantalla y tipografía */
+/* === Fondo y tipografía === */
 html {
   font-size: clamp(14px, 4vw, 22px);
-   height: 100%;
+  height: 100%;
   width: 100%;
 }
+
 body {
-  background-image: url('../images/bg-01.jpg');
+  background: 
+    linear-gradient(135deg, #6b38fb, #b44dc1),
+    url('../images/bg-01.jpg');
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  background: linear-gradient(135deg, #6b38fb, #b44dc1);
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
@@ -17,12 +19,12 @@ body {
   font-size: 1rem;
 }
 
-/* Layout principal: dos columnas */
+/* === Layout principal === */
 .test-layout {
   display: grid;
   grid-template-columns: 1fr auto;
   gap: 18px;
-  width: 100vw;
+  width: 100%; 
   min-height: 100vh;
   margin: 0;
   padding: 0 10px;
@@ -35,27 +37,22 @@ body {
   margin: 0;
 }
 
-/* Barra de marcadores (columna derecha) */
+/* === Barra lateral de marcadores === */
 .marcadores-lateral {
-  position: -webkit-sticky; /* Safari */
   position: sticky;
-  top: 1px; /* Puedes ajustar este valor */
-  
-  min-width: 0px;
+  top: 1px;
+  min-width: 0;
   max-width: 180px;
   width: min-content;
   background: rgba(255,255,255,0.97);
   border-radius: 12px;
   padding: 18px 10px;
-  max-height: 100vh;   /* <-- Aquí el cambio */
-  height: 93vh;       /* <-- Opcional: fuerza la altura si lo prefieres */
+  max-height: 100vh;
   overflow-y: auto;
   scrollbar-width: thin;
   align-self: flex-start;
   z-index: 10;
 }
-
-/* Scrollbar para Chrome/Edge */
 .marcadores-lateral::-webkit-scrollbar {
   width: 7px;
 }
@@ -64,7 +61,7 @@ body {
   border-radius: 6px;
 }
 
-/* Elementos de marcador */
+/* === Elementos de marcador === */
 .marcador-item {
   margin-bottom: 10px;
   font-size: clamp(1rem, 3.5vw, 1.3rem);
@@ -80,19 +77,18 @@ body {
   border-radius: 6px;
 }
 .marcador-num {
-  width: auto;         /* Elimina el width fijo */
   min-width: 0;
-  margin-right: 2px;   /* Espacio mínimo, puedes poner 0 si lo quieres pegado */
+  margin-right: 2px;
   text-align: right;
   font-size: 0.9em;
   color: #666;
-  padding: 0;          /* Elimina cualquier padding */
+  padding: 0;
 }
 .marcador-item .marcador-ico.correct { color: #2ecc71; }
 .marcador-item .marcador-ico.incorrect { color: #e74c3c; }
 .marcador-item .marcador-ico.unanswered { color: #b44dc1; }
 
-/* Contenedor de preguntas y respuestas */
+/* === Contenedor de preguntas y respuestas === */
 .pregunta-grupo {
   background: #fafaff;
   border-radius: 10px;
@@ -102,6 +98,7 @@ body {
   border: 1px solid #e0e0e0;
   transition: background 0.2s;
   font-size: clamp(1rem, 3.5vw, 1.3rem);
+  position: relative;
 }
 .pregunta-grupo.correct {
   background: #e6faec;
@@ -118,8 +115,19 @@ body {
   padding: 0;
   font-weight: bold;
 }
+.pregunta-grupo .eliminar-pregunta {
+  position: absolute;
+  top: 10px; right: 10px;
+  background: #e74c3c;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 2px 8px;
+  cursor: pointer;
+  font-size: 0.9em;
+}
 
-/* Lista de respuestas */
+/* === Lista de respuestas === */
 .answers {
   list-style: none;
   padding: 0;
@@ -133,6 +141,9 @@ body {
   border-radius: 4px;
   background: #fafaff;
   transition: background 0.2s;
+  display: flex;
+  align-items: center;
+  gap: 8px;
 }
 .answers li:hover {
   background: #f0eafd;
@@ -141,8 +152,29 @@ body {
   display: block;
   cursor: pointer;
 }
+.answers input[type="text"] {
+  flex: 1;
+  font-size: 1em;
+  padding: 3px 6px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+.answers .eliminar-respuesta {
+  background: #e74c3c;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 2px 8px;
+  cursor: pointer;
+  font-size: 0.9em;
+}
+.answers .correcta-label {
+  color: #2ecc71;
+  font-weight: bold;
+  margin-right: 4px;
+}
 
-/* Mensaje de respuesta correcta */
+/* === Mensaje de respuesta correcta === */
 .respuesta-correcta {
   margin-top: 10px;
   color: #2ecc71;
@@ -150,7 +182,7 @@ body {
   font-size: 1.05em;
 }
 
-/* Selector de cuestionario */
+/* === Selector de cuestionario === */
 .cuestionario-lista {
   margin-bottom: 22px;
   padding: 15px;
@@ -186,7 +218,7 @@ body {
   overflow: hidden;
 }
 
-/* Botones generales */
+/* === Botones generales === */
 .btn, .cuestionario-lista button {
   display: inline-block;
   padding: 8px 15px;
@@ -207,8 +239,16 @@ body {
 .btn:hover {
   background: #2980b9;
 }
+.add-btn {
+  background: #b44dc1;
+  margin-top: 8px;
+}
+.export-btn {
+  background: #2ecc71;
+  margin-left: 10px;
+}
 
-/* Títulos */
+/* === Títulos === */
 h1 {
   font-size: clamp(2rem, 8vw, 3rem);
 }
@@ -220,24 +260,111 @@ h3 {
   font-size: clamp(1.1rem, 4vw, 1.4rem);
 }
 
-/* Resultados */
+/* === Resultados === */
 #result {
   font-size: clamp(1rem, 3.5vw, 1.3rem);
 }
 
+/* === Grid de cuestionarios === */
 .cuestionarios-grid {
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-columns: repeat(1, 1fr); /* Una columna por fila de filas */
   gap: 10px;
 }
+
 .cuestionarios-row {
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Tres columnas por fila */
   gap: 10px;
 }
+
 .cuestionario-col {
-  flex: 1 1 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
+
 .cuestionario-col button {
   width: 100%;
+  padding: 12px;
+  background: #b44dc1;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.cuestionario-col button:hover {
+  background: #8d35a2;
+}
+
+/* === Panel de edición === */
+.editor-panel {
+  background: rgba(255,255,255,0.97);
+  border-radius: 12px;
+  padding: 22px 18px 18px 18px;
+  max-width: 800px;
+  margin: 30px auto 0 auto;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+}
+
+.asterisco {
+  color: #b44dc1;
+  font-weight: bold;
+  margin-right: 2px;
+}
+
+.pregunta-input {
+  width: 100%;
+  font-size: 1.1em;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  padding: 4px 8px;
+}
+
+/* === Responsive: Ajustes para pantallas pequeñas === */
+@media (max-width: 700px) {
+  .test-layout {
+    display: block;
+    padding: 0 2vw;
+  }
+  .marcadores-lateral {
+    position: static;
+    width: 100%;
+    max-width: none;
+    margin-bottom: 18px;
+    border-radius: 8px;
+    padding: 12px 6px;
+  }
+  .test-column {
+    width: 100%;
+  }
+  .editor-panel {
+    max-width: 100%;
+    margin: 18px 0 0 0;
+    padding: 14px 6px 10px 6px;
+  }
+}
+
+/* === Accesibilidad y mejoras visuales === */
+:focus {
+  outline: 2px solid #6b38fb;
+  outline-offset: 2px;
+}
+::-webkit-input-placeholder { color: #b44dc1; }
+::-moz-placeholder { color: #b44dc1; }
+:-ms-input-placeholder { color: #b44dc1; }
+::placeholder { color: #b44dc1; }
+
+/* === Animaciones suaves === */
+.pregunta-grupo,
+.marcador-item,
+.answers li,
+.btn,
+.cuestionario-lista button {
+  transition: background 0.2s, box-shadow 0.2s, transform 0.12s;
 }
 
