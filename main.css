@@ -1,6 +1,5 @@
 /* === Fondo y tipografía === */
 html {
-  font-size: clamp(14px, 4vw, 22px);
   height: 100%;
   width: 100%;
 }
@@ -97,7 +96,6 @@ body {
   padding: 22px 18px 14px 18px;
   border: 1px solid #e0e0e0;
   transition: background 0.2s;
-  font-size: clamp(1rem, 3.5vw, 1.3rem);
   position: relative;
 }
 .pregunta-grupo.correct {
@@ -132,7 +130,6 @@ body {
   list-style: none;
   padding: 0;
   margin-bottom: 18px;
-  font-size: clamp(1rem, 3.5vw, 1.3rem);
 }
 .answers li {
   margin-bottom: 8px;
@@ -300,6 +297,52 @@ h3 {
   background: #8d35a2;
 }
 
+.font-btn {
+  padding: 8px 12px;
+  font-size: clamp(1.1rem, 4vw, 1.4rem);
+  background: #6b38fb;
+  color: #fff;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  margin-top: 0;
+  margin-bottom: 0;
+  width: auto;
+  transition: background 0.2s;
+}
+.font-btn:hover {
+  background: #b44dc1;
+}
+.selector-cuestionario {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  margin-bottom: 18px;
+  position: relative;
+}
+
+.selector-bar {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between; /* Separa el botón principal a la izquierda y los de fuente a la derecha */
+  gap: 8px;
+}
+
+.font-btns {
+  display: flex;
+  gap: 4px;
+}
+
+#cuestionarioLista {
+  width: 100%;
+  margin-top: 0;
+  display: none; /* Se muestra con JS */
+  position: static; /* Asegura que no flote sobre el botón */
+  z-index: 1;
+}
+
 /* === Panel de edición === */
 .editor-panel {
   background: rgba(255,255,255,0.97);
@@ -326,7 +369,7 @@ h3 {
 }
 
 /* === Responsive: Ajustes para pantallas pequeñas === */
-@media (max-width: 700px) {
+@media (max-width: px) {
   .test-layout {
     display: block;
     padding: 0 2vw;
