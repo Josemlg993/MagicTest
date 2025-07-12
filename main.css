@@ -35,7 +35,23 @@ body {
   min-width: 0;
   margin: 0;
 }
-
+#tituloCuestionario {
+  border: 2px solid #4dc1b4;
+  background: linear-gradient(90deg, #f0f9ff 0%, #e0f7fa 100%);
+  color: #222;
+  border-radius: 10px;
+  padding: 16px 24px;
+  margin-bottom: 18px;
+  font-size: 1.3em;
+  font-weight: bold;
+  box-shadow: 0 2px 10px #b4e7e155;
+  text-align: center;         /* Centrado horizontal */
+  letter-spacing: 1px;
+  display: block;             /* Asegura que ocupe todo el ancho disponible */
+  width: 100%;                /* Ocupa el 100% del contenedor */
+  margin-left: auto;          /* Centrado incluso si el padre tiene ancho menor */
+  margin-right: auto;
+}
 /* === Barra lateral de marcadores === */
 .marcadores-lateral {
   position: sticky;
