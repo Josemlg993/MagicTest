@@ -1,0 +1,252 @@
+[
+    {
+        "question": "¿Cuál es el espectro de radiaciones electromagnéticas?",
+        "answers": [
+            "Únicamente hace referencia a las ondas de media y baja frecuencia.",
+            "Define a los rayos gamma como las radiaciones menos energéticas.",
+            "Consiste en la ordenación del conjunto de todas las radiaciones electromagnéticas, según su mayor o menor frecuencia.",
+            "Visible por el ojo humano abarca un amplio espectro, entre 10 y 2000 nm."
+        ],
+        "correctAnswers": "Consiste en la ordenación del conjunto de todas las radiaciones electromagnéticas, según su mayor o menor frecuencia."
+    },
+    {
+        "question": "¿Cuanto mayor es la frecuencia de oscilación de las ondas electromagnéticas?",
+        "answers": [
+            "Menos energía tienen.",
+            "Más energía tienen.",
+            "Más lento viajan.",
+            "Más rápido viajan."
+        ],
+        "correctAnswers": "Más energía tienen."
+    },
+    {
+        "question": "¿Los protones?",
+        "answers": [
+            "Tienen carga negativa y 1 uma de masa.",
+            "No tienen carga y 1 uma de masa.",
+            "Tienen carga positiva y 1 uma de masa.",
+            "Tienen carga negativa y 10 uma de masa."
+        ],
+        "correctAnswers": "Tienen carga positiva y 1 uma de masa."
+    },
+    {
+        "question": "¿Los electrones son un tipo de partícula fundamental?",
+        "answers": [
+            "Que en un mismo átomo pueden tener idénticos números cuánticos.",
+            "Que interaccionan electromagnéticamente con la materia pudiendo generar ionizaciones en los medios con los que interaccionan.",
+            "Con estructura interna y se aniquilan con los positrones para dar lugar a neutrones.",
+            "Con una masa similar a la de los protones."
+        ],
+        "correctAnswers": "Que interaccionan electromagnéticamente con la materia pudiendo generar ionizaciones en los medios con los que interaccionan."
+    },
+    {
+        "question": "¿El electrón-voltio?",
+        "answers": [
+            "Todas las anteriores.",
+            "Es una unidad de energía.",
+            "El electrón recorre una diferencia de potencial equivalente a 1 V.",
+            "El electrón parte en reposo."
+        ],
+        "correctAnswers": "Todas las anteriores."
+    },
+    {
+        "question": "¿El término átomo?",
+        "answers": [
+            "El primer científico que se refirió al átomo fue Dalton a finales del siglo XVIII.",
+            "La palabra es la transcripción del griego apéiron \"sin límites\".",
+            "Etimológicamente proviene del griego, a (sin) tomo (división).",
+            "Sólo es aplicable a los elementos radiactivos."
+        ],
+        "correctAnswers": "Etimológicamente proviene del griego, a (sin) tomo (división)."
+    },
+    {
+        "question": "¿Tras la excitación de un electrón ligado en un átomo?",
+        "answers": [
+            "Éste es liberado formándose un ión cargado positivamente y una carga negativa libre.",
+            "Se produce una desexcitación de forma cuasi-instantánea sin liberar energía.",
+            "Generalmente se da una desexcitación del electrón en el marco temporal de unos pocos ns en la que se libera energía en forma de fotones.",
+            "Éste se mantiene en ese nuevo nivel de forma indefinida en el tiempo."
+        ],
+        "correctAnswers": "Generalmente se da una desexcitación del electrón en el marco temporal de unos pocos ns en la que se libera energía en forma de fotones."
+    },
+    {
+        "question": "¿Los procesos de ionización tienen lugar?",
+        "answers": [
+            "Únicamente ocurren cuando interaccionan los electrones con los átomos.",
+            "Cuando un fotón o un electrón libre cede una cantidad de energía mayor que la energía de ligadura de los electrones del átomo.",
+            "Si la energía que se cede al medio es muy pequeña.",
+            "Siempre que un fotón interaciona con la materia."
+        ],
+        "correctAnswers": "Cuando un fotón o un electrón libre cede una cantidad de energía mayor que la energía de ligadura de los electrones del átomo."
+    },
+    {
+        "question": "¿El uma es?",
+        "answers": [
+            "Una medida de masa.",
+            "Lo que pesan los protones y los neutrones.",
+            "La 1/12 parte de la masa de Carbono-12.",
+            "Todas son correctas."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "¿Los elementos de la tabla periódica se definen por?",
+        "answers": [
+            "El número de neutrones.",
+            "El número de protones Z (número atómico).",
+            "El número de electrones.",
+            "El número de protones y neutrones A (número másico)."
+        ],
+        "correctAnswers": "El número de protones Z (número atómico)."
+    },
+    {
+        "question": "¿Los neutrones?",
+        "answers": [
+            "Tienen carga positiva y 1 uma de masa.",
+            "Tienen carga positiva y 10 uma de masa.",
+            "Tienen carga negativa y 1 uma de masa.",
+            "Tienen carga neutra y 1 uma de masa."
+        ],
+        "correctAnswers": "Tienen carga neutra y 1 uma de masa."
+    },
+    {
+        "question": "¿Cuanto mayor es la longitud de onda de un fotón?",
+        "answers": [
+            "Es más grande.",
+            "Viaja más rápido.",
+            "Es menos energético.",
+            "Es más energético."
+        ],
+        "correctAnswers": "Es menos energético."
+    },
+    {
+        "question": "¿Los fotones son?",
+        "answers": [
+            "Ninguna de las anteriores.",
+            "Las dos anteriores.",
+            "Cuantos de energía.",
+            "Partículas que pertenecen al átomo."
+        ],
+        "correctAnswers": "Cuantos de energía."
+    },
+    {
+        "question": "¿El fotón?",
+        "answers": [
+            "Se caracteriza por su frecuencia y tiene un comportamiento corpuscular.",
+            "Es una partícula que exclusivamente tiene un comportamiento ondulatorio.",
+            "Tiene masa distinta de cero.",
+            "Existe en reposo."
+        ],
+        "correctAnswers": "Se caracteriza por su frecuencia y tiene un comportamiento corpuscular."
+    },
+    {
+        "question": "¿El número másico (A) de un átomo?",
+        "answers": [
+            "Es el número de electrones ubicados en el orbital de mayor energía de ligadura.",
+            "Es el número de neutrones y de protones del átomo.",
+            "Siempre coincide con el número atómico (Z).",
+            "Coincide con el número de electrones cuando el átomo es neutro."
+        ],
+        "correctAnswers": "Es el número de neutrones y de protones del átomo."
+    },
+    {
+        "question": "¿El número atómico (Z) de un átomo?",
+        "answers": [
+            "Es la suma de neutrones y electrones del átomo.",
+            "Es la suma del número de protones y de electrones del átomo.",
+            "Se define como el número de protones del núcleo de un átomo.",
+            "Es el número de neutrones y de protones del átomo."
+        ],
+        "correctAnswers": "Se define como el número de protones del núcleo de un átomo."
+    },
+    {
+        "question": "¿El conjunto de propiedades de los átomos?",
+        "answers": [
+            "Vienen establecidas exclusivamente por los protones.",
+            "Ninguna es correcta.",
+            "Vienen establecidas exclusivamente por los electrones.",
+            "Vienen establecidas exclusivamente por los neutrones."
+        ],
+        "correctAnswers": "Ninguna es correcta."
+    },
+    {
+        "question": "¿La radiación electromagnética?",
+        "answers": [
+            "Solo puede detectarse mediante dispositivos altamente sofisticados construidos por el ser humano.",
+            "Es la energía que transportan las ondas electromagnéticas.",
+            "Siempre es ionizante.",
+            "Tiene carga y masa, al igual que los electrones."
+        ],
+        "correctAnswers": "Es la energía que transportan las ondas electromagnéticas."
+    },
+    {
+        "question": "¿Qué es el espectro electromagnético?",
+        "answers": [
+            "Se puede concluir que es la representación de los distintos tipos de partículas fundamentales descubiertas.",
+            "Es la representación de los diferentes elementos químicos en función de sus propiedades.",
+            "Es la clasificación de los diferentes tipos de haces de radiaciones electromagnética y partículas cargadas en función de su cantidad de masa.",
+            "Es la clasificación de las radiaciones electromagnéticas en función de la cantidad de energía que transporta cada una de ellas."
+        ],
+        "correctAnswers": "Es la clasificación de las radiaciones electromagnéticas en función de la cantidad de energía que transporta cada una de ellas."
+    },
+    {
+        "question": "¿La descripción del átomo?",
+        "answers": [
+            "Está basada en un conjunto de subpartículas que se mueven libremente por cualquier área del mismo.",
+            "Está basada en un conjunto de subpartículas clasificadas, entre otras, por su carga.",
+            "El nombre de todas las subpartículas tiene origen griego.",
+            "Está basada en un conjunto de subpartículas que se agrupan según el valor de spin."
+        ],
+        "correctAnswers": "Está basada en un conjunto de subpartículas clasificadas, entre otras, por su carga."
+    },
+    {
+        "question": "¿El átomo está formado por?",
+        "answers": [
+            "Neutrinos y muones en el núcleo, y positrones en la corteza.",
+            "Ninguna de las anteriores.",
+            "Electrones, protones y neutrones juntos en el núcleo.",
+            "Protones y neutrones en el núcleo, y electrones en la corteza."
+        ],
+        "correctAnswers": "Protones y neutrones en el núcleo, y electrones en la corteza."
+    },
+    {
+        "question": "¿El 1/12 de la masa del átomo de Carbono-12 se denomina?",
+        "answers": [
+            "El yoctogramo (10-24 gr).",
+            "La u.m.a. (1,6606x10-27 kg).",
+            "El fentogramo (10-15 gr).",
+            "El kilogramo (103 gr)."
+        ],
+        "correctAnswers": "La u.m.a. (1,6606x10-27 kg)."
+    },
+    {
+        "question": "¿Cuándo es posible que el número atómico de un átomo no coincida con el número de electrones?",
+        "answers": [
+            "Cuando el átomo ha sido ionizado porque se han arrancado electrones.",
+            "Cuando el número de neutrones del núcleo disminuye.",
+            "Cuando el núcleo atómico sufre un cambio en el número de protones.",
+            "Siempre es coincidente con el número de electrones."
+        ],
+        "correctAnswers": "Cuando el átomo ha sido ionizado porque se han arrancado electrones."
+    },
+    {
+        "question": "¿El Julio (J) y el electrón-voltio (eV)?",
+        "answers": [
+            "Son dos unidades de energía, la primera en el SI y la segunda es una unidad especial.",
+            "Son dos unidades de energía y su equivalencia es 1 eV= 1J.",
+            "Son unidades que no miden energía.",
+            "Son dos unidades de energía microscópicos y la segunda para sistemas macroscópicos."
+        ],
+        "correctAnswers": "Son dos unidades de energía, la primera en el SI y la segunda es una unidad especial."
+    },
+    {
+        "question": "¿Los electrones?",
+        "answers": [
+            "Tienen carga negativa y menos masa que los protones.",
+            "Tienen carga positiva y la misma masa que los protones.",
+            "Tienen carga negativa y la misma que los protones.",
+            "Tienen carga positiva y menos masa que los protones."
+        ],
+        "correctAnswers": "Tienen carga negativa y menos masa que los protones."
+    }
+]

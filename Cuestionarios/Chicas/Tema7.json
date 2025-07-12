@@ -1,0 +1,312 @@
+[
+    {
+        "question": "Las lesiones producidas por la radiación en el DNA podrían ser",
+        "answers": [
+            "Daños en las bases nitrogenadas.",
+            "Roturas uniones proteínas DNA.",
+            "Todas son correctas.",
+            "Roturas en una cadena o varias cadenas."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "Los efectos en embrión o feto se pueden manifestar",
+        "answers": [
+            "En el parto.",
+            "Las dos anteriores.",
+            "En la etapa de crecimiento.",
+            "Exclusivamente en la madre."
+        ],
+        "correctAnswers": "Las dos anteriores."
+    },
+    {
+        "question": "Los efectos estocásticos hereditarios",
+        "answers": [
+            "Se producen cuando se irradian las células somáticas.",
+            "Son dependientes del umbral de dosis.",
+            "Son independientes de las células irradiadas.",
+            "Se producen cuando se irradian las células germinales."
+        ],
+        "correctAnswers": "Se producen cuando se irradian las células germinales."
+    },
+    {
+        "question": "La relación en Dosis/Efectos en los efectos deterministas es",
+        "answers": [
+            "Lineal.",
+            "Constante.",
+            "Exponencial.",
+            "Lineal cuadrática."
+        ],
+        "correctAnswers": "Lineal."
+    },
+    {
+        "question": "Los efectos deterministas localizados a nivel ocular son",
+        "answers": [
+            "Quemaduras en el párpado.",
+            "Daño en la retina.",
+            "Ninguna es correcta.",
+            "Opacidad del cristalino (cataratas)."
+        ],
+        "correctAnswers": "Opacidad del cristalino (cataratas)."
+    },
+    {
+        "question": "La radiosensibilidad es",
+        "answers": [
+            "La medida de la proliferación celular.",
+            "La medida del daño celular.",
+            "Sensibilidad que tienen los diferentes órganos, tejidos y células a las radiaciones ionizantes.",
+            "El tiempo en dar lugar a un daño por radiación."
+        ],
+        "correctAnswers": "Sensibilidad que tienen los diferentes órganos, tejidos y células a las radiaciones ionizantes."
+    },
+    {
+        "question": "La disciplina que se ocupa del estudio de los efectos de la radiación a nivel celular se denomina",
+        "answers": [
+            "Radioquímica.",
+            "Radiofísica.",
+            "Radiofarmacia.",
+            "Radiobiología."
+        ],
+        "correctAnswers": "Radiobiología."
+    },
+    {
+        "question": "La acción indirecta a nivel celular se produce por",
+        "answers": [
+            "Todas las anteriores.",
+            "Las reacciones químicas que producen los radicales libres, pudiendo causar varias lesiones en la célula.",
+            "La absorción de la energía disipada en el medio intracelular (principalmente el agua, ya que la célula está formada por un 75-80% de agua).",
+            "La creación de radicales libres al interaccionar la radiación con la molécula de agua."
+        ],
+        "correctAnswers": "Todas las anteriores."
+    },
+    {
+        "question": "Las células más radiosensibles son aquellas",
+        "answers": [
+            "Es independiente de la actividad mitótica.",
+            "Que presentan una menor actividad meiótica.",
+            "Que presentan una menor actividad mitótica.",
+            "Que presentan una mayor actividad mitótica."
+        ],
+        "correctAnswers": "Que presentan una mayor actividad mitótica."
+    },
+    {
+        "question": "La interacción de la radiación a nivel celular es",
+        "answers": [
+            "Insignificante.",
+            "Específica.",
+            "Inespecífica.",
+            "Selectiva."
+        ],
+        "correctAnswers": "Inespecífica."
+    },
+    {
+        "question": "Una población de células es muy radiosensible cuando",
+        "answers": [
+            "Radiación de alta LET mata una fracción importante de la misma.",
+            "A bajas dosis de radiación muere una fracción importante de la misma.",
+            "A altas dosis de radiación muere una fracción importante de la misma.",
+            "A dosis moderadas de radiación muere una baja fracción de la misma."
+        ],
+        "correctAnswers": "A bajas dosis de radiación muere una fracción importante de la misma."
+    },
+    {
+        "question": "El tiempo de interacción de radiación X a nivel celular es",
+        "answers": [
+            "Inexistente.",
+            "Intenso.",
+            "Instantáneo (10-17 s).",
+            "Prolongado."
+        ],
+        "correctAnswers": "Instantáneo (10-17 s)."
+    },
+    {
+        "question": "La interacción de la radiación a nivel celular es",
+        "answers": [
+            "Selectiva.",
+            "Insignificante.",
+            "Específica.",
+            "Inespecífica."
+        ],
+        "correctAnswers": "Inespecífica."
+    },
+    {
+        "question": "Los efectos de la radiación siempre se consideran de carácter lesivo porque",
+        "answers": [
+            "Ninguna es correcta.",
+            "Nunca ocasionan lesión o pérdida de información genética.",
+            "Las acciones sobre la célula nunca son dañinas.",
+            "Siempre se produce un daño a la célula y nunca un beneficio."
+        ],
+        "correctAnswers": "Siempre se produce un daño a la célula y nunca un beneficio."
+    },
+    {
+        "question": "Los efectos deterministas en cuerpo completo (Síndrome de Irradiación Aguda) pueden clasificarse como",
+        "answers": [
+            "Todas son correctas.",
+            "SAI Hemopoyético.",
+            "SAI Gastrointestinal.",
+            "SAI Neurológico."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "¿Cuál de estos órganos tiene mayor riesgo a sufrir daños por radiación según su factor de ponderación?",
+        "answers": [
+            "Tiroides (wt = 0,04).",
+            "Médula ósea (wt = 0,12).",
+            "Cerebro (wt = 0,01).",
+            "Gónadas (wt = 0,08)."
+        ],
+        "correctAnswers": "Médula ósea (wt = 0,12)."
+    },
+    {
+        "question": "Los efectos de la radiación sobre la célula",
+        "answers": [
+            "El daño será mayor cuanto más diferenciada se encuentre la célula.",
+            "Los factores que agravan los efectos son sólo biológicos.",
+            "Dependerá del lugar de la célula donde se produzca la interacción con la radiación ionizante.",
+            "Siempre son los mismos, independientemente del tipo de célula y su sensibilidad a la radiación."
+        ],
+        "correctAnswers": "Dependerá del lugar de la célula donde se produzca la interacción con la radiación ionizante."
+    },
+    {
+        "question": "Los efectos deterministas se caracterizan por",
+        "answers": [
+            "Tener un período de latencia largo.",
+            "Tener un período de latencia corto.",
+            "Solo afectar al Sistema Hematopoyético.",
+            "Solo afectar al Sistema Nervioso."
+        ],
+        "correctAnswers": "Tener un período de latencia corto."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones no es correcta?",
+        "answers": [
+            "La interacción de la radiación en una célula es de carácter no selectivo.",
+            "Los efectos y acciones de las radiaciones siempre se consideran de tipo LESIVO, ya que ocasiona una lesión o pérdida de información en el material genético.",
+            "La interacción de la radiación con las células es función de probabilidad.",
+            "Los cambios producidos en las células, tejidos y órganos no son únicos, son específicos."
+        ],
+        "correctAnswers": "Los cambios producidos en las células, tejidos y órganos no son únicos, son específicos."
+    },
+    {
+        "question": "En una mutación, las células que pueden verse afectadas son",
+        "answers": [
+            "Cualquier tipo de célula.",
+            "Células somáticas.",
+            "Células germinales.",
+            "Las células indiferenciadas únicamente."
+        ],
+        "correctAnswers": "Cualquier tipo de célula."
+    },
+    {
+        "question": "Las etapas del Síndrome Agudo de Irradiación son:",
+        "answers": [
+            "Prodrómica, Latente y de Enfermedad manifiesta.",
+            "Latente y Crónica.",
+            "Prodrómica y Crónica.",
+            "Prodrómica y Latente."
+        ],
+        "correctAnswers": "Prodrómica, Latente y de Enfermedad manifiesta."
+    },
+    {
+        "question": "En función del número de células que se ven afectadas por la radiación los efectos se clasifican como",
+        "answers": [
+            "Efectos deterministas y estocásticos.",
+            "Efectos estocásticos y probabilísticos.",
+            "Efectos somáticos y hereditarios.",
+            "Efectos deterministas y somáticos."
+        ],
+        "correctAnswers": "Efectos somáticos y hereditarios."
+    },
+    {
+        "question": "Los efectos estocásticos se clasifican en:",
+        "answers": [
+            "Ninguno de los anteriores.",
+            "Hereditarios y somáticos.",
+            "Somáticos.",
+            "Hereditarios."
+        ],
+        "correctAnswers": "Hereditarios y somáticos."
+    },
+    {
+        "question": "La molécula de oxígeno O2 es:",
+        "answers": [
+            "Radioinhibidor.",
+            "Radioprotector.",
+            "Ninguna es correcta.",
+            "Radiocatalizador."
+        ],
+        "correctAnswers": "Radiocatalizador."
+    },
+    {
+        "question": "Las radiaciones X que se producen en las clínicas dentales son del tipo",
+        "answers": [
+            "Alto LET (Transferencia de Energía Lineal).",
+            "Radiocatalizador.",
+            "Radioinhibidor.",
+            "Baja LET (Transferencia de Energía Lineal)."
+        ],
+        "correctAnswers": "Baja LET (Transferencia de Energía Lineal)."
+    },
+    {
+        "question": "Los efectos en embrión o feto se pueden manifestar",
+        "answers": [
+            "En la etapa de crecimiento.",
+            "En el parto.",
+            "En la infancia.",
+            "En el nacimiento o en la infancia."
+        ],
+        "correctAnswers": "En el nacimiento o en la infancia."
+    },
+    {
+        "question": "Una población de células es muy radiosensible cuando",
+        "answers": [
+            "A altas dosis de radiación mueren una fracción importante de la misma.",
+            "A dosis moderadas de radiación muere una baja fracción de la misma.",
+            "Radiación de alta LET mata una fracción importante de la misma.",
+            "A bajas dosis de radiación muere una fracción importante de la misma."
+        ],
+        "correctAnswers": "A altas dosis de radiación mueren una fracción importante de la misma."
+    },
+    {
+        "question": "Los factores a tener en cuenta en los efectos deterministas del feto son:",
+        "answers": [
+            "Edad gestacional.",
+            "Dosis absorbida.",
+            "Distribución de la dosis en el tiempo.",
+            "Todas las anteriores."
+        ],
+        "correctAnswers": "Todas las anteriores."
+    },
+    {
+        "question": "La fase del ciclo reproductivo más sensible a la radiación es",
+        "answers": [
+            "G1 (Gap 1).",
+            "Meiosis.",
+            "Fase S (síntesis DNA).",
+            "M (Mitosis)."
+        ],
+        "correctAnswers": "M (Mitosis)."
+    },
+    {
+        "question": "Los efectos probabilísticos se caracterizan por",
+        "answers": [
+            "Sus efectos son independientes de la dosis recibida.",
+            "De naturaleza somática o hereditaria.",
+            "Lesión letal de una o pocas células.",
+            "Todas son correctas."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "El mecanismo de interacción de los efectos deterministas",
+        "answers": [
+            "Da lugar a un bajo número de muertes celulares.",
+            "Es probabilista.",
+            "Da lugar a un alto número de muertes celulares.",
+            "Es independiente el número de muertes celulares de la dosis recibida."
+        ],
+        "correctAnswers": "Da lugar a un alto número de muertes celulares."
+    }
+]

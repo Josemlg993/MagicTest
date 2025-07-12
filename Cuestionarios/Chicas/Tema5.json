@@ -1,0 +1,313 @@
+[
+    {
+        "question": "¿En qué unidad de medida se cuantifica el daño biológico que ocasionan la radiaciones ionizantes?",
+        "answers": [
+            "Becquerelio (Bq).",
+            "Gray (Gy).",
+            "Julios (J).",
+            "Sievert (Sv)."
+        ],
+        "correctAnswers": "Sievert (Sv)."
+    },
+    {
+        "question": "La atenuación y la absorción son conceptos relacionados con...",
+        "answers": [
+            "Coeficiente de interacción con la materia.",
+            "Radiación ionizante.",
+            "Dosis equivalente.",
+            "Kerma."
+        ],
+        "correctAnswers": "Coeficiente de interacción con la materia."
+    },
+    {
+        "question": "Marca la respuesta correcta",
+        "answers": [
+            "La atenuación y la absorción son conceptos relacionados con...",
+            "Kerma.",
+            "Dosis equivalente.",
+            "Coeficiente de interacción con la materia.",
+            "Radiación ionizante."
+        ],
+        "correctAnswers": "Coeficiente de interacción con la materia."
+    },
+    {
+        "question": "Marca la respuesta correcta. El concepto de Exposición...",
+        "answers": [
+            "Es una unidad en el que los positrones se aceleran linealmente.",
+            "Ninguna es verdadera.",
+            "Se obtiene al dividir la carga resultante de la ionización producida por la masa de aire donde se produjo.",
+            "Se introdujo para permitir la comparación de cantidades de radiación suministradas por los tubos de rayos X."
+        ],
+        "correctAnswers": "Se obtiene al dividir la carga resultante de la ionización producida por la masa de aire donde se produjo."
+    },
+    {
+        "question": "Sv/h es el símbolo de una unidad de:",
+        "answers": [
+            "Tasa de dosis absorbida.",
+            "Tasa de exposición.",
+            "Exposición.",
+            "Tasa de dosis equivalente."
+        ],
+        "correctAnswers": "Tasa de dosis equivalente."
+    },
+    {
+        "question": "Con objeto de evaluar los efectos de las radiaciones ionizantes sobre la población, se utiliza la magnitud:",
+        "answers": [
+            "Tasa de exposición.",
+            "Dosis efectiva.",
+            "Dosis absorbida.",
+            "Actividad."
+        ],
+        "correctAnswers": "Dosis efectiva."
+    },
+    {
+        "question": "La unidad de dosis equivalente en el Sistema internacional es el:",
+        "answers": [
+            "Gray.",
+            "Sievert.",
+            "Rad.",
+            "Curio."
+        ],
+        "correctAnswers": "Sievert."
+    },
+    {
+        "question": "Una persona que estuviera 2 horas en un área donde la tasa de dosis es de 5 rem/h recibiría una dosis equivalente de:",
+        "answers": [
+            "10 Sv.",
+            "1,0 Gy.",
+            "1,0 Sv.",
+            "0,10 Sv."
+        ],
+        "correctAnswers": "0,10 Sv."
+    },
+    {
+        "question": "Hablando de rayos X, ¿cuál de las siguientes equivalencias es la cierta?",
+        "answers": [
+            "1 R = 1 rad = 1 rem = 10 mSv.",
+            "1 R = 1 rad = 1 rem = 50 mSv.",
+            "1 R = 1 Gy = 1 rem = 10 mSv.",
+            "1 R = 1 rad = 1 rem = 1 Sv."
+        ],
+        "correctAnswers": "1 R = 1 rad = 1 rem = 10 mSv."
+    },
+    {
+        "question": "En radiología veterinaria, la dosis a optimizar es...",
+        "answers": [
+            "La dosis a la entrada de la sala.",
+            "La dosis superficie a la entrada del animal (DSE), de acuerdo con el RD 1976/1999.",
+            "La que puede recibir el operador, que será la mínima necesaria compatible con los requerimientos del receptor de imagen según especificaciones y características del equipo de rayos X para la obtención de la imagen más adecuada para el diagnóstico.",
+            "La dosis-área del animal, teniendo en cuenta los Niveles de Referencia de Dosis."
+        ],
+        "correctAnswers": "La que puede recibir el operador, que será la mínima necesaria compatible con los requerimientos del receptor de imagen según especificaciones y características del equipo de rayos X para la obtención de la imagen más adecuada para el diagnóstico."
+    },
+    {
+        "question": "Para dosimetría de película, ¿cuál de estas afirmaciones es incorrecta?",
+        "answers": [
+            "Límite inferior de detección es demasiado alto.",
+            "Son reutilizables.",
+            "Registro permanente.",
+            "Permite evaluación selectiva en campos mixtos."
+        ],
+        "correctAnswers": "Son reutilizables."
+    },
+    {
+        "question": "Los resultados de la Dosimetría Personal son de utilidad para",
+        "answers": [
+            "Confirmar la correcta clasificación de las zonas radiológicas.",
+            "Todas las anteriores.",
+            "Verificar la idoneidad de las medidas de protección contra la radiación en los lugares de trabajo.",
+            "Detectar posibles cambios en las condiciones radiológicas de trabajo."
+        ],
+        "correctAnswers": "Todas las anteriores."
+    },
+    {
+        "question": "La dosis efectiva se mide en",
+        "answers": [
+            "Gy.",
+            "rad.",
+            "C/kg.",
+            "Sv."
+        ],
+        "correctAnswers": "Sv."
+    },
+    {
+        "question": "Para realizar las medidas mensuales de las dosis acumuladas por cada trabajador en su puesto de trabajo se utiliza generalmente",
+        "answers": [
+            "Dosimetría individual de película.",
+            "Cámaras de Ionización.",
+            "Dosimetría individual de Termoluminiscencia.",
+            "Contadores de centelleo."
+        ],
+        "correctAnswers": "Dosimetría individual de Termoluminiscencia."
+    },
+    {
+        "question": "La exposición se mide en",
+        "answers": [
+            "C/kg.",
+            "rad.",
+            "Sv.",
+            "rem."
+        ],
+        "correctAnswers": "C/kg."
+    },
+    {
+        "question": "¿Cuál es la unidad de la dosis absorbida?",
+        "answers": [
+            "Sv/s.",
+            "J/kg.",
+            "rem.",
+            "Gy/s."
+        ],
+        "correctAnswers": "J/kg."
+    },
+    {
+        "question": "¿Cuál de estas equivalencias es correcta?",
+        "answers": [
+            "1 rem = 0,1 Sv.",
+            "1 rad = 1 Sv.",
+            "1 rem = 1 Gy.",
+            "1 rad = 0,01 Gy."
+        ],
+        "correctAnswers": "1 rad = 0,01 Gy."
+    },
+    {
+        "question": "Existen límites de dosis establecidas para la dosis",
+        "answers": [
+            "Efectiva y equivalente.",
+            "Equivalente.",
+            "Efectiva.",
+            "Ninguna es correcta."
+        ],
+        "correctAnswers": "Efectiva y equivalente."
+    },
+    {
+        "question": "La dosis equivalente en órgano",
+        "answers": [
+            "Tiene una unidad antigua que es el rad.",
+            "Todas las anteriores.",
+            "Describe los efectos de la radiación en los distintos órganos teniendo en cuenta el tipo de energía de la radiación considerada.",
+            "Describe los efectos de la radiación en el cuerpo entero teniendo en cuenta el tipo de energía de la radiación considerada."
+        ],
+        "correctAnswers": "Describe los efectos de la radiación en los distintos órganos teniendo en cuenta el tipo de energía de la radiación considerada."
+    },
+    {
+        "question": "La dosis absorbida se mide en",
+        "answers": [
+            "Julios.",
+            "rem.",
+            "Gy.",
+            "Sv."
+        ],
+        "correctAnswers": "Gy."
+    },
+    {
+        "question": "La unidad de la dosis efectiva según el S.I. es",
+        "answers": [
+            "C/kg.",
+            "Sv/s.",
+            "Sv.",
+            "Rem/s."
+        ],
+        "correctAnswers": "Sv."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones es correcta?",
+        "answers": [
+            "Todas son correctas.",
+            "La medida es el conjunto de operaciones experimentales que tiene por objeto determinar el valor de una magnitud.",
+            "La magnitud es el fenómeno que puede distinguirse cualitativamente y determinarse cuantitativamente.",
+            "La metrología es la parte de la ciencia que trata de las medidas."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "La unidad de Dosis Equivalente según el S.I. es",
+        "answers": [
+            "Ninguna de las anteriores.",
+            "rem.",
+            "Gy.",
+            "Sv/s."
+        ],
+        "correctAnswers": "Ninguna de las anteriores."
+    },
+    {
+        "question": "La unidad de la tasa de la exposición es",
+        "answers": [
+            "C/(kg·s).",
+            "R.",
+            "C/kg.",
+            "Sv/s."
+        ],
+        "correctAnswers": "C/(kg·s)."
+    },
+    {
+        "question": "La magnitud que expresa el daño biológico de la radiación es",
+        "answers": [
+            "Exposición.",
+            "Dosis equivalente.",
+            "Dosis absorbida.",
+            "Tasa de exposición."
+        ],
+        "correctAnswers": "Dosis equivalente."
+    },
+    {
+        "question": "El LET",
+        "answers": [
+            "Energía depositada al atravesar una unidad de longitud.",
+            "Todas las anteriores.",
+            "Se mide en Julios/metro.",
+            "Es alta para partículas pesadas y baja para partículas ligeras."
+        ],
+        "correctAnswers": "Todas las anteriores."
+    },
+    {
+        "question": "Se usan materiales termoluminiscentes porque",
+        "answers": [
+            "Son detectores inmediatos.",
+            "Son detectores de ionización gaseosa.",
+            "La luz emitida al ser calentado es proporcional a la dosis de radiación absorbida.",
+            "Ninguna es correcta."
+        ],
+        "correctAnswers": "La luz emitida al ser calentado es proporcional a la dosis de radiación absorbida."
+    },
+    {
+        "question": "La dosis efectiva",
+        "answers": [
+            "Todas son correctas.",
+            "Tiene en cuenta el tipo de haz.",
+            "Tiene en cuenta la energía depositada.",
+            "Pondera cada órgano."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones es correcta?",
+        "answers": [
+            "La tasa de dosis efectiva es la dosis equivalente por unidad de tiempo.",
+            "La unidad de la tasa de dosis efectiva es J/kg.",
+            "La tasa de dosis efectiva es la dosis por unidad de longitud.",
+            "La tasa de dosis efectiva es la dosis por unidad de tiempo."
+        ],
+        "correctAnswers": "La tasa de dosis efectiva es la dosis por unidad de tiempo."
+    },
+    {
+        "question": "La unidad de la tasa de dosis equivalente es:",
+        "answers": [
+            "mSv/s.",
+            "mGy/s.",
+            "C/kg.",
+            "mSv."
+        ],
+        "correctAnswers": "mSv/s."
+    },
+    {
+        "question": "Las magnitudes de protección radiológica",
+        "answers": [
+            "Permiten evaluar los posibles efectos biológicos debidos a la exposición de las radiaciones ionizantes.",
+            "Permiten evaluar los posibles riesgos de la exposición de las radiaciones ionizantes.",
+            "Todas las anteriores.",
+            "Incluyen entre otras la dosis efectiva y equivalente."
+        ],
+        "correctAnswers": "Todas las anteriores."
+    }
+]

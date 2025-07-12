@@ -1,0 +1,422 @@
+[
+    {
+        "question": "La función de la carcasa y coraza del equipo de rayos X es",
+        "answers": [
+            "Las dos son correctas.",
+            "Impide que la radiación salga en todas direcciones.",
+            "Ninguna es correcta.",
+            "Contener los distintos elementos que forman el tubo."
+        ],
+        "correctAnswers": "Las dos son correctas."
+    },
+    {
+        "question": "¿Qué tipos de ánodos existen en los equipos de rayos X?",
+        "answers": [
+            "Ánodo estacionario y rotatorio.",
+            "Ánodo estacionario.",
+            "Ánodo rotatorio.",
+            "Cátodo rotatorio."
+        ],
+        "correctAnswers": "Ánodo estacionario y rotatorio."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones no es correcta?",
+        "answers": [
+            "Tiene bajo efecto termoiónico.",
+            "El ánodo es un material de alto Z.",
+            "Tiene alto punto de fusión.",
+            "Posee alta conductividad térmica."
+        ],
+        "correctAnswers": "Tiene bajo efecto termoiónico."
+    },
+    {
+        "question": "Dentro del tubo de rayos X",
+        "answers": [
+            "Existe un vacío absoluto en la ampolla de vidrio.",
+            "Se producen los electrones en el cátodo por efecto termoiónico.",
+            "Los electrones se desplazan del ánodo al cátodo, y viceversa.",
+            "Los electrones impactan en el cátodo para producir electrones."
+        ],
+        "correctAnswers": "Se producen los electrones en el cátodo por efecto termoiónico."
+    },
+    {
+        "question": "El refrigerante en un tubo de rayos X",
+        "answers": [
+            "Suele ser agua en los equipos de rayos X intraorales.",
+            "Evita que se alcancen temperaturas elevadas, y de esta manera evita la fusión de material del ánodo.",
+            "Favorece el aumento de la temperatura, favoreciendo la formación de rayos X.",
+            "Todas las anteriores."
+        ],
+        "correctAnswers": "Evita que se alcancen temperaturas elevadas, y de esta manera evita la fusión de material del ánodo."
+    },
+    {
+        "question": "En los equipos de rayos X",
+        "answers": [
+            "El refrigerante sirve para mantener una temperatura constante dentro del equipo, que favorece la mayor formación de rayos X.",
+            "La eficiencia de la producción de rayos X es baja, ya que más del 99% de la energía de los electrones se pierde en forma de calor.",
+            "El material más utilizado para la formación del filamento es el estaño o el zinc, debido a su bajo punto de fusión.",
+            "Es necesario que se realice un control mensual de los parámetros fundamentales, tal como marca la normativa vigente."
+        ],
+        "correctAnswers": "La eficiencia de la producción de rayos X es baja, ya que más del 99% de la energía de los electrones se pierde en forma de calor."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones es incorrecta?",
+        "answers": [
+            "El colimador es un dispositivo plomado situado a la salida del tubo que limita el campo de irradiación y el área de exposición del paciente.",
+            "La rejilla antidifusora aumenta la radiación dispersa que llega a la placa, que empeora la calidad de imagen.",
+            "El localizador es un dispositivo de alineación del haz que ayuda al odontólogo a posicionar el dispositivo de indicador de posición (DIP) en relación con el diente y el sistema de imagen.",
+            "La filtración elimina los fotones de baja energía."
+        ],
+        "correctAnswers": "La rejilla antidifusora aumenta la radiación dispersa que llega a la placa, que empeora la calidad de imagen."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones es correcta?",
+        "answers": [
+            "La diferencia de potencial entre el ánodo y el cátodo produce la aceleración de los electrones dentro del tubo de rayos X.",
+            "El generador es el elemento encargado de suministrar al tubo la energía necesaria para su funcionamiento.",
+            "Todas las anteriores.",
+            "Los equipos de rayos X poseen rectificadores de onda que transforma la corriente alterna en continua."
+        ],
+        "correctAnswers": "Todas las anteriores."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones es correcta?",
+        "answers": [
+            "Más del 99% de la energía de los electrones se pierde en forma de calor.",
+            "El material blanco tiene bajo número atómico.",
+            "El ánodo es siempre rotatorio.",
+            "El material donde colisionan los electrones es el cátodo."
+        ],
+        "correctAnswers": "Más del 99% de la energía de los electrones se pierde en forma de calor."
+    },
+    {
+        "question": "El ánodo rotatorio",
+        "answers": [
+            "Todas son correctas.",
+            "Enfría más rápido el ánodo.",
+            "Aumenta el área del foco real en la mancha focal.",
+            "Dispersa mejor el calor."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "El poder de penetración de una radiación X está relacionada con:",
+        "answers": [
+            "Tiempo.",
+            "Tensión aplicada (kilovoltaje).",
+            "Corriente del tubo (miliamperaje).",
+            "La distancia foco-película."
+        ],
+        "correctAnswers": "Tensión aplicada (kilovoltaje)."
+    },
+    {
+        "question": "Cuanto más se aumenta la corriente que atraviesa el tubo de rayos X",
+        "answers": [
+            "Mayor es la energía de los rayos X.",
+            "Menos cantidad de rayos X se genera.",
+            "Más cantidad de rayos X se genera.",
+            "Menor es la potencia disipada en el anticátodo."
+        ],
+        "correctAnswers": "Más cantidad de rayos X se genera."
+    },
+    {
+        "question": "En un tubo de rayos X se producen fotones por frenado de electrones. Estos electrones se generan:",
+        "answers": [
+            "En el cátodo, por efecto termoiónico.",
+            "Por efecto de creación de pares electrón-positrón.",
+            "Por ionización del gas encerrado en el tubo.",
+            "En el ánodo, por efecto Compton."
+        ],
+        "correctAnswers": "En el cátodo, por efecto termoiónico."
+    },
+    {
+        "question": "Algunos tubos de rayos X se fabrican con ánodo giratorio para:",
+        "answers": [
+            "Evitar problemas por calentamiento del ánodo.",
+            "Ninguna de las anteriores.",
+            "Que los rayos se emitan en todas las direcciones.",
+            "Que los rayos X posean mayor energía."
+        ],
+        "correctAnswers": "Evitar problemas por calentamiento del ánodo."
+    },
+    {
+        "question": "La radiación que logra atravesar la coraza de plomo en la que está encapsulado el tubo recibe el nombre de:",
+        "answers": [
+            "Radiación de fuga.",
+            "Radiación dispersa.",
+            "Radiación inútil.",
+            "Radiación Compton."
+        ],
+        "correctAnswers": "Radiación de fuga."
+    },
+    {
+        "question": "Se denomina filtración inherente a la producida por:",
+        "answers": [
+            "A la suma de las dos anteriores.",
+            "Ninguna de las anteriores.",
+            "A la originada por colocar materiales adecuados a la salida del haz de radiación.",
+            "Los materiales estructurales del tubo de rayos X."
+        ],
+        "correctAnswers": "Los materiales estructurales del tubo de rayos X."
+    },
+    {
+        "question": "La filtración de un tubo de rayos X tiene como objetivo fundamental:",
+        "answers": [
+            "Evitar que aparezcan electrones en el exterior.",
+            "Atenuar los fotones de alta energía.",
+            "Aumentar la producción de fotones.",
+            "Disminuir el porcentaje de fotones de baja energía."
+        ],
+        "correctAnswers": "Disminuir el porcentaje de fotones de baja energía."
+    },
+    {
+        "question": "Las rejillas antidifusoras sirven para:",
+        "answers": [
+            "Reducir la radiación extrafocal.",
+            "Reducir el contraste de la imagen.",
+            "Absorber la radiación dispersa que se produce dentro del paciente.",
+            "Disminuir la dosis en piel de los pacientes."
+        ],
+        "correctAnswers": "Absorber la radiación dispersa que se produce dentro del paciente."
+    },
+    {
+        "question": "La dosis impartida a un paciente, al realizar una radiografía con dos películas de velocidades diferentes y los mismos parámetros radiológicos, es:",
+        "answers": [
+            "Mayor con la película de mayor velocidad.",
+            "Función de las condiciones de procesado.",
+            "La misma con ambas películas.",
+            "Mayor con la película de menor velocidad."
+        ],
+        "correctAnswers": "Mayor con la película de menor velocidad."
+    },
+    {
+        "question": "El papel de las cartulinas de refuerzo consiste en:",
+        "answers": [
+            "Disminuir la radiación dispersa producida por el paciente.",
+            "Hacer que finalice la exposición cuando ha llegado una cantidad suficiente de radiación.",
+            "Transformar los RX en fotones de luz visible.",
+            "Transformar los RX en electrones."
+        ],
+        "correctAnswers": "Transformar los RX en fotones de luz visible."
+    },
+    {
+        "question": "El refrigerante en un tubo de rayos X",
+        "answers": [
+            "Favorece el aumento de la temperatura, favoreciendo la formación de rayos X.",
+            "Evita que se alcancen temperaturas elevadas, y de esta manera evita la fusión de material del ánodo.",
+            "Suele ser agua en los equipos de rayos X intraorales.",
+            "Todas las anteriores."
+        ],
+        "correctAnswers": "Evita que se alcancen temperaturas elevadas, y de esta manera evita la fusión de material del ánodo."
+    },
+    {
+        "question": "La ampolla de vidrio",
+        "answers": [
+            "Está formada por un vidrio especial llamado Pyrex.",
+            "Posee baja resistencia a la temperatura, y su fragilidad es un problema en estos equipos.",
+            "Es un elemento que dispersa el calor con dificultad.",
+            "Dispone de un vacío absoluto en su interior."
+        ],
+        "correctAnswers": "Está formada por un vidrio especial llamado Pyrex."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones del uso de posicionadores en los equipos intraorales no es correcta?",
+        "answers": [
+            "Estabiliza el sistema de imagen.",
+            "Proporciona posicionamiento preciso y reproducible.",
+            "Aumenta la irradiación al operador.",
+            "Aumento de las repeticiones por mal posicionamiento."
+        ],
+        "correctAnswers": "Aumento de las repeticiones por mal posicionamiento."
+    },
+    {
+        "question": "El valor de radiación de fuga debe ser",
+        "answers": [
+            "1 mSv/m.",
+            "1 mSv/h a 1 m.",
+            "1 mSv/h.",
+            "No tiene valor."
+        ],
+        "correctAnswers": "1 mSv/h a 1 m."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones es correcta?",
+        "answers": [
+            "Los equipos de rayos X poseen rectificadores de onda que transforma la corriente alterna en continua.",
+            "La diferencia de potencial entre el ánodo y el cátodo produce la aceleración de los electrones dentro del tubo de rayos X.",
+            "Todas las anteriores.",
+            "El generador es el elemento encargado de suministrar al tubo la energía necesaria para su funcionamiento."
+        ],
+        "correctAnswers": "Todas las anteriores."
+    },
+    {
+        "question": "En los equipos de rayos X",
+        "answers": [
+            "El material más utilizado para la formación del filamento es el estaño o el zinc, debido a su bajo punto de fusión.",
+            "La eficiencia de la producción de rayos X es baja, ya que más del 99% de la energía de los electrones se pierde en forma de calor.",
+            "Es necesario que se realice un control mensual de los parámetros fundamentales, tal como marca la normativa vigente.",
+            "El refrigerante sirve para mantener una temperatura constante dentro del equipo, que favorece la mayor formación de rayos X."
+        ],
+        "correctAnswers": "La eficiencia de la producción de rayos X es baja, ya que más del 99% de la energía de los electrones se pierde en forma de calor."
+    },
+    {
+        "question": "¿Cuál de los siguientes elementos no ayuda a la refrigeración del tubo de rayos X?",
+        "answers": [
+            "Tunsgteno como material del ánodo y cátodo.",
+            "Ampolla de vidrio Pyrex.",
+            "Refrigerante.",
+            "El blindaje del tubo."
+        ],
+        "correctAnswers": "El blindaje del tubo."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones es incorrecta?",
+        "answers": [
+            "Existen dos tipos de filtración, inherente y añadida.",
+            "La filtración disminuye la dosis en piel al paciente.",
+            "La filtración empeora el contraste de la imagen.",
+            "La filtración aumenta la energía media del haz."
+        ],
+        "correctAnswers": "La filtración empeora el contraste de la imagen."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones es correcta?",
+        "answers": [
+            "Los equipos de rayos X poseen rectificadores de onda que transforma la corriente alterna en continua.",
+            "El generador es el elemento encargado de suministrar al tubo la energía necesaria para su funcionamiento.",
+            "La diferencia de potencial entre el ánodo y el cátodo produce la aceleración de los electrones dentro del tubo de rayos X.",
+            "Todas son correctas."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones es correcta?",
+        "answers": [
+            "En radiografía dental intraoral se usan colimadores circulares con una longitud mínima de 10 cm.",
+            "El colimador delimita el área de irradiación, disminuyendo la dosis en piel recibida por los pacientes.",
+            "El área de irradiación, usando colimadores circulares, no puede ser inferior a 60 mm.",
+            "Los colimadores rectangulares aumentan el área de irradiación respecto a los circulares."
+        ],
+        "correctAnswers": "El colimador delimita el área de irradiación, disminuyendo la dosis en piel recibida por los pacientes."
+    },
+    {
+        "question": "El envejecimiento del tubo de rayos se produce por",
+        "answers": [
+            "Ninguna de las anteriores.",
+            "Mal colocación del equipo tras su utilización.",
+            "Uso de bajos tiempos de exposición en las imágenes.",
+            "Depósito de Wolframio en las paredes del tubo."
+        ],
+        "correctAnswers": "Depósito de Wolframio en las paredes del tubo."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones es correcta?",
+        "answers": [
+            "El cátodo incluye filamento y circuitos eléctricos asociados para conseguir intensidad de corriente (mA).",
+            "El desplazamiento de los electrones del ánodo al cátodo se produce por la diferencia de potencial entre ellos.",
+            "En el cátodo se produce la interacción de los electrones procedentes del ánodo.",
+            "El cátodo está formado siempre por dos filamentos."
+        ],
+        "correctAnswers": "El cátodo incluye filamento y circuitos eléctricos asociados para conseguir intensidad de corriente (mA)."
+    },
+    {
+        "question": "El contraste",
+        "answers": [
+            "Se define como nivel de ennegrecimiento de la imagen.",
+            "Es independiente del kV aplicado.",
+            "Es menor cuanto menos sea el Kv.",
+            "Se define como la capacidad de diferenciar las imágenes de dos objetos muy cercanos."
+        ],
+        "correctAnswers": "Se define como nivel de ennegrecimiento de la imagen."
+    },
+    {
+        "question": "El ánodo",
+        "answers": [
+            "Siempre es rotatorio.",
+            "Es el material blanco contra el que colisionan los electrones acelerados.",
+            "Alcanza baja temperatura al colisionar los electrones acelerados.",
+            "Es el material desde el que se forman los electrones que interaccionan contra el cátodo."
+        ],
+        "correctAnswers": "Es el material blanco contra el que colisionan los electrones acelerados."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones es correcta?",
+        "answers": [
+            "El ánodo es siempre rotatorio.",
+            "El material blanco tiene bajo número atómico.",
+            "Más del 99% de la energía de los electrones se pierde en forma de calor.",
+            "El material donde colisionan los electrones es el cátodo."
+        ],
+        "correctAnswers": "Más del 99% de la energía de los electrones se pierde en forma de calor."
+    },
+    {
+        "question": "La variación de la intensidad de la corriente (mAs) en los equipos de rayos X",
+        "answers": [
+            "Varían entre 2 y 18 en el ámbito dental intraoral.",
+            "No influye en la formación de la imagen radiográfica.",
+            "Determina la cantidad de electrones por unidad de tiempo que pueden impactar en el blanco.",
+            "Determinan la capacidad de penetración de los rayos X."
+        ],
+        "correctAnswers": "Determina la cantidad de electrones por unidad de tiempo que pueden impactar en el blanco."
+    },
+    {
+        "question": "Las características del Wolframio o Tungsteno son",
+        "answers": [
+            "Bajo punto de fusión.",
+            "Alto efecto termoiónico.",
+            "Bajo número atómico.",
+            "Alta tendencia a evaporarse."
+        ],
+        "correctAnswers": "Alto efecto termoiónico."
+    },
+    {
+        "question": "El ánodo rotatorio",
+        "answers": [
+            "Dispersa mejor el calor.",
+            "Enfría más rápido el ánodo.",
+            "Aumenta el área del foco real en la mancha focal.",
+            "Todas son correctas."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "La diferencia de potencial entre el cátodo y el ánodo",
+        "answers": [
+            "Provoca la direccionalidad de los electrones, para desplazarse del ánodo al cátodo.",
+            "Acelera la velocidad de los electrones, provocando mayor poder de penetración.",
+            "No tiene consecuencias sobre el equipo.",
+            "Provoca un aumento de la nube de electrones de ánodo, aumentando la cantidad final de energía."
+        ],
+        "correctAnswers": "Acelera la velocidad de los electrones, provocando mayor poder de penetración."
+    },
+    {
+        "question": "La radiación electromagnética que transporta mayores cantidades de energía",
+        "answers": [
+            "Tienen un carácter lesivo similar al de radiaciones menos energéticas.",
+            "Nunca pueden ser ionizantes.",
+            "Cede mayores cantidades energéticas al medio debido a las diferentes interacciones y, por tanto, las pérdidas energéticas serán mayores.",
+            "La energía de la radiación juega un papel secundario en sus procesos de interacción con la materia."
+        ],
+        "correctAnswers": "Cede mayores cantidades energéticas al medio debido a las diferentes interacciones y, por tanto, las pérdidas energéticas serán mayores."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones es correcta?",
+        "answers": [
+            "La longitud mínima del localizador de un equipo de rayos X intraoral es de 20 cm.",
+            "El cable del disparador tiene que tener una longitud menor de 2 m.",
+            "En colimadores circulares (equipos intraorales) el área de irradiación mínima debe ser 60 mm de diámetro.",
+            "La rejilla antidifusora aumenta la radiación dispersa que llega a la placa, empeorando la calidad de la imagen."
+        ],
+        "correctAnswers": "La longitud mínima del localizador de un equipo de rayos X intraoral es de 20 cm."
+    },
+    {
+        "question": "¿Cuál de todos estos elementos no forma parte del tubo de rayos X?",
+        "answers": [
+            "Cátodo y ánodo.",
+            "Refrigerante.",
+            "Ampolla de vidrio Pyrex.",
+            "Filtración."
+        ],
+        "correctAnswers": "Filtración."
+    }
+]

@@ -1,0 +1,484 @@
+[
+    {
+        "question": "¿Qué Organismo podrá autorizar exposiciones que superen los límites establecidos?",
+        "answers": [
+            "Las exposiciones especialmente autorizadas las debe aprobar el Ministerio de Sanidad.",
+            "Las exposiciones especialmente autorizadas las debe aprobar el Ministerio de Industria.",
+            "Las exposiciones especialmente autorizadas las debe aprobar el Consejo de Seguridad Nuclear.",
+            "Las exposiciones especialmente autorizadas las debe aprobar el Ministerio de Trabajo."
+        ],
+        "correctAnswers": "Las exposiciones especialmente autorizadas las debe aprobar el Consejo de Seguridad Nuclear."
+    },
+    {
+        "question": "El objetivo del R.D. 1029/2022 es",
+        "answers": [
+            "Regular el régimen de autorizaciones administrativas, para IINN e IIRR, y otras actividades específicas relacionadas con la aplicación de radiaciones ionizantes.",
+            "La utilización de equipos e instalaciones de rayos X, con fines de diagnóstico médico, incluyendo el uso médico-legal y veterinario.",
+            "Establecer normas básicas de protección radiológica para prevenir la producción de efectos biológicos deterministas y limitar la probabilidad de incidencia de efectos estocásticos hasta valores considerados aceptables.",
+            "Establecer criterios de calidad en radiodiagnóstico para asegurar optimización en la obtención de imágenes."
+        ],
+        "correctAnswers": "Establecer normas básicas de protección radiológica para prevenir la producción de efectos biológicos deterministas y limitar la probabilidad de incidencia de efectos estocásticos hasta valores considerados aceptables."
+    },
+    {
+        "question": "La protección operacional de los trabajadores expuestos se basará en",
+        "answers": [
+            "La aplicación de las normas y vigilancia sanitaria.",
+            "La evaluación previa de las condiciones laborales.",
+            "La clasificación de los lugares de trabajo en diferentes zonas y de los trabajadores expuestos.",
+            "Todas son correctas."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "La Normativa en materia de Energía Nuclear, tiene con objeto",
+        "answers": [
+            "Las dos anteriores.",
+            "Fomentar el desarrollo de las aplicaciones pacíficas de la energía nuclear.",
+            "Solo es aplicable a sustancias radiactivas.",
+            "Proteger vidas, salud y haciendas."
+        ],
+        "correctAnswers": "Las dos anteriores."
+    },
+    {
+        "question": "El Real Decreto que establece las normas básicas de protección radiológica para prevenir la producción de efectos biológicos deterministas y estocásticos es",
+        "answers": [
+            "RD 601/2019.",
+            "RD 1976/1999.",
+            "RD 783/2001.",
+            "RD 1085/2009."
+        ],
+        "correctAnswers": "RD 783/2001."
+    },
+    {
+        "question": "Los límites de dosis del personal de un centro",
+        "answers": [
+            "Será siempre inferior a 1 mSv/año para mujeres trabajadoras.",
+            "Dependerá del número de mujeres que trabajen en el centro.",
+            "Será independiente del tipo de equipos que tenga en el centro.",
+            "Dependerá de la función y exposición de cada trabajador."
+        ],
+        "correctAnswers": "Dependerá de la función y exposición de cada trabajador."
+    },
+    {
+        "question": "El Real Decreto que regula la instalación y utilización de equipos de rayos X es el",
+        "answers": [
+            "RD 783/2001.",
+            "RD 1976/1999.",
+            "RD 601/2019.",
+            "RD 1085/2009."
+        ],
+        "correctAnswers": "RD 1085/2009."
+    },
+    {
+        "question": "El Programa de Protección Radiológica viene definido por",
+        "answers": [
+            "RD 1976/1999.",
+            "Ninguna es correcta.",
+            "RD 1085/2009.",
+            "RD 783/2001."
+        ],
+        "correctAnswers": "RD 1085/2009."
+    },
+    {
+        "question": "En una clínica, la sala de espera se clasificará como",
+        "answers": [
+            "Libre acceso.",
+            "Zona controlada de permanencia libre.",
+            "Zona Vigilada.",
+            "Zona controlada de acceso restringido."
+        ],
+        "correctAnswers": "Libre acceso."
+    },
+    {
+        "question": "El límite de dosis en cristalino para personal del público es",
+        "answers": [
+            "150 mSv/a.o.",
+            "15 mSv/a.o.",
+            "500 mSv/a.o.",
+            "20 mSv/a.o."
+        ],
+        "correctAnswers": "15 mSv/a.o."
+    },
+    {
+        "question": "El organismo competente en materia de seguridad nuclear y protección radiológica en España es:",
+        "answers": [
+            "El Consejo de Seguridad Nuclear.",
+            "Las Unidades Técnicas de Protección Radiológica.",
+            "El Ministerio de Sanidad y Consumo.",
+            "La Junta de Energía Nuclear, hoy CIEMAT."
+        ],
+        "correctAnswers": "El Consejo de Seguridad Nuclear."
+    },
+    {
+        "question": "Indicar cuáles de las siguientes funciones NO son de competencia del Consejo de Seguridad Nuclear:",
+        "answers": [
+            "Imponer sanciones por comisión de infracciones.",
+            "Conceder y renovar licencias y acreditaciones.",
+            "Realizar inspecciones sobre las actividades radiológicas autorizadas.",
+            "Cobrar tasas por los servicios prestados."
+        ],
+        "correctAnswers": "Imponer sanciones por comisión de infracciones."
+    },
+    {
+        "question": "El personal que dirija el funcionamiento de equipos de RX deberá:",
+        "answers": [
+            "Tener conocimientos adecuados sobre el diseño y uso de los equipos, sobre el riesgo radiológico asociado y los medios de seguridad y protección radiológica que deban adoptarse.",
+            "Todas las respuestas son ciertas.",
+            "Estar Acreditado por el Consejo de Seguridad Nuclear.",
+            "Ser Médico, odontólogo, podólogo y/o veterinario."
+        ],
+        "correctAnswers": "Todas las respuestas son ciertas."
+    },
+    {
+        "question": "Una clínica veterinaria con un equipo de rayos X tendrá la consideración de:",
+        "answers": [
+            "Instalación radiactiva de 3ª categoría.",
+            "Instalación radiactiva de radiodiagnóstico especial.",
+            "Instalación radiactiva de 2ª categoría.",
+            "Instalación radiactiva de 1ª categoría."
+        ],
+        "correctAnswers": "Instalación radiactiva de 3ª categoría."
+    },
+    {
+        "question": "Las únicas personas que no pueden trabajar con un riesgo de exposición a radiaciones ionizantes son:",
+        "answers": [
+            "Los menores de 18 años.",
+            "Mujeres gestantes.",
+            "Todos aquellos que no posean la acreditación para dirigir u operar.",
+            "Los minusválidos."
+        ],
+        "correctAnswers": "Todos aquellos que no posean la acreditación para dirigir u operar."
+    },
+    {
+        "question": "La dosis máxima permitida para un profesional expuesto a radiación ionizante es:",
+        "answers": [
+            "No tienen límite de dosis.",
+            "5 mSv por año.",
+            "50 rad.",
+            "50 mSv por año con límite de 100 mSv en cinco años."
+        ],
+        "correctAnswers": "50 mSv por año con límite de 100 mSv en cinco años."
+    },
+    {
+        "question": "Un trabajador que por las condiciones en que se realiza su trabajo no es improbable que reciba dosis superiores a 6 mSv por año tiene la consideración de:",
+        "answers": [
+            "Trabajador profesionalmente expuesto categoría A.",
+            "Miembro del público.",
+            "No es considerado trabajador profesionalmente expuesto.",
+            "Trabajador profesionalmente expuesto categoría B."
+        ],
+        "correctAnswers": "Trabajador profesionalmente expuesto categoría A."
+    },
+    {
+        "question": "Aquella zona en la que no es improbable recibir dosis superiores a 1 mSv por año, siendo muy improbable recibir dosis superiores a 6 mSv por año, se denomina:",
+        "answers": [
+            "Zona Controlada.",
+            "Zona Vigilada.",
+            "Zona de Permanencia Limitada.",
+            "Zona de Acceso Prohibido."
+        ],
+        "correctAnswers": "Zona Vigilada."
+    },
+    {
+        "question": "El Reglamento de Protección Sanitaria contra radiaciones ionizantes es aplicable a:",
+        "answers": [
+            "Centrales Nucleares, instalaciones de radiografía industrial e instalaciones de cobaltoterapia.",
+            "Instalaciones de radiodiagnóstico médico y veterinario.",
+            "A todas las instalaciones mencionadas les es aplicable el Reglamento.",
+            "Instalaciones médicas militares y del INSALUD."
+        ],
+        "correctAnswers": "A todas las instalaciones mencionadas les es aplicable el Reglamento."
+    },
+    {
+        "question": "En una instalación de radiodiagnóstico y/o radiactiva:",
+        "answers": [
+            "No pueden trabajar mujeres embarazadas cuyo embarazo se encuentre en los primeros cuarenta días de gestación.",
+            "No pueden trabajar mujeres embarazadas.",
+            "No pueden trabajar mujeres con capacidad de procrear.",
+            "Ninguna de las afirmaciones es cierta."
+        ],
+        "correctAnswers": "Ninguna de las afirmaciones es cierta."
+    },
+    {
+        "question": "La Orden de 18 de Octubre de 1989 por la que se suprimen las exploraciones radiológicas sistemáticas en los exámenes de salud de carácter preventivo, se derogó aplicando el principio de protección radiológica de:",
+        "answers": [
+            "Limitación.",
+            "Tiempo, distancia y blindaje.",
+            "Justificación.",
+            "Optimización."
+        ],
+        "correctAnswers": "Justificación."
+    },
+    {
+        "question": "De las siguientes directivas europeas ¿cuáles se encuentran en vigor actualmente?",
+        "answers": [
+            "2013/59/Euratom.",
+            "2003/122/Euratom.",
+            "90/641/Euratom.",
+            "96/29/Euratom.",
+            "97/43/Euratom.",
+            "89/618/Euratom."
+        ],
+        "correctAnswers": "2013/59/Euratom."
+    },
+    {
+        "question": "El CSN",
+        "answers": [
+            "Es el Organismo competente en Seguridad Nuclear y Protección Radiológica.",
+            "Ninguna es correcta.",
+            "Se encarga de la regulación de las autorizaciones sanitarias de los centros sanitarios.",
+            "Es dependiente de la Administración Central del Estado."
+        ],
+        "correctAnswers": "Es el Organismo competente en Seguridad Nuclear y Protección Radiológica."
+    },
+    {
+        "question": "Las infracciones o sanciones",
+        "answers": [
+            "Son posteriores a un apercibimiento previo.",
+            "Todas son correctas.",
+            "Pueden conllevar anulación de licencias o permisos.",
+            "Pueden dar lugar a sanciones económicas."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "El Real Decreto 1085/2009, regula",
+        "answers": [
+            "Los criterios de calidad de radiodiagnóstico.",
+            "La Protección Sanitaria contra Radiaciones Ionizantes.",
+            "La justificación del uso de las radiaciones ionizantes de las personas con ocasión de exposiciones médicas.",
+            "La instalación y utilización de aparatos de rayos X con fines de diagnóstico médico."
+        ],
+        "correctAnswers": "La instalación y utilización de aparatos de rayos X con fines de diagnóstico médico."
+    },
+    {
+        "question": "La dosis efectiva máxima en cualquier año oficial para los trabajadores expuestos es",
+        "answers": [
+            "5 mSv.",
+            "1 mSv.",
+            "50 mSv.",
+            "20 mSv."
+        ],
+        "correctAnswers": "50 mSv."
+    },
+    {
+        "question": "Es obligatorio disponer de un cartel de aviso a embarazadas por el riesgo de irradiación en",
+        "answers": [
+            "Gabinete.",
+            "Pasillo.",
+            "Sala de espera.",
+            "Sala del panorámico."
+        ],
+        "correctAnswers": "Sala de espera."
+    },
+    {
+        "question": "El personal de una clínica puede clasificarse como",
+        "answers": [
+            "Ninguna de las anteriores.",
+            "Miembros del público.",
+            "Trabajador expuesto.",
+            "Las dos anteriores."
+        ],
+        "correctAnswers": "Las dos anteriores."
+    },
+    {
+        "question": "La Ley 14/1999, de 4 de mayo, de Tasas y Precios Públicos por servicios prestados por el Consejo de Seguridad Nuclear",
+        "answers": [
+            "Las dos anteriores.",
+            "Tiene por objeto la regulación de las tasas y precios públicos por prestación de servicios y realización de actividades del CSN.",
+            "Ninguna de las anteriores.",
+            "La pueden aplicar los órganos autonómicos con competencias transferidas."
+        ],
+        "correctAnswers": "Las dos anteriores."
+    },
+    {
+        "question": "Las instalaciones que utilicen aparatos generadores de rayos X cuya tensión de pico sea inferior a 200 kilovoltios",
+        "answers": [
+            "Son de cuarta categoría.",
+            "Son de segunda categoría.",
+            "Son de primera categoría.",
+            "Son de tercera categoría."
+        ],
+        "correctAnswers": "Son de tercera categoría."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones es falsa para una clínica dental?",
+        "answers": [
+            "El responsable sanitario debe ser un odontólogo.",
+            "Puede existir un mismo Titular para varias clínicas.",
+            "El Titular no tiene que ser odontólogo.",
+            "El Titular, Director de rayos X y Responsable Sanitario tiene que ser la misma persona."
+        ],
+        "correctAnswers": "El Titular, Director de rayos X y Responsable Sanitario tiene que ser la misma persona."
+    },
+    {
+        "question": "La Normativa en materia de Energía Nuclear, tiene con objeto",
+        "answers": [
+            "Solo es aplicable a sustancias radiactivas.",
+            "Las dos anteriores.",
+            "Fomentar el desarrollo de las aplicaciones pacíficas de la energía nuclear.",
+            "Proteger vidas, salud y haciendas."
+        ],
+        "correctAnswers": "Las dos anteriores."
+    },
+    {
+        "question": "Algunas de las funciones del Consejo Seguridad Nuclear (CSN) son:",
+        "answers": [
+            "Realizar toda clase de inspecciones en las instalaciones nucleares o radiactivas.",
+            "Todas son correctas.",
+            "Elaborar y aprobar las instrucciones, circulares y guías de carácter técnico.",
+            "Proponer al Gobierno las reglamentaciones necesarias en materia de seguridad nuclear y protección radiológica."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "La dosis equivalente al feto será tan baja como sea razonablemente posible, de forma que sea improbable que dicha dosis exceda en el período de embarazo",
+        "answers": [
+            "100 mSv.",
+            "1 mSv.",
+            "50 mSv.",
+            "10 mSv."
+        ],
+        "correctAnswers": "1 mSv."
+    },
+    {
+        "question": "Cuando una Norma deroga a otra",
+        "answers": [
+            "Se deja sin vigencia a una disposición normativa.",
+            "Se desarrolla el régimen sancionador.",
+            "Ninguna de las anteriores.",
+            "Se desarrolla el modo de aplicación."
+        ],
+        "correctAnswers": "Se deja sin vigencia a una disposición normativa."
+    },
+    {
+        "question": "Las instalaciones que utilicen aparatos generadores de rayos X cuya tensión de pico sea inferior a 200 kilovoltios",
+        "answers": [
+            "Son de cuarta categoría.",
+            "Son de segunda categoría.",
+            "Son de primera categoría.",
+            "Son de tercera categoría."
+        ],
+        "correctAnswers": "Son de tercera categoría."
+    },
+    {
+        "question": "Respecto al corpus normativo, para las clínicas dentales",
+        "answers": [
+            "Solo son de aplicación las normas autonómicas.",
+            "Solo son de aplicación las normas locales.",
+            "Solo son de aplicación las normas de carácter estatal.",
+            "Ninguna de las anteriores."
+        ],
+        "correctAnswers": "Ninguna de las anteriores."
+    },
+    {
+        "question": "La inscripción en el registro de instalaciones de rayos X con fines de diagnóstico médico se realiza en",
+        "answers": [
+            "Consejo de Seguridad Nuclear.",
+            "Ninguno de los anteriores.",
+            "Ministerio de Sanidad.",
+            "Organismo competente de cada Comunidad Autónoma."
+        ],
+        "correctAnswers": "Organismo competente de cada Comunidad Autónoma."
+    },
+    {
+        "question": "El Real Decreto que regula la instalación y utilización de equipos de rayos X es el",
+        "answers": [
+            "RD 601/2019.",
+            "RD 1976/1999.",
+            "RD 783/2001.",
+            "RD 1085/2009."
+        ],
+        "correctAnswers": "RD 1085/2009."
+    },
+    {
+        "question": "¿Qué Organismo podrá autorizar exposiciones que superen los límites establecidos?",
+        "answers": [
+            "Las exposiciones especialmente autorizadas las debe aprobar el Consejo de Seguridad Nuclear.",
+            "Las exposiciones especialmente autorizadas las debe aprobar el Ministerio de Sanidad.",
+            "Las exposiciones especialmente autorizadas las debe aprobar el Ministerio de Trabajo.",
+            "Las exposiciones especialmente autorizadas las debe aprobar el Ministerio de Industria."
+        ],
+        "correctAnswers": "Las exposiciones especialmente autorizadas las debe aprobar el Consejo de Seguridad Nuclear."
+    },
+    {
+        "question": "Tan pronto como una mujer trabajadora conozca su condición de embarazada",
+        "answers": [
+            "No es necesario reevaluar los riesgos profesionales ni modificar su ocupación en todos los casos.",
+            "Las condiciones de trabajo de la mujer embarazada serán tales que la dosis equivalente al feto sea superior a 1 mSv.",
+            "Debe comunicar su estado al titular de la práctica.",
+            "Se le asignarán trabajos que supongan un riesgo significativo."
+        ],
+        "correctAnswers": "Debe comunicar su estado al titular de la práctica."
+    },
+    {
+        "question": "El Reglamento sobre protección de la salud contra los riesgos derivados de la exposición a las radiaciones ionizantes se aplica a",
+        "answers": [
+            "Exclusivamente a la comercialización de fuentes radiactivas.",
+            "La operación de todo equipo eléctrico que emita radiaciones ionizantes y que contenga componentes que funcionen a una diferencia de potencial superior a 5 kV.",
+            "La operación de todo equipo eléctrico que emita radiaciones ionizantes y que contenga componentes que funcionen a una diferencia de potencial inferior a 5 kV.",
+            "Exclusivamente en áreas y actividades sanitarias."
+        ],
+        "correctAnswers": "La operación de todo equipo eléctrico que emita radiaciones ionizantes y que contenga componentes que funcionen a una diferencia de potencial superior a 5 kV."
+    },
+    {
+        "question": "Como medida cautelar, el órgano competente para imponer la sanción podrá acordar, la propuesta del Consejo de Seguridad Nuclear, entre otras:",
+        "answers": [
+            "Precintado de aparatos o equipos.",
+            "La sustitución del proveedor de equipos o aparatos.",
+            "El despido del personal clínico.",
+            "La cancelación de la agenda de paciente."
+        ],
+        "correctAnswers": "Precintado de aparatos o equipos."
+    },
+    {
+        "question": "Las acreditaciones para dirigir u operar las instalaciones de rayos X con fines de diagnóstico médico",
+        "answers": [
+            "Son concedidas por el Ministerio de Sanidad.",
+            "Son concedidas por el Ministerio de Trabajo.",
+            "Son concedidas por el Ministerio de Educación.",
+            "Son concedidas por el Consejo de Seguridad Nuclear."
+        ],
+        "correctAnswers": "Son concedidas por el Consejo de Seguridad Nuclear."
+    },
+    {
+        "question": "La protección operacional de los trabajadores expuestos se basará en",
+        "answers": [
+            "Todas son correctas.",
+            "La clasificación de los lugares de trabajo en diferentes zonas y de los trabajadores expuestos.",
+            "La evaluación previa de las condiciones laborales.",
+            "La aplicación de las normas y vigilancia sanitaria."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "El Programa de Protección Radiológica viene definido por",
+        "answers": [
+            "RD 783/2001.",
+            "Ninguna es correcta.",
+            "RD 1085/2009.",
+            "RD 1976/1999."
+        ],
+        "correctAnswers": "RD 1085/2009."
+    },
+    {
+        "question": "El Real Decreto 1029/2022, regula",
+        "answers": [
+            "La instalación y utilización de aparatos de rayos X con fines de diagnóstico médico.",
+            "La justificación del uso de las radiaciones ionizantes de las personas con ocasión de exposiciones médicas.",
+            "Los criterios de calidad de radiodiagnóstico.",
+            "La Protección Sanitaria contra Radiaciones Ionizantes."
+        ],
+        "correctAnswers": "La Protección Sanitaria contra Radiaciones Ionizantes."
+    },
+    {
+        "question": "El control médico para trabajadores expuestos de tipo A",
+        "answers": [
+            "Su obligatoriedad depende del trabajo a desarrollar.",
+            "Es aconsejable, según la Ley de Prevención de Riesgos Laborales (Ley 31/1995).",
+            "Es obligatorio anualmente.",
+            "Es obligatorio cada dos años."
+        ],
+        "correctAnswers": "Es obligatorio anualmente."
+    }
+]
