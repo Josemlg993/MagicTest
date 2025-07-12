@@ -280,26 +280,6 @@
         "correctAnswers": "Efecto fotoeléctrico, Compton y creación de pares."
     },
     {
-        "question": "El efecto fotoeléctrico",
-        "answers": [
-            "Se produce cuando el fotón incidente tiene una energía inferior o igual a la energía de ligadura de electrón con el que interacciona.",
-            "Es dominante a altas energías, por encima de los 100 KeV.",
-            "Se produce por la interacción de un fotón con los átomos menos ligados del átomo.",
-            "Tiene lugar cuando un fotón pasa por las proximidades de un átomo e interacciona con uno de sus electrones cediéndole toda energía (cinética) y arrancándolo del átomo."
-        ],
-        "correctAnswers": "Tiene lugar cuando un fotón pasa por las proximidades de un átomo e interacciona con uno de sus electrones cediéndole toda energía (cinética) y arrancándolo del átomo."
-    },
-    {
-        "question": "El efecto fotoeléctrico",
-        "answers": [
-            "Se produce sobre todo a altas energías.",
-            "Solo ocurre con un determinado tipo de material.",
-            "No depende de la energía.",
-            "Se produce sobre todo a bajas energía."
-        ],
-        "correctAnswers": "Se produce sobre todo a bajas energía."
-    },
-    {
         "question": "La energía de ligadura",
         "answers": [
             "Es la misma para todos los electrones existentes en el átomo.",
