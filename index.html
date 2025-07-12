@@ -9,7 +9,7 @@
 </head>
 
 <body>
-  <div class="test-column">
+   <div class="test-column">
     <div id="selectorCuestionario" class="selector-cuestionario">
       <div class="selector-bar">
         <button id="toggleCuestionariosBtn" class="btn" onclick="toggleCuestionarios()">
@@ -18,6 +18,8 @@
         <button id="fontIncreaseBtn" class="btn font-btn" title="Aumentar tamaño">A+</button>
         <button id="fontDecreaseBtn" class="btn font-btn" title="Disminuir tamaño">A-</button>
       </div>
+      <div id="tituloCuestionario" style="font-weight:bold; font-size:1.2em; margin-bottom:10px;"></div>
+
       <div id="cuestionarioLista"></div>
     </div>
 
@@ -28,6 +30,7 @@
       </main>
       <aside class="marcadores-lateral" id="marcadoresLateral"></aside>
     </div>
+<div id="tituloCuestionario" style="font-weight:bold; font-size:1.2em; margin-bottom:10px;"></div>
 
     <script>
       //index.html
@@ -175,30 +178,31 @@
 
 
       // ================== CARGA DE CUESTIONARIO ==================
-      function cargarCuestionarioLocal(archivo, titulo) {
-        document.getElementById('test').innerHTML = `<p>Cargando cuestionario <b>${titulo}</b>...</p>`;
-        document.getElementById('result').textContent = "";
-        fetch(archivo)
-          .then(response => response.json())
-          .then(data => {
-            let preguntasBarajadas = data.slice();
-            shuffle(preguntasBarajadas);
-            questions = preguntasBarajadas.map(q => {
-              const shuffled = shuffleAnswersConEspeciales(q.answers);
-              return {
-                question: q.question,
-                answers: shuffled,
-                correctAnswers: q.correctAnswers
-              };
-            });
+     function cargarCuestionarioLocal(archivo, titulo) {
+  document.getElementById('tituloCuestionario').textContent = titulo;
+  document.getElementById('test').innerHTML = `<p>Cargando cuestionario <b>${titulo}</b>...</p>`;
+  document.getElementById('result').textContent = "";
+  fetch(archivo)
+    .then(response => response.json())
+    .then(data => {
+      let preguntasBarajadas = data.slice();
+      shuffle(preguntasBarajadas);
+      questions = preguntasBarajadas.map(q => {
+        const shuffled = shuffleAnswersConEspeciales(q.answers);
+        return {
+          question: q.question,
+          answers: shuffled,
+          correctAnswers: q.correctAnswers
+        };
+      });
 
-            originalQuestions = questions.slice(); // <-- Guarda copia original
-            userAnswers = {};
-            results = {};
-            modoSoloFalladas = false;
-            mostrarTodasLasPreguntas();
-          });
-      }
+      originalQuestions = questions.slice(); // <-- Guarda copia original
+      userAnswers = {};
+      results = {};
+      modoSoloFalladas = false;
+      mostrarTodasLasPreguntas();
+    });
+}
       function getCorrectAnswers(q) {
         return Array.isArray(q.correctAnswers) ? q.correctAnswers : [q.correctAnswers];
       }
