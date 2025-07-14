@@ -1,0 +1,306 @@
+[
+    {
+        "question": "¿En los equipos de radiografía intraoral?",
+        "answers": [
+            "El tiempo de exposición se fijará en función de la pieza dental que queramos radiografiar y la complexión del paciente.",
+            "El disparador del equipo nunca puede encontrarse fuera de la sala donde está situado el equipo.",
+            "El uso de delantales plomados es para la protección del paciente.",
+            "El kilovoltaje y miliamperaje son siempre variables."
+        ],
+        "correctAnswers": "El tiempo de exposición se fijará en función de la pieza dental que queramos radiografiar y la complexión del paciente."
+    },
+    {
+        "question": "¿En una clínica dental es obligatorio clasificar como Zona Vigilada?",
+        "answers": [
+            "La recepción.",
+            "La sala de espera.",
+            "Ninguna de las anteriores.",
+            "La sala contigua al gabinete."
+        ],
+        "correctAnswers": "Ninguna de las anteriores."
+    },
+    {
+        "question": "¿Qué sistemas disminuyen la dosis a paciente en una exploración radiográfica?",
+        "answers": [
+            "Uso de bajos tiempos de exposición.",
+            "Todas las anteriores.",
+            "Colimador máximo de 60 mm de diámetro.",
+            "Distancia foto piel mayor de 20 cm (tamaño localizador)."
+        ],
+        "correctAnswers": "Todas las anteriores."
+    },
+    {
+        "question": "¿La sala de rayos X intraoral debe estar clasificada como?",
+        "answers": [
+            "Zona Vigilada, señal de color Gris.",
+            "Zona Controlada de Permanencia Limitada, señal de color Verde.",
+            "Zona controlada, señal de color Gris.",
+            "Zona controlada, señal de color Verde."
+        ],
+        "correctAnswers": "Zona controlada, señal de color Verde."
+    },
+    {
+        "question": "¿El valor de magnificación final de una imagen panorámica dependerá de?",
+        "answers": [
+            "Movimiento del paciente (depende del tiempo de exposición, el posicionamiento y del paciente).",
+            "Tamaño o volumen de la zona radiografiada (depende del paciente).",
+            "Todas las anteriores.",
+            "Posicionamiento del paciente (depende de la técnica y adiestramiento de los profesionales donde se realice la exploración)."
+        ],
+        "correctAnswers": "Todas las anteriores."
+    },
+    {
+        "question": "¿Los posicionadores en técnicas radiográficas intraorales?",
+        "answers": [
+            "Facilitan el posicionamiento.",
+            "Reducen repeticiones por un mal posicionamiento.",
+            "Facilitan la sujeción del sistema de imagen por el propio paciente.",
+            "Todas son correctas."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "¿Qué disminuye la dosis en una exploración radiográfica?",
+        "answers": [
+            "Todas son correctas.",
+            "Colimación ajustada al mínimo campo exploratorio de interés.",
+            "Distancia foco superficie recomendada.",
+            "Uso de bajos tiempos de exposición."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "¿De estas situaciones, cuál es causa de pérdida en calidad de imagen en equipos panorámicos?",
+        "answers": [
+            "Inadecuado posicionamiento del paciente.",
+            "Superposición de piezas dentales.",
+            "Artefactos en la imagen (pendientes, orquillas…).",
+            "Todas las anteriores."
+        ],
+        "correctAnswers": "Todas las anteriores."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones no es correcta respecto al goniómetro?",
+        "answers": [
+            "Permite el correcto posicionamiento del sistema de imagen.",
+            "Es un aparato en forma de círculo, localizado en la cabeza del equipo de rayos X, utilizado para medir ángulos.",
+            "Nos permite diferentes angulaciones, que facilitan el posicionamiento.",
+            "No es necesario ya que es cuestión de práctica y destreza."
+        ],
+        "correctAnswers": "No es necesario ya que es cuestión de práctica y destreza."
+    },
+    {
+        "question": "¿Los trabajadores expuestos en clínicas dentales están clasificados como?",
+        "answers": [
+            "No están clasificados.",
+            "Trabajador Categoría B.",
+            "Trabajador Categoría A.",
+            "Ninguna de las anteriores."
+        ],
+        "correctAnswers": "Trabajador Categoría B."
+    },
+    {
+        "question": "¿Los equipos de radiodiagnóstico dental?",
+        "answers": [
+            "Deben tener un kilovoltaje mayor o igual a 50 kV.",
+            "Deben tener un kilovoltaje mayor o igual a 60 kV.",
+            "El colimador debe tener una longitud menor de 20 cm.",
+            "El cable extensible debe ser como máximo de 2 m de longitud."
+        ],
+        "correctAnswers": "Deben tener un kilovoltaje mayor o igual a 60 kV."
+    },
+    {
+        "question": "¿El uso del delantal plomado en el ámbito dental es para?",
+        "answers": [
+            "Paciente embarazada.",
+            "Operador (trabajador expuesto).",
+            "El paciente.",
+            "No es necesario su uso."
+        ],
+        "correctAnswers": "El paciente."
+    },
+    {
+        "question": "¿En una zona clasificada como controlada?",
+        "answers": [
+            "La dosis podrá estimarse mediante dosimetría de área.",
+            "Las zonas de acceso no tendrán control de entrada.",
+            "La vigilancia se llevará a cabo con el uso de dosímetros individuales.",
+            "Ninguna es correcta."
+        ],
+        "correctAnswers": "La dosis podrá estimarse mediante dosimetría de área."
+    },
+    {
+        "question": "¿Los trabajadores expuestos en clínicas dentales deben utilizar?",
+        "answers": [
+            "No es necesario el uso de dosímetro.",
+            "Siempre Dosimetría Individual.",
+            "Siempre Dosimetría de Área.",
+            "Dosimetría Individual o de Área."
+        ],
+        "correctAnswers": "Dosimetría Individual o de Área."
+    },
+    {
+        "question": "¿El valor de radiación de fuga de un equipo de rayos X debe ser inferior a...?",
+        "answers": [
+            "3 mGy/h a 1 m.",
+            "1 μGy/h.",
+            "1 mGy/h.",
+            "1 mGy/h a 1 m."
+        ],
+        "correctAnswers": "1 mGy/h a 1 m."
+    },
+    {
+        "question": "¿Todas las operaciones que impliquen riesgo de exposición a radiaciones ionizantes habrán de estar?",
+        "answers": [
+            "Justificadas, optimizadas y las dosis recibidas, excepto en tratamiento o diagnóstico médico, serán inferiores a los límites establecidos.",
+            "Realizadas por el Servicio de Protección Radiológica.",
+            "Supervisadas por la autoridad competente.",
+            "Autorizadas por el titular de la instalación."
+        ],
+        "correctAnswers": "Justificadas, optimizadas y las dosis recibidas, excepto en tratamiento o diagnóstico médico, serán inferiores a los límites establecidos."
+    },
+    {
+        "question": "¿El programa de protección radiológica, que constará por escrito debe contemplar?",
+        "answers": [
+            "Medidas de prevención.",
+            "Medidas de protección de datos.",
+            "Medidas de vigilancia.",
+            "Medidas administrativas.",
+            "Medidas de control."
+        ],
+        "correctAnswers": [
+            "Medidas de prevención.",
+            "Medidas de vigilancia.",
+            "Medidas administrativas.",
+            "Medidas de control."
+        ]
+    },
+    {
+        "question": "¿Una instalación en la que se utiliza un TAC, un equipo de grafía convencional y un equipo intraoral es de tipo?",
+        "answers": [
+            "2.",
+            "4.",
+            "3.",
+            "1."
+        ],
+        "correctAnswers": "1."
+    },
+    {
+        "question": "¿La toma de decisiones para la adquisición o modificación de este tipo de instalaciones debe hacerse teniendo en cuenta?",
+        "answers": [
+            "Las necesidades clínicas a que pretende dar respuesta dicha adquisición o modificación.",
+            "La normativa legal existente.",
+            "El riesgo potencial de accidente radiológico.",
+            "Las dosis a trabajadores y público."
+        ],
+        "correctAnswers": [
+            "Las necesidades clínicas a que pretende dar respuesta dicha adquisición o modificación.",
+            "La normativa legal existente.",
+            "El riesgo potencial de accidente radiológico.",
+            "Las dosis a trabajadores y público."
+        ]
+    },
+    {
+        "question": "¿En las instalaciones de radiodiagnóstico dental?",
+        "answers": [
+            "Se ha de evaluar de la dosis a paciente al menos de las exploraciones más frecuentes de acuerdo con lo contemplado en el RD 1976/1999.",
+            "No es obligatoria la evaluación de la dosis a paciente de acuerdo con lo contemplado en el RD 1976/1999, aunque es recomendable.",
+            "Es obligatoria la evaluación de la dosis a paciente de acuerdo con lo contemplado en el RD 1085/2009.",
+            "No aplica el RD 1976/1999, de 23 de diciembre, por el que se establecen los criterios de calidad en radiodiagnóstico."
+        ],
+        "correctAnswers": "Se ha de evaluar de la dosis a paciente al menos de las exploraciones más frecuentes de acuerdo con lo contemplado en el RD 1976/1999."
+    },
+    {
+        "question": "¿Como criterio general a aplicar cuando se práctica un examen radiográfico, conviene?",
+        "answers": [
+            "Repetir las radiografías más críticas para prevenir que alguna salga mal.",
+            "Hacer cada radiografía al menos desde dos o tres ángulos distintos.",
+            "Aumentar siempre el kilovoltaje por encima del valor recomendado, para mejorar el contraste.",
+            "Tomar sólo las radiografías estrictamente necesarias, eliminando las no esenciales."
+        ],
+        "correctAnswers": "Tomar sólo las radiografías estrictamente necesarias, eliminando las no esenciales."
+    },
+    {
+        "question": "¿Cuáles de las siguientes afirmaciones suponen una ventaja en el uso de sistemas digitales en radiología intraoral?",
+        "answers": [
+            "-Tasa más baja de errores y repeticiones en la adquisición de radiografías debido a una exposición incorrecta, dado que con sus herramientas para la optimización posterior de las imágenes los sistemas digitales pueden corregir al menos en parte los posibles errores de exposición.",
+            "La posibilidad de usar siempre un tiempo de exposición fijo para todas las exploraciones ya que siempre se obtiene una imagen suficientemente buena para el diagnóstico.",
+            "-Menor dosis de radiación para el paciente debido a la mayor sensibilidad de los sistemas digitales en comparación con la película convencional.",
+            "-Mayor facilidad y seguridad en el almacenamiento de imágenes y la transmisión de éstas a otros usuarios y menor incidencia de pérdida de imágenes.",
+            "-Más facilidades para interpretar las imágenes y comentarlas con el paciente, dado que la visualización de las mismas en una pantalla mejora su comprensión por parte del paciente.",
+            "-Rango dinámico más amplio de los sistemas digitales, que también disminuye el número de repeticiones.",
+            "-Ahorro de tiempo por la disponibilidad más rápida de las imágenes digitales después de la exposición."
+        ],
+        "correctAnswers": [
+            "-Tasa más baja de errores y repeticiones en la adquisición de radiografías debido a una exposición incorrecta, dado que con sus herramientas para la optimización posterior de las imágenes los sistemas digitales pueden corregir al menos en parte los posibles errores de exposición.",
+            "-Menor dosis de radiación para el paciente debido a la mayor sensibilidad de los sistemas digitales en comparación con la película convencional.",
+            "-Mayor facilidad y seguridad en el almacenamiento de imágenes y la transmisión de éstas a otros usuarios y menor incidencia de pérdida de imágenes.",
+            "-Más facilidades para interpretar las imágenes y comentarlas con el paciente, dado que la visualización de las mismas en una pantalla mejora su comprensión por parte del paciente.",
+            "-Rango dinámico más amplio de los sistemas digitales, que también disminuye el número de repeticiones.",
+            "-Ahorro de tiempo por la disponibilidad más rápida de las imágenes digitales después de la exposición."
+        ]
+    },
+    {
+        "question": "¿La dosis máxima en el cristalino para el personal profesionalmente expuesto durante un año oficial, y según el nuevo reglamento de protección sanitaria contra las radiaciones ionizantes, es?",
+        "answers": [
+            "15 mSv.",
+            "50 mSv.",
+            "150 mSv.",
+            "500 mSv."
+        ],
+        "correctAnswers": "150 mSv."
+    },
+    {
+        "question": "¿En relación al uso de prendas de protección plomadas en radiología dental intraoral?",
+        "answers": [
+            "El material de protección es solo para el paciente.",
+            "Tanto personal operador como paciente deben de colocarse siempre en toda exploración delantal y collarín.",
+            "Los delantales de plomo pueden proporcionar una cierta protección en el caso de ciertos exámenes y puede ser prudente su uso con una paciente embarazada.",
+            "La persona que sujeta o ayuda a un paciente durante el procedimiento radiográfico debe llevar delantal de plomo y protector tiroideo plomado y deberían colocarse de tal forma que todas las partes de su cuerpo estén fuera del haz principal."
+        ],
+        "correctAnswers": [
+            "Los delantales de plomo pueden proporcionar una cierta protección en el caso de ciertos exámenes y puede ser prudente su uso con una paciente embarazada.",
+            "La persona que sujeta o ayuda a un paciente durante el procedimiento radiográfico debe llevar delantal de plomo y protector tiroideo plomado y deberían colocarse de tal forma que todas las partes de su cuerpo estén fuera del haz principal."
+        ]
+    },
+    {
+        "question": "¿Debe existir un blindaje adicional estructural en las instalaciones de radiología dental?",
+        "answers": [
+            "Ninguna de las anteriores.",
+            "Sí, cuando sea necesario para garantizar que no se superen los límites de dosis establecidos.",
+            "Sí, siempre.",
+            "No, dado que en el ámbito dental nunca se superan los límites establecidos."
+        ],
+        "correctAnswers": "Sí, cuando sea necesario para garantizar que no se superen los límites de dosis establecidos."
+    },
+    {
+        "question": "¿La clasificación de una sala de rayos X con un equipo CBCT debe ser?",
+        "answers": [
+            "Zona controlada de permanencia reglamentada.",
+            "Zona controlada de permanencia limitada.",
+            "Zona Vigilada.",
+            "Zona controlada de permanencia libre."
+        ],
+        "correctAnswers": "Zona controlada de permanencia libre."
+    },
+    {
+        "question": "¿Debe existir un blindaje adicional estructural en las instalaciones de radiología veterinaria?",
+        "answers": [
+            "Ninguna de las anteriores.",
+            "Sí, siempre.",
+            "Sí, cuando sea necesario para garantizar que no se superen los límites de dosis establecidos y estarán conformes con las recomendaciones establecidas en los documentos de referencia (NCRP 147, NCRP 148, DIN 6812, GSN 5.11).",
+            "No, dado que en el ámbito dental nunca se superan los límites establecidos."
+        ],
+        "correctAnswers": "Sí, cuando sea necesario para garantizar que no se superen los límites de dosis establecidos y estarán conformes con las recomendaciones establecidas en los documentos de referencia (NCRP 147, NCRP 148, DIN 6812, GSN 5.11)."
+    },
+    {
+        "question": "¿La ventaja de un equipo CBCT es?",
+        "answers": [
+            "Mejora diagnóstica en ortodoncia, implantología, cirugía oral y maxilofacial, ortognática, restauración, huesos temporales y otras asociadas a cabeza y cuello.",
+            "Iguala la dosis paciente de un TAC médico.",
+            "Disminución de dosis a paciente respecto a equipos panorámicos e intraorales.",
+            "Exigencias de alta inversión."
+        ],
+        "correctAnswers": "Mejora diagnóstica en ortodoncia, implantología, cirugía oral y maxilofacial, ortognática, restauración, huesos temporales y otras asociadas a cabeza y cuello."
+    }
+]
