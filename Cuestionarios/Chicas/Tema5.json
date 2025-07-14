@@ -20,9 +20,9 @@
         "correctAnswers": "Coeficiente de interacción con la materia."
     },
     {
-        "question": "Marca la respuesta correcta",
+        "question": "La atenuación y la absorción son conceptos relacionados con...",
         "answers": [
-            "La atenuación y la absorción son conceptos relacionados con...",
+            
             "Kerma.",
             "Dosis equivalente.",
             "Coeficiente de interacción con la materia.",
@@ -31,7 +31,7 @@
         "correctAnswers": "Coeficiente de interacción con la materia."
     },
     {
-        "question": "Marca la respuesta correcta. El concepto de Exposición...",
+        "question": "El concepto de Exposición...",
         "answers": [
             "Es una unidad en el que los positrones se aceleran linealmente.",
             "Ninguna es verdadera.",

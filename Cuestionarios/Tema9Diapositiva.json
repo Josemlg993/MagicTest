@@ -40,9 +40,9 @@
         "correctAnswers": "niveles de referencia de dosis."
     },
     {
-        "question": "Marca la respuesta correcta.",
+        "question": "Las dosis tan bajas como sea razonablemente posible se alcanzan aplicando el principio...",
         "answers": [
-            "Las dosis tan bajas como sea razonablemente posible se alcanzan aplicando el principio...",
+            
             "optimización.",
             "ALARA.",
             "justificación.",
@@ -54,9 +54,9 @@
         ]
     },
     {
-        "question": "Marca la respuesta correcta.",
+        "question": "A las exposiciones debidas a examen y tratamiento médico se le deben aplicar los principios de:",
         "answers": [
-            "A las exposiciones debidas a examen y tratamiento médico se le deben aplicar los principios de:",
+            
             "justificación, optimización y limitación.",
             "justificación y limitación.",
             "justificación y optimización.",
@@ -65,7 +65,7 @@
         "correctAnswers": "justificación y optimización."
     },
     {
-        "question": "Marca la respuesta correcta.",
+        "question": "La tasa de exposición producida por una fuente puntual, varía con la distancia r proporcionalmente a:",
         "answers": [
             "La tasa de exposición producida por una fuente puntual, varía con la distancia r proporcionalmente a:",
             "r.",
