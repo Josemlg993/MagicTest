@@ -1,5 +1,5 @@
 [
-     {
+    {
         "question": "Indique cuál de las siguientes modificaciones en una instalación de radiodiagnóstico dental se debe declarar ante la autoridad competente:",
         "answers": [
             "La implantación o baja de cualquier equipo de rayos X.",
@@ -52,102 +52,202 @@
     {
         "question": "El Real Decreto 1085/2009 se ocupa, entre otros aspectos",
         "answers": [
-            "Todas las anteriores.",
-            "El régimen de autorización previa de las empresas de venta y asistencia técnica de dichos equipos e instalaciones.",
-            "La realización de servicios y certificación de características previas por los Servicios o las Unidades Técnicas de Protección Radiológica.",
-            "La utilización de equipos e instalaciones de rayos X con fines de diagnóstico médico."
+            "a. Todas las anteriores.",
+            "b. El régimen de autorización previa de las empresas de venta y asistencia técnica de dichos equipos e instalaciones.",
+            "c. La realización de servicios y certificación de características previas por los Servicios o las Unidades Técnicas de Protección Radiológica.",
+            "d. La utilización de equipos e instalaciones de rayos X con fines de diagnóstico médico."
         ],
-        "correctAnswers": "Todas las anteriores."
+        "correctAnswers": "a. Todas las anteriores."
     },
     {
         "question": "Se clasifican como categoría A aquellos trabajadores expuestos",
         "answers": [
-            "que por las condiciones en que se realiza su trabajo, es muy improbable que puedan recibir una dosis superior a 6 mSv por año oficial o a 3/10 de alguno de los límites de dosis equivalente establecidos para el cristalino, la piel y las extremidades.",
-            "que por las condiciones en las que realizan su trabajo, pueden recibir dosis superiores a 1 mSv/año oficial o una dosis equivalente superior a 1/10 de los límites de dosis equivalentes establecidos para el cristalino, piel y extremidades.",
-            "Ninguna es correcta.",
-            "que por las condiciones en las que realizan su trabajo, pueden recibir dosis superiores a 6 mSv/año oficial o una dosis equivalente superior a 3/10 de los límites de dosis equivalentes establecidos para el cristalino, piel y extremidades."
+            "a. que por las condiciones en que se realiza su trabajo, es muy improbable que puedan recibir una dosis superior a 6 mSv por año oficial o a 3/10 de alguno de los límites de dosis equivalente establecidos para el cristalino, la piel y las extremidades.",
+            "b. que por las condiciones en las que realizan su trabajo, pueden recibir dosis superiores a 1 mSv/año oficial o una dosis equivalente superior a 1/10 de los límites de dosis equivalentes establecidos para el cristalino, piel y extremidades.",
+            "c. Ninguna es correcta.",
+            "d. que por las condiciones en las que realizan su trabajo, pueden recibir dosis superiores a 6 mSv/año oficial o una dosis equivalente superior a 3/10 de los límites de dosis equivalentes establecidos para el cristalino, piel y extremidades."
         ],
-        "correctAnswers": "que por las condiciones en las que realizan su trabajo, pueden recibir dosis superiores a 6 mSv/año oficial o una dosis equivalente superior a 3/10 de los límites de dosis equivalentes establecidos para el cristalino, piel y extremidades."
+        "correctAnswers": "d. que por las condiciones en las que realizan su trabajo, pueden recibir dosis superiores a 6 mSv/año oficial o una dosis equivalente superior a 3/10 de los límites de dosis equivalentes establecidos para el cristalino, piel y extremidades."
     },
     {
         "question": "Para el control de la exposición ocupacional se usan medidas de protección aplicadas sobre",
         "answers": [
-            "El medio ambiente.",
-            "Todas son correctas.",
-            "La fuente.",
-            "Individuos."
+            "a. El medio ambiente.",
+            "b. Todas son correctas.",
+            "c. La fuente.",
+            "d. Individuos."
         ],
-        "correctAnswers": "Todas son correctas."
+        "correctAnswers": "b. Todas son correctas."
     },
     {
         "question": "Las medidas de protección radiológica",
         "answers": [
-            "Se realizan sobre la fuente (confinamiento y blindaje adecuado).",
-            "Se realizan sobre el medio ambiente (sistemas de ventilación, acondicionamiento de aire y blindajes adicionales).",
-            "Todas las anteriores.",
-            "Se realizan con relación a los individuos (trajes, equipos protectores y procedimientos de actuación en el trabajo)."
+            "a. Se realizan sobre la fuente (confinamiento y blindaje adecuado).",
+            "b. Se realizan sobre el medio ambiente (sistemas de ventilación, acondicionamiento de aire y blindajes adicionales).",
+            "c. Todas las anteriores.",
+            "d. Se realizan con relación a los individuos (trajes, equipos protectores y procedimientos de actuación en el trabajo)."
         ],
-        "correctAnswers": "Todas las anteriores."
+        "correctAnswers": "c. Todas las anteriores."
     },
     {
         "question": "Los diferentes tipos de radiaciones ionizantes son",
         "answers": [
-            "Ambas.",
-            "Ninguna de las anteriores.",
-            "Naturales (Radón, rayos cósmicos…).",
-            "Artificiales (equipos de rayos X, sustancias radiactivas, radionucleidos…)."
+            "a. Ambas.",
+            "b. Ninguna de las anteriores.",
+            "c. Naturales (Radón, rayos cósmicos…).",
+            "d. Artificiales (equipos de rayos X, sustancias radiactivas, radionucleidos…)."
         ],
-        "correctAnswers": "Ambas."
+        "correctAnswers": "a. Ambas."
     },
     {
         "question": "Una de las novedades del Real Decreto 1085/2009 es",
         "answers": [
-            "El examen y aprobación de los planes de vertido de los efluentes radiactivos.",
-            "La vigilancia dosimétrica de los trabajadores expuestos.",
-            "Que todo equipo utilizado para radiología cuente con un dispositivo sobre la cantidad de radiación producida por el equipo.",
-            "Elaborar e implantar el Programa de Protección Radiológica."
+            "a. El examen y aprobación de los planes de vertido de los efluentes radiactivos.",
+            "b. La vigilancia dosimétrica de los trabajadores expuestos.",
+            "c. Que todo equipo utilizado para radiología cuente con un dispositivo sobre la cantidad de radiación producida por el equipo.",
+            "d. Elaborar e implantar el Programa de Protección Radiológica."
         ],
-        "correctAnswers": "Elaborar e implantar el Programa de Protección Radiológica."
+        "correctAnswers": "d. Elaborar e implantar el Programa de Protección Radiológica."
     },
     {
         "question": "El Programa de Protección Radiológica incluirá",
         "answers": [
-            "Medidas de Vigilancia y Administrativas.",
-            "Medidas de control.",
-            "El conjunto de las anteriores.",
-            "Medidas de prevención."
+            "a. Medidas de Vigilancia y Administrativas.",
+            "b. Medidas de control.",
+            "c. El conjunto de las anteriores.",
+            "d. Medidas de prevención."
         ],
-        "correctAnswers": "El conjunto de las anteriores."
+        "correctAnswers": "c. El conjunto de las anteriores."
     },
     {
         "question": "¿Qué trámite conlleva el cambio de los equipos o la incorporación de equipos?",
         "answers": [
-            "Exigirá una comunicación escrita al Ayuntamiento.",
-            "Exigirá una comunicación escrita a la Consejería de Industria.",
-            "Exigirá un trámite de declaración y registro nuevo.",
-            "Exigirá una comunicación escrita a la Consejería de Sanidad."
+            "a. Exigirá una comunicación escrita al Ayuntamiento.",
+            "b. Exigirá una comunicación escrita a la Consejería de Industria.",
+            "c. Exigirá un trámite de declaración y registro nuevo.",
+            "d. Exigirá una comunicación escrita a la Consejería de Sanidad."
         ],
-        "correctAnswers": "Exigirá un trámite de declaración y registro nuevo."
+        "correctAnswers": "c. Exigirá un trámite de declaración y registro nuevo."
     },
     {
         "question": "¿Cuál es, entre otras, una de las obligaciones de las Unidades Técnicas de Protección Radiológica?",
         "answers": [
-            "Ninguna de las anteriores.",
-            "Que la distribución de los equipos y sus componentes y los blindajes estructurales de las salas, atendiendo a sus áreas colindantes, son los adecuados.",
-            "Efectuar una verificación a continuación de cualquier intervención o reparación en un equipo de rayos X con fines de diagnóstico médico.",
-            "Definir e implantar un Programa de Protección Radiológica."
+            "a. Ninguna de las anteriores.",
+            "b. Que la distribución de los equipos y sus componentes y los blindajes estructurales de las salas, atendiendo a sus áreas colindantes, son los adecuados.",
+            "c. Efectuar una verificación a continuación de cualquier intervención o reparación en un equipo de rayos X con fines de diagnóstico médico.",
+            "d. Definir e implantar un Programa de Protección Radiológica."
         ],
-        "correctAnswers": "Que la distribución de los equipos y sus componentes y los blindajes estructurales de las salas, atendiendo a sus áreas colindantes, son los adecuados."
+        "correctAnswers": "b. Que la distribución de los equipos y sus componentes y los blindajes estructurales de las salas, atendiendo a sus áreas colindantes, son los adecuados."
     },
     {
         "question": "¿Qué plazo de archivo tiene el Titular de los Certificados de Conformidad de la instalación?",
         "answers": [
-            "10 años.",
-            "3 meses.",
-            "1 año.",
-            "5 años."
+            "a. 10 años.",
+            "b. 3 meses.",
+            "c. 1 año.",
+            "d. 5 años."
         ],
-        "correctAnswers": "10 años."
+        "correctAnswers": "a. 10 años."
+    },
+    {
+        "question": "¿Cuál es, entre otras, una de las obligaciones de las Empresas de Asistencia Técnica?",
+        "answers": [
+            "a. Efectuar una verificación a continuación de cualquier intervención o reparación en un equipo de rayos X con fines de diagnóstico médico.",
+            "b. Ninguna de las anteriores.",
+            "c. Definir e implantar un Programa de Protección Radiológica.",
+            "d. Que la distribución de los equipos y sus componentes y los blindajes estructurales de las salas, atendiendo a sus áreas colindantes, son los adecuados."
+        ],
+        "correctAnswers": "a. Efectuar una verificación a continuación de cualquier intervención o reparación en un equipo de rayos X con fines de diagnóstico médico."
+    },
+    {
+        "question": "¿En qué lugar se debe declarar para el registro las instalaciones de rayos X?",
+        "answers": [
+            "a. Ante el órgano competente de la Comunidad Autónoma en que esté ubicada la instalación.",
+            "b. Ante el Ministerio de Industria.",
+            "c. Ante el Ayuntamiento en que esté ubicada la instalación.",
+            "d. Ante la Consejería de Sanidad."
+        ],
+        "correctAnswers": "a. Ante el órgano competente de la Comunidad Autónoma en que esté ubicada la instalación."
+    },
+    {
+        "question": "El Real Decreto 1085/2009 se ocupa, entre otros aspectos",
+        "answers": [
+            "a. El control de fuentes radiactivas encapsuladas de alta actividad y fuentes huérfanas.",
+            "b. La acreditación del personal que presta servicio en las instalaciones de rayos X de diagnóstico médico.",
+            "c. El régimen de autorizaciones de las instalaciones nucleares.",
+            "d. La gestión responsable y segura del combustible nuclear gastado y los residuos radiactivos."
+        ],
+        "correctAnswers": "b. La acreditación del personal que presta servicio en las instalaciones de rayos X de diagnóstico médico."
+    },
+    {
+        "question": "¿Cuál es, entre otras, una de las obligaciones del Titular?",
+        "answers": [
+            "a. Ninguna de las anteriores.",
+            "b. Efectuar una verificación a continuación de cualquier intervención o reparación en un equipo de rayos X con fines de diagnóstico médico.",
+            "c. Que la distribución de los equipos y sus componentes y los blindajes estructurales de las salas, atendiendo a sus áreas colindantes, son los adecuados.",
+            "d. Definir e implantar un Programa de Protección Radiológica."
+        ],
+        "correctAnswers": "d. Definir e implantar un Programa de Protección Radiológica."
+    },
+    {
+        "question": "Los principios de la protección radiológica son",
+        "answers": [
+            "a. Justificación, Optimización y Alara.",
+            "b. Justificación, ALARA y limitación de dosis.",
+            "c. Ninguna de las anteriores.",
+            "d. Justificación, Repetición y Limitación de dosis."
+        ],
+        "correctAnswers": "b. Justificación, ALARA y limitación de dosis."
+    },
+    {
+        "question": "La limitación de dosis",
+        "answers": [
+            "a. Considera los límites de dosis una línea divisoria entre la seguridad y el peligro.",
+            "b. Todas las anteriores.",
+            "c. Pretende dos objetivos: evitar efectos deterministas y controlar la aparición de los efectos estocásticos.",
+            "d. Únicamente tiene en cuenta los efectos estocásticos en trabajadores expuestos."
+        ],
+        "correctAnswers": "c. Pretende dos objetivos: evitar efectos deterministas y controlar la aparición de los efectos estocásticos."
+    },
+    {
+        "question": "Los límites de dosis se aplican",
+        "answers": [
+            "a. Todas las anteriores.",
+            "b. En exposiciones accidentales.",
+            "c. En exposiciones de radiación natural.",
+            "d. En exposiciones normales (ocupacionales o al público)."
+        ],
+        "correctAnswers": "d. En exposiciones normales (ocupacionales o al público)."
+    },
+    {
+        "question": "Las siglas de Comisión Internacional de Protección Radiológica son",
+        "answers": [
+            "a. ICRP.",
+            "b. CNS.",
+            "c. NCRP.",
+            "d. ICPP."
+        ],
+        "correctAnswers": "a. ICRP."
+    },
+    {
+        "question": "La sala de espera de un centro sanitario se clasifica como",
+        "answers": [
+            "a. Zona controlada de libre acceso.",
+            "b. Zona vigilada.",
+            "c. Ninguna de las anteriores.",
+            "d. Libre acceso."
+        ],
+        "correctAnswers": "d. Libre acceso."
+    },
+    {
+        "question": "¿Qué plazo de notificación tiene el cambio en la titularidad así como el cese de actividades?",
+        "answers": [
+            "a. 30 días.",
+            "b. 10 días.",
+            "c. 1 mes.",
+            "d. 3 meses."
+        ],
+        "correctAnswers": "a. 30 días."
     },
     {
         "question": "¿Cuál es, entre otras, una de las obligaciones de las Empresas de Asistencia Técnica?",
@@ -248,5 +348,64 @@
             "3 meses."
         ],
         "correctAnswers": "30 días."
+    },
+    {
+        "question": "¿Cuál es, entre otras, una de las obligaciones de las Unidades Técnicas de Protección Radiológica?",
+        "answers": [
+            "Efectuar una verificación a continuación de cualquier intervención o reparación en un equipo de rayos X con fines de diagnóstico médico.",
+            "Ninguna de las anteriores.",
+            "Que la distribución de los equipos y sus componentes y los blindajes estructurales de las salas, atendiendo a sus áreas colindantes, son los adecuados.",
+            "Definir e implantar un Programa de Protección Radiológica."
+        ],
+        "correctAnswers": "Que la distribución de los equipos y sus componentes y los blindajes estructurales de las salas, atendiendo a sus áreas colindantes, son los adecuados."
+    },
+    {
+        "question": "Los diferentes tipos de radiaciones ionizantes son",
+        "answers": [
+            "Naturales (Radón, rayos cósmicos…).",
+            "Artificiales (equipos de rayos X, sustancias radiactivas, radionucleidos…).",
+            "Ninguna de las anteriores.",
+            "Ambas."
+        ],
+        "correctAnswers": "Ambas."
+    },
+    {
+        "question": "¿Qué plazo de archivo tiene el Titular de los Certificados de Conformidad de la instalación?",
+        "answers": [
+            "10 años.",
+            "3 meses.",
+            "1 año.",
+            "5 años."
+        ],
+        "correctAnswers": "10 años."
+    },
+    {
+        "question": "Se clasifican como categoría A aquellos trabajadores expuestos",
+        "answers": [
+            "Que por las condiciones en las que realizan su trabajo, pueden recibir dosis superiores a 6 mSv/año oficial o una dosis equivalente superior a 3/10 de los límites de dosis equivalentes establecidos para el cristalino, piel y extremidades.",
+            "Que por las condiciones en que se realiza su trabajo, es muy improbable que puedan recibir una dosis superior a 6 mSv por año oficial o a 3/10 de alguno de los límites de dosis equivalente establecidos para el cristalino, la piel y las extremidades.",
+            "Ninguna es correcta."
+        ],
+        "correctAnswers": "Que por las condiciones en las que realizan su trabajo, pueden recibir dosis superiores a 6 mSv/año oficial o una dosis equivalente superior a 3/10 de los límites de dosis equivalentes establecidos para el cristalino, piel y extremidades."
+    },
+    {
+        "question": "El Real Decreto 1085/2009 se ocupa, entre otros aspectos",
+        "answers": [
+            "La realización de servicios y certificación de características previas por los Servicios o las Unidades Técnicas de Protección Radiológica.",
+            "Todas las anteriores.",
+            "El régimen de autorización previa de las empresas de venta y asistencia técnica de dichos equipos e instalaciones.",
+            "La utilización de equipos e instalaciones de rayos X con fines de diagnóstico médico."
+        ],
+        "correctAnswers": "Todas las anteriores."
+    },
+    {
+        "question": "El Programa de Protección Radiológica incluirá",
+        "answers": [
+            "Medidas de Vigilancia y Administrativas.",
+            "Medidas de prevención.",
+            "El conjunto de las anteriores.",
+            "Medidas de control."
+        ],
+        "correctAnswers": "El conjunto de las anteriores."
     }
 ]

@@ -288,5 +288,225 @@
             "Comprende unas pruebas de control de calidad anual para los intraorales y semestrales para los panorámicos."
         ],
         "correctAnswers": "Comprende las actividades que van encaminadas a eliminar los fallos que se han podido producir en el equipo por el uso."
+    },
+    {
+        "question": "¿Cuáles son las técnicas para disminuir las radiaciones innecesarias en el radiodiagnóstico?",
+        "answers": [
+            "Disminuir el campo de irradiación.",
+            "Reducir los tiempos de irradiación.",
+            "Reducción del número de repeticiones de las exploraciones.",
+            "Todas las anteriores."
+        ],
+        "correctAnswers": "Todas las anteriores."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones NO es correcta?",
+        "answers": [
+            "El uso de collarín plomado es recomendable en la realización de técnicas panorámicas y CBCT.",
+            "El uso del collarín plomado en la realización de técnicas panorámicas o de CBCT da lugar a artefactos, por lo que no se recomienda su uso.",
+            "La dosis a paciente va a depender del tipo de procedimiento dental.",
+            "El uso del collarín plomado en la realización de técnicas intraorales no reduce significativamente la dosis en tiroides, por lo que no se recomienda su uso."
+        ],
+        "correctAnswers": "El uso de collarín plomado es recomendable en la realización de técnicas panorámicas y CBCT."
+    },
+    {
+        "question": "¿Las infracciones o sanciones?",
+        "answers": [
+            "Pueden dar lugar a sanciones económicas.",
+            "Las dos anteriores.",
+            "Pueden conllevar anulación de licencias o permisos.",
+            "Prescriben pasado un mes de la infracción."
+        ],
+        "correctAnswers": "Las dos anteriores."
+    },
+    {
+        "question": "¿Cuáles son los principios generales de la Protección Radiológica?",
+        "answers": [
+            "Justificación, Limitación de Dosis y distancia.",
+            "Justificación, Optimización y reducción de dosis.",
+            "Justificación, Alara y Limitación de dosis.",
+            "Justificación, Optimización y Alara."
+        ],
+        "correctAnswers": "Justificación, Alara y Limitación de dosis."
+    },
+    {
+        "question": "¿Los equipos de rayos X?",
+        "answers": [
+            "Deben tener una exactitud menor al 1%.",
+            "Deben disponer de un marcado CE.",
+            "No es necesaria la existencia de una señal audible durante la emisión de la radiación.",
+            "Todas las anteriores."
+        ],
+        "correctAnswers": "Deben disponer de un marcado CE."
+    },
+    {
+        "question": "¿Para aquellos trabajadores que trabajen en zona controlada es obligatorio el uso de?",
+        "answers": [
+            "Dosímetro de área.",
+            "Todas son correctas.",
+            "Dosímetro de abdomen.",
+            "Dosímetro personal."
+        ],
+        "correctAnswers": "Dosímetro personal."
+    },
+    {
+        "question": "¿Cómo se llama el disparador del equipo de rayos X?",
+        "answers": [
+            "Disparador CAE.",
+            "Disparador de tipo \"hombre muerto\".",
+            "Disparador de corriente alterna.",
+            "Disparador de pulsación."
+        ],
+        "correctAnswers": "Disparador de tipo \"hombre muerto\"."
+    },
+    {
+        "question": "¿Una sala de rayos X intraoral se clasifica como?",
+        "answers": [
+            "Ninguna es correcta.",
+            "Zona vigilada.",
+            "Zona de libre acceso.",
+            "Zona controlada de libre acceso."
+        ],
+        "correctAnswers": "Zona vigilada."
+    },
+    {
+        "question": "¿El mantenimiento correctivo de un equipo de rayos X?",
+        "answers": [
+            "Son llevadas a cabo por el titular de la instalación y por las propias empresas de venta y asistencia técnica que suministraron el equipo.",
+            "Todas son correctas.",
+            "Comprende las actividades que van encaminadas a eliminar los fallos que hayan podido producirse en el equipo por el uso.",
+            "Tiene como objetivo adelantarse a la aparición y predecir la aparición de fallos."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "¿El personal que opere con los equipos de rayos X?",
+        "answers": [
+            "Debe disponer de acreditación de director u operador de instalaciones de radiodiagnóstico.",
+            "Debe realizar diariamente el mantenimiento del equipo de rayos X.",
+            "Debe ser clasificado como trabajador expuesto categoría B.",
+            "Debe ser clasificado como trabajador expuesto categoría A."
+        ],
+        "correctAnswers": "Debe disponer de acreditación de director u operador de instalaciones de radiodiagnóstico."
+    },
+    {
+        "question": "¿El sistema de imagen en una exploración radiográfica debe ser sujetado por?",
+        "answers": [
+            "Cuidador o ayudante en caso de que el paciente no pueda.",
+            "Ambas son correctas.",
+            "Paciente.",
+            "Ninguna de las anteriores."
+        ],
+        "correctAnswers": "Ambas son correctas."
+    },
+    {
+        "question": "¿Cuál es la regla general para definir que una cantidad de radiación recibida es excesiva?",
+        "answers": [
+            "Cualquier exposición innecesaria es excesiva.",
+            "Si bien pequeñas cantidades de dosis de radiación son beneficiosas, al desarrollar una inmunidad a las radiaciones, cualquier dosis mayor es excesiva.",
+            "Ninguna de las anteriores.",
+            "Cualquier dosis superior a 0,5 mSv/sem es excesiva."
+        ],
+        "correctAnswers": "Cualquier exposición innecesaria es excesiva."
+    },
+    {
+        "question": "¿En las zonas vigiladas?",
+        "answers": [
+            "Será obligatorio el uso de dosímetros individuales.",
+            "Se requerirá vestir ropas especiales de trabajo.",
+            "No es obligatorio el uso de dosímetro individual siempre y cuando exista dosimetría de área.",
+            "Serán excluidos totalmente los menores de 18 años."
+        ],
+        "correctAnswers": "No es obligatorio el uso de dosímetro individual siempre y cuando exista dosimetría de área."
+    },
+    {
+        "question": "¿La zona controlada de libre acceso con riesgo de irradiación externa requiere señal constituida por un trébol?",
+        "answers": [
+            "amarillo con fondo blanco.",
+            "gris con fondo blanco.",
+            "verde con fondo blanco.",
+            "rojo con fondo blanco."
+        ],
+        "correctAnswers": "verde con fondo blanco."
+    },
+    {
+        "question": "¿Los límites de dosis para estudiantes de 19 años son?",
+        "answers": [
+            "3/10 del TPE.",
+            "los del TPE.",
+            "los del público.",
+            "1/10 del profesionalmente expuesto."
+        ],
+        "correctAnswers": "los del TPE."
+    },
+    {
+        "question": "¿El titular de la instalación es responsable de?",
+        "answers": [
+            "Todas las respuestas son correctas.",
+            "De la implantación de un Programa de Protección Radiológica.",
+            "Realizar la vigilancia de los niveles de radiación como mínimo anualmente.",
+            "Todas aquellas áreas del centro radiológico en las que se pueda superar el límite de dosis para el público."
+        ],
+        "correctAnswers": "Todas las respuestas son correctas."
+    },
+    {
+        "question": "¿Tener en funcionamiento una instalación de rayos X con fines de diagnóstico médico, que, aún estando inscrita, incumpla las condiciones de seguridad o Protección Radiológica previstas en la legislación vigente se considera?",
+        "answers": [
+            "Ninguna es correcta.",
+            "Una falta muy grave.",
+            "Una falta grave.",
+            "Una falta leve."
+        ],
+        "correctAnswers": "Una falta grave."
+    },
+    {
+        "question": "¿Para el blindaje de salas de rayos X conviene usar materiales?",
+        "answers": [
+            "De número másico intermedio.",
+            "De número atómico bajo.",
+            "De número atómico alto.",
+            "De número másico bajo."
+        ],
+        "correctAnswers": "De número atómico alto."
+    },
+    {
+        "question": "¿La dosis recibida por un individuo depende exclusivamente del?",
+        "answers": [
+            "Distancia de la fuente de radiación-individuo.",
+            "Tiempo de permanencia en el campo de radiación.",
+            "Blindaje interpuesto entre ambos.",
+            "Tiempo de permanencia, distancia fuente-individuo y blindaje interpuesto entre ambos."
+        ],
+        "correctAnswers": "Tiempo de permanencia, distancia fuente-individuo y blindaje interpuesto entre ambos."
+    },
+    {
+        "question": "¿El control de la exposición externa se realizará mediante?",
+        "answers": [
+            "Señalización de zonas y dispositivos luminosos o acústicos.",
+            "Blindajes estructurales y no estructurales.",
+            "Todas son correctas.",
+            "Protección Radiológica Operacional."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "¿El principio ALARA?",
+        "answers": [
+            "Ninguna es correcta.",
+            "Pretende que la dosis disminuya, independientemente de la metodología de actuación, conjunto de acciones y análisis de la aplicación de la protección radiológica.",
+            "Intenta que las dosis individuales, el número de individuos expuestos o las probabilidades de que se originen exposiciones distintas de las previstas, se mantengan tan bajas como sea posible.",
+            "No tiene en cuenta ni el diseño ni de la ejecución de la actuación."
+        ],
+        "correctAnswers": "Intenta que las dosis individuales, el número de individuos expuestos o las probabilidades de que se originen exposiciones distintas de las previstas, se mantengan tan bajas como sea posible."
+    },
+    {
+        "question": "¿El animal en una exploración radiográfica debe ser sujetado por?",
+        "answers": [
+            "El dueño del animal.",
+            "Todas son correctas.",
+            "Nadie si el animal permanece sedado y posicionado mediante sujeciones mecánicas.",
+            "El operador."
+        ],
+        "correctAnswers": "Todas son correctas."
     }
 ]

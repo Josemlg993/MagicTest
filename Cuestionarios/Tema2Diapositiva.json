@@ -79,16 +79,7 @@
         ],
         "correctAnswers": "De la energía, del tipo de partícula y del número atómico del medio absorbente."
     },
-    {
-        "question": "El efecto Fotoeléctrico",
-        "answers": [
-            "Tiene lugar cuando un fotón pasa por las próximidades de un átomo e interacciona con uno de sus electrones cediéndole toda la energía (cinética) y arrancándolo del átomo.",
-            "Se produce por la interacción de un fotón con los átomos menos ligados del átomo.",
-            "Se produce cuando el fotón incidente tiene una energía inferior o igual a la energía de ligadura del electrón con el que interacciona.",
-            "Es dominante a altas energías, por encima de los 100 keV."
-        ],
-        "correctAnswers": "Tiene lugar cuando un fotón pasa por las próximidades de un átomo e interacciona con uno de sus electrones cediéndole toda la energía (cinética) y arrancándolo del átomo."
-    },
+   
     {
         "question": "La creación de pares",
         "answers": [
@@ -155,7 +146,8 @@
             "Creación de pares.",
             "Efecto Compton.",
             "Efecto fotoeléctrico.",
-            "Radiación característica."            
+            "Radiación característica."
+            
         ],
         "correctAnswers": "Efecto fotoeléctrico."
     },
@@ -171,24 +163,194 @@
         
     },
     {
+        "question": "¿De qué depende la probabilidad de interación de la radiación con la materia?",
+        "answers": [
+            "Es independiente de la energía de la radiación.",
+            "De la energía, del tipo de partícula y del número atómico del medio absorbente.",
+            "De las partículas neutras, que pueden acelerarse mediante diferencias de potencial.",
+            "Es independiente de la carga de la partícula."
+        ],
+        "correctAnswers": "De la energía, del tipo de partícula y del número atómico del medio absorbente."
+    },
+    {
+        "question": "El efecto Fotoeléctrico",
+        "answers": [
+            "Se produce por la interacción de un fotón con los átomos menos ligados del átomo.",
+            "Se produce cuando el foton incidente tiene una energía inferior o igual a la energía de ligadura del electrón con el que interacciona.",
+            "Es dominante a altas energías, por encima de los 100 KeV.",
+            "Tiene lugar cuando un fotón pasa por las próximidades de un átomo e interacciona con uno de sus electrones cediéndole toda la energía (cinética) y arrancándolo del átomo."
+        ],
+        "correctAnswers": "Tiene lugar cuando un fotón pasa por las próximidades de un átomo e interacciona con uno de sus electrones cediéndole toda la energía (cinética) y arrancándolo del átomo."
+    },
+   
+    {
         "question": "Como consecuencia del efecto Compton la imagen radiográfica obtenida es:",
         "answers": [
-            "Mejor al llegar más fotones a la placa.",
-            "No tienen incidencia en la calidad de la radiografía.",
+            "Peor ya que los fotones dispersos disminuyen la calidad.",
             "Mejor ya que contribuye a mejorar la nitidez.",
-            "Peor ya que los fotones dispersos disminuyen la calidad."
+            "No tienen incidencia en la calidad de la radiografía.",
+            "Mejor al llegar más fotones a la placa."
         ],
         "correctAnswers": "Peor ya que los fotones dispersos disminuyen la calidad."
     },
     {
         "question": "¿Qué fotones de rayos X alcanzan la placa radiográfica?",
         "answers": [
+            "Los que no interaccionan con el objeto y algunos dispersados.",
             "Todos los que han sufrido efecto fotoeléctrico.",
-            "Todos los que llegan al objeto examinado.",
             "Sólo los que han sufrido efecto Compton.",
-            "Los que no interaccionan con el objeto y algunos dispersados."
+            "Todos los que llegan al objeto examinado."
         ],
         "correctAnswers": "Los que no interaccionan con el objeto y algunos dispersados."
+    },
+    {
+        "question": "Las colisiones de las partículas cargadas con la materia",
+        "answers": [
+            "Pueden ser de tipo elásticas e inelásticas.",
+            "Nunca producen alteraciones nucleares ni atómicas.",
+            "Siempre producen la liberación de electrones de las capas más internas del átomo.",
+            "Siempre produce la conservación de la energía tras la interacción."
+        ],
+        "correctAnswers": "Pueden ser de tipo elásticas e inelásticas."
+    },
+    {
+        "question": "En el efecto Compton",
+        "answers": [
+            "El fotón incidente cede toda su energía, desapareciendo.",
+            "Se produce mayoritariamente la interacción entre el fotón y los electrones atómicos menos ligados, de las capas más externas.",
+            "La probabilidad de interacción es predominante a bajas energías, menores de 100 KeV.",
+            "La cantidad de energía que transfiere al electron es independiente de la energía del fotón incidente."
+        ],
+        "correctAnswers": "Se produce mayoritariamente la interacción entre el fotón y los electrones atómicos menos ligados, de las capas más externas."
+    },
+    {
+        "question": "Los fotones que dan lugar al efecto Compton",
+        "answers": [
+            "Los fotones que dan lugar al efecto Compton pueden tener velocidades nulas.",
+            "Poseen una energía mayor en comparación con los fotones que dan lugar a fotoeléctrico.",
+            "El efecto Compton es producido por la interacción de electrones con la materia.",
+            "Son los fotones de mayor energía en la naturaleza."
+        ],
+        "correctAnswers": "Poseen una energía mayor en comparación con los fotones que dan lugar a fotoeléctrico."
+    },
+    {
+        "question": "Los electrones son partículas fundamentales que pueden",
+        "answers": [
+            "Perder energía mediante procesos radiativos como la radiación de frenado.",
+            "Todas son correctas.",
+            "Depositar energía en el medio que atraviesan mediante procesos de ionizaciones.",
+            "Depositar energía en el medio que atraviesan excitando electrones ligados al átomo."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "El efecto fotoeléctrico es el proceso de interacción de:",
+        "answers": [
+            "Los fotones de menor energía.",
+            "Los fotones de mayor energía.",
+            "De los electrones cuando alcanzan velocidades ultrarelativistas.",
+            "Ninguna es correcta."
+        ],
+        "correctAnswers": "Los fotones de menor energía."
+    },
+    {
+        "question": "El efecto fotoeléctrico tiene lugar debido a la interacción de:",
+        "answers": [
+            "Fotones de mucha energía con los electrones de las capas más ligadas al átomo.",
+            "Fotones de mucha energía con los electrones de las capas de menor energía estacionaria.",
+            "Fotones de muy poca energía con los electrones de las capas más ligadas al átomo.",
+            "Fotones de muy poca energía con los electrones de las capas más externas del átomo."
+        ],
+        "correctAnswers": "Fotones de muy poca energía con los electrones de las capas más ligadas al átomo."
+    },
+    {
+        "question": "Para aumentar la penetración de un haz de fotones en el tejido, debemos:",
+        "answers": [
+            "Disminuir el mA.",
+            "Disminuir el Kv.",
+            "Aumentar el Kv.",
+            "Aumentar el mA."
+        ],
+        "correctAnswers": "Aumentar el Kv."
+    },
+    {
+        "question": "El electrón ligado a un átomo que se excita",
+        "answers": [
+            "Ninguna de las anteriores.",
+            "Promociona a un nivel energético superior y seguidamente después es arrancado del átomo.",
+            "Promociona a un nivel energético superior y tras un periodo temporal de un año se desexcita.",
+            "Promociona a un nivel de menor energía y se mantiene estable en ese nivel."
+        ],
+        "correctAnswers": "Ninguna de las anteriores."
+    },
+    {
+        "question": "Las tres interacciones que producen los fotones son:",
+        "answers": [
+            "Ionización, excitación-desexcitación, radiación de frenado.",
+            "Ionización, choque elástico y Compton.",
+            "Efecto fotoeléctrico, Compton y creación de pares.",
+            "Todas las anteriores."
+        ],
+        "correctAnswers": "Efecto fotoeléctrico, Compton y creación de pares."
+    },
+    {
+        "question": "La energía de ligadura",
+        "answers": [
+            "Es la misma para todos los electrones existentes en el átomo.",
+            "Viene determinada por el número de protones que formen un núcleo del átomo.",
+            "Se define como la energía mínima necesaria para separar un electrón de su nivel energético correspondiente.",
+            "Es mayor cuanto más alejado se encuentre el electrón del núcleo."
+        ],
+        "correctAnswers": "Se define como la energía mínima necesaria para separar un electrón de su nivel energético correspondiente."
+    },
+    {
+        "question": "¿Cuál de las siguientes afirmaciones es CORRECTA?",
+        "answers": [
+            "Los electrones que atraviesan un medio material nunca pueden ionizar los átomos que la constituyen.",
+            "Los procesos de ionización son exclusivos de partículas cargadas.",
+            "Los efectos fotoeléctrico y Compton son procesos producidos por la interacción de electrones con la materia.",
+            "Los efectos fotoeléctrico y Compton son procesos producidos por la interacción los fotones con la materia y producen ionizaciones."
+        ],
+        "correctAnswers": "Los efectos fotoeléctrico y Compton son procesos producidos por la interacción los fotones con la materia y producen ionizaciones."
+    },
+    {
+        "question": "La radiación de frenado o Bremsstrahlung",
+        "answers": [
+            "Todas son correctas.",
+            "Ocurre más comúnmente con partículas de baja energía.",
+            "Es energía perdida cuando la partícula se frena, lo que produce rayos x.",
+            "Se pierde energía pero no momento."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "Se dice que la radiación ionizante",
+        "answers": [
+            "Se atenúa, es decir, pierde de forma progresiva su energía debido a los millones de interacciones con los átomos del medio.",
+            "Son el tipo de radiación electromagnética que transporta una cantidad de energía mayor.",
+            "Es el tipo de radiación electromagnética que posee mayor frecuencia.",
+            "Todas son correctas."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "Las tres interacciones que producen los electrones son",
+        "answers": [
+            "Ionización, excitación-desexcitación, radiación de frenado.",
+            "Ninguna de las anteriores.",
+            "Efecto fotoeléctrico, Compton y creación de pares.",
+            "Ionización, Compton y choque elástico."
+        ],
+        "correctAnswers": "Ionización, excitación-desexcitación, radiación de frenado."
+    },
+    {
+        "question": "En el efecto Compton",
+        "answers": [
+            "El fotón se absorbe parcialmente.",
+            "El fotón se absorbe totalmente.",
+            "El fotón no se desvía.",
+            "El fotón desaparece."
+        ],
+        "correctAnswers": "El fotón se absorbe parcialmente."
     }
-     
 ]

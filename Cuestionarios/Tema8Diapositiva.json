@@ -512,6 +512,16 @@
         "correctAnswers": "2013/59/Euratom."
     },
     {
+        "question": "Es obligatorio disponer de un cartel de aviso a embarazadas por el riesgo de irradiación en",
+        "answers": [
+            "Gabinete.",
+            "Pasillo.",
+            "Sala de espera.",
+            "Sala del panorámico."
+        ],
+        "correctAnswers": "Sala de espera."
+    },
+    {
         "question": "La Ley 14/1999, de 4 de mayo, de Tasas y Precios Públicos por servicios prestados por el Consejo de Seguridad Nuclear",
         "answers": [
             "Las dos anteriores.",

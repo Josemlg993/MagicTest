@@ -452,16 +452,6 @@
         "correctAnswers": "Todas son correctas."
     },
     {
-        "question": "El Programa de Protección Radiológica viene definido por",
-        "answers": [
-            "RD 783/2001.",
-            "Ninguna es correcta.",
-            "RD 1085/2009.",
-            "RD 1976/1999."
-        ],
-        "correctAnswers": "RD 1085/2009."
-    },
-    {
         "question": "El Real Decreto 1029/2022, regula",
         "answers": [
             "La instalación y utilización de aparatos de rayos X con fines de diagnóstico médico.",

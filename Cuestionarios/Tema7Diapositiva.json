@@ -30,16 +30,6 @@
         "correctAnswers": "Baja LET (Transferencia de Energía Lineal)."
     },
     {
-        "question": "¿Cuál de estas afirmaciones no es correcta?",
-        "answers": [
-            "La interacción de la radiación con las células es función de probabilidad.",
-            "Los efectos y acciones de las radiaciones siempre se consideran de tipo LESIVO, ya que ocasiona una lesión o pérdida de información en el material genético.",
-            "Los cambios producidos en las células, tejidos y órganos no son únicos, son específicos.",
-            "La interacción de la radiación en una célula es de carácter no selectivo."
-        ],
-        "correctAnswers": "Los cambios producidos en las células, tejidos y órganos no son únicos, son específicos."
-    },
-    {
         "question": "Los factores a tener en cuenta en los efectos deterministas del feto son.",
         "answers": [
             "Edad gestacional.",
@@ -80,16 +70,6 @@
         "correctAnswers": "Prodrómica, Latente y de Enfermedad manifiesta."
     },
     {
-        "question": "Los efectos estocásticos se clasifican en.",
-        "answers": [
-            "Somáticos.",
-            "Hereditarios.",
-            "Ninguno de los anteriores.",
-            "Hereditarios y somáticos."
-        ],
-        "correctAnswers": "Hereditarios y somáticos."
-    },
-    {
         "question": "Los efectos deterministas se caracterizan por.",
         "answers": [
             "Tener un período de latencia corto.",
@@ -98,16 +78,6 @@
             "Tener un período de latencia largo."
         ],
         "correctAnswers": "Tener un período de latencia corto."
-    },
-    {
-        "question": "El tiempo de interacción de radiación X a nivel celular es.",
-        "answers": [
-            "Inexistente.",
-            "Instantáneo (10-17 s).",
-            "Intenso.",
-            "Prolongado."
-        ],
-        "correctAnswers": "Instantáneo (10-17 s)."
     },
     {
         "question": "Los efectos deterministas en cuerpo completo (Síndrome de Irradiación Aguda) pueden clasificarse como.",
@@ -128,16 +98,6 @@
             "Anomalías congénitas que aparecen en el nacimiento (irradiación del útero)."
         ],
         "correctAnswers": "Todas las anteriores."
-    },
-    {
-        "question": "Una población de células es muy radiosensible cuando.",
-        "answers": [
-            "A altas dosis de radiación muere una fracción importante de la misma.",
-            "A dosis moderadas de radiación muere una baja fracción de la misma.",
-            "A bajas dosis de radiación muere una fracción importante de la misma.",
-            "Radiación de alta LET mata una fracción importante de la misma."
-        ],
-        "correctAnswers": "A bajas dosis de radiación muere una fracción importante de la misma."
     },
     {
         "question": "La gravedad de los efectos estocásticos es.",
@@ -465,5 +425,125 @@
             "Afortunadamente desde es primer momento se conocía el riesgo a la radiación y se blindaron con plomo los tubos de rayos X."
         ],
         "correctAnswers": "Desde es primer momento se vió la utilidad de los rayos X en medicina, aunque no se conocían los riesgos de su uso."
+    },
+    {
+        "question": "El tiempo de interacción de radiación X a nivel celular es",
+        "answers": [
+            "Inexistente.",
+            "Intenso.",
+            "Instantáneo (10-17 s).",
+            "Prolongado."
+        ],
+        "correctAnswers": "Instantáneo (10-17 s)."
+    },
+    {
+        "question": "¿Cuál de estos órganos tiene mayor riesgo a sufrir daños por radiación según su factor de ponderación?",
+        "answers": [
+            "Tiroides (wt = 0,04).",
+            "Médula ósea (wt = 0,12).",
+            "Cerebro (wt = 0,01).",
+            "Gónadas (wt = 0,08)."
+        ],
+        "correctAnswers": "Médula ósea (wt = 0,12)."
+    },
+    {
+        "question": "Los efectos de la radiación sobre la célula",
+        "answers": [
+            "El daño será mayor cuanto más diferenciada se encuentre la célula.",
+            "Los factores que agravan los efectos son sólo biológicos.",
+            "Dependerá del lugar de la célula donde se produzca la interacción con la radiación ionizante.",
+            "Siempre son los mismos, independientemente del tipo de célula y su sensibilidad a la radiación."
+        ],
+        "correctAnswers": "Dependerá del lugar de la célula donde se produzca la interacción con la radiación ionizante."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones no es correcta?",
+        "answers": [
+            "La interacción de la radiación en una célula es de carácter no selectivo.",
+            "Los efectos y acciones de las radiaciones siempre se consideran de tipo LESIVO, ya que ocasiona una lesión o pérdida de información en el material genético.",
+            "La interacción de la radiación con las células es función de probabilidad.",
+            "Los cambios producidos en las células, tejidos y órganos no son únicos, son específicos."
+        ],
+        "correctAnswers": "Los cambios producidos en las células, tejidos y órganos no son únicos, son específicos."
+    },
+    {
+        "question": "En una mutación, las células que pueden verse afectadas son",
+        "answers": [
+            "Cualquier tipo de célula.",
+            "Células somáticas.",
+            "Células germinales.",
+            "Las células indiferenciadas únicamente."
+        ],
+        "correctAnswers": "Cualquier tipo de célula."
+    },
+    {
+        "question": "Las etapas del Síndrome Agudo de Irradiación son:",
+        "answers": [
+            "Prodrómica, Latente y de Enfermedad manifiesta.",
+            "Latente y Crónica.",
+            "Prodrómica y Crónica.",
+            "Prodrómica y Latente."
+        ],
+        "correctAnswers": "Prodrómica, Latente y de Enfermedad manifiesta."
+    },
+    {
+        "question": "En función del número de células que se ven afectadas por la radiación los efectos se clasifican como",
+        "answers": [
+            "Efectos deterministas y estocásticos.",
+            "Efectos estocásticos y probabilísticos.",
+            "Efectos somáticos y hereditarios.",
+            "Efectos deterministas y somáticos."
+        ],
+        "correctAnswers": "Efectos deterministas y estocásticos."
+    },
+    {
+        "question": "Los efectos estocásticos se clasifican en:",
+        "answers": [
+            "Ninguno de los anteriores.",
+            "Hereditarios y somáticos.",
+            "Somáticos.",
+            "Hereditarios."
+        ],
+        "correctAnswers": "Hereditarios y somáticos."
+    },
+    {
+        "question": "Los efectos en embrión o feto se pueden manifestar",
+        "answers": [
+            "En la etapa de crecimiento.",
+            "En el parto.",
+            "En la infancia.",
+            "En el nacimiento o en la infancia."
+        ],
+        "correctAnswers": "En el nacimiento o en la infancia."
+    },
+    {
+        "question": "Una población de células es muy radiosensible cuando",
+        "answers": [
+            "A altas dosis de radiación mueren una fracción importante de la misma.",
+            "A dosis moderadas de radiación muere una baja fracción de la misma.",
+            "Radiación de alta LET mata una fracción importante de la misma.",
+            "A bajas dosis de radiación muere una fracción importante de la misma."
+        ],
+        "correctAnswers": "A altas dosis de radiación mueren una fracción importante de la misma."
+    },
+    {
+        "question": "La fase del ciclo reproductivo más sensible a la radiación es",
+        "answers": [
+            "G1 (Gap 1).",
+            "Meiosis.",
+            "Fase S (síntesis DNA).",
+            "M (Mitosis)."
+        ],
+        "correctAnswers": "M (Mitosis)."
+    },
+    {
+        "question": "Los efectos probabilísticos se caracterizan por",
+        "answers": [
+            "Sus efectos son independientes de la dosis recibida.",
+            "De naturaleza somática o hereditaria.",
+            "Lesión letal de una o pocas células.",
+            "Todas son correctas."
+        ],
+        "correctAnswers": "Todas son correctas."
     }
 ]

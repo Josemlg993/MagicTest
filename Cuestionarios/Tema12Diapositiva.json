@@ -42,52 +42,345 @@
     {
         "question": "Las etapas necesarias para asegurar un buen diagnóstico son",
         "answers": [
-            "Mejora de la calidad.",
+            "a. Mejora de la calidad.",
+            "b. Todas las anteriores.",
+            "c. Control de calidad: garantizar la ejecución de las actividades tal como se planearon.",
+            "d. Diseño de calidad: planear y desarrollar el proceso."
+        ],
+        "correctAnswers": "b. Todas las anteriores."
+    },
+    {
+        "question": "En el principio de justificación",
+        "answers": [
+            "a. Ninguna práctica con radiaciones ionizantes debe ser autorizada si no existen evidencias de que producirá beneficios que compense el posible detrimento que pueda generar.",
+            "b. Se considera justificable una actividad cuando el beneficio neto es positivo y de suficiente magnitud para compensar los efectos negativos.",
+            "c. Se evalúa el beneficio y detrimento asociados a la exposición (análisis coste-beneficio).",
+            "d. Todas son correctas."
+        ],
+        "correctAnswers": "d. Todas son correctas."
+    },
+    {
+        "question": "La protección operacional de los trabajadores expuestos se basará en",
+        "answers": [
+            "a. La clasificación de los lugares de trabajo en diferentes zonas y de los trabajadores expuestos.",
+            "b. Todas las anteriores.",
+            "c. La aplicación de las normas y vigilancia sanitaria.",
+            "d. La evaluación previa de las condiciones laborales."
+        ],
+        "correctAnswers": "b. Todas las anteriores."
+    },
+    {
+        "question": "Los objetivos fundamentales del Programa de Garantía de Calidad son",
+        "answers": [
+            "a. Reducción de la exposición al paciente.",
+            "b. Disminución de costes.",
+            "c. Perfeccionamiento de las imágenes médicas.",
+            "d. Todas las anteriores."
+        ],
+        "correctAnswers": "d. Todas las anteriores."
+    },
+    {
+        "question": "En una clínica, es obligatorio tener implantado",
+        "answers": [
+            "a. Programa de Protección Radiológica.",
+            "b. Actualizar el PPR y PGC.",
+            "c. Todas son correctas.",
+            "d. Programa de Garantía de Calidad."
+        ],
+        "correctAnswers": "c. Todas son correctas."
+    },
+    {
+        "question": "Para establecer un programa de Garantía de Calidad se necesita determinar actuaciones a nivel de...(Varias respuestas son correctas)",
+        "answers": [
+            "a. Instalación correcta y comprobación mediante pruebas de aceptación y de estado.",
+            "b. Mantenimiento correctivo del funcionamiento del equipo por parte de una EVAT.",
+            "c. Mantenimiento preventivo del funcionamiento del equipo mediante pruebas de constancia.",
+            "d. Establecer los criterios de funcionamiento del equipo.",
+            "e. Formación del personal en nuevas tecnologías radiológicas, protección radiológica y reducción de dosis a paciente.",
+            "f. Elección del equipo:",
+            "g. Criterios de calidad en el funcionamiento de los equipos para su sustitución.",
+            "h. Proporcionar el mejor rendimiento al equipo con la menor dosis a los pacientes."
+        ],
+        "correctAnswers": [
+            "a. Instalación correcta y comprobación mediante pruebas de aceptación y de estado.",
+            "b. Mantenimiento correctivo del funcionamiento del equipo por parte de una EVAT.",
+            "c. Mantenimiento preventivo del funcionamiento del equipo mediante pruebas de constancia.",
+            "d. Establecer los criterios de funcionamiento del equipo.",
+            "e. Formación del personal en nuevas tecnologías radiológicas, protección radiológica y reducción de dosis a paciente.",
+            "f. Elección del equipo:",
+            "g. Criterios de calidad en el funcionamiento de los equipos para su sustitución.",
+            "h. Proporcionar el mejor rendimiento al equipo con la menor dosis a los pacientes."
+        ]
+    },
+    {
+        "question": "El Programa de Protección Radiológica",
+        "answers": [
+            "a. Debe estar implantado en todas las instalaciones de rayos X.",
+            "b. Ha de constar por escrito, se mantendrá actualizado y se deberá elaborar antes de la puesta en funcionamiento de la instalación.",
+            "c. Tiene como objetivo garantizar que las dosis de radiación que pudieran recibir los trabajadores y el público se mantengan tan bajas como sea razonablemente posible y siempre por debajo de los límites de dosis establecidos en la legislación.",
+            "d. Todas las anteriores."
+        ],
+        "correctAnswers": "d. Todas las anteriores."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones NO es correcta?",
+        "answers": [
+            "a. Las pruebas de aceptación son realizadas por la EVAT.",
+            "b. Las pruebas de aceptación, estado y constancia son llevadas a cabo como programa de mantenimiento de los equipos.",
+            "c. Las pruebas de constancia son llevadas a cabo por el titular.",
+            "d. Las pruebas de estado son realizadas por la UTPR."
+        ],
+        "correctAnswers": "c. Las pruebas de constancia son llevadas a cabo por el titular."
+    },
+    {
+        "question": "Los programas de intervención y reparación del equipamiento conlleva",
+        "answers": [
+            "a. Pruebas de constancia.",
+            "b. Pruebas de aceptación.",
+            "c. Pruebas de estado y aceptación.",
+            "d. Pruebas de aceptación, estado y constancia."
+        ],
+        "correctAnswers": "d. Pruebas de aceptación, estado y constancia."
+    },
+    {
+        "question": "Los indicadores de calidad",
+        "answers": [
+            "a. Todas las anteriores.",
+            "b. Nos dan información acerca de la dosis que impartimos a los pacientes.",
+            "c. Nos permiten realizar un control del número de exploraciones que debemos repetir.",
+            "d. Nos dan información acerca de la calidad de las imágenes."
+        ],
+        "correctAnswers": "a. Todas las anteriores."
+    },
+    {
+        "question": "¿Quién será responsable de que los principios de protección radiológica sean aplicados en el ámbito de su actividad y competencia?",
+        "answers": [
+            "a. El Odontólogo.",
+            "b. El Director de Rayos X.",
+            "c. El Titular.",
+            "d. Ninguna de las anteriores."
+        ],
+        "correctAnswers": "c. El Titular."
+    },
+    {
+        "question": "Los controles de calidad del equipamiento",
+        "answers": [
+            "a. Deben contener las pruebas del Protocolo Español de Radiodiagnóstico.",
+            "b. Todas las anteriores.",
+            "c. Implican el control de los equipos de rayos X.",
+            "d. Implican el control de los sistemas de visualización."
+        ],
+        "correctAnswers": "b. Todas las anteriores."
+    },
+    {
+        "question": "La responsabilidad de la implantación de un Programa de Garantía de Calidad es",
+        "answers": [
+            "a. El director de rayos X.",
+            "b. El responsable sanitario.",
+            "c. El titular de la instalación.",
+            "d. El odontólogo."
+        ],
+        "correctAnswers": "c. El titular de la instalación."
+    },
+    {
+        "question": "La clasificación de personal de una instalación de rayos X, según el RD 783/2001, se aplica a",
+        "answers": [
+            "a. Todas son correctas.",
+            "b. Estudiantes y personas en formación.",
+            "c. Trabajadores expuestos.",
+            "d. Miembros del público."
+        ],
+        "correctAnswers": "a. Todas son correctas."
+    },
+    {
+        "question": "La Normativa en materia de Energía Nuclear, tiene con objeto",
+        "answers": [
+            "a. Es aplicable a sustancias radiactivas y generadores de rayos X.",
+            "b. Proteger vidas, salud y haciendas.",
+            "c. Fomentar el desarrollo de las aplicaciones pacíficas de la energía nuclear.",
+            "d. Todas son correctas."
+        ],
+        "correctAnswers": "d. Todas son correctas."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones es correcta?",
+        "answers": [
+            "a. Todas las clínicas deben disponer de 2 delantales plomados, uno para el operador y otro para el paciente.",
+            "b. Todo el personal implicado en el uso de equipos de rayos X debe estar cualificado.",
+            "c. El operador debe ser el encargado de sujetar el sistema de imagen en caso de que no haya elementos físicos para la sujeción.",
+            "d. El tutor legal debe quedarse con el menor en la misma sala durante la exploración radiográfica."
+        ],
+        "correctAnswers": "b. Todo el personal implicado en el uso de equipos de rayos X debe estar cualificado."
+    },
+    {
+        "question": "El CSN",
+        "answers": [
+            "a. Se encarga de la regulación de las autorizaciones sanitarias de los centros sanitarios.",
+            "b. Ninguna de las anteriores.",
+            "c. Es el Organismo competente en Seguridad Nuclear y Protección Radiológica.",
+            "d. Es dependiente de la Administración Central del Estado."
+        ],
+        "correctAnswers": "c. Es el Organismo competente en Seguridad Nuclear y Protección Radiológica."
+    },
+    {
+        "question": "La Ley 14/1999, de 4 de mayo, de Tasas y Precios Públicos por servicios prestados por el Consejo de Seguridad Nuclear",
+        "answers": [
+            "a. En su aplicación la actualización de las mismas mediante publicación en el BOE.",
+            "b. Tiene por objeto la regulación de las tasas y precios públicos por prestación de servicios y realización de actividades del CSN.",
+            "c. Todas son correctas.",
+            "d. La pueden aplicar los órganos autonómicos con competencias transferidas."
+        ],
+        "correctAnswers": "c. Todas son correctas."
+    },
+    {
+        "question": "La implantación de un Programa de Garantía de Calidad viene definido por el",
+        "answers": [
+            "a. Real Decreto 1085/2009.",
+            "b. Real Decreto 1976/1999.",
+            "c. Ninguno de los anteriores.",
+            "d. Real Decreto 783/21."
+        ],
+        "correctAnswers": "b. Real Decreto 1976/1999."
+    },
+    {
+        "question": "¿Quién será responsable de que los principios de protección radiológica sean aplicados en el ámbito de su actividad y competencia?",
+        "answers": [
+            "El Odontólogo.",
+            "El Director de Rayos X.",
+            "El Titular.",
+            "Ninguna de las anteriores."
+        ],
+        "correctAnswers": "El Titular."
+    },
+    {
+        "question": "Los controles de calidad del equipamiento.",
+        "answers": [
+            "Deben contener las pruebas del Protocolo Español de Radiodiagnóstico.",
             "Todas las anteriores.",
+            "Implican el control de los equipos de rayos X.",
+            "Implican el control de los sistemas de visualización."
+        ],
+        "correctAnswers": "Todas las anteriores."
+    },
+    {
+        "question": "La responsabilidad de la implantación de un Programa de Garantía de Calidad es.",
+        "answers": [
+            "El director de rayos X.",
+            "El responsable sanitario.",
+            "El titular de la instalación.",
+            "El odontólogo."
+        ],
+        "correctAnswers": "El titular de la instalación."
+    },
+    {
+        "question": "La clasificación de personal de una instalación de rayos X, según el RD 783/2001, se aplica a.",
+        "answers": [
+            "Todas son correctas.",
+            "Estudiantes y personas en formación.",
+            "Trabajadores expuestos.",
+            "Miembros del público."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "La Normativa en materia de Energía Nuclear, tiene con objeto.",
+        "answers": [
+            "Es aplicable a sustancias radiactivas y generadores de rayos X.",
+            "Proteger vidas, salud y haciendas.",
+            "Fomentar el desarrollo de las aplicaciones pacíficas de la energía nuclear.",
+            "Todas son correctas."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones es correcta?",
+        "answers": [
+            "Todas las clínicas deben disponer de 2 delantales plomados, uno para el operador y otro para el paciente.",
+            "Todo el personal implicado en el uso de equipos de rayos X debe estar cualificado.",
+            "El operador debe ser el encargado de sujetar el sistema de imagen en caso de que no haya elementos físicos para la sujeción.",
+            "El tutor legal debe quedarse con el menor en la misma sala durante la exploración radiográfica."
+        ],
+        "correctAnswers": "Todo el personal implicado en el uso de equipos de rayos X debe estar cualificado."
+    },
+    {
+        "question": "El CSN.",
+        "answers": [
+            "Se encarga de la regulación de las autorizaciones sanitarias de los centros sanitarios.",
+            "Ninguna de las anteriores.",
+            "Es el Organismo competente en Seguridad Nuclear y Protección Radiológica.",
+            "Es dependiente de la Administración Central del Estado."
+        ],
+        "correctAnswers": "Es el Organismo competente en Seguridad Nuclear y Protección Radiológica."
+    },
+    {
+        "question": "La Ley 14/1999, de 4 de mayo, de Tasas y Precios Públicos por servicios prestados por el Consejo de Seguridad Nuclear.",
+        "answers": [
+            "En su aplicación la actualización de las mismas mediante publicación en el BOE.",
+            "Tiene por objeto la regulación de las tasas y precios públicos por prestación de servicios y realización de actividades del CSN.",
+            "Todas son correctas.",
+            "La pueden aplicar los órganos autonómicos con competencias transferidas."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "Algunas de las funciones del Consejo Seguridad Nuclear (CSN) son:",
+        "answers": [
+            "Elaborar y aprobar las instrucciones, circulares y guías de carácter técnico.",
+            "Todas las anteriores.",
+            "Proponer al Gobierno las reglamentaciones necesarias en materia de seguridad nuclear y protección radiológica.",
+            "Realizar toda clase de inspecciones en las instalaciones nucleares o radiactivas."
+        ],
+        "correctAnswers": "Todas las anteriores."
+    },
+    {
+        "question": "La implantación de un Programa de Garantía de Calidad viene definido por el.",
+        "answers": [
+            "Real Decreto 1085/2009.",
+            "Real Decreto 1976/1999.",
+            "Ninguno de los anteriores.",
+            "Real Decreto 783/21."
+        ],
+        "correctAnswers": "Real Decreto 1976/1999."
+    },
+    {
+        "question": "Los programas de intervención y reparación del equipamiento conlleva.",
+        "answers": [
+            "Pruebas de aceptación, estado y constancia.",
+            "Pruebas de constancia.",
+            "Pruebas de estado y aceptación.",
+            "Pruebas de aceptación."
+        ],
+        "correctAnswers": "Pruebas de aceptación, estado y constancia."
+    },
+    {
+        "question": "Las etapas necesarias para asegurar un buen diagnóstico son.",
+        "answers": [
+            "Todas las anteriores.",
+            "Mejora de la calidad.",
             "Control de calidad: garantizar la ejecución de las actividades tal como se planearon.",
             "Diseño de calidad: planear y desarrollar el proceso."
         ],
         "correctAnswers": "Todas las anteriores."
     },
     {
-        "question": "En el principio de justificación",
+        "question": "Los objetivos fundamentales del Programa de Garantía de Calidad son.",
         "answers": [
-            "Ninguna práctica con radiaciones ionizantes debe ser autorizada si no existen evidencias de que producirá beneficios que compense el posible detrimento que pueda generar.",
-            "Se considera justificable una actividad cuando el beneficio neto es positivo y de suficiente magnitud para compensar los efectos negativos.",
-            "Se evalúa el beneficio y detrimento asociados a la exposición (análisis coste-beneficio).",
-            "Todas son correctas."
-        ],
-        "correctAnswers": "Todas son correctas."
-    },
-    {
-        "question": "La protección operacional de los trabajadores expuestos se basará en",
-        "answers": [
-            "La clasificación de los lugares de trabajo en diferentes zonas y de los trabajadores expuestos.",
-            "Todas las anteriores.",
-            "La aplicación de las normas y vigilancia sanitaria.",
-            "La evaluación previa de las condiciones laborales."
-        ],
-        "correctAnswers": "Todas las anteriores."
-    },
-    {
-        "question": "Los objetivos fundamentales del Programa de Garantía de Calidad son",
-        "answers": [
-            "Reducción de la exposición al paciente.",
             "Disminución de costes.",
-            "Perfeccionamiento de las imágenes médicas.",
-            "Todas las anteriores."
+            "Reducción de la exposición al paciente.",
+            "Todas las anteriores.",
+            "Perfeccionamiento de las imágenes médicas."
         ],
         "correctAnswers": "Todas las anteriores."
     },
     {
-        "question": "En una clínica, es obligatorio tener implantado",
+        "question": "El Programa de Protección Radiológica.",
         "answers": [
-            "Programa de Protección Radiológica.",
-            "Actualizar el PPR y PGC.",
-            "Todas son correctas.",
-            "Programa de Garantía de Calidad."
+            "Ha de constar por escrito, se mantendrá actualizado y se deberá elaborar antes de la puesta en funcionamiento de la instalación.",
+            "Debe estar implantado en todas las instalaciones de rayos X.",
+            "Todas las anteriores.",
+            "Tiene como objetivo garantizar que las dosis de radiación que pudieran recibir los trabajadores y el público se mantengan tan bajas como sea razonablemente posible y siempre por debajo de los límites de dosis establecidos en la legislación."
         ],
-        "correctAnswers": "Todas son correctas."
+        "correctAnswers": "Todas las anteriores."
     },
     {
         "question": "Para establecer un programa de Garantía de Calidad se necesita determinar actuaciones a nivel de... (Varias respuestas son correctas)",
@@ -113,143 +406,45 @@
         ]
     },
     {
-        "question": "El Programa de Protección Radiológica",
+        "question": "Los indicadores de calidad.",
         "answers": [
-            "Debe estar implantado en todas las instalaciones de rayos X.",
-            "Ha de constar por escrito, se mantendrá actualizado y se deberá elaborar antes de la puesta en funcionamiento de la instalación.",
-            "Tiene como objetivo garantizar que las dosis de radiación que pudieran recibir los trabajadores y el público se mantengan tan bajas como sea razonablemente posible y siempre por debajo de los límites de dosis establecidos en la legislación.",
+            "Nos dan información acerca de la calidad de las imágenes.",
+            "Nos permiten realizar un control del número de exploraciones que debemos repetir.",
+            "Nos dan información acerca de la dosis que impartimos a los pacientes.",
             "Todas las anteriores."
         ],
-        "correctAnswers": "Todas las anteriores."
+        "correctAnswers": [
+            "Todas las anteriores."
+        ]
+    },
+    {
+        "question": "El Programa de Protección Radiológica viene definido por.",
+        "answers": [
+            "RD 783/2001.",
+            "RD 1976/1999.",
+            "Ninguna de las anteriores.",
+            "RD 1085/2009."
+        ],
+        "correctAnswers": "RD 783/2001."
     },
     {
         "question": "¿Cuál de estas afirmaciones NO es correcta?",
         "answers": [
-            "Las pruebas de aceptación son realizadas por la EVAT.",
-            "Las pruebas de aceptación, estado y constancia son llevadas a cabo como programa de mantenimiento de los equipos.",
             "Las pruebas de constancia son llevadas a cabo por el titular.",
-            "Las pruebas de estado son realizadas por la UTPR."
+            "Las pruebas de estado son realizadas por la UTPR.",
+            "Las pruebas de aceptación son realizadas por la EVAT.",
+            "Las pruebas de aceptación, estado y constancia son llevadas a cabo como programa de mantenimiento de los equipos."
         ],
         "correctAnswers": "Las pruebas de constancia son llevadas a cabo por el titular."
     },
     {
-        "question": "Los programas de intervención y reparación del equipamiento conlleva",
+        "question": "La protección operacional de los trabajadores expuestos se basará en.",
         "answers": [
-            "Pruebas de constancia.",
-            "Pruebas de aceptación.",
-            "Pruebas de estado y aceptación.",
-            "Pruebas de aceptación, estado y constancia."
-        ],
-        "correctAnswers": "Pruebas de aceptación, estado y constancia."
-    },
-    {
-        "question": "Los indicadores de calidad",
-        "answers": [
+            "La clasificación de los lugares de trabajo en diferentes zonas y de los trabajadores expuestos.",
+            "La aplicación de las normas y vigilancia sanitaria.",
             "Todas las anteriores.",
-            "Nos dan información acerca de la dosis que impartimos a los pacientes.",
-            "Nos permiten realizar un control del número de exploraciones que debemos repetir.",
-            "Nos dan información acerca de la calidad de las imágenes."
+            "La evaluación previa de las condiciones laborales."
         ],
         "correctAnswers": "Todas las anteriores."
-    },
-    {
-        "question": "¿Quién será responsable de que los principios de protección radiológica sean aplicados en el ámbito de su actividad y competencia?",
-        "answers": [
-            "El Odontólogo.",
-            "El Director de Rayos X.",
-            "El Titular.",
-            "Ninguna de las anteriores."
-        ],
-        "correctAnswers": "El Titular."
-    },
-    {
-        "question": "Los controles de calidad del equipamiento",
-        "answers": [
-            "Deben contener las pruebas del Protocolo Español de Radiodiagnóstico.",
-            "Todas las anteriores.",
-            "Implican el control de los equipos de rayos X.",
-            "Implican el control de los sistemas de visualización."
-        ],
-        "correctAnswers": "Todas las anteriores."
-    },
-    {
-        "question": "La responsabilidad de la implantación de un Programa de Garantía de Calidad es",
-        "answers": [
-            "El director de rayos X.",
-            "El responsable sanitario.",
-            "El titular de la instalación.",
-            "El odontólogo."
-        ],
-        "correctAnswers": "El titular de la instalación."
-    },
-    {
-        "question": "La clasificación de personal de una instalación de rayos X, según el RD 783/2001, se aplica a",
-        "answers": [
-            "Todas son correctas.",
-            "Estudiantes y personas en formación.",
-            "Trabajadores expuestos.",
-            "Miembros del público."
-        ],
-        "correctAnswers": "Todas son correctas."
-    },
-    {
-        "question": "La Normativa en materia de Energía Nuclear, tiene con objeto",
-        "answers": [
-            "Es aplicable a sustancias radiactivas y generadores de rayos X.",
-            "Proteger vidas, salud y haciendas.",
-            "Fomentar el desarrollo de las aplicaciones pacíficas de la energía nuclear.",
-            "Todas son correctas."
-        ],
-        "correctAnswers": "Todas son correctas."
-    },
-    {
-        "question": "¿Cuál de estas afirmaciones es correcta?",
-        "answers": [
-            "Todas las clínicas deben disponer de 2 delantales plomados, uno para el operador y otro para el paciente.",
-            "Todo el personal implicado en el uso de equipos de rayos X debe estar cualificado.",
-            "El operador debe ser el encargado de sujetar el sistema de imagen en caso de que no haya elementos físicos para la sujeción.",
-            "El tutor legal debe quedarse con el menor en la misma sala durante la exploración radiográfica."
-        ],
-        "correctAnswers": "Todo el personal implicado en el uso de equipos de rayos X debe estar cualificado."
-    },
-    {
-        "question": "El CSN",
-        "answers": [
-            "Se encarga de la regulación de las autorizaciones sanitarias de los centros sanitarios.",
-            "Ninguna de las anteriores.",
-            "Es el Organismo competente en Seguridad Nuclear y Protección Radiológica.",
-            "Es dependiente de la Administración Central del Estado."
-        ],
-        "correctAnswers": "Es el Organismo competente en Seguridad Nuclear y Protección Radiológica."
-    },
-    {
-        "question": "La Ley 14/1999, de 4 de mayo, de Tasas y Precios Públicos por servicios prestados por el Consejo de Seguridad Nuclear",
-        "answers": [
-            "En su aplicación la actualización de las mismas mediante publicación en el BOE.",
-            "Tiene por objeto la regulación de las tasas y precios públicos por prestación de servicios y realización de actividades del CSN.",
-            "Todas son correctas.",
-            "La pueden aplicar los órganos autonómicos con competencias transferidas."
-        ],
-        "correctAnswers": "Todas son correctas."
-    },
-    {
-        "question": "Algunas de las funciones del Consejo Seguridad Nuclear (CSN) son:",
-        "answers": [
-            "Elaborar y aprobar las instrucciones, circulares y guías de carácter técnico.",
-            "Todas las anteriores.",
-            "Proponer al Gobierno las reglamentaciones necesarias en materia de seguridad nuclear y protección radiológica.",
-            "Realizar toda clase de inspecciones en las instalaciones nucleares o radiactivas."
-        ],
-        "correctAnswers": "Todas las anteriores."
-    },
-    {
-        "question": "La implantación de un Programa de Garantía de Calidad viene definido por el",
-        "answers": [
-            "Real Decreto 1085/2009.",
-            "Real Decreto 1976/1999.",
-            "Ninguno de los anteriores.",
-            "Real Decreto 783/21."
-        ],
-        "correctAnswers": "Real Decreto 1976/1999."
     }
 ]
