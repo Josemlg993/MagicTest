@@ -304,16 +304,6 @@
         "correctAnswers": "Ninguna de las anteriores."
     },
     {
-        "question": "Los posicionadores en técnicas radiográficas intraorales:",
-        "answers": [
-            "Facilitan el posicionamiento.",
-            "Reducen repeticiones por un mal posicionamiento.",
-            "Todas son correctas.",
-            "Facilitan la sujeción del sistema de imagen por el propio paciente."
-        ],
-        "correctAnswers": "Todas son correctas."
-    },
-    {
         "question": "El valor de radiación de fuga de un equipo de rayos X debe ser inferior a ...",
         "answers": [
             "1 μGy/h.",

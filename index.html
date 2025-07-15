@@ -373,7 +373,7 @@
         let html = "<div class='cuestionarios-grid'>";
         for (let i = 0; i < cuestionariosLocales.length; i += 2) {
           html += "<div class='cuestionarios-row'>";
-          for (let j = 0; j < 3; j++) {
+          for (let j = 0; j < 2; j++) {
             if (cuestionariosLocales[i + j]) {
               html += `<div class='cuestionario-col'>
           <button onclick="seleccionarCuestionario('${cuestionariosLocales[i + j].archivo}', '${cuestionariosLocales[i + j].titulo}')">

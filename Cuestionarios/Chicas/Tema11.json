@@ -117,7 +117,7 @@
             "El paciente.",
             "No es necesario su uso."
         ],
-        "correctAnswers": "El paciente."
+        "correctAnswers": "Operador (trabajador expuesto)."
     },
     {
         "question": "¿En una zona clasificada como controlada?",
@@ -127,7 +127,7 @@
             "La vigilancia se llevará a cabo con el uso de dosímetros individuales.",
             "Ninguna es correcta."
         ],
-        "correctAnswers": "La dosis podrá estimarse mediante dosimetría de área."
+        "correctAnswers": "La vigilancia se llevará a cabo con el uso de dosímetros individuales."
     },
     {
         "question": "¿Los trabajadores expuestos en clínicas dentales deben utilizar?",
