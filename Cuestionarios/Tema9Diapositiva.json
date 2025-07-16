@@ -74,46 +74,6 @@
         "correctAnswers": "1/r2."
     },
     {
-        "question": "¿Se clasifican como categoría A aquellos trabajadores expuestos?",
-        "answers": [
-            "que por las condiciones en que se realiza su trabajo, es muy improbable que puedan recibir una dosis superior a 6 mSv por año oficial o a 3/10 de alguno de los límites de dosis equivalente establecidos para el cristalino, la piel y las extremidades.",
-            "que por las condiciones en las que realizan su trabajo, pueden recibir dosis superiores a 6 mSv/año oficial o una dosis equivalente superior a 3/10 de los límites de dosis equivalentes establecidos para el cristalino, piel y extremidades.",
-            "Ninguna de las anteriores.",
-            "que por las condiciones en las que realizan su trabajo, pueden recibir dosis superiores a 1 mSv/año oficial o una dosis equivalente superior a 3/10 de los límites de dosis equivalentes establecidos para el cristalino, piel y extremidades."
-        ],
-        "correctAnswers": "que por las condiciones en las que realizan su trabajo, pueden recibir dosis superiores a 6 mSv/año oficial o una dosis equivalente superior a 3/10 de los límites de dosis equivalentes establecidos para el cristalino, piel y extremidades."
-    },
-    {
-        "question": "¿Se clasificarán como zonas de vigilada aquellas zonas donde?",
-        "answers": [
-            "Existe la posibilidad de recibir dosis efectivas inferiores a 20 mSv/año oficial.",
-            "Existe la posibilidad de recibir dosis efectivas superiores a 6 mSv/año oficial, o una dosis equivalente superior a tres décimos (3/10) de los límites equivalentes para el cristalino, piel o extremidades.",
-            "Existe la posibilidad de recibir dosis efectivas inferiores a 1 mSv/año oficial, o una dosis equivalente inferior a un décimo (1/10) de los límites equivalentes para el cristalino, piel o extremidades.",
-            "Existe la posibilidad de recibir dosis efectivas superiores a 1 mSv/año oficial, o una dosis equivalente superior a un décimo (1/10) de los límites equivalentes para el cristalino, piel o extremidades, siendo improbable recibir dosis efectivas superiores a 6 mSv/año oficial, o una dosis equivalente superior a tres décimos (3/10) de los límites equivalentes para el cristalino, piel o extremidades."
-        ],
-        "correctAnswers": "Existe la posibilidad de recibir dosis efectivas superiores a 1 mSv/año oficial, o una dosis equivalente superior a un décimo (1/10) de los límites equivalentes para el cristalino, piel o extremidades, siendo improbable recibir dosis efectivas superiores a 6 mSv/año oficial, o una dosis equivalente superior a tres décimos (3/10) de los límites equivalentes para el cristalino, piel o extremidades."
-    },
-    {
-        "question": "¿Los principios de la protección radiológica son?",
-        "answers": [
-            "La Limitación y los Niveles de Referencia de Dosis.",
-            "Justificación, Optimización y Alara.",
-            "Justificación, ALARA y limitación de dosis.",
-            "Justificación, Repetición y Limitación de dosis."
-        ],
-        "correctAnswers": "Justificación, ALARA y limitación de dosis."
-    },
-    {
-        "question": "¿Los criterios generales de reducción de dosis en protección radiológica operacional son?",
-        "answers": [
-            "Distancia, tiempo y blindaje.",
-            "Distancia, Blindaje y uso de delantales plomados.",
-            "Distancia y tiempo.",
-            "Distancia, tiempo y uso del aparato."
-        ],
-        "correctAnswers": "Distancia, tiempo y blindaje."
-    },
-    {
         "question": "¿La clasificación de los trabajadores expuestos en una clínica dental es responsabilidad de?",
         "answers": [
             "El responsable sanitario.",
