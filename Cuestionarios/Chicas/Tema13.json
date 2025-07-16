@@ -1,14 +1,5 @@
 [
-    {
-        "question": "¿Cuál es, entre otras, una de las obligaciones de las Empresas de Asistencia Técnica?",
-        "answers": [
-            "Efectuar una verificación a continuación de cualquier intervención o reparación en un equipo de rayos X con fines de diagnóstico médico.",
-            "Ninguna de las anteriores.",
-            "Definir e implantar un Programa de Protección Radiológica.",
-            "Que la distribución de los equipos y sus componentes y los blindajes estructurales de las salas, atendiendo a sus áreas colindantes, son los adecuados."
-        ],
-        "correctAnswers": "Efectuar una verificación a continuación de cualquier intervención o reparación en un equipo de rayos X con fines de diagnóstico médico."
-    },
+    
     {
         "question": "¿En qué lugar se debe declarar para el registro las instalaciones de rayos X?",
         "answers": [
@@ -29,16 +20,7 @@
         ],
         "correctAnswers": "La acreditación del personal que presta servicio en las instalaciones de rayos X de diagnóstico médico."
     },
-    {
-        "question": "¿Cuál es, entre otras, una de las obligaciones del Titular?",
-        "answers": [
-            "Ninguna de las anteriores.",
-            "Efectuar una verificación a continuación de cualquier intervención o reparación en un equipo de rayos X con fines de diagnóstico médico.",
-            "Que la distribución de los equipos y sus componentes y los blindajes estructurales de las salas, atendiendo a sus áreas colindantes, son los adecuados.",
-            "Definir e implantar un Programa de Protección Radiológica."
-        ],
-        "correctAnswers": "Definir e implantar un Programa de Protección Radiológica."
-    },
+   
     {
         "question": "Los principios de la protección radiológica son",
         "answers": [

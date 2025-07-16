@@ -130,16 +130,6 @@
         "correctAnswers": "c. Exigirá un trámite de declaración y registro nuevo."
     },
     {
-        "question": "¿Cuál es, entre otras, una de las obligaciones de las Unidades Técnicas de Protección Radiológica?",
-        "answers": [
-            "a. Ninguna de las anteriores.",
-            "b. Que la distribución de los equipos y sus componentes y los blindajes estructurales de las salas, atendiendo a sus áreas colindantes, son los adecuados.",
-            "c. Efectuar una verificación a continuación de cualquier intervención o reparación en un equipo de rayos X con fines de diagnóstico médico.",
-            "d. Definir e implantar un Programa de Protección Radiológica."
-        ],
-        "correctAnswers": "b. Que la distribución de los equipos y sus componentes y los blindajes estructurales de las salas, atendiendo a sus áreas colindantes, son los adecuados."
-    },
-    {
         "question": "¿Qué plazo de archivo tiene el Titular de los Certificados de Conformidad de la instalación?",
         "answers": [
             "a. 10 años.",
@@ -149,16 +139,7 @@
         ],
         "correctAnswers": "a. 10 años."
     },
-    {
-        "question": "¿Cuál es, entre otras, una de las obligaciones de las Empresas de Asistencia Técnica?",
-        "answers": [
-            "a. Efectuar una verificación a continuación de cualquier intervención o reparación en un equipo de rayos X con fines de diagnóstico médico.",
-            "b. Ninguna de las anteriores.",
-            "c. Definir e implantar un Programa de Protección Radiológica.",
-            "d. Que la distribución de los equipos y sus componentes y los blindajes estructurales de las salas, atendiendo a sus áreas colindantes, son los adecuados."
-        ],
-        "correctAnswers": "a. Efectuar una verificación a continuación de cualquier intervención o reparación en un equipo de rayos X con fines de diagnóstico médico."
-    },
+   
     {
         "question": "¿En qué lugar se debe declarar para el registro las instalaciones de rayos X?",
         "answers": [
@@ -179,16 +160,7 @@
         ],
         "correctAnswers": "b. La acreditación del personal que presta servicio en las instalaciones de rayos X de diagnóstico médico."
     },
-    {
-        "question": "¿Cuál es, entre otras, una de las obligaciones del Titular?",
-        "answers": [
-            "a. Ninguna de las anteriores.",
-            "b. Efectuar una verificación a continuación de cualquier intervención o reparación en un equipo de rayos X con fines de diagnóstico médico.",
-            "c. Que la distribución de los equipos y sus componentes y los blindajes estructurales de las salas, atendiendo a sus áreas colindantes, son los adecuados.",
-            "d. Definir e implantar un Programa de Protección Radiológica."
-        ],
-        "correctAnswers": "d. Definir e implantar un Programa de Protección Radiológica."
-    },
+
     {
         "question": "Los principios de la protección radiológica son",
         "answers": [
@@ -249,16 +221,7 @@
         ],
         "correctAnswers": "a. 30 días."
     },
-    {
-        "question": "¿Cuál es, entre otras, una de las obligaciones de las Empresas de Asistencia Técnica?",
-        "answers": [
-            "Efectuar una verificación a continuación de cualquier intervención o reparación en un equipo de rayos X con fines de diagnóstico médico.",
-            "Ninguna de las anteriores.",
-            "Definir e implantar un Programa de Protección Radiológica.",
-            "Que la distribución de los equipos y sus componentes y los blindajes estructurales de las salas, atendiendo a sus áreas colindantes, son los adecuados."
-        ],
-        "correctAnswers": "Efectuar una verificación a continuación de cualquier intervención o reparación en un equipo de rayos X con fines de diagnóstico médico."
-    },
+   
     {
         "question": "¿En qué lugar se debe declarar para el registro las instalaciones de rayos X?",
         "answers": [
@@ -279,16 +242,7 @@
         ],
         "correctAnswers": "La acreditación del personal que presta servicio en las instalaciones de rayos X de diagnóstico médico."
     },
-    {
-        "question": "¿Cuál es, entre otras, una de las obligaciones del Titular?",
-        "answers": [
-            "Ninguna de las anteriores.",
-            "Efectuar una verificación a continuación de cualquier intervención o reparación en un equipo de rayos X con fines de diagnóstico médico.",
-            "Que la distribución de los equipos y sus componentes y los blindajes estructurales de las salas, atendiendo a sus áreas colindantes, son los adecuados.",
-            "Definir e implantar un Programa de Protección Radiológica."
-        ],
-        "correctAnswers": "Definir e implantar un Programa de Protección Radiológica."
-    },
+    
     {
         "question": "Los principios de la protección radiológica son",
         "answers": [
