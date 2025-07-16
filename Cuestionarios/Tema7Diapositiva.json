@@ -524,7 +524,7 @@
             "Radiación de alta LET mata una fracción importante de la misma.",
             "A bajas dosis de radiación muere una fracción importante de la misma."
         ],
-        "correctAnswers": "A altas dosis de radiación mueren una fracción importante de la misma."
+        "correctAnswers": "A bajas dosis de radiación muere una fracción importante de la misma."
     },
     {
         "question": "La fase del ciclo reproductivo más sensible a la radiación es",

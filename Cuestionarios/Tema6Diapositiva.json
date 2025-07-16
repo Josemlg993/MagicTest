@@ -47,7 +47,7 @@
             "No es equivalente a tejido humano.",
             "Todas las anteriores."
         ],
-        "correctAnswers": "La información se borra en el proceso de lectura."
+        "correctAnswers": "No se puede reutilizar."
     },
     {
         "question": "La dosimetría se utiliza para.",
@@ -489,15 +489,6 @@
             "Altos y bajos."
         ],
         "correctAnswers": "Inmediatos y retardados."
-    },
-    {
-        "question": "Las desventajas de los dosímetros de termoluminiscencia",
-        "answers": [
-            "No es equivalente a tejido humano.",
-            "La información se borra en el proceso de lectura.",
-            "Todas las anteriores.",
-            "No se puede reutilizar."
-        ],
-        "correctAnswers": "No se puede reutilizar."
     }
+    
 ]

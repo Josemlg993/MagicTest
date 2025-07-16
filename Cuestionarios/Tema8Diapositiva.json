@@ -170,16 +170,6 @@
         "correctAnswers": "Es obligatorio anualmente."
     },
     {
-        "question": "Es obligatorio disponer de un cartel de aviso a embarazadas por el riesgo de irradiación en.",
-        "answers": [
-            "Pasillo.",
-            "Gabinete.",
-            "Sala de espera.",
-            "Sala del panorámico."
-        ],
-        "correctAnswers": "Sala del panorámico."
-    },
-    {
         "question": "Para personas en formación y estudiantes, el límite de dosis equivalente para el cristalino será de.",
         "answers": [
             "15 mSv por año oficial.",
@@ -187,7 +177,7 @@
             "5 mSv por año oficial.",
             "1 mSv por año oficial."
         ],
-        "correctAnswers": []
+        "correctAnswers": ["15 mSv por año oficial."]
     },
     {
         "question": "En caso de trabajadoras expuestas embarazadas.",

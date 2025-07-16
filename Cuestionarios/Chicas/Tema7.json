@@ -260,16 +260,6 @@
         "correctAnswers": "En el nacimiento o en la infancia."
     },
     {
-        "question": "Una población de células es muy radiosensible cuando",
-        "answers": [
-            "A altas dosis de radiación mueren una fracción importante de la misma.",
-            "A dosis moderadas de radiación muere una baja fracción de la misma.",
-            "Radiación de alta LET mata una fracción importante de la misma.",
-            "A bajas dosis de radiación muere una fracción importante de la misma."
-        ],
-        "correctAnswers": "A altas dosis de radiación mueren una fracción importante de la misma."
-    },
-    {
         "question": "Los factores a tener en cuenta en los efectos deterministas del feto son:",
         "answers": [
             "Edad gestacional.",
