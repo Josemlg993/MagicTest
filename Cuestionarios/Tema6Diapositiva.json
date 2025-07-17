@@ -248,16 +248,6 @@
         "correctAnswers": "Detectores de centelleo."
     },
     {
-        "question": "El monitor más extendido en los servicios de radiodiagnóstico son...",
-        "answers": [
-            "de centelleo sólido.",
-            "de semiconductor.",
-            "de ionización gaseosa.",
-            "de centelleo líquido."
-        ],
-        "correctAnswers": "de ionización gaseosa."
-    },
-    {
         "question": "En los detectores Geiger-Muller:",
         "answers": [
             "Son importantes el tiempo muerto y el tiempo de recuperación.",

@@ -151,76 +151,7 @@
         ],
         "correctAnswers": "en el cátodo, por efecto termoiónico."
     },
-    {
-        "question": "¿Algunos tubos de rayos X se fabrican con ánodo giratorio para?",
-        "answers": [
-            "evitar problemas por calentamiento del ánodo.",
-            "que los rayos X posean mayor energía.",
-            "ninguna de las anteriores.",
-            "que los rayos se emitan en todas las direcciones."
-        ],
-        "correctAnswers": "evitar problemas por calentamiento del ánodo."
-    },
-    {
-        "question": "¿La radiación que logra atravesar la coraza de plomo en la que está encapsulado el tubo recibe el nombre de?",
-        "answers": [
-            "Radiación Compton.",
-            "Radiación inútil.",
-            "Radiación de fuga.",
-            "Radiación dispersa."
-        ],
-        "correctAnswers": "Radiación de fuga."
-    },
-    {
-        "question": "¿Se denomina filtración inherente a la producida por?",
-        "answers": [
-            "Ninguna de las anteriores.",
-            "A la originada por colocar materiales adecuados a la salida del haz de radiación.",
-            "A la suma de las dos anteriores.",
-            "Los materiales estructurales del tubo de rayos X."
-        ],
-        "correctAnswers": "Los materiales estructurales del tubo de rayos X."
-    },
-    {
-        "question": "¿La filtración de un tubo de rayos X tiene como objetivo fundamental?",
-        "answers": [
-            "aumentar la producción de fotones.",
-            "atenuar los fotones de alta energía.",
-            "evitar que aparezcan electrones en el exterior.",
-            "disminuir el porcentaje de fotones de baja energía."
-        ],
-        "correctAnswers": "disminuir el porcentaje de fotones de baja energía."
-    },
-    {
-        "question": "¿Las rejillas antidifusoras sirven para?",
-        "answers": [
-            "absorber la radiación dispersa que se produce dentro del paciente.",
-            "reducir la radiación extrafocal.",
-            "reducir el contraste de la imagen.",
-            "disminuir la dosis en piel de los pacientes."
-        ],
-        "correctAnswers": "absorber la radiación dispersa que se produce dentro del paciente."
-    },
-    {
-        "question": "¿La dosis impartida a un paciente, al realizar una radiografía con dos películas de velocidades diferentes y los mismos parámetros radiológicos, es?",
-        "answers": [
-            "mayor con la película de menor velocidad.",
-            "mayor con la película de mayor velocidad.",
-            "función de las condiciones de procesado.",
-            "la misma con ambas películas."
-        ],
-        "correctAnswers": "mayor con la película de menor velocidad."
-    },
-    {
-        "question": "¿El papel de las cartulinas de refuerzo consiste en?",
-        "answers": [
-            "transformar los RX en fotones de luz visible.",
-            "hacer que finalice la exposición cuando ha llegado una cantidad suficiente de radiación.",
-            "transformar los r-x en electrones.",
-            "disminuir la radiación dispersa producida por el paciente."
-        ],
-        "correctAnswers": "transformar los RX en fotones de luz visible."
-    },    {
+ {
         "question": "La función de la carcasa y coraza del equipo de rayos X es",
         "answers": [
             "Las dos son correctas.",
@@ -292,36 +223,7 @@
         ],
         "correctAnswers": "Más del 99% de la energía de los electrones se pierde en forma de calor."
     },
-    {
-        "question": "El poder de penetración de una radiación X está relacionada con:",
-        "answers": [
-            "Tiempo.",
-            "Tensión aplicada (kilovoltaje).",
-            "Corriente del tubo (miliamperaje).",
-            "La distancia foco-película."
-        ],
-        "correctAnswers": "Tensión aplicada (kilovoltaje)."
-    },
-    {
-        "question": "Cuanto más se aumenta la corriente que atraviesa el tubo de rayos X",
-        "answers": [
-            "Mayor es la energía de los rayos X.",
-            "Menos cantidad de rayos X se genera.",
-            "Más cantidad de rayos X se genera.",
-            "Menor es la potencia disipada en el anticátodo."
-        ],
-        "correctAnswers": "Más cantidad de rayos X se genera."
-    },
-    {
-        "question": "En un tubo de rayos X se producen fotones por frenado de electrones. Estos electrones se generan:",
-        "answers": [
-            "En el cátodo, por efecto termoiónico.",
-            "Por efecto de creación de pares electrón-positrón.",
-            "Por ionización del gas encerrado en el tubo.",
-            "En el ánodo, por efecto Compton."
-        ],
-        "correctAnswers": "En el cátodo, por efecto termoiónico."
-    },
+ 
     {
         "question": "Algunos tubos de rayos X se fabrican con ánodo giratorio para:",
         "answers": [

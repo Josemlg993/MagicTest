@@ -20,22 +20,6 @@
         "correctAnswers": "1"
     },
     {
-        "question": "El programa de protección radiológica, que constará por escrito debe contemplar",
-        "answers": [
-            "Medidas de protección de datos.",
-            "Medidas de control.",
-            "Medidas administrativas.",
-            "Medidas de prevención.",
-            "Medidas de vigilancia."
-        ],
-        "correctAnswers": [
-            "Medidas de control.",
-            "Medidas administrativas.",
-            "Medidas de prevención.",
-            "Medidas de vigilancia."
-        ]
-    },
-    {
         "question": "La toma de decisiones para la adquisición o modificación de este tipo de instalaciones debe hacerse teniendo en cuenta...",
         "answers": [
             "El riesgo potencial de accidente radiológico.",

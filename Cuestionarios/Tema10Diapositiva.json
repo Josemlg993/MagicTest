@@ -279,16 +279,7 @@
         ],
         "correctAnswers": "Intenta que las dosis individuales, el número de individuos expuestos o las probabilidades de que se originen exposiciones distintas de las previstas, se mantengan tan bajas como sea posible."
     },
-    {
-        "question": "El mantenimiento correctivo de un equipo de rayos X:",
-        "answers": [
-            "Todas son correctas.",
-            "El titular de la instalación es responsable de su realización.",
-            "Comprende las actividades que van encaminadas a eliminar los fallos que se han podido producir en el equipo por el uso.",
-            "Comprende unas pruebas de control de calidad anual para los intraorales y semestrales para los panorámicos."
-        ],
-        "correctAnswers": "Comprende las actividades que van encaminadas a eliminar los fallos que se han podido producir en el equipo por el uso."
-    },
+
     {
         "question": "¿Cuáles son las técnicas para disminuir las radiaciones innecesarias en el radiodiagnóstico?",
         "answers": [

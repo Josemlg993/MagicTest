@@ -132,16 +132,7 @@
         ],
         "correctAnswers": "Las pruebas de constancia son llevadas a cabo por el titular."
     },
-    {
-        "question": "Los programas de intervención y reparación del equipamiento conlleva",
-        "answers": [
-            "Pruebas de constancia.",
-            "Pruebas de aceptación.",
-            "Pruebas de estado y aceptación.",
-            "Pruebas de aceptación, estado y constancia."
-        ],
-        "correctAnswers": "Pruebas de aceptación, estado y constancia."
-    },
+    
     {
         "question": "Los indicadores de calidad",
         "answers": [
@@ -427,16 +418,7 @@
         ],
         "correctAnswers": "RD 783/2001."
     },
-    {
-        "question": "¿Cuál de estas afirmaciones NO es correcta?",
-        "answers": [
-            "Las pruebas de constancia son llevadas a cabo por el titular.",
-            "Las pruebas de estado son realizadas por la UTPR.",
-            "Las pruebas de aceptación son realizadas por la EVAT.",
-            "Las pruebas de aceptación, estado y constancia son llevadas a cabo como programa de mantenimiento de los equipos."
-        ],
-        "correctAnswers": "Las pruebas de constancia son llevadas a cabo por el titular."
-    },
+   
     {
         "question": "La protección operacional de los trabajadores expuestos se basará en.",
         "answers": [

@@ -130,26 +130,6 @@
         "correctAnswers": "Libre acceso."
     },
     {
-        "question": "¿Cuál es, entre otras, una de las obligaciones de las Empresas de Asistencia Técnica?",
-        "answers": [
-            "Efectuar una verificación a continuación de cualquier intervención o reparación en un equipo de rayos X con fines de diagnóstico médico.",
-            "Ninguna de las anteriores.",
-            "Que la distribución de los equipos y sus componentes y los blindajes estructurales de las salas, atendiendo a sus áreas colindantes, son los adecuados.",
-            "Definir e implantar un Programa de Protección Radiológica."
-        ],
-        "correctAnswers": "Que la distribución de los equipos y sus componentes y los blindajes estructurales de las salas, atendiendo a sus áreas colindantes, son los adecuados."
-    },
-    {
-        "question": "La magnitud que expresa el daño biológico de la radiación es",
-        "answers": [
-            "Exposición.",
-            "Dosis equivalente.",
-            "Dosis absorbida.",
-            "Tasa de exposición."
-        ],
-        "correctAnswers": "Dosis equivalente."
-    },
-    {
         "question": "El Real Decreto 1029/2022, regula.",
         "answers": [
             "La justificación del uso de las radiaciones ionizantes de las personas con ocasión de exposiciones médicas.",

@@ -1,345 +1,736 @@
 [
-    {
-        "question": "Los electrones son partículas fundamentales que pueden",
+{
+        "question": "El monitor más extendido en los servicios de radiodiagnóstico es:",
         "answers": [
-            "Perder energía mediante procesos radiativos como la radiación de frenado.",
-            "Todas son correctas.",
-            "Depositar energía en el medio que atraviesan mediante procesos de ionizaciones.",
-            "Depositar energía en el medio que atraviesan excitando electrones ligados al átomo."
+            "De centelleo líquido.",
+            "De semiconductor.",
+            "De centelleo sólido.",
+            "De ionización gaseosa."
         ],
-        "correctAnswers": "Todas son correctas."
-    },
-    {
-        "question": "El electrón ligado a un átomo que se excita",
-        "answers": [
-            "Ninguna de las anteriores.",
-            "Promociona a un nivel energético superior y seguidamente después es arrancado del átomo.",
-            "Promociona a un nivel energético superior y tras un periodo temporal de un año se desexcita.",
-            "Promociona a un nivel de menor energía y se mantiene estable en ese nivel."
-        ],
-        "correctAnswers": "Ninguna de las anteriores."
-    },
-    {
-        "question": "La radiación de frenado o Bremsstrahlung",
-        "answers": [
-            "Todas son correctas.",
-            "Ocurre más comúnmente con partículas de baja energía.",
-            "Es energía perdida cuando la partícula se frena, lo que produce rayos x.",
-            "Se pierde energía pero no momento."
-        ],
-        "correctAnswers": "Todas son correctas."
-    },
-    {
-        "question": "Los fotones que dan lugar al efecto Compton",
-        "answers": [
-            "Los fotones que dan lugar al efecto Compton pueden tener velocidades nulas.",
-            "Poseen una energía mayor en comparación con los fotones que dan lugar a fotoeléctrico.",
-            "El efecto Compton es producido por la interacción de electrones con la materia.",
-            "Son los fotones de mayor energía en la naturaleza."
-        ],
-        "correctAnswers": "Poseen una energía mayor en comparación con los fotones que dan lugar a fotoeléctrico."
-    },
-    {
-        "question": "El poder de frenado",
-        "answers": [
-            "Es la energía depositada por unidad de distancia recorrida.",
-            "Todas las anteriores.",
-            "Es la capacidad de una onda electromagnética de atravesar materia.",
-            "Es la capacidad de un material para frenar los rayos X."
-        ],
-        "correctAnswers": "Es la energía depositada por unidad de distancia recorrida."
-    },
-    {
-        "question": "En los procesos de ionización",
-        "answers": [
-            "Tiene lugar la liberación de electrones ligados al átomo.",
-            "Se produce la liberación de neutrones y protones del átomo.",
-            "Hay una transformación de un único protón en dos electrones que son liberados del átomo.",
-            "Los electrones recoben energía promocionando a un nivel energético superior."
-        ],
-        "correctAnswers": "Tiene lugar la liberación de electrones ligados al átomo."
+        "correctAnswers": "De ionización gaseosa."
     },
 {
-        "question": "¿Cuál es el espectro de radiaciones electromagnéticas?",
+        "question": "De las siguientes afirmaciones, sobre las cámaras de ionización:",
         "answers": [
-            "Únicamente hace referencia a las ondas de media y baja frecuencia.",
-            "Define a los rayos gamma como las radiaciones menos energéticas.",
-            "Consiste en la ordenación del conjunto de todas las radiaciones electromagnéticas, según su mayor o menor frecuencia.",
-            "Visible por el ojo humano abarca un amplio espectro, entre 10 y 2000 nm."
+            "El rendimiento para fotones de radiación X es de 10%.",
+            "Son poco sensibles.",
+            "Tienen una baja dependencia a la tensión aplicada.",
+            "Se emplean para medir radiación de tipo X, gamma y beta."
         ],
-        "correctAnswers": "Consiste en la ordenación del conjunto de todas las radiaciones electromagnéticas, según su mayor o menor frecuencia."
+        "correctAnswers": "Se emplean para medir radiación de tipo X, gamma y beta."
     },
      {
+        "question": "El dosímetro nos da una lectura de",
+        "answers": [
+            "Las dos anteriores.",
+            "Dosis profunda Hp(10).",
+            "Ninguna de las anteriores.",
+            "Dosis superficial Hp(0,07)."
+        ],
+        "correctAnswers": "Las dos anteriores."
+    },
+    {
+        "question": "Las cámaras de ionización.",
+        "answers": [
+            "Tienen un rendimiento menor del 1% para fotones.",
+            "Ninguna de las anteriores.",
+            "Necesitan estar conectadas a la red eléctrica para funcionar.",
+            "Presentan un recinto abierto con gas."
+        ],
+        "correctAnswers": "Tienen un rendimiento menor del 1% para fotones."
+    },
+    {
+        "question": "¿Cuál de las siguientes afirmaciones es correcta?",
+        "answers": [
+            "La dosis a paciente se puede medir obteniendo el valor de dosis piel a la entrada, el producto dosis área o utilizando dosímetros de termoluminiscencia.",
+            "No es conveniente el uso de dosímetros de termoluminiscencia porque producen artefactos en la imagen.",
+            "La cámara DAP no es radiotransparente y hay que utilizar factores de corrección de la medida.",
+            "El producto dosis área tiene en cuenta la retrodispersión y no se puede medir en cualquier punto del haz de radiación."
+        ],
+        "correctAnswers": "La dosis a paciente se puede medir obteniendo el valor de dosis piel a la entrada, el producto dosis área o utilizando dosímetros de termoluminiscencia."
+    },
+    {
+        "question": "Los dosímetros de termoluminiscencia",
+        "answers": [
+            "Necesitan baterías para su funcionamiento.",
+            "Son reutilizables y fácil manejo.",
+            "Permiten la estimación de dosis en tiempo real.",
+            "Permiten lecturas trimestrales de las dosis, no es necesaria la lectura mensual."
+        ],
+        "correctAnswers": "Son reutilizables y fácil manejo."
+    },
+    {
+        "question": "Los dosímetros de película.",
+        "answers": [
+            "Se valora el grado de ennegrecimiento de la película con densitómetro.",
+            "Está muy extendido su uso en el ámbito del radiodiagnóstico.",
+            "Es muy usado para medidas de dosis superiores a 50 mSv.",
+            "Se usan para medida de dosis ambiental."
+        ],
+        "correctAnswers": "Se valora el grado de ennegrecimiento de la película con densitómetro."
+    },
+    {
+        "question": "Las desventajas de los dosímetros de termoluminiscencia.",
+        "answers": [
+            "No se puede reutilizar.",
+            "La información se borra en el proceso de lectura.",
+            "No es equivalente a tejido humano.",
+            "Todas las anteriores."
+        ],
+        "correctAnswers": "La información se borra en el proceso de lectura."
+    },
+    {
+        "question": "Los detectores de termoluminiscencia están constituidos por:",
+        "answers": [
+            "Compuestos de sulfato de cobre.",
+            "Sólidos aislantes o semiconductores.",
+            "Cristal de INa.",
+            "Emulsión de BrAg."
+        ],
+        "correctAnswers": "Sólidos aislantes o semiconductores."
+    },
+    {
+        "question": "En relación a los dosímetros de termoluminiscencia:",
+        "answers": [
+            "La termoluminiscencia se basa en la energía del fotón incidente.",
+            "El proceso por el que se descarga el dosímetro sin ser calentado, se denomina “fading”.",
+            "La luz producida por calentamiento no es proporcional a la energía de la radiación incidente.",
+            "Contienen una banda de valencia y otra de conducción."
+        ],
+        "correctAnswers": [
+            "La termoluminiscencia se basa en la energía del fotón incidente.",
+            "El proceso por el que se descarga el dosímetro sin ser calentado, se denomina “fading”.",
+            "Contienen una banda de valencia y otra de conducción."
+        ]
+    },
+    {
+        "question": "En los detectores Geiger-Muller:",
+        "answers": [
+            "Son importantes el tiempo muerto y el tiempo de recuperación.",
+            "Todos los impulsos medidos alcanzan la misma amplitud.",
+            "No puede funcionar como espectrómetro.",
+            "Todas son ciertas."
+        ],
+        "correctAnswers": "Todas son ciertas."
+    },
+    {
+        "question": "Los principales efectos que producen los rayos X al atravesar la materia son:",
+        "answers": [
+            "Disociación de la materia o ruptura molecular.",
+            "Producción de carga o ionización.",
+            "Aumento de la temperatura.",
+            "Excitación de luminiscencia en algunos sólidos."
+        ],
+        "correctAnswers": "Excitación de luminiscencia en algunos sólidos."
+    },
+    {
+        "question": "La radiación que logra atravesar la coraza de plomo en la que está encapsulado el tubo recibe el nombre de:",
+        "answers": [
+            "Radiación de fuga.",
+            "Radiación dispersa.",
+            "Radiación inútil.",
+            "Radiación Compton."
+        ],
+        "correctAnswers": "Radiación de fuga."
+    },
+    {
+        "question": "¿El poder de penetración de una radiación X está relacionada con?",
+        "answers": [
+            "Tensión aplicada (kilovoltaje).",
+            "La distancia foco-película.",
+            "Corriente del tubo (miliamperaje).",
+            "Tiempo."
+        ],
+        "correctAnswers": "Tensión aplicada (kilovoltaje)."
+    },
+    {
         "question": "¿Cuál de estas afirmaciones es correcta?",
         "answers": [
-            "La longitud mínima del localizador de un equipo de rayos X intraoral es de 20 cm.",
-            "El cable del disparador tiene que tener una longitud menor de 2 m.",
-            "En colimadores circulares (equipos intraorales) el área de irradiación mínima debe ser 60 mm de diámetro.",
-            "La rejilla antidifusora aumenta la radiación dispersa que llega a la placa, empeorando la calidad de la imagen."
+            "El cátodo incluye filamento y circuitos eléctricos asociados para conseguir intensidad de corriente (mA).",
+            "El desplazamiento de los electrones del ánodo al cátodo se produce por la diferencia de potencial entre ellos.",
+            "En el cátodo se produce la interacción de los electrones procedentes del ánodo.",
+            "El cátodo está formado siempre por dos filamentos."
         ],
-        "correctAnswers": "La longitud mínima del localizador de un equipo de rayos X intraoral es de 20 cm."
-    },
-{
-        "question": "¿Qué es el espectro electromagnético?",
-        "answers": [
-            "Es la clasificación de las radiaciones electromagnéticas en función de la cantidad de energía que transporta cada una de ellas",
-            "Es la representación de los distintos tipos de partículas fundamentales descubiertas",
-            "Es la representación de los diferentes elementos químicos en función de sus propiedades",
-            "Es la clasificación de los diferentes tipos de haces de radiaciones electromagnética y partículas cargadas en función de su cantidad de masa"
-        ],
-        "correctAnswers": "Es la clasificación de las radiaciones electromagnéticas en función de la cantidad de energía que transporta cada una de ellas"
+        "correctAnswers": "El cátodo incluye filamento y circuitos eléctricos asociados para conseguir intensidad de corriente (mA)."
     },
     {
-        "question": "La diferencia de potencial entre el cátodo y el ánodo",
+        "question": "El ánodo rotatorio",
         "answers": [
-            "Acelera la velocidad de los electrones, provocando mayor poder de penetración",
-            "Provoca un aumento de la nube de electrones de ánodo, aumentando la cantidad final de energía",
-            "No tiene consecuencias sobre el equipo",
-            "Provoca la direccionalidad de los electrones, para desplazarse del ánodo al cátodo"
+            "Todas son correctas",
+            "Enfría más rápido el ánodo",
+            "Aumenta el área del foco real en la mancha focal",
+            "Dispersa mejor el calor"
         ],
-        "correctAnswers": "Acelera la velocidad de los electrones, provocando mayor poder de penetración"
-    },
-    {
-        "question": "Los fotones de baja energía eliminados por el filtro",
-        "answers": [
-            "Son los que menos dosis darían al paciente, por eso no es tan importante filtrar.",
-            "Son los que atenúan la imagen.",
-            "Son los que más dosis darían al paciente.",
-            "Son los que mejor calidad de imagen ofrecen."
-        ],
-        "correctAnswers": "Son los que más dosis darían al paciente."
-    },
-    {
-        "question": "¿Si aumentamos el miliamperaje al realizar una radiografía?",
-        "answers": [
-            "Aumenta la dosis de radiación que recibe el paciente.",
-            "Mejora la resolución espacial de la radiografía.",
-            "Aumenta el ruido de la imagen radiográfica.",
-            "Aumenta el contraste entre las densidades radiológicas."
-        ],
-        "correctAnswers": "Aumenta la dosis de radiación que recibe el paciente."
-    },
-    {
-        "question": "La sala de espera de un centro sanitario se clasifica como",
-        "answers": [
-            "Zona controlada de libre acceso.",
-            "Zona vigilada.",
-            "Ninguna de las anteriores.",
-            "Libre acceso."
-        ],
-        "correctAnswers": "Libre acceso."
-    },
-    {
-        "question": "¿Cuál es, entre otras, una de las obligaciones de las Empresas de Asistencia Técnica?",
-        "answers": [
-            "Efectuar una verificación a continuación de cualquier intervención o reparación en un equipo de rayos X con fines de diagnóstico médico.",
-            "Ninguna de las anteriores.",
-            "Que la distribución de los equipos y sus componentes y los blindajes estructurales de las salas, atendiendo a sus áreas colindantes, son los adecuados.",
-            "Definir e implantar un Programa de Protección Radiológica."
-        ],
-        "correctAnswers": "Que la distribución de los equipos y sus componentes y los blindajes estructurales de las salas, atendiendo a sus áreas colindantes, son los adecuados."
-    },
-    {
-        "question": "La magnitud que expresa el daño biológico de la radiación es",
-        "answers": [
-            "Exposición.",
-            "Dosis equivalente.",
-            "Dosis absorbida.",
-            "Tasa de exposición."
-        ],
-        "correctAnswers": "Dosis equivalente."
-    },
-    {
-        "question": "El Real Decreto 1029/2022, regula.",
-        "answers": [
-            "La justificación del uso de las radiaciones ionizantes de las personas con ocasión de exposiciones médicas.",
-            "La Protección Sanitaria contra Radiaciones Ionizantes.",
-            "La instalación y utilización de aparatos de rayos X con fines de diagnóstico médico.",
-            "Los criterios de calidad de radiodiagnóstico."
-        ],
-        "correctAnswers": "La Protección Sanitaria contra Radiaciones Ionizantes."
-    },
-    {
-        "question": "El Real Decreto que establece las normas básicas de protección radiológica para prevenir la producción de efectos biológicos deterministas y estocásticos es.",
-        "answers": [
-            "RD 601/2019.",
-            "RD 1976/1999.",
-            "RD 783/2001.",
-            "RD 1085/2009."
-        ],
-        "correctAnswers": "RD 783/2001."
-    },
-    {
-        "question": "La inscripción en el registro de instalaciones de rayos X con fines de diagnóstico médico se realiza en.",
-        "answers": [
-            "Ministerio de Sanidad.",
-            "Ninguno de los anteriores.",
-            "Organismo competente de cada Comunidad Autónoma.",
-            "Consejo de Seguridad Nuclear."
-        ],
-        "correctAnswers": "Organismo competente de cada Comunidad Autónoma."
+        "correctAnswers": "Todas son correctas"
     },
      {
-        "question": "Aquella zona en la que no es improbable recibir dosis superiores a 1 mSv por año, siendo muy improbable recibir dosis superiores a 6 mSv por año, se denomina:",
+        "question": "El contraste",
         "answers": [
-            "Zona Controlada.",
-            "Zona Vigilada.",
-            "Zona de Permanencia Limitada.",
-            "Zona de Acceso Prohibido."
+            "Se define como nivel de ennegrecimiento de la imagen.",
+            "Es independiente del kV aplicado.",
+            "Es menor cuanto menos sea el Kv.",
+            "Se define como la capacidad de diferenciar las imágenes de dos objetos muy cercanos."
         ],
-        "correctAnswers": "Zona Vigilada."
+        "correctAnswers": "Se define como nivel de ennegrecimiento de la imagen."
     },
     {
-        "question": "En el efecto Compton",
+        "question": "¿Cuál de estas afirmaciones no es correcta?",
         "answers": [
-            "El fotón se absorbe parcialmente.",
-            "El fotón se absorbe totalmente.",
-            "El fotón no se desvía.",
-            "El fotón desaparece."
+            "Tiene bajo efecto termoiónico",
+            "El ánodo es un material de alto Z",
+            "Tiene alto punto de fusión",
+            "Posee alta conductividad térmica"
         ],
-        "correctAnswers": "El fotón se absorbe parcialmente."
+        "correctAnswers": "Tiene bajo efecto termoiónico"
     },
     {
-        "question": "La dosis absorbida se mide en",
+        "question": "La relación en Dosis/Efectos en los efectos deterministas es.",
         "answers": [
-            "Julios.",
-            "rem.",
-            "Gy.",
-            "Sv."
+            "Lineal.",
+            "Constante.",
+            "Exponencial.",
+            "Lineal cuadrática."
         ],
-        "correctAnswers": "Gy."
-    },{
-        "question": "¿Cuál de estas afirmaciones es correcta?",
-        "answers": [
-            "La tasa de dosis efectiva es la dosis equivalente por unidad de tiempo.",
-            "La unidad de la tasa de dosis efectiva es J/kg.",
-            "La tasa de dosis efectiva es la dosis por unidad de longitud.",
-            "La tasa de dosis efectiva es la dosis por unidad de tiempo."
-        ],
-        "correctAnswers": "La tasa de dosis efectiva es la dosis por unidad de tiempo."
+        "correctAnswers": "Lineal."
     },
-    {
-        "question": "Se dice que la radiación ionizante",
+     {
+        "question": "Los efectos probabilísticos se caracterizan por",
         "answers": [
-            "Se atenúa, es decir, pierde de forma progresiva su energía debido a los millones de interacciones con los átomos del medio.",
-            "Son el tipo de radiación electromagnética que transporta una cantidad de energía mayor.",
-            "Es el tipo de radiación electromagnética que posee mayor frecuencia.",
+            "Sus efectos son independientes de la dosis recibida.",
+            "De naturaleza somática o hereditaria.",
+            "Lesión letal de una o pocas células.",
             "Todas son correctas."
         ],
         "correctAnswers": "Todas son correctas."
     },
      {
-        "question": "Los rayos X de baja energía (40-90 keV) permiten la discriminación de las estructuras orgánicas gracias a la interacción por:",
+        "question": "La fase del ciclo reproductivo más sensible a la radiación es",
         "answers": [
-            "Colisión elástica.",
-            "Efecto fotoeléctrico.",
-            "Efecto Compton.",
-            "Creación de pares."
+            "G1 (Gap 1).",
+            "Meiosis.",
+            "Fase S (síntesis DNA).",
+            "M (Mitosis)."
         ],
-        "correctAnswers": "Efecto fotoeléctrico."
+        "correctAnswers": "M (Mitosis)."
     },
     {
-        "question": "El efecto fotoeléctrico es el proceso de interacción de:",
+        "question": "El tiempo de interacción de radiación X a nivel celular es",
         "answers": [
-            "Los fotones de menor energía.",
-            "Los fotones de mayor energía.",
-            "De los electrones cuando alcanzan velocidades ultrarelativistas.",
-            "Ninguna es correcta."
+            "Inexistente.",
+            "Intenso.",
+            "Instantáneo (10-17 s).",
+            "Prolongado."
         ],
-        "correctAnswers": "Los fotones de menor energía."
+        "correctAnswers": "Instantáneo (10-17 s)."
     },
     {
-        "question": "¿El concepto de Exposición...?",
+        "question": "La acción indirecta a nivel celular se produce por.",
         "answers": [
-            "Se introdujo para permitir la comparación de cantidades de radiación suministradas por los tubos de rayos X.",
-            "Es una unidad en el que los positrones se aceleran linealmente.",
-            "Ninguna es verdadera.",
-            "Se obtiene al dividir la carga resultante de la ionización producida por la masa de aire donde se produjo."
+            "Todas las anteriores.",
+            "Las reacciones químicas que producen los radicales libres, pudiendo causar varias lesiones en la célula.",
+            "La absorción de la energía disipada en el medio intracelular (principalmente el agua, ya que la célula está formada por un 75-80% de agua).",
+            "La creación de radicales libres al interaccionar la radiación con la molécula de agua."
         ],
-        "correctAnswers": "Se obtiene al dividir la carga resultante de la ionización producida por la masa de aire donde se produjo."
+        "correctAnswers": "Todas las anteriores."
+    },
+     {
+        "question": "Una población de células es muy radiosensible cuando",
+        "answers": [
+            "A altas dosis de radiación mueren una fracción importante de la misma.",
+            "A dosis moderadas de radiación muere una baja fracción de la misma.",
+            "Radiación de alta LET mata una fracción importante de la misma.",
+            "A bajas dosis de radiación muere una fracción importante de la misma."
+        ],
+        "correctAnswers": "A bajas dosis de radiación muere una fracción importante de la misma."
     },
     {
-        "question": "La unidad de la tasa de dosis equivalente es:",
+        "question": "¿Cuál de estas afirmaciones no es correcta?",
         "answers": [
-            "mSv/s.",
-            "mGy/s.",
-            "C/kg.",
-            "mSv."
+            "La interacción de la radiación en una célula es de carácter no selectivo.",
+            "Los efectos y acciones de las radiaciones siempre se consideran de tipo LESIVO, ya que ocasiona una lesión o pérdida de información en el material genético.",
+            "La interacción de la radiación con las células es función de probabilidad.",
+            "Los cambios producidos en las células, tejidos y órganos no son únicos, son específicos."
         ],
-        "correctAnswers": "mSv/s."
+        "correctAnswers": "Los cambios producidos en las células, tejidos y órganos no son únicos, son específicos."
+    },
+     {
+        "question": "En función del número de células que se ven afectadas por la radiación los efectos se clasifican como",
+        "answers": [
+            "Efectos deterministas y estocásticos.",
+            "Efectos estocásticos y probabilísticos.",
+            "Efectos somáticos y hereditarios.",
+            "Efectos deterministas y somáticos."
+        ],
+        "correctAnswers": "Efectos deterministas y estocásticos."
+    },
+     {
+        "question": "El mecanismo de interacción de los efectos deterministas.",
+        "answers": [
+            "Da lugar a un alto número de muertes celulares.",
+            "Da lugar a un bajo número de muertes celulares.",
+            "Es independiente el número de muertes celulares de la dosis recibida.",
+            "Es probabilista."
+        ],
+        "correctAnswers": "Da lugar a un alto número de muertes celulares."
     },
     {
-        "question": "¿Con objeto de evaluar los efectos de las radiaciones ionizantes sobre la población, se utiliza la magnitud?",
+        "question": "En las instalaciones de radiodiagnóstico dental...",
         "answers": [
-            "Dosis absorbida.",
-            "Dosis efectiva.",
-            "Tasa de exposición.",
-            "Actividad."
+            "No aplica el RD 1976/1999, de 23 de diciembre, por el que se establecen los criterios de calidad en radiodiagnóstico.",
+            "Es obligatoria la evaluación de la dosis a paciente de acuerdo con lo contemplado en el RD 1085/2009.",
+            "Se ha de evaluar de la dosis a paciente al menos de las exploraciones más frecuentes de acuerdo con lo contemplado en el RD 1976/1999.",
+            "No es obligatoria la evaluación de la dosis a paciente de acuerdo con lo contemplado en el RD 1976/1999, aunque es recomendable."
         ],
-        "correctAnswers": "Dosis efectiva."
+        "correctAnswers": "Se ha de evaluar de la dosis a paciente al menos de las exploraciones más frecuentes de acuerdo con lo contemplado en el RD 1976/1999."
     },
     {
-        "question": "El ánodo en un equipo de rayos X dental",
+        "question": "¿El programa de protección radiológica, que constará por escrito debe contemplar?",
         "answers": [
-            "Es el material blanco contra el que colisionan los electrones acelerados",
-            "Es un material blanco con un bajo número atómico que favorece la interacción de los electrones",
-            "Produce la liberación de electrones por efecto termoiónico",
-            "Es mejor estático a rotatorio ya que disipa peor el calor"
+            "Medidas de prevención.",
+            "Medidas de protección de datos.",
+            "Medidas de vigilancia.",
+            "Medidas administrativas.",
+            "Medidas de control."
         ],
-        "correctAnswers": "Es el material blanco contra el que colisionan los electrones acelerados"
+        "correctAnswers": [
+            "Medidas de prevención.",
+            "Medidas de vigilancia.",
+            "Medidas administrativas.",
+            "Medidas de control."
+        ]
     },
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    {
+        "question": "Los equipos de radiodiagnóstico dental:",
+        "answers": [
+            "El colimador debe tener una longitud menor de 20 cm.",
+            "Deben tener un kilovoltaje mayor o igual a 50 kV.",
+            "Deben tener un kilovoltaje mayor o igual a 60 kV.",
+            "El cable extensible debe ser como máximo de 2 m de longitud."
+        ],
+        "correctAnswers": "Deben tener un kilovoltaje mayor o igual a 60 kV."
+    },
+      {
+        "question": "En los equipos de radiografía intraoral:",
+        "answers": [
+            "El uso de delantales plomados es para la protección del paciente.",
+            "El tiempo de exposición se fijará en función de la pieza dental que queramos radiografiar y la complexión del paciente.",
+            "El kilovoltaje y miliamperaje son siempre variables.",
+            "El disparador del equipo nunca puede encontrarse fuera de la sala donde está situado el equipo."
+        ],
+        "correctAnswers": "El tiempo de exposición se fijará en función de la pieza dental que queramos radiografiar y la complexión del paciente."
+    },
+    {
+        "question": "En las clínicas dentales, estamos expuesto a un riesgo radiológico de:",
+        "answers": [
+            "Todas las anteriores.",
+            "Contaminación.",
+            "Irradiación externa.",
+            "Irradiación interna."
+        ],
+        "correctAnswers": "Irradiación externa."
+    },
+     {
+        "question": "¿La sala de rayos X intraoral debe estar clasificada como?",
+        "answers": [
+            "Zona Vigilada, señal de color Gris.",
+            "Zona Controlada de Permanencia Limitada, señal de color Verde.",
+            "Zona controlada, señal de color Gris.",
+            "Zona controlada, señal de color Verde."
+        ],
+        "correctAnswers": "Zona controlada, señal de color Verde."
+    },
+     {
+        "question": "¿Los trabajadores expuestos en clínicas dentales deben utilizar?",
+        "answers": [
+            "No es necesario el uso de dosímetro.",
+            "Siempre Dosimetría Individual.",
+            "Siempre Dosimetría de Área.",
+            "Dosimetría Individual o de Área."
+        ],
+        "correctAnswers": "Dosimetría Individual o de Área."
+    },
+    {
+        "question": "¿La clasificación de una sala de rayos X con un equipo CBCT debe ser?",
+        "answers": [
+            "Zona controlada de permanencia reglamentada.",
+            "Zona controlada de permanencia limitada.",
+            "Zona Vigilada.",
+            "Zona controlada de permanencia libre."
+        ],
+        "correctAnswers": "Zona controlada de permanencia libre."
+    },
+    {
+        "question": "Es obligatorio disponer de un cartel de aviso a embarazadas por el riesgo de irradiación en",
+        "answers": [
+            "Gabinete.",
+            "Pasillo.",
+            "Sala de espera.",
+            "Sala del panorámico."
+        ],
+        "correctAnswers": "Sala de espera."
+    },
+    {
+        "question": "El Real Decreto que establece los criterios de calidad en radiodiagnóstico es.",
+        "answers": [
+            "RD 783/2001.",
+            "RD 601/2019.",
+            "RD 1085/2009.",
+            "RD 1976/1999."
+        ],
+        "correctAnswers": "RD 1976/1999."
+    },
+     {
+        "question": "El Real Decreto 1085/2009, regula.",
+        "answers": [
+            "La instalación y utilización de aparatos de rayos X con fines de diagnóstico médico.",
+            "La Protección Sanitaria contra Radiaciones Ionizantes.",
+            "La justificación del uso de las radiaciones ionizantes de las personas con ocasión de exposiciones médicas.",
+            "Los criterios de calidad de radiodiagnóstico."
+        ],
+        "correctAnswers": "La instalación y utilización de aparatos de rayos X con fines de diagnóstico médico."
+    },
+    {
+        "question": "El Real Decreto 601/2019, regula.",
+        "answers": [
+            "La Protección Sanitaria contra Radiaciones Ionizantes.",
+            "Los criterios de calidad de radiodiagnóstico.",
+            "La instalación y utilización de aparatos de rayos X con fines de diagnóstico médico.",
+            "La justificación y optimización del uso de las radiaciones ionizantes para la protección radiológica de las personas con ocasión de exposiciones médicas."
+        ],
+        "correctAnswers": "La justificación y optimización del uso de las radiaciones ionizantes para la protección radiológica de las personas con ocasión de exposiciones médicas."
+    },
+     {
+        "question": "¿Para aquellos trabajadores que trabajen en zona controlada es obligatorio el uso de?",
+        "answers": [
+            "Dosímetro de área.",
+            "Todas son correctas.",
+            "Dosímetro de abdomen.",
+            "Dosímetro personal."
+        ],
+        "correctAnswers": "Dosímetro personal."
+    },
+    {
+        "question": "El Reglamento de Protección Sanitaria contra radiaciones ionizantes es aplicable a:",
+        "answers": [
+            "Centrales Nucleares, instalaciones de radiografía industrial e instalaciones de cobaltoterapia.",
+            "Instalaciones de radiodiagnóstico médico y veterinario.",
+            "A todas las instalaciones mencionadas les es aplicable el Reglamento.",
+            "Instalaciones médicas militares y del INSALUD."
+        ],
+        "correctAnswers": "A todas las instalaciones mencionadas les es aplicable el Reglamento."
+    },
+    {
+        "question": "Una clínica veterinaria con un equipo de rayos X tendrá la consideración de:",
+        "answers": [
+            "Instalación radiactiva de 3ª categoría.",
+            "Instalación radiactiva de radiodiagnóstico especial.",
+            "Instalación radiactiva de 2ª categoría.",
+            "Instalación radiactiva de 1ª categoría."
+        ],
+        "correctAnswers": "Instalación radiactiva de 3ª categoría."
+    },
+    {
+        "question": "Para personas en formación y estudiantes, el límite de dosis equivalente para el cristalino será de.",
+        "answers": [
+            "15 mSv por año oficial.",
+            "No existe límite.",
+            "5 mSv por año oficial.",
+            "1 mSv por año oficial."
+        ],
+        "correctAnswers": ["15 mSv por año oficial."]
+    },
+    {
+        "question": "Una sala de rayos X convencional para radiodiagnóstico general se clasifica como.",
+        "answers": [
+            "Zona vigilada.",
+            "Ninguna de las anteriores.",
+            "Zona controlada de libre acceso.",
+            "Zona de libre acceso."
+        ],
+        "correctAnswers": "Zona controlada de libre acceso."
+    },
+    {
+        "question": "De las siguientes directivas europeas ¿cuáles se encuentran en vigor actualmente?",
+        "answers": [
+            "2013/59/Euratom.",
+            "2003/122/Euratom.",
+            "90/641/Euratom.",
+            "96/29/Euratom.",
+            "97/43/Euratom.",
+            "89/618/Euratom."
+        ],
+        "correctAnswers": "2013/59/Euratom."
+    },
+    {
+        "question": "El Real Decreto que regula la instalación y utilización de equipos de rayos X es el.",
+        "answers": [
+            "RD 783/2001.",
+            "RD 1976/1999.",
+            "RD 601/2019.",
+            "RD 1085/2009."
+        ],
+        "correctAnswers": "RD 1085/2009."
+    },
+    {
+        "question": "El objetivo del R.D. 1029/2022 es.",
+        "answers": [
+            "Regular el régimen de autorizaciones administrativas, para IINN e IIRR, y otras actividades específicas relacionadas con la aplicación de radiaciones ionizantes.",
+            "La utilización de equipos e instalaciones de rayos X, con fines de diagnóstico médico, incluyendo el uso médico-legal y veterinario.",
+            "Establecer normas básicas de protección radiológica para prevenir la producción de efectos biológicos deterministas y limitar la probabilidad de incidencia de efectos estocásticos hasta valores considerados aceptables.",
+            "Establecer criterios de calidad en radiodiagnóstico para asegurar optimización en la obtención de imágenes."
+        ],
+        "correctAnswers": "Establecer normas básicas de protección radiológica para prevenir la producción de efectos biológicos deterministas y limitar la probabilidad de incidencia de efectos estocásticos hasta valores considerados aceptables."
+    },
+    {
+        "question": "En una instalación de radiodiagnóstico y/o radiactiva:",
+        "answers": [
+            "No pueden trabajar mujeres embarazadas cuyo embarazo se encuentre en los primeros cuarenta días de gestación.",
+            "No pueden trabajar mujeres embarazadas.",
+            "No pueden trabajar mujeres con capacidad de procrear.",
+            "Ninguna de las afirmaciones es cierta."
+        ],
+        "correctAnswers": "Ninguna de las afirmaciones es cierta."
+    },
+    {
+        "question": "Indicar cuáles de las siguientes funciones NO son de competencia del Consejo de Seguridad Nuclear:",
+        "answers": [
+            "Imponer sanciones por comisión de infracciones.",
+            "Conceder y renovar licencias y acreditaciones.",
+            "Realizar inspecciones sobre las actividades radiológicas autorizadas.",
+            "Cobrar tasas por los servicios prestados."
+        ],
+        "correctAnswers": "Imponer sanciones por comisión de infracciones."
+    },
+    {
+        "question": "Los efectos de la radiación siempre se consideran de carácter lesivo porque.",
+        "answers": [
+            "Ninguna es correcta.",
+            "Nunca ocasionan lesión o pérdida de información genética.",
+            "Siempre se produce un daño a la célula y nunca un beneficio.",
+            "Las acciones sobre la célula nunca son dañinas."
+        ],
+        "correctAnswers": "Siempre se produce un daño a la célula y nunca un beneficio."
+    },
+    {
+        "question": "De las siguientes afirmaciones, ¿cuáles son ciertas?",
+        "answers": [
+            "Por encima de la dosis umbral para la aparición de efectos no estocásticos, la gravedad del daño aumenta al aumentar la dosis.",
+            "Los efectos estocásticos pueden manifestarse en los descendientes de la persona irradiada.",
+            "Los efectos deterministas son el resultado de la muerte de células.",
+            "La probabilidad de aparición de un cáncer debido a la radiación es un efecto determinista."
+        ],
+        "correctAnswers": [
+            "Por encima de la dosis umbral para la aparición de efectos no estocásticos, la gravedad del daño aumenta al aumentar la dosis.",
+            "Los efectos estocásticos pueden manifestarse en los descendientes de la persona irradiada.",
+            "Los efectos deterministas son el resultado de la muerte de células."
+        ]
+    },
+     {
+        "question": "En una mutación, las células que pueden verse afectadas son",
+        "answers": [
+            "Cualquier tipo de célula.",
+            "Células somáticas.",
+            "Células germinales.",
+            "Las células indiferenciadas únicamente."
+        ],
+        "correctAnswers": "Cualquier tipo de célula."
+    },
+     {
+        "question": "La gravedad de los efectos estocásticos es.",
+        "answers": [
+            "Dependiente de la dosis.",
+            "Dependiente del momento de irradiación.",
+            "Independiente de la dosis.",
+            "Independiente del momento de irradiación."
+        ],
+        "correctAnswers": "Independiente de la dosis."
+    },
+    {
+        "question": "Las medidas fundamentales de protección contra la radiaciones se tomaron fundamentalmente…",
+        "answers": [
+            "A partir de la creación de la comisión internacional de protección contra los rayos x y el radio.",
+            "Antes de 1928, tras la aparición de muchos casos de cancer.",
+            "A partir de 1950, con la creación de la ICRP."
+        ],
+        "correctAnswers": "A partir de la creación de la comisión internacional de protección contra los rayos x y el radio."
+    },
+    {
+        "question": "Los efectos de la radiación sobre la célula",
+        "answers": [
+            "El daño será mayor cuanto más diferenciada se encuentre la célula.",
+            "Los factores que agravan los efectos son sólo biológicos.",
+            "Dependerá del lugar de la célula donde se produzca la interacción con la radiación ionizante.",
+            "Siempre son los mismos, independientemente del tipo de célula y su sensibilidad a la radiación."
+        ],
+        "correctAnswers": "Dependerá del lugar de la célula donde se produzca la interacción con la radiación ionizante."
+    },
+    {
+        "question": "De las siguientes afirmaciones, sobre los efectos somáticos inmediatos, señala las que son ciertas:",
+        "answers": [
+            "Se pueden manifestar tanto en un tejido en concreto o sobre todo el cuerpo.",
+            "Se trata de efectos estocásticos.",
+            "Se trata de efectos deterministas.",
+            "Su gravedad varía con la dosis."
+        ],
+        "correctAnswers": [
+            "Se pueden manifestar tanto en un tejido en concreto o sobre todo el cuerpo.",
+            "Se trata de efectos deterministas.",
+            "Su gravedad varía con la dosis."
+        ]
+    },
+    {
+        "question": "Los efectos biológicos estocásticos (genéticos) de las radiaciones se producen con:",
+        "answers": [
+            "Cualquier dosis absorbida.",
+            "Fotones gamma exclusivamente.",
+            "Dosis absorbidas superiores a ciertos valores umbrales.",
+            "Dosis absorbidas muy altas."
+        ],
+        "correctAnswers": "Cualquier dosis absorbida."
+    },
+    {
+        "question": "El mecanismo de acción de interacción radiación-célula más probable es.",
+        "answers": [
+            "Acción Directa.",
+            "Acción indirecta.",
+            "Ambas por igual.",
+            "Ninguna de las dos."
+        ],
+        "correctAnswers": "Acción indirecta."
+    },
+     {
+        "question": "¿El fotón?",
+        "answers": [
+            "Se caracteriza por su frecuencia y tiene un comportamiento corpuscular.",
+            "Es una partícula que exclusivamente tiene un comportamiento ondulatorio.",
+            "Tiene masa distinta de cero.",
+            "Existe en reposo."
+        ],
+        "correctAnswers": "Se caracteriza por su frecuencia y tiene un comportamiento corpuscular."
+    },
+    {
+        "question": "¿Cuál de estos se basa en el fenómeno físico de la excitación?",
+        "answers": [
+            "Contador proporcional.",
+            "contador Geiger.",
+            "Detector de centelleo.",
+            "Cámara de ionización."
+        ],
+        "correctAnswers": "Detector de centelleo."
+    },
+    {
+        "question": "Los tres detectores de ionización gaseosa son.",
+        "answers": [
+            "Cámara de ionización, contador proporcional y Geiger.",
+            "Cámara de ionización, de fisión y de fusión.",
+            "Cámara de excitación, de disociación y de fusión.",
+            "Cámara de disociación, de ionización y de Geiger."
+        ],
+        "correctAnswers": "Cámara de ionización, contador proporcional y Geiger."
+    },
+     {
+        "question": "¿Cuál de los siguientes tipos de detector no se basa su funcionamiento en la producción directa de carga?",
+        "answers": [
+            "Contadores proporcionales.",
+            "Detectores de Semiconductores.",
+            "Detectores de centelleo.",
+            "Contadores Geiger."
+        ],
+        "correctAnswers": "Detectores de centelleo."
+    },
+    {
+        "question": "Las desventajas de los dosímetros de película.",
+        "answers": [
+            "No son equivalentes a tejido humano.",
+            "No son reutilizables.",
+            "El proceso de revelado es costoso y tóxico.",
+            "Todas las anteriores."
+        ],
+        "correctAnswers": "Todas las anteriores."
+    },
+    {
+        "question": "Los principales efectos que producen los rayos X al atravesar la materia son:",
+        "answers": [
+            "Disociación de la materia o ruptura molecular.",
+            "Producción de carga o ionización.",
+            "Aumento de la temperatura.",
+            "Excitación de luminiscencia en algunos sólidos."
+        ],
+        "correctAnswers": "Excitación de luminiscencia en algunos sólidos."
+    },
+    {
+        "question": "El dosímetro de termoluminescencia.",
+        "answers": [
+            "Sólo se usa como dosimetría personal.",
+            "Necesita baterías para su funcionamiento.",
+            "Es la dosimetría autorizada en España.",
+            "No se usa, ya que se prioriza el uso del de película."
+        ],
+        "correctAnswers": "Es la dosimetría autorizada en España."
+    },
+    {
+        "question": "El hecho de que los gases sean conductores de la electricidad al ser atravesados por la radiación se puede aprovechar para:",
+        "answers": [
+            "Construir detectores de radiación.",
+            "Refrigerar los equipos de rayos X.",
+            "Refrigerar el transformador del equipo.",
+            "Proteger contra la radiación."
+        ],
+        "correctAnswers": "Construir detectores de radiación."
+    },
+    {
+        "question": "Los dosímetros de película tienen la ventaja",
+        "answers": [
+            "Mantiene un registro permanente.",
+            "Son baratos.",
+            "Todas las anteriores.",
+            "Son pequeños."
+        ],
+        "correctAnswers": "Todas las anteriores."
+    },
+    {
+        "question": "El dosímetro de luminescencia se clasifica como.",
+        "answers": [
+            "Detector inmediato de ionización gaseosa.",
+            "Detector retardado de ionización.",
+            "Detector retardado de excitación.",
+            "Detector inmediato de excitación."
+        ],
+        "correctAnswers": "Detector retardado de excitación."
+    },
+    {
+        "question": "Los dosímetros personales.",
+        "answers": [
+            "Miden dosis equivalentes profundas Hp(0,10).",
+            "Deben estar supervisados por Empresas Autorizadas por el CSN.",
+            "Miden dosis equivalente superficial Hp(0,07).",
+            "Todas las anteriores."
+        ],
+        "correctAnswers": "Todas las anteriores."
+    },
+{
+        "question": "La dosimetría ambiental",
+        "answers": [
+            "Se usan dispositivos que llevan cada trabajador permanentemente mientras realizan la actividad.",
+            "Da medida mensual de las dosis acumuladas por cada individuo durante el trabajo.",
+            "Ninguna es correcta.",
+            "Se usa para registrar las dosis en determinados puntos clave de la instalación radiactiva."
+        ],
+        "correctAnswers": "Se usa para registrar las dosis en determinados puntos clave de la instalación radiactiva."
+    },    
+    {
+        "question": "Los principales efectos que producen los rayos X al atravesar la materia son..",
+        "answers": [
+            "Excitación de luminiscencia en algunos sólidos.",
+            "Producción de carga o ionización.",
+            "Aumento de la temperatura.",
+            "Disociación de la materia o ruptura molecular."
+        ],
+        "correctAnswers": [
+            "Excitación de luminiscencia en algunos sólidos.",
+            "Producción de carga o ionización.",
+            "Disociación de la materia o ruptura molecular."
+        ]
+    }
 
 ]
