@@ -377,16 +377,7 @@
         ],
         "correctAnswers": "Se emplean para medir radiación de tipo X, gamma y beta."
     },
-    {
-        "question": "¿Cuál de los siguientes tipos de detector no basa su funcionamiento en la producción directa de carga?",
-        "answers": [
-            "Detectores de centelleo.",
-            "Detectores de semiconductor.",
-            "Contadores proporcionales.",
-            "Contadores Geiger."
-        ],
-        "correctAnswers": "Detectores de centelleo."
-    },
+    
     {
         "question": "Los detectores de termoluminiscencia están constituidos por:",
         "answers": [

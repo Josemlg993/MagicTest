@@ -257,16 +257,7 @@
         ],
         "correctAnswers": "Mejora diagnóstica en ortodoncia, implantología, cirugía oral y maxilofacial, ortognática, restauración, huesos temporales y otras asociadas a cabeza y cuello."
     },
-    {
-        "question": "Los trabajadores expuestos en clínicas dentales deben utilizar:",
-        "answers": [
-            "No es necesario el uso de dosímetro.",
-            "Siempre Dosimetría de Área.",
-            "Dosimetría Individual o de Área.",
-            "Siempre Dosimetría Individual."
-        ],
-        "correctAnswers": "Dosimetría Individual o de Área."
-    },
+   
     {
         "question": "¿Debe existir un blindaje adicional estructural en las instalaciones de radiología veterinaria?",
         "answers": [
@@ -307,16 +298,7 @@
         ],
         "correctAnswers": "1 mGy/h a 1 m."
     },
-    {
-        "question": "La clasificación de una sala de rayos X con un equipo CBCT debe ser:",
-        "answers": [
-            "Zona Vigilada.",
-            "Zona controlada de permanencia libre.",
-            "Zona controlada de permanencia limitada.",
-            "Zona controlada de permanencia reglamentada."
-        ],
-        "correctAnswers": "Zona controlada de permanencia libre."
-    },
+    
     {
         "question": "¿Qué disminuye la dosis en una exploración radiográfica?",
         "answers": [
@@ -346,16 +328,6 @@
             "No es necesario ya que es cuestión de práctica y destreza."
         ],
         "correctAnswers": "No es necesario ya que es cuestión de práctica y destreza."
-    },
-    {
-        "question": "¿En los equipos de radiografía intraoral?",
-        "answers": [
-            "El tiempo de exposición se fijará en función de la pieza dental que queramos radiografiar y la complexión del paciente.",
-            "El disparador del equipo nunca puede encontrarse fuera de la sala donde está situado el equipo.",
-            "El uso de delantales plomados es para la protección del paciente.",
-            "El kilovoltaje y miliamperaje son siempre variables."
-        ],
-        "correctAnswers": "El tiempo de exposición se fijará en función de la pieza dental que queramos radiografiar y la complexión del paciente."
     },
     {
         "question": "¿En una clínica dental es obligatorio clasificar como Zona Vigilada?",
