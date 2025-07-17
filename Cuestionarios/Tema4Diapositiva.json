@@ -190,46 +190,6 @@
         "correctAnswers": "Inferior a 90 kV."
     },
     {
-        "question": "Si aumentamos el miliamperaje al realizar una radiografía:",
-        "answers": [
-            "Aumenta la dosis de radiación que recibe el paciente.",
-            "Aumenta el contraste entre las densidades radiológicas.",
-            "Mejora la resolución espacial de la radiografía.",
-            "Aumenta el ruido de la imagen radiográfica."
-        ],
-        "correctAnswers": "Aumenta la dosis de radiación que recibe el paciente."
-    },
-    {
-        "question": "El espesor de material que se debe interponer para reducir a la mitad la exposición de un haz recibe el nombre de:",
-        "answers": [
-            "Coraza.",
-            "Capa hemirreductora.",
-            "Colimación.",
-            "Filtración total."
-        ],
-        "correctAnswers": "Capa hemirreductora."
-    },
-    {
-        "question": "El contraste de la imagen radiográfica con 80 kV de tensión de tubo, es en relación con una tensión de 60 kV:",
-        "answers": [
-            "Sólo depende de la región anatómica.",
-            "El mismo.",
-            "Menor.",
-            "Mayor."
-        ],
-        "correctAnswers": "Menor."
-    },
-    {
-        "question": "Con respecto a las diferencias entre la radiografía digital y la radiografía convencional, ¿cuál de las siguientes afirmaciones es cierta?",
-        "answers": [
-            "La radiografía digital tiene mayor gama dinámica que la convencional.",
-            "La radiografía digital tiene mayor resolución espacial.",
-            "Con radiografía digital se radia menos al paciente.",
-            "La radiografía digital necesita mayor kilovoltaje."
-        ],
-        "correctAnswers": "La radiografía digital tiene mayor gama dinámica que la convencional."
-    },
-    {
         "question": "En sistemas de imagen de película ¿los parámetros kilovoltaje, miliamperaje y tiempo de exposición son críticos para que la imagen tenga la calidad suficiente?",
         "answers": [
             "No, porque podemos corregir el ennegrecimiento modificando la temperatura de los líquidos de revelado, al igual que en sistemas de imagen digital en los que podemos cambiar parámetros como el brillo y el contraste por software independientemente de la dosis impartida.",

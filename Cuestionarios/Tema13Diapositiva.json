@@ -221,6 +221,26 @@
         "correctAnswers": "Que la distribución de los equipos y sus componentes y los blindajes estructurales de las salas, atendiendo a sus áreas colindantes, son los adecuados."
     },
     {
+        "question": "¿Cuál es, entre otras, una de las obligaciones de las Empresas de Asistencia Técnica?",
+        "answers": [
+            "Efectuar una verificación a continuación de cualquier intervención o reparación en un equipo de rayos X con fines de diagnóstico médico.",
+            "Ninguna de las anteriores.",
+            "Que la distribución de los equipos y sus componentes y los blindajes estructurales de las salas, atendiendo a sus áreas colindantes, son los adecuados.",
+            "Definir e implantar un Programa de Protección Radiológica."
+        ],
+        "correctAnswers": "Efectuar una verificación a continuación de cualquier intervención o reparación en un equipo de rayos X con fines de diagnóstico médico."
+    },
+    {
+        "question": "¿Cuál es, entre otras, una de las obligaciones del Titular?",
+        "answers": [
+            "Efectuar una verificación a continuación de cualquier intervención o reparación en un equipo de rayos X con fines de diagnóstico médico.",
+            "Ninguna de las anteriores.",
+            "Que la distribución de los equipos y sus componentes y los blindajes estructurales de las salas, atendiendo a sus áreas colindantes, son los adecuados.",
+            "Definir e implantar un Programa de Protección Radiológica."
+        ],
+        "correctAnswers": "Definir e implantar un Programa de Protección Radiológica."
+    },
+    {
         "question": "El Programa de Protección Radiológica incluirá",
         "answers": [
             "Medidas de Vigilancia y Administrativas.",

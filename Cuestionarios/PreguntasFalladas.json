@@ -1,0 +1,345 @@
+[
+    {
+        "question": "Los electrones son partículas fundamentales que pueden",
+        "answers": [
+            "Perder energía mediante procesos radiativos como la radiación de frenado.",
+            "Todas son correctas.",
+            "Depositar energía en el medio que atraviesan mediante procesos de ionizaciones.",
+            "Depositar energía en el medio que atraviesan excitando electrones ligados al átomo."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "El electrón ligado a un átomo que se excita",
+        "answers": [
+            "Ninguna de las anteriores.",
+            "Promociona a un nivel energético superior y seguidamente después es arrancado del átomo.",
+            "Promociona a un nivel energético superior y tras un periodo temporal de un año se desexcita.",
+            "Promociona a un nivel de menor energía y se mantiene estable en ese nivel."
+        ],
+        "correctAnswers": "Ninguna de las anteriores."
+    },
+    {
+        "question": "La radiación de frenado o Bremsstrahlung",
+        "answers": [
+            "Todas son correctas.",
+            "Ocurre más comúnmente con partículas de baja energía.",
+            "Es energía perdida cuando la partícula se frena, lo que produce rayos x.",
+            "Se pierde energía pero no momento."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+    {
+        "question": "Los fotones que dan lugar al efecto Compton",
+        "answers": [
+            "Los fotones que dan lugar al efecto Compton pueden tener velocidades nulas.",
+            "Poseen una energía mayor en comparación con los fotones que dan lugar a fotoeléctrico.",
+            "El efecto Compton es producido por la interacción de electrones con la materia.",
+            "Son los fotones de mayor energía en la naturaleza."
+        ],
+        "correctAnswers": "Poseen una energía mayor en comparación con los fotones que dan lugar a fotoeléctrico."
+    },
+    {
+        "question": "El poder de frenado",
+        "answers": [
+            "Es la energía depositada por unidad de distancia recorrida.",
+            "Todas las anteriores.",
+            "Es la capacidad de una onda electromagnética de atravesar materia.",
+            "Es la capacidad de un material para frenar los rayos X."
+        ],
+        "correctAnswers": "Es la energía depositada por unidad de distancia recorrida."
+    },
+    {
+        "question": "En los procesos de ionización",
+        "answers": [
+            "Tiene lugar la liberación de electrones ligados al átomo.",
+            "Se produce la liberación de neutrones y protones del átomo.",
+            "Hay una transformación de un único protón en dos electrones que son liberados del átomo.",
+            "Los electrones recoben energía promocionando a un nivel energético superior."
+        ],
+        "correctAnswers": "Tiene lugar la liberación de electrones ligados al átomo."
+    },
+{
+        "question": "¿Cuál es el espectro de radiaciones electromagnéticas?",
+        "answers": [
+            "Únicamente hace referencia a las ondas de media y baja frecuencia.",
+            "Define a los rayos gamma como las radiaciones menos energéticas.",
+            "Consiste en la ordenación del conjunto de todas las radiaciones electromagnéticas, según su mayor o menor frecuencia.",
+            "Visible por el ojo humano abarca un amplio espectro, entre 10 y 2000 nm."
+        ],
+        "correctAnswers": "Consiste en la ordenación del conjunto de todas las radiaciones electromagnéticas, según su mayor o menor frecuencia."
+    },
+     {
+        "question": "¿Cuál de estas afirmaciones es correcta?",
+        "answers": [
+            "La longitud mínima del localizador de un equipo de rayos X intraoral es de 20 cm.",
+            "El cable del disparador tiene que tener una longitud menor de 2 m.",
+            "En colimadores circulares (equipos intraorales) el área de irradiación mínima debe ser 60 mm de diámetro.",
+            "La rejilla antidifusora aumenta la radiación dispersa que llega a la placa, empeorando la calidad de la imagen."
+        ],
+        "correctAnswers": "La longitud mínima del localizador de un equipo de rayos X intraoral es de 20 cm."
+    },
+{
+        "question": "¿Qué es el espectro electromagnético?",
+        "answers": [
+            "Es la clasificación de las radiaciones electromagnéticas en función de la cantidad de energía que transporta cada una de ellas",
+            "Es la representación de los distintos tipos de partículas fundamentales descubiertas",
+            "Es la representación de los diferentes elementos químicos en función de sus propiedades",
+            "Es la clasificación de los diferentes tipos de haces de radiaciones electromagnética y partículas cargadas en función de su cantidad de masa"
+        ],
+        "correctAnswers": "Es la clasificación de las radiaciones electromagnéticas en función de la cantidad de energía que transporta cada una de ellas"
+    },
+    {
+        "question": "La diferencia de potencial entre el cátodo y el ánodo",
+        "answers": [
+            "Acelera la velocidad de los electrones, provocando mayor poder de penetración",
+            "Provoca un aumento de la nube de electrones de ánodo, aumentando la cantidad final de energía",
+            "No tiene consecuencias sobre el equipo",
+            "Provoca la direccionalidad de los electrones, para desplazarse del ánodo al cátodo"
+        ],
+        "correctAnswers": "Acelera la velocidad de los electrones, provocando mayor poder de penetración"
+    },
+    {
+        "question": "Los fotones de baja energía eliminados por el filtro",
+        "answers": [
+            "Son los que menos dosis darían al paciente, por eso no es tan importante filtrar.",
+            "Son los que atenúan la imagen.",
+            "Son los que más dosis darían al paciente.",
+            "Son los que mejor calidad de imagen ofrecen."
+        ],
+        "correctAnswers": "Son los que más dosis darían al paciente."
+    },
+    {
+        "question": "¿Si aumentamos el miliamperaje al realizar una radiografía?",
+        "answers": [
+            "Aumenta la dosis de radiación que recibe el paciente.",
+            "Mejora la resolución espacial de la radiografía.",
+            "Aumenta el ruido de la imagen radiográfica.",
+            "Aumenta el contraste entre las densidades radiológicas."
+        ],
+        "correctAnswers": "Aumenta la dosis de radiación que recibe el paciente."
+    },
+    {
+        "question": "La sala de espera de un centro sanitario se clasifica como",
+        "answers": [
+            "Zona controlada de libre acceso.",
+            "Zona vigilada.",
+            "Ninguna de las anteriores.",
+            "Libre acceso."
+        ],
+        "correctAnswers": "Libre acceso."
+    },
+    {
+        "question": "¿Cuál es, entre otras, una de las obligaciones de las Empresas de Asistencia Técnica?",
+        "answers": [
+            "Efectuar una verificación a continuación de cualquier intervención o reparación en un equipo de rayos X con fines de diagnóstico médico.",
+            "Ninguna de las anteriores.",
+            "Que la distribución de los equipos y sus componentes y los blindajes estructurales de las salas, atendiendo a sus áreas colindantes, son los adecuados.",
+            "Definir e implantar un Programa de Protección Radiológica."
+        ],
+        "correctAnswers": "Que la distribución de los equipos y sus componentes y los blindajes estructurales de las salas, atendiendo a sus áreas colindantes, son los adecuados."
+    },
+    {
+        "question": "La magnitud que expresa el daño biológico de la radiación es",
+        "answers": [
+            "Exposición.",
+            "Dosis equivalente.",
+            "Dosis absorbida.",
+            "Tasa de exposición."
+        ],
+        "correctAnswers": "Dosis equivalente."
+    },
+    {
+        "question": "El Real Decreto 1029/2022, regula.",
+        "answers": [
+            "La justificación del uso de las radiaciones ionizantes de las personas con ocasión de exposiciones médicas.",
+            "La Protección Sanitaria contra Radiaciones Ionizantes.",
+            "La instalación y utilización de aparatos de rayos X con fines de diagnóstico médico.",
+            "Los criterios de calidad de radiodiagnóstico."
+        ],
+        "correctAnswers": "La Protección Sanitaria contra Radiaciones Ionizantes."
+    },
+    {
+        "question": "El Real Decreto que establece las normas básicas de protección radiológica para prevenir la producción de efectos biológicos deterministas y estocásticos es.",
+        "answers": [
+            "RD 601/2019.",
+            "RD 1976/1999.",
+            "RD 783/2001.",
+            "RD 1085/2009."
+        ],
+        "correctAnswers": "RD 783/2001."
+    },
+    {
+        "question": "La inscripción en el registro de instalaciones de rayos X con fines de diagnóstico médico se realiza en.",
+        "answers": [
+            "Ministerio de Sanidad.",
+            "Ninguno de los anteriores.",
+            "Organismo competente de cada Comunidad Autónoma.",
+            "Consejo de Seguridad Nuclear."
+        ],
+        "correctAnswers": "Organismo competente de cada Comunidad Autónoma."
+    },
+     {
+        "question": "Aquella zona en la que no es improbable recibir dosis superiores a 1 mSv por año, siendo muy improbable recibir dosis superiores a 6 mSv por año, se denomina:",
+        "answers": [
+            "Zona Controlada.",
+            "Zona Vigilada.",
+            "Zona de Permanencia Limitada.",
+            "Zona de Acceso Prohibido."
+        ],
+        "correctAnswers": "Zona Vigilada."
+    },
+    {
+        "question": "En el efecto Compton",
+        "answers": [
+            "El fotón se absorbe parcialmente.",
+            "El fotón se absorbe totalmente.",
+            "El fotón no se desvía.",
+            "El fotón desaparece."
+        ],
+        "correctAnswers": "El fotón se absorbe parcialmente."
+    },
+    {
+        "question": "La dosis absorbida se mide en",
+        "answers": [
+            "Julios.",
+            "rem.",
+            "Gy.",
+            "Sv."
+        ],
+        "correctAnswers": "Gy."
+    },{
+        "question": "¿Cuál de estas afirmaciones es correcta?",
+        "answers": [
+            "La tasa de dosis efectiva es la dosis equivalente por unidad de tiempo.",
+            "La unidad de la tasa de dosis efectiva es J/kg.",
+            "La tasa de dosis efectiva es la dosis por unidad de longitud.",
+            "La tasa de dosis efectiva es la dosis por unidad de tiempo."
+        ],
+        "correctAnswers": "La tasa de dosis efectiva es la dosis por unidad de tiempo."
+    },
+    {
+        "question": "Se dice que la radiación ionizante",
+        "answers": [
+            "Se atenúa, es decir, pierde de forma progresiva su energía debido a los millones de interacciones con los átomos del medio.",
+            "Son el tipo de radiación electromagnética que transporta una cantidad de energía mayor.",
+            "Es el tipo de radiación electromagnética que posee mayor frecuencia.",
+            "Todas son correctas."
+        ],
+        "correctAnswers": "Todas son correctas."
+    },
+     {
+        "question": "Los rayos X de baja energía (40-90 keV) permiten la discriminación de las estructuras orgánicas gracias a la interacción por:",
+        "answers": [
+            "Colisión elástica.",
+            "Efecto fotoeléctrico.",
+            "Efecto Compton.",
+            "Creación de pares."
+        ],
+        "correctAnswers": "Efecto fotoeléctrico."
+    },
+    {
+        "question": "El efecto fotoeléctrico es el proceso de interacción de:",
+        "answers": [
+            "Los fotones de menor energía.",
+            "Los fotones de mayor energía.",
+            "De los electrones cuando alcanzan velocidades ultrarelativistas.",
+            "Ninguna es correcta."
+        ],
+        "correctAnswers": "Los fotones de menor energía."
+    },
+    {
+        "question": "¿El concepto de Exposición...?",
+        "answers": [
+            "Se introdujo para permitir la comparación de cantidades de radiación suministradas por los tubos de rayos X.",
+            "Es una unidad en el que los positrones se aceleran linealmente.",
+            "Ninguna es verdadera.",
+            "Se obtiene al dividir la carga resultante de la ionización producida por la masa de aire donde se produjo."
+        ],
+        "correctAnswers": "Se obtiene al dividir la carga resultante de la ionización producida por la masa de aire donde se produjo."
+    },
+    {
+        "question": "La unidad de la tasa de dosis equivalente es:",
+        "answers": [
+            "mSv/s.",
+            "mGy/s.",
+            "C/kg.",
+            "mSv."
+        ],
+        "correctAnswers": "mSv/s."
+    },
+    {
+        "question": "¿Con objeto de evaluar los efectos de las radiaciones ionizantes sobre la población, se utiliza la magnitud?",
+        "answers": [
+            "Dosis absorbida.",
+            "Dosis efectiva.",
+            "Tasa de exposición.",
+            "Actividad."
+        ],
+        "correctAnswers": "Dosis efectiva."
+    },
+    {
+        "question": "El ánodo en un equipo de rayos X dental",
+        "answers": [
+            "Es el material blanco contra el que colisionan los electrones acelerados",
+            "Es un material blanco con un bajo número atómico que favorece la interacción de los electrones",
+            "Produce la liberación de electrones por efecto termoiónico",
+            "Es mejor estático a rotatorio ya que disipa peor el calor"
+        ],
+        "correctAnswers": "Es el material blanco contra el que colisionan los electrones acelerados"
+    },
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
