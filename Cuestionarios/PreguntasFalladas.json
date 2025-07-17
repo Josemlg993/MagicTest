@@ -288,58 +288,538 @@
         ],
         "correctAnswers": "Es el material blanco contra el que colisionan los electrones acelerados"
     },
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    {
+        "question": "La filtración de un tubo de rayos X tiene como objetivo fundamental:",
+        "answers": [
+            "Evitar que aparezcan electrones en el exterior.",
+            "Atenuar los fotones de alta energía.",
+            "Aumentar la producción de fotones.",
+            "Disminuir el porcentaje de fotones de baja energía."
+        ],
+        "correctAnswers": "Disminuir el porcentaje de fotones de baja energía."
+    },
+    {
+        "question": "Los equipos generadores de alta frecuencia se caracterizan por",
+        "answers": [
+            "Mejor calidad de imagen",
+            "Mayor dosis al paciente",
+            "Formas de onda multipulso",
+            "Más tiempo de exposición"
+        ],
+        "correctAnswers": "Mejor calidad de imagen"
+    },
+    {
+        "question": "El papel de las cartulinas de refuerzo consiste en:",
+        "answers": [
+            "Disminuir la radiación dispersa producida por el paciente.",
+            "Hacer que finalice la exposición cuando ha llegado una cantidad suficiente de radiación.",
+            "Transformar los RX en fotones de luz visible.",
+            "Transformar los RX en electrones."
+        ],
+        "correctAnswers": "Transformar los RX en fotones de luz visible."
+    },
+    {
+        "question": "El número de neutrones presentes en los núcleos de los átomos de un mismo elemento químico:",
+        "answers": [
+            "no tiene por qué ser siempre igual",
+            "es igual al número de electrones presentes en la corteza",
+            "se llama número másico",
+            "se llama número atómico"
+        ],
+        "correctAnswers": "no tiene por qué ser siempre igual"
+    },
+    {
+        "question": "Los problemas asociados al tubo del rayos X son",
+        "answers": [
+            "Todas son correctas",
+            "Evaporación del filamento por las altas temperaturas",
+            "Mantenimiento del ánodo a altas temperaturas durante largos periodos de tiempos que impiden la disipación correcta del calor",
+            "Altas temperaturas del ánodo que conllevan la fusión y \"picado\" del mismo"
+        ],
+        "correctAnswers": "Todas son correctas"
+    },
+    {
+        "question": "Las rejillas antidifusoras sirven para:",
+        "answers": [
+            "Reducir la radiación extrafocal.",
+            "Reducir el contraste de la imagen.",
+            "Absorber la radiación dispersa que se produce dentro del paciente.",
+            "Disminuir la dosis en piel de los pacientes."
+        ],
+        "correctAnswers": "Absorber la radiación dispersa que se produce dentro del paciente."
+    },
+    {
+        "question": "¿Cuanto más se aumenta la corriente que atraviesa el tubo de rayos X?",
+        "answers": [
+            "menos cantidad de rayos X se genera.",
+            "menor es la potencia disipada en el anticátodo.",
+            "mayor es la energía de los rayos X.",
+            "más cantidad de rayos X se genera."
+        ],
+        "correctAnswers": "más cantidad de rayos X se genera."
+    },
+    {
+        "question": "Cuanto mayor es el kV aplicado",
+        "answers": [
+            "Llegan más fotones de la misma energía.",
+            "Hace que la imagen aumente el contraste.",
+            "Llegan los mismos fotones con más energía.",
+            "Llegan más fotones y más energéticos."
+        ],
+        "correctAnswers": "Llegan más fotones y más energéticos."
+    },
+     {
+        "question": "Para un kV alto",
+        "answers": [
+            "Hay más efecto Compton, por lo tanto más radiación dispersa.",
+            "Hay más efecto fotoeléctrico, por lo tanto menos radiación dispersa.",
+            "Hay más efecto fotoeléctrico, por lo tanto más radiación dispersa.",
+            "Hay más efecto Compton, por lo tanto menos radiación dispersa."
+        ],
+        "correctAnswers": "Hay más efecto Compton, por lo tanto más radiación dispersa."
+    },
+    {
+        "question": "Un kV alto fomenta",
+        "answers": [
+            "El efecto Compton.",
+            "La creación de pares.",
+            "La ionización.",
+            "El efecto fotoeléctrico."
+        ],
+        "correctAnswers": "El efecto Compton."
+    },
+    {
+        "question": "Los rayos x característicos",
+        "answers": [
+            "Dan lugar a la parte continua del espectro de rayos x.",
+            "Ninguna de las anteriores.",
+            "Dan lugar a la parte discreta del espectro de rayos x.",
+            "Siempre tiene el mismo valor."
+        ],
+        "correctAnswers": "Dan lugar a la parte discreta del espectro de rayos x."
+    },
+    {
+        "question": "El haz primario",
+        "answers": [
+            "Es el que sale colimado por el tubo de rayos x.",
+            "Es el que se dispersa dentro del tubo de rayos x.",
+            "Es el que se queda remanente en la sala.",
+            "Es el que dispersa el paciente."
+        ],
+        "correctAnswers": "Es el que sale colimado por el tubo de rayos x."
+    },
+    {
+        "question": "Cuanto mayor sean los mAs",
+        "answers": [
+            "Llegan igual cantidad de fotones al paciente, de la misma energía todos.",
+            "Más cantidad de fotones llegan al paciente, de la misma energía todos.",
+            "Más cantidad de fotones llegan al paciente, con mayor energía todos.",
+            "Llegan igual cantidad de fotones al paciente, más energéticos."
+        ],
+        "correctAnswers": "Más cantidad de fotones llegan al paciente, de la misma energía todos."
+    },
+    {
+        "question": "Una de las novedades del Real Decreto 1085/2009 es",
+        "answers": [
+            "El examen y aprobación de los planes de vertido de los efluentes radiactivos.",
+            "La vigilancia dosimétrica de los trabajadores expuestos.",
+            "Que todo equipo utilizado para radiología cuente con un dispositivo sobre la cantidad de radiación producida por el equipo.",
+            "Elaborar e implantar el Programa de Protección Radiológica."
+        ],
+        "correctAnswers": "Elaborar e implantar el Programa de Protección Radiológica."
+    },
+     {
+        "question": "Una sala de radiodiagnóstico veterinario sería:",
+        "answers": [
+            "De tipo 3 si tiene un equipo de radiografía intraoral y otro convencional.",
+            "De tipo 1 en cualquier caso pues requiere realizar siempre las exploraciones a pie de tubo.",
+            "Típicamente de tipo 2 si tiene un equipo de radiología convencional.",
+            "De tipo 2 si tiene un equipo TAC."
+        ],
+        "correctAnswers": "De tipo 2 si tiene un equipo TAC."
+    },
+    {
+        "question": "¿Cuál es, entre otras, una de las obligaciones de las Unidades Técnicas de Protección Radiológica?",
+        "answers": [
+            "Efectuar una verificación a continuación de cualquier intervención o reparación en un equipo de rayos X con fines de diagnóstico médico.",
+            "Ninguna de las anteriores.",
+            "Que la distribución de los equipos y sus componentes y los blindajes estructurales de las salas, atendiendo a sus áreas colindantes, son los adecuados.",
+            "Definir e implantar un Programa de Protección Radiológica."
+        ],
+        "correctAnswers": "Que la distribución de los equipos y sus componentes y los blindajes estructurales de las salas, atendiendo a sus áreas colindantes, son los adecuados."
+    },
+    {
+        "question": "¿Cuál es, entre otras, una de las obligaciones de las Empresas de Asistencia Técnica?",
+        "answers": [
+            "Efectuar una verificación a continuación de cualquier intervención o reparación en un equipo de rayos X con fines de diagnóstico médico.",
+            "Ninguna de las anteriores.",
+            "Que la distribución de los equipos y sus componentes y los blindajes estructurales de las salas, atendiendo a sus áreas colindantes, son los adecuados.",
+            "Definir e implantar un Programa de Protección Radiológica."
+        ],
+        "correctAnswers": "Efectuar una verificación a continuación de cualquier intervención o reparación en un equipo de rayos X con fines de diagnóstico médico."
+    },
+    {
+        "question": "¿Cuál es, entre otras, una de las obligaciones del Titular?",
+        "answers": [
+            "Efectuar una verificación a continuación de cualquier intervención o reparación en un equipo de rayos X con fines de diagnóstico médico.",
+            "Ninguna de las anteriores.",
+            "Que la distribución de los equipos y sus componentes y los blindajes estructurales de las salas, atendiendo a sus áreas colindantes, son los adecuados.",
+            "Definir e implantar un Programa de Protección Radiológica."
+        ],
+        "correctAnswers": "Definir e implantar un Programa de Protección Radiológica."
+    },
+    {
+        "question": "La limitación de dosis",
+        "answers": [
+            "Considera los límites de dosis una línea divisoria entre la seguridad y el peligro.",
+            "Todas las anteriores.",
+            "Pretende dos objetivos: evitar efectos deterministas y controlar la aparición de los efectos estocásticos.",
+            "Únicamente tiene en cuenta los efectos estocásticos en trabajadores expuestos."
+        ],
+        "correctAnswers": "Pretende dos objetivos: evitar efectos deterministas y controlar la aparición de los efectos estocásticos."
+    },
+     {
+        "question": "A las exposiciones debidas a examen y tratamiento médico se le deben aplicar los principios de:",
+        "answers": [
+            "justificación, optimización y limitación.",
+            "justificación y limitación.",
+            "justificación y optimización.",
+            "justificación únicamente."
+        ],
+        "correctAnswers": "justificación y optimización."
+    },
+     {
+        "question": "El objetivo principal de la protección radiológica es:",
+        "answers": [
+            "Limitar la probabilidad de incidencia de los efectos estocásticos.",
+            "Prevenir la ocurrencia de efectos no estocásticos y limitar la probabilidad de incidencia de los efectos estocásticos.",
+            "Prevenir la ocurrencia de efectos estocástico y limitar la probabilidad de incidencia de los efectos estocásticos.",
+            "Prevenir la ocurrencia de efectos estocásticos."
+        ],
+        "correctAnswers": "Prevenir la ocurrencia de efectos no estocásticos y limitar la probabilidad de incidencia de los efectos estocásticos."
+    },
+    {
+        "question": "Los trabajadores de categoría A deben disponer de dosimetría",
+        "answers": [
+            "De área.",
+            "Personal.",
+            "De abdomen.",
+            "De área o personal."
+        ],
+        "correctAnswers": "Personal."
+    },
+     {
+        "question": "La ICRP para estimar el riesgo de efectos estocásticos a dosis bajas de radiación considera que:",
+        "answers": [
+            "Existe una relación lineal con la dosis y no existe dosis umbral.",
+            "Existe una relación cuadrática con la dosis y un umbral de dosis.",
+            "Existe una dosis umbral para efectos estocásticos por debajo de la cual éstos nunca se producirán.",
+            "No existe dosis umbral, siendo el efecto dependiente del cuadrado de la dosis recibida."
+        ],
+        "correctAnswers": "Existe una relación lineal con la dosis y no existe dosis umbral."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones no es correcta?",
+        "answers": [
+            "En la salida de los colimadores cilíndricos, es recomendable el uso de localizadores rectangulares, que van a conseguir una disminución de un tercio de la dosis a pacientes.",
+            "La tensión de trabajo de equipos de rayos X intraorales debe ser inferior a 50 kVp.",
+            "Para pacientes sintomáticos, los exámenes radiográficos, se deben limitar a las imágenes requeridas para el diagnóstico y/o planteamiento del tratamiento.",
+            "Todas las exploraciones radiográficas deben estar justificadas para cada paciente, y aportar nueva información de la enfermedad a tratar, proporcionando un beneficio neto suficiente."
+        ],
+        "correctAnswers": "La tensión de trabajo de equipos de rayos X intraorales debe ser inferior a 50 kVp."
+    },
+    {
+        "question": "Las dosis tan bajas como sea razonablemente posible se alcanzan aplicando el principio...",
+        "answers": [
+            "Las dosis tan bajas como sea razonablemente posible se alcanzan aplicando el principio...",
+            "optimización.",
+            "ALARA.",
+            "justificación.",
+            "limitación de las dosis individuales."
+        ],
+        "correctAnswers": [
+            "optimización.",
+            "ALARA."
+        ]
+    },
+    {
+        "question": "¿Una sala de rayos X intraoral se clasifica como?",
+        "answers": [
+            "Ninguna es correcta.",
+            "Zona vigilada.",
+            "Zona de libre acceso.",
+            "Zona controlada de libre acceso."
+        ],
+        "correctAnswers": "Zona vigilada."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones NO es correcta?",
+        "answers": [
+            "El kV y mA del equipo son variables, y se seleccionan en función del paciente.",
+            "Existen equipo intraorales portátiles y fijos.",
+            "El tubo de rayos X se encuentra en el cabezal del equipo.",
+            "Existen posicionadores que facilitan la colocación del sistema de imagen para optimizar la exploración."
+        ],
+        "correctAnswers": "El kV y mA del equipo son variables, y se seleccionan en función del paciente."
+    },
+    {
+        "question": "¿Cuál de estas afirmaciones NO es correcta?",
+        "answers": [
+            "El uso de collarín plomado es recomendable en la realización de técnicas panorámicas y CBCT.",
+            "El uso del collarín plomado en la realización de técnicas panorámicas o de CBCT da lugar a artefactos, por lo que no se recomienda su uso.",
+            "La dosis a paciente va a depender del tipo de procedimiento dental.",
+            "El uso del collarín plomado en la realización de técnicas intraorales no reduce significativamente la dosis en tiroides, por lo que no se recomienda su uso."
+        ],
+        "correctAnswers": "El uso de collarín plomado es recomendable en la realización de técnicas panorámicas y CBCT."
+    },
+     {
+        "question": "Cuál de estas normas de protección radiológica intraorales NO es correcta?",
+        "answers": [
+            "La tensión de trabajo de los equipos de rayos X no pueden ser inferior a 50 kVp.",
+            "Los equipos de rayos X deberán pasar un control mínimo anual, según RD 1976/1999.",
+            "La sujeción del receptor de imagen la realizará el propio paciente, o mediante sistemas de sujeción mecánica.",
+            "A la salida de colimadores cilíndricos, no es recomendable el uso de localizadores rectangulares, ya que aumentan un tercio la dosis a pacientes."
+        ],
+        "correctAnswers": "A la salida de colimadores cilíndricos, no es recomendable el uso de localizadores rectangulares, ya que aumentan un tercio la dosis a pacientes."
+    },
+    {
+        "question": "Las salas de esterilización están clasificadas como:",
+        "answers": [
+            "Zona de libre acceso.",
+            "Zona Vigilada.",
+            "Zona controlada de permanencia libre.",
+            "Zona controlada de permanencia limitada."
+        ],
+        "correctAnswers": "Zona de libre acceso."
+    },
+    {
+        "question": "El mantenimiento correctivo de un equipo de rayos X.",
+        "answers": [
+            "Debe ser realizadas por el titular de la instalación.",
+            "Comprende unas pruebas de control de calidad anual para los intraorales y semestrales para los panorámicos.",
+            "Comprende las actividades que van encaminadas a eliminar los fallos que se han podido producir en el equipo por el uso.",
+            "Todas las anteriores."
+        ],
+        "correctAnswers": "Comprende las actividades que van encaminadas a eliminar los fallos que se han podido producir en el equipo por el uso."
+    },
+    {
+        "question": "¿Con respecto a las diferencias entre la radiografía digital y la radiografía convencional, cuál de las siguientes afirmaciones es cierta?",
+        "answers": [
+            "Con radiografía digital se radia menos al paciente.",
+            "La radiografía digital tiene mayor resolución espacial.",
+            "La radiografía digital necesita mayor kilovoltaje.",
+            "La radiografía digital tiene mayor gama dinámica que la convencional."
+        ],
+        "correctAnswers": "La radiografía digital tiene mayor gama dinámica que la convencional."
+    },
+    {
+        "question": "¿El espesor de material que se debe interponer para reducir a la mitad la exposición de un haz recibe el nombre de?",
+        "answers": [
+            "coraza.",
+            "filtración total.",
+            "colimación.",
+            "capa hemirreductora."
+        ],
+        "correctAnswers": "capa hemirreductora."
+    },
+    {
+        "question": "Cuando el kV es bajo",
+        "answers": [
+            "Hay menos contraste, menos dispersa, y menos dosis al paciente.",
+            "Hay más contraste y menos dispersa, pero más dosis al paciente.",
+            "Hay menos contraste y menos dispersa, pero más dosis al paciente.",
+            "Hay más contraste y más dispersa, pero más dosis al paciente."
+        ],
+        "correctAnswers": "Hay más contraste y menos dispersa, pero más dosis al paciente."
+    },
+    {
+        "question": "La luz, los rayos X y los infrarrojos:",
+        "answers": [
+            "Son ondas electromagnéticas.",
+            "Son partículas materiales.",
+            "Tienen poder de penetración en la materia muy parecido.",
+            "Constituyen fenómenos de muy distinta naturaleza."
+        ],
+        "correctAnswers": "Son ondas electromagnéticas."
+    }, 
+    {
+        "question": "¿La radiación electromagnética?",
+        "answers": [
+            "Solo puede detectarse mediante dispositivos altamente sofisticados construidos por el ser humano.",
+            "Es la energía que transportan las ondas electromagnéticas.",
+            "Siempre es ionizante.",
+            "Tiene carga y masa, al igual que los electrones."
+        ],
+        "correctAnswers": "Es la energía que transportan las ondas electromagnéticas."
+    },
+    {
+        "question": "La dosis efectiva se mide en",
+        "answers": [
+            "Gy.",
+            "rad.",
+            "C/kg.",
+            "Sv."
+        ],
+        "correctAnswers": "Sv."
+    },
+    {
+        "question": "¿Sv/h es el símbolo de una unidad de?",
+        "answers": [
+            "Exposición.",
+            "Tasa de exposición.",
+            "Tasa de dosis equivalente.",
+            "Tasa de dosis absorbida."
+        ],
+        "correctAnswers": "Tasa de dosis equivalente."
+    },
+    {
+        "question": "La unidad de la tasa de la exposición es",
+        "answers": [
+            "C/(kg·s).",
+            "R.",
+            "C/kg.",
+            "Sv/s."
+        ],
+        "correctAnswers": "C/(kg·s)."
+    },
+    {
+        "question": "Tipos de dosimetría",
+        "answers": [
+            "Todas son correctas",
+            "Ambiental",
+            "Personal",
+            "Área"
+        ],
+        "correctAnswers": "Todas son correctas"
+    },
+     {
+        "question": "¿Cuál es la unidad de la dosis absorbida?",
+        "answers": [
+            "Sv/s.",
+            "J/kg.",
+            "rem.",
+            "Gy/s."
+        ],
+        "correctAnswers": "J/kg."
+    },
+    {
+        "question": "La unidad de Dosis Equivalente según el S.I. es",
+        "answers": [
+            "Ninguna de las anteriores.",
+            "rem.",
+            "Gy.",
+            "Sv/s."
+        ],
+        "correctAnswers": "Ninguna de las anteriores."
+    },
+     {
+        "question": "¿La unidad de dosis equivalente en el Sistema internacional es el?",
+        "answers": [
+            "Sievert.",
+            "Curio.",
+            "Rad.",
+            "Gray."
+        ],
+        "correctAnswers": "Sievert."
+    },
+    {
+        "question": "La magnitud que expresa el daño biológico de la radiación es",
+        "answers": [
+            "Exposición.",
+            "Dosis equivalente.",
+            "Dosis absorbida.",
+            "Tasa de exposición."
+        ],
+        "correctAnswers": "Dosis equivalente."
+    },
+    {
+        "question": "La unidad de la dosis efectiva según el S.I. es",
+        "answers": [
+            "C/kg.",
+            "Sv/s.",
+            "Sv.",
+            "Rem/s."
+        ],
+        "correctAnswers": "Sv."
+    },
+    {
+        "question": "¿En qué unidad de medida se cuantifica el daño biológico que ocasionan las radiaciones ionizantes?",
+        "answers": [
+            "Becquerelio (Bq).",
+            "Gray (Gy).",
+            "Julios (J).",
+            "Sievert (Sv)."
+        ],
+        "correctAnswers": "Sievert (Sv)."
+    },
+    {
+        "question": "La exposición se mide en",
+        "answers": [
+            "C/kg.",
+            "rad.",
+            "Sv.",
+            "rem."
+        ],
+        "correctAnswers": "C/kg."
+    },
+    {
+        "question": "La implantación de un Programa de Garantía de Calidad viene definido por el",
+        "answers": [
+            "Real Decreto 1085/2009.",
+            "Real Decreto 1976/1999.",
+            "Ninguno de los anteriores.",
+            "Real Decreto 783/21."
+        ],
+        "correctAnswers": "Real Decreto 1976/1999."
+    },
+{
+        "question": "Los programas de intervención y reparación del equipamiento conlleva.",
+        "answers": [
+            "Pruebas de aceptación, estado y constancia.",
+            "Pruebas de constancia.",
+            "Pruebas de estado y aceptación.",
+            "Pruebas de aceptación."
+        ],
+        "correctAnswers": "Pruebas de aceptación, estado y constancia."
+    },
+ {
+        "question": "El Programa de Protección Radiológica viene definido por.",
+        "answers": [
+            "RD 783/2001.",
+            "RD 1976/1999.",
+            "Ninguna de las anteriores.",
+            "RD 1085/2009."
+        ],
+        "correctAnswers": "RD 783/2001."
+    },
+{
+        "question": "Respecto a la filtración en un equipo de RX dental con tensión pico igual o inferior a 70 KV, podemos decir que:",
+        "answers": [
+            "Garantizamos que es adecuada si obtenemos un valor de capa hemirreductora igual o mayor a 1,5 mm de aluminio.",
+            "Exigir un valor mínimo es garantizar minimización de la dosis que recibirá el paciente.",
+            "Son todas verdaderas.",
+            "Con ella eliminamos del haz los fotones de más baja energía que no aportan nada a la imagen, y sí dosis al paciente."
+        ],
+        "correctAnswers": "Son todas verdaderas."
+    },
+     {
+        "question": "¿Cuál de estas afirmaciones NO es correcta?",
+        "answers": [
+            "Las pruebas de aceptación son realizadas por la EVAT.",
+            "Las pruebas de aceptación, estado y constancia son llevadas a cabo como programa de mantenimiento de los equipos.",
+            "Las pruebas de constancia son llevadas a cabo por el titular.",
+            "Las pruebas de estado son realizadas por la UTPR."
+        ],
+        "correctAnswers": "Las pruebas de constancia son llevadas a cabo por el titular."
+    },
+    {
+        "question": "Un programa de garantía de calidad debe perseguir (señalar la respuesta falsa):",
+        "answers": [
+            "Disminuir los costes.",
+            "Aumentar los costes.",
+            "Disminuir la dosis.",
+            "Optimizar la imagen."
+        ],
+        "correctAnswers": "Aumentar los costes."
+    }
 ]
