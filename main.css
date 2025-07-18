@@ -24,8 +24,8 @@ body, .test-column , .font-btn {
 /* === Layout principal === */
 .test-layout {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
-  gap: 20px;
+  grid-template-columns: 1fr;
+
 }
 
 .test-column {
@@ -581,6 +581,26 @@ h3 {
   color: #b44dc1;
   padding-left: 7px;
 }
+.search-bar {
+  position: relative;
+}
+
+.search-clear {
+  position: absolute;
+  right: 30px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 1.2em;
+  color: #e74c3c;
+  cursor: pointer;
+  display: none; /* se mostrará solo cuando haya texto */
+  z-index: 2;
+  padding: 4px;
+}
+.search-clear:hover {
+  color: #c0392b;
+}
+
 
 /* Botones de fuente siguen igual */
 .font-btn {
