@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  background: 
+  background:
     linear-gradient(135deg, #6b38fb, #b44dc1),
     url('../images/bg-01.jpg');
   background-attachment: fixed;
@@ -17,24 +17,25 @@ body {
   color: #333;
   font-size: 1rem;
 }
-
+body, .test-column , .font-btn {
+  margin-right: 50px;
+  box-sizing: border-box;
+}
 /* === Layout principal === */
 .test-layout {
   display: grid;
-  grid-template-columns: 1fr auto;
-  gap: 18px;
-  width: 100%; 
-  min-height: 100vh;
-  margin: 0;
-  padding: 0 10px;
-  box-sizing: border-box;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 20px;
 }
 
 .test-column {
-  width: 100%;
+  width: auto;
   min-width: 0;
-  margin: 0;
+  width: auto;
+  min-width: 0;
+
 }
+
 #tituloCuestionario {
   border: 2px solid #4dc1b4;
   background: linear-gradient(90deg, #f0f9ff 0%, #e0f7fa 100%);
@@ -45,35 +46,62 @@ body {
   font-size: 1.3em;
   font-weight: bold;
   box-shadow: 0 2px 10px #b4e7e155;
-  text-align: center;         /* Centrado horizontal */
+  text-align: center;
+  /* Centrado horizontal */
   letter-spacing: 1px;
-  width: 75%;                /* Ocupa el 100% del contenedor */
-  margin-left: auto;          /* Centrado incluso si el padre tiene ancho menor */
+  width: 75%;
+  /* Ocupa el 100% del contenedor */
+  margin-left: auto;
+  /* Centrado incluso si el padre tiene ancho menor */
   margin-right: auto;
 }
+
+
+
 /* === Barra lateral de marcadores === */
 .marcadores-lateral {
-  position: sticky;
-  top: 1px;
-  min-width: 0;
+  position: fixed;
+  top: 2%;
+  bottom: 32px;
+  right: 10px;
   max-width: 180px;
   width: min-content;
-  background: rgba(255,255,255,0.97);
-  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.97);
+  border-radius: 20px;
   padding: 18px 10px;
-  max-height: 90%;
   overflow-y: auto;
-  scrollbar-width: thin;
-  align-self: flex-start;
-  z-index: 10;
+
+  /* Scroll estilizado (Firefox + WebKit) */
+  scrollbar-width: thin; /* Firefox */
+  scrollbar-color: #b44dc1 transparent;
+
+  max-height: calc(100vh - 64px);
+  z-index: 100;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.1);
 }
+
+/* === Scrollbar WebKit (Chrome, Safari, Edge) === */
 .marcadores-lateral::-webkit-scrollbar {
-  width: 7px;
+  width: 6px;
+  height: 0; /* ocultar cualquier scroll horizontal */
+  background: transparent;
 }
+
 .marcadores-lateral::-webkit-scrollbar-thumb {
-  background: #b44dc1;
-  border-radius: 6px;
+  background-color: #b44dc1;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  background-clip: content-box;
 }
+
+.marcadores-lateral::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.marcadores-lateral::-webkit-scrollbar-button {
+  display: none;
+}
+
 
 /* === Elementos de marcador === */
 .marcador-item {
@@ -84,12 +112,14 @@ body {
   display: flex;
   align-items: center;
 }
+
 .marcador-item.selected {
   font-weight: bold;
   transform: scale(1.10);
   background: #f0eafd;
   border-radius: 6px;
 }
+
 .marcador-num {
   min-width: 0;
   margin-right: 2px;
@@ -98,29 +128,61 @@ body {
   color: #666;
   padding: 0;
 }
-.marcador-item .marcador-ico.correct { color: #2ecc71; }
-.marcador-item .marcador-ico.incorrect { color: #e74c3c; }
-.marcador-item .marcador-ico.unanswered { color: #b44dc1; }
+
+.marcador-item .marcador-ico.correct {
+  color: #2ecc71;
+}
+
+.marcador-item .marcador-ico.incorrect {
+  color: #e74c3c;
+}
+
+.marcador-item .marcador-ico.unanswered {
+  color: #b44dc1;
+}
+
+/* === Selector de título de cuestionario === */
+.selector-titulo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #3498db;
+  color: #fff;
+  border-radius: 5px;
+  font-weight: bold;
+  border: none;
+  cursor: default;
+  font-size: clamp(1.1rem, 4vw, 1.4rem);
+  width: 100%;
+  height: 100%;
+  min-height: 44px;         /* Igual que el botón original */
+  min-width: 180px;         /* O el que uses en .btn */
+  letter-spacing: 0.5px;
+  transition: background 0.2s;
+}
 
 /* === Contenedor de preguntas y respuestas === */
 .pregunta-grupo {
   background: #fafaff;
   border-radius: 10px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.07);
   margin-bottom: 32px;
   padding: 22px 18px 14px 18px;
   border: 1px solid #e0e0e0;
   transition: background 0.2s;
   position: relative;
 }
+
 .pregunta-grupo.correct {
   background: #e6faec;
   border-color: #2ecc71;
 }
+
 .pregunta-grupo.incorrect {
   background: #ffeaea;
   border-color: #e74c3c;
 }
+
 .pregunta-grupo .question {
   background: transparent;
   border: none;
@@ -128,9 +190,11 @@ body {
   padding: 0;
   font-weight: bold;
 }
+
 .pregunta-grupo .eliminar-pregunta {
   position: absolute;
-  top: 10px; right: 10px;
+  top: 10px;
+  right: 10px;
   background: #e74c3c;
   color: #fff;
   border: none;
@@ -146,6 +210,7 @@ body {
   padding: 0;
   margin-bottom: 18px;
 }
+
 .answers li {
   margin-bottom: 8px;
   padding: 7px 10px;
@@ -157,13 +222,16 @@ body {
   align-items: center;
   gap: 8px;
 }
+
 .answers li:hover {
   background: #f0eafd;
 }
+
 .answers label {
   display: block;
   cursor: pointer;
 }
+
 .answers input[type="text"] {
   flex: 1;
   font-size: 1em;
@@ -171,6 +239,7 @@ body {
   border-radius: 4px;
   border: 1px solid #ccc;
 }
+
 .answers .eliminar-respuesta {
   background: #e74c3c;
   color: #fff;
@@ -180,6 +249,7 @@ body {
   cursor: pointer;
   font-size: 0.9em;
 }
+
 .answers .correcta-label {
   color: #2ecc71;
   font-weight: bold;
@@ -202,14 +272,17 @@ body {
   border-radius: 6px;
   max-width: 400px;
 }
+
 .lista-cuestionarios {
   list-style: none;
   padding: 0;
   margin: 10px 0 0 0;
 }
+
 .lista-cuestionarios li {
   margin-bottom: 10px;
 }
+
 .lista-cuestionarios button {
   width: 100%;
   text-align: left;
@@ -221,9 +294,11 @@ body {
   cursor: pointer;
   font-size: clamp(1.1rem, 4vw, 1.4rem);
 }
+
 .lista-cuestionarios button:hover {
   background: #d5e8fa;
 }
+
 #cuestionarioLista {
   display: none;
   transition: max-height 0.3s ease;
@@ -231,7 +306,8 @@ body {
 }
 
 /* === Botones generales === */
-.btn, .cuestionario-lista button {
+.btn,
+.cuestionario-lista button {
   display: inline-block;
   padding: 8px 15px;
   background: #3498db;
@@ -245,16 +321,21 @@ body {
   width: 100%;
   text-align: left;
 }
-.btn:disabled, .cuestionario-lista button:disabled {
+
+.btn:disabled,
+.cuestionario-lista button:disabled {
   background: #ccc;
 }
+
 .btn:hover {
   background: #2980b9;
 }
+
 .add-btn {
   background: #b44dc1;
   margin-top: 8px;
 }
+
 .export-btn {
   background: #2ecc71;
   margin-left: 10px;
@@ -264,10 +345,12 @@ body {
 h1 {
   font-size: clamp(2rem, 8vw, 3rem);
 }
+
 h2 {
   margin-top: 0;
   font-size: clamp(1.5rem, 6vw, 2.2rem);
 }
+
 h3 {
   font-size: clamp(1.1rem, 4vw, 1.4rem);
 }
@@ -280,13 +363,15 @@ h3 {
 /* === Grid de cuestionarios === */
 .cuestionarios-grid {
   display: grid;
-  grid-template-columns: repeat(1, 1fr); /* Una columna por fila de filas */
+  grid-template-columns: repeat(1, 1fr);
+  /* Una columna por fila de filas */
   gap: 10px;
 }
 
 .cuestionarios-row {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); /* Tres columnas por fila */
+  grid-template-columns: repeat(3, 1fr);
+  /* Tres columnas por fila */
   gap: 10px;
 }
 
@@ -311,6 +396,112 @@ h3 {
 .cuestionario-col button:hover {
   background: #8d35a2;
 }
+.cuestionario-btn {
+  background: linear-gradient(90deg, #3498db 60%, #6b38fb 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 0 30px;
+  font-weight: bold;
+  font-size: 1.12em;
+  box-shadow: 0 2px 12px #6b38fb33;
+  transition: background 0.2s, transform 0.11s;
+  cursor: pointer;
+  letter-spacing: .5px;
+  text-shadow: 0 1px 1px #3332;
+  min-width: 200px;
+}
+
+.cuestionario-btn:hover {
+  background: linear-gradient(90deg, #6b38fb 30%, #b44dc1 100%);
+  transform: scale(1.035);
+}
+.selector-titulo {
+  background: #3498db;
+  color: #fff;
+  border-radius: 8px;
+  font-weight: bold;
+  border: none;
+  font-size: 1.12em;
+  min-width: 200px;
+  padding: 0 30px;
+  letter-spacing: .5px;
+  box-shadow: 0 2px 8px #b4e7e155;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Barra de búsqueda proporcional */
+.search-bar {
+  background: #f6f0fc;
+  border-radius: 24px;
+  border: 2px solid #b44dc1;
+  box-shadow: 0 2px 7px #6b38fb22;
+  padding: 0 20px;
+  font-size: 1.05em;
+  min-width: 180px;
+  max-width: 300px;
+  flex: 1 1 240px;
+}
+
+#searchInput {
+  flex: 1;
+  border: none;
+  background: transparent;
+  font-size: 1.05em;
+  color: #522e7d;
+  padding: 10px 0;
+  outline: none;
+  height: 38px;
+}
+
+
+/* Botones A+ y A- igual de altos y armoniosos */
+.font-btn {
+  background: #6b38fb;
+  color: #fff;
+  padding: 0 18px;
+  border-radius: 8px;
+  font-size: 1.05em;
+  margin: 0 2px;
+  height: 42px;
+  min-width: 44px;
+  border: none;
+  transition: background 0.16s, transform 0.11s;
+}
+
+.font-btn:hover {
+  background: #b44dc1;
+  transform: scale(1.06);
+}
+
+/* Responsive: acomoda la cabecera en móvil */
+@media (max-width: 700px) {
+  .selector-bar {
+    flex-wrap: wrap;
+    gap: 7px;
+  }
+  .search-bar {
+    min-width: 115px;
+    max-width: 100vw;
+    flex-basis: 100%;
+  }
+  .cuestionario-btn, .selector-titulo {
+    min-width: 130px;
+    padding: 0 10px;
+    font-size: 1em;
+  }
+}
+
+/* Opcional: sombra más suave */
+.selector-bar > * {
+  box-shadow: none;
+}
+.cuestionario-ico {
+  font-size: 1.18em;
+  margin-right: 9px;
+  vertical-align: middle;
+}
 
 .font-btn {
   padding: 8px 12px;
@@ -325,9 +516,11 @@ h3 {
   width: auto;
   transition: background 0.2s;
 }
+
 .font-btn:hover {
   background: #b44dc1;
 }
+
 .selector-cuestionario {
   display: flex;
   flex-direction: column;
@@ -339,11 +532,98 @@ h3 {
 
 .selector-bar {
   display: flex;
-  width: 100%;
   align-items: center;
-  justify-content: space-between; /* Separa el botón principal a la izquierda y los de fuente a la derecha */
-  gap: 8px;
+  gap: 12px;
+  width: 100%;
+  margin-bottom: 18px;
 }
+
+.selector-bar > * {
+  height: 46px;
+  display: flex;
+  align-items: center;
+}
+
+.selector-titulo, #toggleCuestionariosBtn {
+  min-width: 150px;
+  /* El ancho que usaba tu botón original */
+}
+
+/* Barra de búsqueda con tamaño moderado */
+.search-bar {
+  display: flex;
+  align-items: center;
+  background: #f6f0fc;
+  border-radius: 24px;
+  border: 2px solid #b44dc1;
+  box-shadow: 0 2px 7px #6b38fb22;
+  padding: 0 15px;
+  font-size: 1em;
+  height: 40px;
+  max-width: 250px;
+  min-width: 150px;
+  margin: 0;
+}
+
+#searchInput {
+  flex: 1;
+  border: none;
+  background: transparent;
+  font-size: 1em;
+  color: #522e7d;
+  padding: 8px 0;
+  outline: none;
+  height: 38px;
+}
+
+.search-ico {
+  font-size: 1.1em;
+  color: #b44dc1;
+  padding-left: 7px;
+}
+
+/* Botones de fuente siguen igual */
+.font-btn {
+  padding: 6px 12px;
+  height: 36px;
+  font-size: 1em;
+}
+
+
+.btn,
+.cuestionario-lista button {
+  font-size: 1.18em;
+  height: 47px;
+  padding: 0 24px;
+  line-height: 47px;
+}
+.font-btn {
+  font-size: 1.15em;
+  padding: 0 18px;
+  height: 46px;
+  min-width: 48px;
+  line-height: 46px;
+}
+
+
+#searchInput {
+  flex: 1;
+  border: none;
+  background: transparent;
+  font-size: 1.25em;        /* Más grande aún */
+  color: #522e7d;
+  padding: 10px 8px;
+  outline: none;
+  height: 42px;             /* Altura adecuada */
+}
+
+
+
+
+.font-btn {
+  flex: 0 0 auto;
+}
+
 
 .font-btns {
   display: flex;
@@ -353,19 +633,21 @@ h3 {
 #cuestionarioLista {
   width: 100%;
   margin-top: 0;
-  display: none; /* Se muestra con JS */
-  position: static; /* Asegura que no flote sobre el botón */
+  display: none;
+  /* Se muestra con JS */
+  position: static;
+  /* Asegura que no flote sobre el botón */
   z-index: 1;
 }
 
 /* === Panel de edición === */
 .editor-panel {
-  background: rgba(255,255,255,0.97);
+  background: rgba(255, 255, 255, 0.97);
   border-radius: 12px;
   padding: 22px 18px 18px 18px;
   max-width: 800px;
   margin: 30px auto 0 auto;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.07);
 }
 
 .asterisco {
@@ -389,6 +671,7 @@ h3 {
     display: block;
     padding: 0 2vw;
   }
+
   .marcadores-lateral {
     position: static;
     width: 100%;
@@ -397,25 +680,82 @@ h3 {
     border-radius: 8px;
     padding: 12px 6px;
   }
+
   .test-column {
     width: 100%;
   }
+
   .editor-panel {
     max-width: 100%;
     margin: 18px 0 0 0;
     padding: 14px 6px 10px 6px;
   }
+  .selector-bar {
+    flex-wrap: wrap;
+  }
+  .search-bar {
+    flex-basis: 100%;
+    margin-top: 8px !important;
+    margin-bottom: 6px !important;
+    max-width: 100%;
+  }
+
 }
+
+/* === Barra de búsqueda === */
+.search-bar {
+  width: 100%;
+  max-width: 500px;
+  margin: 18px auto 12px auto;
+  display: flex;
+  align-items: center;
+  background: #f6f0fc;
+  border-radius: 24px;
+  box-shadow: 0 2px 7px #6b38fb22;
+  padding: 4px 16px 4px 9px;
+  border: 2px solid #b44dc1;
+  transition: box-shadow 0.2s;
+}
+
+.search-bar:focus-within {
+  box-shadow: 0 4px 15px #b44dc144;
+  border-color: #6b38fb;
+}
+
+#searchInput {
+  flex: 1;
+  border: none;
+  background: transparent;
+  font-size: 1.1em;
+  color: #522e7d;
+  padding: 11px 8px;
+  outline: none;
+}
+
+
+
 
 /* === Accesibilidad y mejoras visuales === */
 :focus {
   outline: 2px solid #6b38fb;
   outline-offset: 2px;
 }
-::-webkit-input-placeholder { color: #b44dc1; }
-::-moz-placeholder { color: #b44dc1; }
-:-ms-input-placeholder { color: #b44dc1; }
-::placeholder { color: #b44dc1; }
+
+::-webkit-input-placeholder {
+  color: #b44dc1;
+}
+
+::-moz-placeholder {
+  color: #b44dc1;
+}
+
+:-ms-input-placeholder {
+  color: #b44dc1;
+}
+
+::placeholder {
+  color: #b44dc1;
+}
 
 /* === Animaciones suaves === */
 .pregunta-grupo,
@@ -425,4 +765,23 @@ h3 {
 .cuestionario-lista button {
   transition: background 0.2s, box-shadow 0.2s, transform 0.12s;
 }
+#fixedHeader {
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 55;
+  background: rgba(255,255,255,0.97); /* Fondo para no solaparse con el contenido */
+  transition: transform 0.34s cubic-bezier(.9,-0.01,.18,.71), opacity 0.22s;
+  will-change: transform, opacity;
+}
 
+#fixedHeader.hide-barra {
+  transform: translateY(-120%);
+  opacity: 0;
+  pointer-events: none;
+}
+#fixedHeader.show-barra {
+  transform: translateY(0);
+  opacity: 1;
+  pointer-events: auto;
+}

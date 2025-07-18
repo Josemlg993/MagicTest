@@ -9,16 +9,23 @@
 </head>
 
 <body>
-   <div class="test-column">
+  <div class="test-column">
     <div id="selectorCuestionario" class="selector-cuestionario">
       <div class="selector-bar">
-        <button id="toggleCuestionariosBtn" class="btn" onclick="toggleCuestionarios()">
-          ELIGE UN CUESTIONARIO
+        <div id="selectorTituloCuestionario" class="btn selector-titulo" style="display: none;"></div>
+        <button id="toggleCuestionariosBtn" class="btn cuestionario-btn" onclick="toggleCuestionarios()">
+          <span class="cuestionario-ico">📋</span> ELIGE UN CUESTIONARIO
         </button>
+        <div class="search-bar" id="searchBarPrincipal">
+          <input type="text" id="searchInput" placeholder="Buscar en el test..." autocomplete="off">
+        </div>
         <button id="fontIncreaseBtn" class="btn font-btn" title="Aumentar tamaño">A+</button>
         <button id="fontDecreaseBtn" class="btn font-btn" title="Disminuir tamaño">A-</button>
       </div>
-      <div id="tituloCuestionario" style="font-weight:bold; font-size:1.2em; margin-bottom:10px;"></div>
+
+
+
+
 
       <div id="cuestionarioLista"></div>
     </div>
@@ -45,7 +52,7 @@
         { archivo: "Cuestionarios/Tema7Diapositiva.json", titulo: "Tema 7 " },
         { archivo: "Cuestionarios/Tema8Diapositiva.json", titulo: "Tema 8" },
         { archivo: "Cuestionarios/Tema9Diapositiva.json", titulo: "Tema 9 " },
-        { archivo: "Cuestionarios/Tema10Diapositiva.json", titulo: "Tema 10 "},
+        { archivo: "Cuestionarios/Tema10Diapositiva.json", titulo: "Tema 10 " },
         { archivo: "Cuestionarios/Tema11Diapositiva.json", titulo: "Tema 11" },
         { archivo: "Cuestionarios/Tema12Diapositiva.json", titulo: "Tema 12" },
         { archivo: "Cuestionarios/Tema13Diapositiva.json", titulo: "Tema 13" },
@@ -98,6 +105,9 @@
       let results = {};
       let modoSoloFalladas = false;
       let cuestionariosVisibles = false;
+      let filtroBusqueda = "";                  // Guarda el término buscado
+      let preguntasFiltradas = null;            // Array de indices de questions filtradas
+
 
       function toggleCuestionarios() {
         const listaDiv = document.getElementById('cuestionarioLista');
@@ -153,31 +163,39 @@
 
 
       // ================== CARGA DE CUESTIONARIO ==================
-     function cargarCuestionarioLocal(archivo, titulo) {
-  document.getElementById('tituloCuestionario').textContent = titulo;
-  document.getElementById('test').innerHTML = `<p>Cargando cuestionario <b>${titulo}</b>...</p>`;
-  document.getElementById('result').textContent = "";
-  fetch(archivo)
-    .then(response => response.json())
-    .then(data => {
-      let preguntasBarajadas = data.slice();
-      shuffle(preguntasBarajadas);
-      questions = preguntasBarajadas.map(q => {
-        const shuffled = shuffleAnswersConEspeciales(q.answers);
-        return {
-          question: q.question,
-          answers: shuffled,
-          correctAnswers: q.correctAnswers
-        };
-      });
+      function cargarCuestionarioLocal(archivo, titulo) {
+        const tituloDiv = document.getElementById('selectorTituloCuestionario');
+        tituloDiv.textContent = titulo;
+        tituloDiv.style.display = "block";
 
-      originalQuestions = questions.slice(); // <-- Guarda copia original
-      userAnswers = {};
-      results = {};
-      modoSoloFalladas = false;
-      mostrarTodasLasPreguntas();
-    });
-}
+        document.getElementById('test').innerHTML = `<p>Cargando cuestionario <b>${titulo}</b>...</p>`;
+        document.getElementById('result').textContent = "";
+
+        // Opcional: ocultar el botón
+        document.getElementById('toggleCuestionariosBtn').style.display = "none";
+
+        fetch(archivo)
+          .then(response => response.json())
+          .then(data => {
+            let preguntasBarajadas = data.slice();
+            shuffle(preguntasBarajadas);
+            questions = preguntasBarajadas.map(q => {
+              const shuffled = shuffleAnswersConEspeciales(q.answers);
+              return {
+                question: q.question,
+                answers: shuffled,
+                correctAnswers: q.correctAnswers
+              };
+            });
+
+            originalQuestions = questions.slice(); // <-- Guarda copia original
+            userAnswers = {};
+            results = {};
+            modoSoloFalladas = false;
+            mostrarTodasLasPreguntas();
+          });
+      }
+
       function getCorrectAnswers(q) {
         return Array.isArray(q.correctAnswers) ? q.correctAnswers : [q.correctAnswers];
       }
@@ -185,7 +203,10 @@
       // ================== RENDERIZADO DE PREGUNTAS ==================
       function mostrarTodasLasPreguntas() {
         let html = '';
-        questions.forEach((q, idx) => {
+        // Si hay búsqueda, solo renderiza los índices filtrados
+        const indices = preguntasFiltradas ?? questions.map((q, i) => i);
+        indices.forEach((idx) => {
+          const q = questions[idx];
           let clase = "pregunta-grupo";
           if (results[idx] === "incorrect") clase += " incorrect";
           if (results[idx] === "correct") clase += " correct";
@@ -201,20 +222,20 @@
 
           html += `<ul class="answers">`;
           q.answers.forEach((ans, i) => {
-  let checked = '';
-  if (multiple) {
-    checked = (userAnswers[idx] || []).includes(ans) ? 'checked' : '';
-  } else {
-    checked = userAnswers[idx] === ans ? 'checked' : '';
-  }
-  let disabled = results[idx] ? 'disabled' : '';
-  const inputId = `q${idx}_${i}`;
-  html += `<li>
+            let checked = '';
+            if (multiple) {
+              checked = (userAnswers[idx] || []).includes(ans) ? 'checked' : '';
+            } else {
+              checked = userAnswers[idx] === ans ? 'checked' : '';
+            }
+            let disabled = results[idx] ? 'disabled' : '';
+            const inputId = `q${idx}_${i}`;
+            html += `<li>
     <input id="${inputId}" type="${multiple ? 'checkbox' : 'radio'}" name="q${idx}${multiple ? '[]' : ''}" value="${ans.replace(/"/g, '&quot;')}" ${checked} ${disabled}
       onchange="responderPregunta(${idx}, this.value, ${multiple})">
     <label for="${inputId}">${ans}</label>
   </li>`;
-});
+          });
           // Muestra solo una vez la respuesta correcta si está fallada
           if (results[idx] === "incorrect") {
             html += `<div class="respuesta-correcta">Respuesta correcta: ${toArray(q.correctAnswers).join(", ")}</div>`;
@@ -230,6 +251,29 @@
           document.getElementById('test').innerHTML += `<h2>¡Test terminado!</h2><div class="result-final">Has acertado todas las preguntas.</div>`;
         }
       }
+      document.getElementById('searchInput').addEventListener('input', function () {
+        filtroBusqueda = this.value.trim().toLowerCase();
+        if (!filtroBusqueda) {
+          preguntasFiltradas = null;
+        } else {
+          preguntasFiltradas = questions
+            .map((q, idx) => {
+              const enunciado = q.question.toLowerCase();
+              const hayEnRespuesta = q.answers.some(ans => ans.toLowerCase().includes(filtroBusqueda));
+              return (enunciado.includes(filtroBusqueda) || hayEnRespuesta) ? idx : null;
+            })
+            .filter(idx => idx !== null);
+        }
+        mostrarTodasLasPreguntas();
+      });
+
+      // Opcional: al cargar un nuevo test, limpia el buscador
+      function limpiarBuscadorInstantaneo() {
+        document.getElementById('searchInput').value = "";
+        filtroBusqueda = "";
+        preguntasFiltradas = null;
+      }
+
 
 
       function toArray(val) {
@@ -293,7 +337,15 @@
       function renderMarcadoresLateral(selectedIdx = -1) {
         const cont = document.getElementById('marcadoresLateral');
         let html = "";
-        questions.forEach((q, idx) => {
+        const indices = preguntasFiltradas ?? questions.map((q, i) => i);
+        if (indices.length === 0) {
+          document.getElementById('test').innerHTML =
+            "<div style='color:#b44dc1;font-weight:bold;padding:22px;text-align:center'>No hay resultados para esa búsqueda.</div>";
+          document.getElementById('marcadoresLateral').innerHTML = "";
+          return;
+        }
+        indices.forEach((idx) => {
+          const q = questions[idx];
           let estado = "unanswered";
           if (results[idx] === "correct") estado = "correct";
           else if (results[idx] === "incorrect") estado = "incorrect";
@@ -382,6 +434,7 @@
         document.getElementById('cuestionarioLista').style.display = "none";
         cuestionariosVisibles = false;
       }
+
 
       // ================== INICIALIZACIÓN ==================
       window.onload = function () {
