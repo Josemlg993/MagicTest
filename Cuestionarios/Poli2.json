@@ -1,0 +1,464 @@
+[
+    {
+        "question": "¿Quién es la persona responsable de realizar el acto transfusional a la cabecera del enfermo?",
+        "answers": [
+            "El personal de enfermería.",
+            "El hematólogo.",
+            "El paciente."
+        ],
+        "correctAnswers": "El personal de enfermería."
+    },
+    {
+        "question": "¿Cuál de estos es un pilar de la seguridad transfusional?",
+        "answers": [
+            "Correcta indicación de la transfusión.",
+            "Nunca consultar al hematólogo.",
+            "Improvisar la dosis de los componentes."
+        ],
+        "correctAnswers": "Correcta indicación de la transfusión."
+    },
+    {
+        "question": "¿A quién corresponde la identificación inequívoca del enfermo antes de la transfusión?",
+        "answers": [
+            "Al personal que va a realizar la transfusión.",
+            "Al conductor de la ambulancia.",
+            "Al familiar presente."
+        ],
+        "correctAnswers": "Al personal que va a realizar la transfusión."
+    },
+    {
+        "question": "¿Quién prescribe la transfusión con los términos precisos?",
+        "answers": [
+            "El facultativo responsable del paciente.",
+            "El personal auxiliar del laboratorio.",
+            "El donante de sangre."
+        ],
+        "correctAnswers": "El facultativo responsable del paciente."
+    },
+    {
+        "question": "¿Quién debe indicar la transfusión basándose en criterios consensuados?",
+        "answers": [
+            "El facultativo responsable del paciente.",
+            "El camillero.",
+            "El familiar del paciente."
+        ],
+        "correctAnswers": "El facultativo responsable del paciente."
+    },
+    {
+        "question": "¿Es responsabilidad del hematólogo del depósito elegir el componente sanguíneo más adecuado?",
+        "answers": [
+            "Verdadero.",
+            "Falso."
+        ],
+        "correctAnswers": "Verdadero."
+    },
+    {
+        "question": "¿Cuál es una tarea del personal auxiliar del depósito?",
+        "answers": [
+            "Mantener orden en reactivos y materiales.",
+            "Prescribir tratamientos.",
+            "Realizar diagnósticos médicos."
+        ],
+        "correctAnswers": "Mantener orden en reactivos y materiales."
+    },
+    {
+        "question": "¿Cuáles son responsabilidades del personal auxiliar del depósito de sangre?",
+        "answers": [
+            "Realizar controles de calidad y mantenimiento de aparatos.",
+            "Firmar el alta hospitalaria del paciente.",
+            "Indicar la cirugía."
+        ],
+        "correctAnswers": "Realizar controles de calidad y mantenimiento de aparatos."
+    },
+    {
+        "question": "¿En qué consiste la función de la hoja de cierre transfusional?",
+        "answers": [
+            "Registrar el procedimiento realizado.",
+            "Servir solo como recibo de entrega.",
+            "Dejar constancia del donante."
+        ],
+        "correctAnswers": "Registrar el procedimiento realizado."
+    },
+    {
+        "question": "¿Cuál es la finalidad de la transfusión de hematíes concentrados?",
+        "answers": [
+            "Aumentar la capacidad de transporte de oxígeno.",
+            "Reducir el colesterol.",
+            "Administrar vitaminas."
+        ],
+        "correctAnswers": "Aumentar la capacidad de transporte de oxígeno."
+    },
+    {
+        "question": "¿En adultos, cuánto aumenta la hemoglobina (Hb) habitualmente una unidad de concentrado de hematíes?",
+        "answers": [
+            "1 g/dL.",
+            "3 g/dL.",
+            "0,1 g/dL."
+        ],
+        "correctAnswers": "1 g/dL."
+    },
+    {
+        "question": "¿Durante cuánto tiempo pueden conservarse los CH en SAG-M a temperatura adecuada?",
+        "answers": [
+            "Hasta 42 días.",
+            "Hasta 7 días.",
+            "Hasta un año."
+        ],
+        "correctAnswers": "Hasta 42 días."
+    },
+    {
+        "question": "¿Cuándo está indicada la transfusión de hematíes?",
+        "answers": [
+            "Cuando se requiere aumentar la capacidad de transporte de oxígeno.",
+            "Como tratamiento de la hipervolemia.",
+            "En anemias leves asintomáticas tratables."
+        ],
+        "correctAnswers": "Cuando se requiere aumentar la capacidad de transporte de oxígeno."
+    },
+    {
+        "question": "¿Se debe transfundir en anemia por déficit de hierro si se dispone de otro tratamiento?",
+        "answers": [
+            "Sí, siempre.",
+            "No, se debe tratar específicamente el déficit de hierro.",
+            "Solo en pacientes jóvenes."
+        ],
+        "correctAnswers": "No, se debe tratar específicamente el déficit de hierro."
+    },
+    {
+        "question": "¿Es correcto utilizar CH como expansores plasmáticos?",
+        "answers": [
+            "Sí.",
+            "No.",
+            "A veces."
+        ],
+        "correctAnswers": "No."
+    },
+    {
+        "question": "¿Debe evitarse transfundir CH de manera profiláctica para mejorar el estado general en ausencia de síndrome anémico?",
+        "answers": [
+            "Sí.",
+            "No.",
+            "Solo en casos de mala alimentación."
+        ],
+        "correctAnswers": "Sí."
+    },
+    {
+        "question": "¿Puede tolerar un paciente sin comorbilidades Hb de 6–7 g/dL en cirugía bajo anestesia y control de constantes?",
+        "answers": [
+            "Verdadero.",
+            "Falso."
+        ],
+        "correctAnswers": "Verdadero."
+    },
+    {
+        "question": "¿En pacientes con enfermedad vascular cerebral, cuál es el objetivo de Hb en el postoperatorio?",
+        "answers": [
+            "Entre 9–10 g/dL.",
+            "Superior a 14 g/dL.",
+            "Siempre inferior a 7 g/dL."
+        ],
+        "correctAnswers": "Entre 9–10 g/dL."
+    },
+    {
+        "question": "¿Es necesario realizar pruebas de compatibilidad eritrocitaria en todas las transfusiones de plaquetas?",
+        "answers": [
+            "Sí, siempre.",
+            "No, si el contenido de hematíes en el pool es inferior a 2 mililitros.",
+            "Solamente en pacientes menores de edad."
+        ],
+        "correctAnswers": "No, si el contenido de hematíes en el pool es inferior a 2 mililitros."
+    },
+    {
+        "question": "¿Cuál es la dosis habitual de transfusión de plaquetas en adultos?",
+        "answers": [
+            "0,05 cc/kg.",
+            "1 unidad terapéutica (pool).",
+            "10 cc/kg."
+        ],
+        "correctAnswers": "1 unidad terapéutica (pool)."
+    },
+    {
+        "question": "¿Cuándo está indicada la transfusión de plaquetas en pacientes estables con trombopenia secundaria?",
+        "answers": [
+            "Si las plaquetas < 5 x 10⁹/L.",
+            "Si las plaquetas < 100 x 10⁹/L.",
+            "Siempre tras hospitalización."
+        ],
+        "correctAnswers": "Si las plaquetas < 5 x 10⁹/L."
+    },
+    {
+        "question": "Para cirugía neurológica, ¿con qué nivel de plaquetas está indicada la transfusión preventiva?",
+        "answers": [
+            "Con menos de 100 x 10⁹/L.",
+            "Con menos de 20 x 10⁹/L.",
+            "Solo si hay sangrado activo."
+        ],
+        "correctAnswers": "Con menos de 100 x 10⁹/L."
+    },
+    {
+        "question": "En hemorragia activa, ¿con qué nivel de plaquetas suele indicarse transfusión?",
+        "answers": [
+            "Con menos de 50 x 10⁹/L.",
+            "Con menos de 10 x 10⁹/L.",
+            "Cuando hay más de 100 x 10⁹/L."
+        ],
+        "correctAnswers": "Con menos de 50 x 10⁹/L."
+    },
+    {
+        "question": "¿En PTT o SHU es útil la transfusión de plaquetas salvo riesgo vital?",
+        "answers": [
+            "Sí, es recomendable.",
+            "No está indicada salvo riesgo vital.",
+            "Siempre debe hacerse."
+        ],
+        "correctAnswers": "No está indicada salvo riesgo vital."
+    },
+    {
+        "question": "La dosis habitual de plasma fresco congelado en adultos es:",
+        "answers": [
+            "1 cc/kg.",
+            "50 cc/kg.",
+            "10–20 cc/kg."
+        ],
+        "correctAnswers": "10–20 cc/kg."
+    },
+    {
+        "question": "¿Se debe utilizar el plasma fresco como primera opción si existe un concentrado de factor específico?",
+        "answers": [
+            "Sí.",
+            "No.",
+            "Siempre."
+        ],
+        "correctAnswers": "No."
+    },
+    {
+        "question": "¿Cuál de estos NO es una indicación adecuada de plasma?",
+        "answers": [
+            "Reposición de factores de coagulación.",
+            "Revertir anticoagulantes orales si el paciente no sangra.",
+            "Solución de intercambio excepto en PTT."
+        ],
+        "correctAnswers": [
+            "Revertir anticoagulantes orales si el paciente no sangra.",
+            "Solución de intercambio excepto en PTT."
+        ]
+    },
+    {
+        "question": "¿La transfusión intraútero requiere el uso de productos irradiados?",
+        "answers": [
+            "Sí.",
+            "No.",
+            "Depende solo del grupo ABO."
+        ],
+        "correctAnswers": "Sí."
+    },
+    {
+        "question": "En un paciente inmunodeprimido, ¿cuál es la medida más eficaz para evitar enfermedad injerto contra huésped?",
+        "answers": [
+            "Uso solo de plasma.",
+            "Nunca irradiar componentes.",
+            "Irradiar los componentes sanguíneos."
+        ],
+        "correctAnswers": [
+            "Nunca irradiar componentes.",
+            "Irradiar los componentes sanguíneos."
+        ]
+    },
+    {
+        "question": "¿Cuántos días después de la extracción se recomienda que los componentes sanguíneos sean irradiados?",
+        "answers": [
+            "Durante los primeros 14 días.",
+            "Después de un año.",
+            "No es relevante."
+        ],
+        "correctAnswers": "Durante los primeros 14 días."
+    },
+    {
+        "question": "¿Cuándo debe administrarse el concentrado irradiado a los neonatos tras la irradiación?",
+        "answers": [
+            "Dentro de la primera semana.",
+            "En las primeras 24 horas.",
+            "En cualquier momento."
+        ],
+        "correctAnswers": "En las primeras 24 horas."
+    },
+    {
+        "question": "La solicitud de transfusión debe incluir:",
+        "answers": [
+            "Solo el nombre del médico.",
+            "Datos demográficos del receptor, diagnóstico, tipo y cantidad de componente solicitado.",
+            "Solo el grupo sanguíneo."
+        ],
+        "correctAnswers": "Datos demográficos del receptor, diagnóstico, tipo y cantidad de componente solicitado."
+    },
+    {
+        "question": "¿Qué debe hacerse ante cualquier discrepancia detectada antes de iniciar la transfusión?",
+        "answers": [
+            "No iniciar la transfusión y contactar con el Banco de Sangre.",
+            "Iniciar y avisar luego.",
+            "Seguir según disponibilidad."
+        ],
+        "correctAnswers": "No iniciar la transfusión y contactar con el Banco de Sangre."
+    },
+    {
+        "question": "La única solución permitida para infusión junto a la sangre por la misma vía es:",
+        "answers": [
+            "Glucosa al 5%.",
+            "NaCl 3%.",
+            "Suero salino fisiológico 0,9%."
+        ],
+        "correctAnswers": "Suero salino fisiológico 0,9%."
+    },
+    {
+        "question": "¿Cuánto tiempo se recomienda administrar una bolsa de hematíes a un paciente estable?",
+        "answers": [
+            "2–3 horas.",
+            "10 minutos.",
+            "Más de 6 horas."
+        ],
+        "correctAnswers": "2–3 horas."
+    },
+    {
+        "question": "¿La transfusión de plaquetas debe administrarse preferentemente en:",
+        "answers": [
+            "20–30 minutos.",
+            "2 horas.",
+            "Toda la noche."
+        ],
+        "correctAnswers": "20–30 minutos."
+    },
+    {
+        "question": "¿Qué hacer si un componente no ha sido transfundido?",
+        "answers": [
+            "Devolverlo inmediatamente al Banco de Sangre.",
+            "Desecharlo en planta.",
+            "Guardarlo en la habitación."
+        ],
+        "correctAnswers": "Devolverlo inmediatamente al Banco de Sangre."
+    },
+    {
+        "question": "¿Cuál es el principal riesgo de conservar sangre a temperatura ambiente por más de 30 minutos?",
+        "answers": [
+            "Riesgo bacteriano.",
+            "Pérdida de nutrientes.",
+            "Formación de burbujas."
+        ],
+        "correctAnswers": "Riesgo bacteriano."
+    },
+    {
+        "question": "¿Está permitido administrar medicamentos en la misma vía de la transfusión sanguínea?",
+        "answers": [
+            "Sí.",
+            "No.",
+            "Si el paciente lo autoriza."
+        ],
+        "correctAnswers": "No."
+    },
+    {
+        "question": "¿Qué hacer ante una reacción transfusional aguda?",
+        "answers": [
+            "Continuar la transfusión lentamente.",
+            "Detener la transfusión y mantener la vía con solución salina isotónica.",
+            "Ignorarla si es leve."
+        ],
+        "correctAnswers": "Detener la transfusión y mantener la vía con solución salina isotónica."
+    },
+    {
+        "question": "En caso de reacción anafiláctica grave, la transfusión debe:",
+        "answers": [
+            "Ser más lenta.",
+            "Interrumpirse inmediatamente y tomar medidas de soporte vital.",
+            "Proseguir si el médico lo indica."
+        ],
+        "correctAnswers": "Interrumpirse inmediatamente y tomar medidas de soporte vital."
+    },
+    {
+        "question": "¿La “refractariedad” a la transfusión de plaquetas puede ser por aloinmunización?",
+        "answers": [
+            "Verdadero.",
+            "Falso."
+        ],
+        "correctAnswers": "Verdadero."
+    },
+    {
+        "question": "¿Qué tipo de reacción es TRALI?",
+        "answers": [
+            "Edema pulmonar agudo no cardiogénico.",
+            "Microangiopatía.",
+            "Hemorragia cerebral."
+        ],
+        "correctAnswers": "Edema pulmonar agudo no cardiogénico."
+    },
+    {
+        "question": "Ante una reacción febril no hemolítica, se debe:",
+        "answers": [
+            "Disminuir el ritmo e incluso suspender transfusión, y administrar antitérmicos.",
+            "Medir solo el pulso.",
+            "Ignorar la fiebre."
+        ],
+        "correctAnswers": "Disminuir el ritmo e incluso suspender transfusión, y administrar antitérmicos."
+    },
+    {
+        "question": "¿Cuál es la complicación más grave y aguda de la transfusión?",
+        "answers": [
+            "Aloinmunización retardada.",
+            "Hemólisis intravascular inmediata por incompatibilidad ABO.",
+            "Prurito leve."
+        ],
+        "correctAnswers": "Hemólisis intravascular inmediata por incompatibilidad ABO."
+    },
+    {
+        "question": "¿La aloinmunización puede ser causada por transfusión de plaquetas?",
+        "answers": [
+            "Sí.",
+            "No.",
+            "Solo en trasplante renal."
+        ],
+        "correctAnswers": "Sí."
+    },
+    {
+        "question": "La enfermedad injerto contra huésped postransfusional ocurre por:",
+        "answers": [
+            "Priones.",
+            "Linfocitos T viables transfundidos a inmunodeprimido.",
+            "Coagulación deficiente."
+        ],
+        "correctAnswers": "Linfocitos T viables transfundidos a inmunodeprimido."
+    },
+    {
+        "question": "¿Cuándo está indicada la prevención de hemosiderosis transfusional?",
+        "answers": [
+            "En anemias crónicas con necesidad de transfusiones periódicas.",
+            "En cualquier transfusión.",
+            "Nunca."
+        ],
+        "correctAnswers": "En anemias crónicas con necesidad de transfusiones periódicas."
+    },
+    {
+        "question": "¿Qué documento es imprescindible antes de iniciar la transfusión?",
+        "answers": [
+            "Consentimiento informado.",
+            "Ficha de laboratorio.",
+            "Copia del DNI."
+        ],
+        "correctAnswers": "Consentimiento informado."
+    },
+    {
+        "question": "¿Quién debe firmar y archivar la hoja de cierre transfusional?",
+        "answers": [
+            "El personal responsable de la transfusión.",
+            "El celador.",
+            "El donante."
+        ],
+        "correctAnswers": "El personal responsable de la transfusión."
+    },
+    {
+        "question": "¿Ante la aparición de una reacción transfusional, quién debe comunicar el incidente al sistema de hemovigilancia?",
+        "answers": [
+            "El paciente.",
+            "El responsable del depósito de sangre.",
+            "El farmacéutico."
+        ],
+        "correctAnswers": "El responsable del depósito de sangre."
+    }
+]
