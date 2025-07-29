@@ -1,0 +1,990 @@
+[
+    {
+        "question": "¿Cuál es el objetivo principal del programa de formación del Servicio de Transfusión (ST)?",
+        "answers": [
+            "Formación teórica básica en medicina transfusional de los DUE y TEL.",
+            "Dar a conocer únicamente las instalaciones.",
+            "Supervisar solo los equipos.",
+            "No formar en aspectos normativos."
+        ],
+        "correctAnswers": "Formación teórica básica en medicina transfusional de los DUE y TEL."
+    },
+    {
+        "question": "¿Quién dirige operativamente el ST?",
+        "answers": [
+            "Un especialista en Hematología y Hemoterapia.",
+            "El director del hospital.",
+            "El personal de administración.",
+            "Un médico general."
+        ],
+        "correctAnswers": "Un especialista en Hematología y Hemoterapia."
+    },
+    {
+        "question": "¿A quién recae la responsabilidad del trabajo realizado en el ST?",
+        "answers": [
+            "En el personal del ST.",
+            "Solo en el hematólogo.",
+            "En los pacientes.",
+            "En el director de calidad."
+        ],
+        "correctAnswers": "En el personal del ST."
+    },
+    {
+        "question": "¿Cada cuánto tiempo se debe certificar y reevaluar la formación del personal del ST?",
+        "answers": [
+            "Cada dos años.",
+            "Anualmente.",
+            "Solo al ingresar.",
+            "Cada cinco años."
+        ],
+        "correctAnswers": "Anualmente."
+    },
+    {
+        "question": "¿Qué documento debe elaborarse para cada empleado en relación a su formación?",
+        "answers": [
+            "Ficha de nómina.",
+            "FICHA PERSONAL DE FORMACIÓN.",
+            "Protocolo de urgencias.",
+            "Manual de bioseguridad."
+        ],
+        "correctAnswers": "FICHA PERSONAL DE FORMACIÓN."
+    },
+    {
+        "question": "¿Cuánto dura como máximo el periodo de formación inicial para un técnico en el ST?",
+        "answers": [
+            "30 días.",
+            "15 días.",
+            "60 días.",
+            "No tiene límite."
+        ],
+        "correctAnswers": "30 días."
+    },
+    {
+        "question": "¿Qué tipo de registro se debe mantener de la formación del personal?",
+        "answers": [
+            "Registro de pacientes.",
+            "Registro de gastos.",
+            "Registro de formación y capacitación.",
+            "Registro de incidencias solamente."
+        ],
+        "correctAnswers": "Registro de formación y capacitación."
+    },
+    {
+        "question": "¿En qué formato puede realizarse una petición de transfusión?",
+        "answers": [
+            "Solo en papel.",
+            "Por teléfono.",
+            "En formato electrónico o papel.",
+            "No es necesario formato."
+        ],
+        "correctAnswers": "En formato electrónico o papel."
+    },
+    {
+        "question": "¿Qué dato NO ES imprescindible en una petición de transfusión?",
+        "answers": [
+            "Identificación del paciente.",
+            "Cantidad de sangre solicitada.",
+            "Color de ojos del paciente.",
+            "Diagnóstico y causa que motiva la transfusión."
+        ],
+        "correctAnswers": "Color de ojos del paciente."
+    },
+    {
+        "question": "¿Cuándo puede el personal del ST devolver una petición de transfusión?",
+        "answers": [
+            "Cuando quiera.",
+            "Nunca si la petición está bien cumplimentada.",
+            "Cuando falte información relevante.",
+            "Cuando lo indique el paciente."
+        ],
+        "correctAnswers": "Nunca si la petición está bien cumplimentada."
+    },
+    {
+        "question": "¿Qué se recomienda hacer a las muestras pretransfusionales antes de la cirugía?",
+        "answers": [
+            "Extraerlas con antelación suficiente.",
+            "Extraerlas el mismo día.",
+            "No recomendado.",
+            "Pedirlas al donante."
+        ],
+        "correctAnswers": "Extraerlas con antelación suficiente."
+    },
+    {
+        "question": "¿Es obligatorio identificar activamente al paciente durante la extracción de muestras?",
+        "answers": [
+            "No, basta con preguntar al acompañante.",
+            "Sólo si es un niño.",
+            "Sí, siempre que sea posible.",
+            "Solo en intervenciones mayores."
+        ],
+        "correctAnswers": "Sí, siempre que sea posible."
+    },
+    {
+        "question": "¿Quién debe entregar la muestra sanguínea al servicio de transfusión?",
+        "answers": [
+            "El paciente.",
+            "El personal responsable de la extracción.",
+            "Un administrativo.",
+            "El laboratorista."
+        ],
+        "correctAnswers": "El personal responsable de la extracción."
+    },
+    {
+        "question": "¿Cuánto tiempo se deben conservar las peticiones de transfusión?",
+        "answers": [
+            "Un mínimo de 30 años.",
+            "1 año.",
+            "6 meses.",
+            "No hay plazo."
+        ],
+        "correctAnswers": "Un mínimo de 30 años."
+    },
+    {
+        "question": "¿Qué ocurre si una muestra de sangre está mal identificada?",
+        "answers": [
+            "Se acepta con reservas.",
+            "Se rechaza y se solicita una nueva.",
+            "Se mezcla con otra.",
+            "Nada, si el paciente firma."
+        ],
+        "correctAnswers": "Se rechaza y se solicita una nueva."
+    },
+    {
+        "question": "¿Qué es un antígeno?",
+        "answers": [
+            "Un virus.",
+            "Una sustancia que puede inducir la formación de anticuerpos.",
+            "Un anticoagulante.",
+            "Una bacteria."
+        ],
+        "correctAnswers": "Una sustancia que puede inducir la formación de anticuerpos."
+    },
+    {
+        "question": "Selecciona la opción correcta sobre antígenos públicos y privados.",
+        "answers": [
+            "Los públicos están presentes en la mayoría de la población.",
+            "Los privados son los más frecuentes.",
+            "Los públicos no tienen importancia clínica.",
+            "Los privados no existen."
+        ],
+        "correctAnswers": "Los públicos están presentes en la mayoría de la población."
+    },
+    {
+        "question": "¿Qué inmunoglobulinas son relevantes en Inmunohematología?",
+        "answers": [
+            "IgA e IgE.",
+            "IgM e IgG.",
+            "IgD solo.",
+            "Ninguna."
+        ],
+        "correctAnswers": "IgM e IgG."
+    },
+    {
+        "question": "¿Qué caracteriza a un anticuerpo de tipo IgM?",
+        "answers": [
+            "Actúa a bajas temperaturas.",
+            "Siempre produce hemólisis.",
+            "Se detecta solo en plasmaféresis.",
+            "No es importante."
+        ],
+        "correctAnswers": "Actúa a bajas temperaturas."
+    },
+    {
+        "question": "¿Cómo se definen los anticuerpos naturales en el contexto del ST?",
+        "answers": [
+            "Se presentan sin contacto previo con el antígeno.",
+            "Solo aparecen tras transfusión.",
+            "Son los más peligrosos.",
+            "Ninguna es correcta."
+        ],
+        "correctAnswers": "Se presentan sin contacto previo con el antígeno."
+    },
+    {
+        "question": "¿En qué consiste la prueba de antiglobulina o Coombs?",
+        "answers": [
+            "Recuento de plaquetas.",
+            "Detección de anticuerpos anti-eritrocitarios libres o fijados.",
+            "Estudio de leucocitos.",
+            "Medición de hemoglobina."
+        ],
+        "correctAnswers": "Detección de anticuerpos anti-eritrocitarios libres o fijados."
+    },
+    {
+        "question": "La prueba de Coombs directa se utiliza para detectar:",
+        "answers": [
+            "El grupo sanguíneo.",
+            "Anticuerpos fijados sobre los hematíes.",
+            "Antígenos solubles.",
+            "Niveles de glucosa."
+        ],
+        "correctAnswers": "Anticuerpos fijados sobre los hematíes."
+    },
+    {
+        "question": "En la prueba de Coombs indirecta, el objetivo es:",
+        "answers": [
+            "Detectar infecciones.",
+            "Identificar anticuerpos libres en suero.",
+            "Detectar ADN viral.",
+            "Medir trombina."
+        ],
+        "correctAnswers": "Identificar anticuerpos libres en suero."
+    },
+    {
+        "question": "¿Qué grupo sanguíneo es el más importante en transfusiones?",
+        "answers": [
+            "Rh.",
+            "MN.",
+            "ABO.",
+            "Lutheran."
+        ],
+        "correctAnswers": "ABO."
+    },
+    {
+        "question": "¿Cuántos fenotipos principales tiene el sistema ABO?",
+        "answers": [
+            "1.",
+            "2.",
+            "4.",
+            "6."
+        ],
+        "correctAnswers": "4."
+    },
+    {
+        "question": "Una persona con genotipo AA tendrá fenotipo:",
+        "answers": [
+            "Fenotipo A.",
+            "Fenotipo AB.",
+            "Fenotipo O.",
+            "Fenotipo B."
+        ],
+        "correctAnswers": "Fenotipo A."
+    },
+    {
+        "question": "¿Qué anticuerpos tiene una persona de grupo O?",
+        "answers": [
+            "Anti-A solo.",
+            "Anti-B solo.",
+            "Anti-A y Anti-B.",
+            "Ninguno."
+        ],
+        "correctAnswers": "Anti-A y Anti-B."
+    },
+    {
+        "question": "El fenotipo AB se caracteriza por:",
+        "answers": [
+            "Tener solo el antígeno A.",
+            "No tener antígenos.",
+            "No tener anticuerpos “regulares” en plasma.",
+            "Tener solo anticuerpos anti-B."
+        ],
+        "correctAnswers": "No tener anticuerpos “regulares” en plasma."
+    },
+    {
+        "question": "¿Cuándo existe mayor riesgo de confusión en la tipificación del grupo ABO?",
+        "answers": [
+            "Siempre.",
+            "Solo en mujeres.",
+            "Cuando hay fallos metodológicos o condiciones especiales.",
+            "Nunca."
+        ],
+        "correctAnswers": "Cuando hay fallos metodológicos o condiciones especiales."
+    },
+    {
+        "question": "El sistema Rh fue descubierto en:",
+        "answers": [
+            "1850.",
+            "1940.",
+            "1910.",
+            "2000."
+        ],
+        "correctAnswers": "1940."
+    },
+    {
+        "question": "La prueba de compatibilidad es fundamental para:",
+        "answers": [
+            "Detectar enfermedades.",
+            "Garantizar la bioseguridad.",
+            "Evitar reacciones transfusionales.",
+            "Hacer donación autóloga."
+        ],
+        "correctAnswers": "Evitar reacciones transfusionales."
+    },
+    {
+        "question": "¿Cuáles son las pruebas que incluyen la compatibilidad?",
+        "answers": [
+            "Solo ABO.",
+            "Tipaje ABO/Rh, escrutinio de anticuerpos y prueba cruzada.",
+            "Hemograma y glucosa.",
+            "Placa de cultivo bacteriano."
+        ],
+        "correctAnswers": "Tipaje ABO/Rh, escrutinio de anticuerpos y prueba cruzada."
+    },
+    {
+        "question": "En una “prueba cruzada” se enfrenta:",
+        "answers": [
+            "El plasma del donante con un reactivo.",
+            "El suero del paciente con hematíes de la bolsa seleccionada.",
+            "Dos reactivos químicos.",
+            "Plaquetas con plasma."
+        ],
+        "correctAnswers": "El suero del paciente con hematíes de la bolsa seleccionada."
+    },
+    {
+        "question": "Cuando el escrutinio de anticuerpos irregulares es positivo, ¿qué hay que hacer?",
+        "answers": [
+            "Identificar el anticuerpo para seleccionar la sangre adecuada.",
+            "No transfundir nunca.",
+            "Ignorar el hallazgo.",
+            "Medir la glucosa."
+        ],
+        "correctAnswers": "Identificar el anticuerpo para seleccionar la sangre adecuada."
+    },
+    {
+        "question": "¿Qué componente sanguíneo se puede seleccionar sin problemas si el paciente no tiene anticuerpos irregulares?",
+        "answers": [
+            "Cualquier bolsa.",
+            "Concentrado isogrupo ABO/Rh.",
+            "Solo plasma.",
+            "Solo plaquetas."
+        ],
+        "correctAnswers": "Concentrado isogrupo ABO/Rh."
+    },
+    {
+        "question": "¿Es posible transfundir hematíes Rh positivos a Rh negativos?",
+        "answers": [
+            "No, nunca.",
+            "Nunca sin aprobación del hematólogo responsable y bajo circunstancias.",
+            "Solo en niños.",
+            "Siempre."
+        ],
+        "correctAnswers": "Nunca sin aprobación del hematólogo responsable y bajo circunstancias."
+    },
+    {
+        "question": "¿Qué tests serológicos se realizan a todas las bolsas de sangre?",
+        "answers": [
+            "Sólo grupo ABO.",
+            "Nivel de virus, anticuerpos irregulares y antígeno de superficie de hepatitis B, entre otros.",
+            "Solo coagulación.",
+            "Solo hemoglobina."
+        ],
+        "correctAnswers": "Nivel de virus, anticuerpos irregulares y antígeno de superficie de hepatitis B, entre otros."
+    },
+    {
+        "question": "Sobre el pool de plaquetas leucodeplecionadas, señala la correcta:",
+        "answers": [
+            "Sólo son temporales.",
+            "Tienen menos de 1x10^6 leucocitos.",
+            "No se mezclan las unidades.",
+            "No se agitan nunca."
+        ],
+        "correctAnswers": "Tienen menos de 1x10^6 leucocitos."
+    },
+    {
+        "question": "¿Cuánto puede durar el plasma fresco congelado?",
+        "answers": [
+            "1 mes.",
+            "3 años.",
+            "6 meses.",
+            "12 años."
+        ],
+        "correctAnswers": "3 años."
+    },
+    {
+        "question": "El plasma cuartentenado, antes de ser usado, requiere:",
+        "answers": [
+            "Solo análisis ABO.",
+            "Verificación adicional del donante en nueva donación y marcador viral negativo.",
+            "Descongelación y mezcla.",
+            "Nada especial."
+        ],
+        "correctAnswers": "Verificación adicional del donante en nueva donación y marcador viral negativo."
+    },
+    {
+        "question": "El registro de salida de componentes sanguíneos incluye:",
+        "answers": [
+            "Cantidad extraída.",
+            "Día y hora de salida.",
+            "Nombre del paciente solo.",
+            "Firma del transportista."
+        ],
+        "correctAnswers": "Día y hora de salida."
+    },
+    {
+        "question": "¿Cuál es el plazo máximo habitual para devolver una bolsa de sangre si no se ha utilizado ni perforado?",
+        "answers": [
+            "10 minutos.",
+            "30-60 minutos.",
+            "2 horas.",
+            "Nada."
+        ],
+        "correctAnswers": "30-60 minutos."
+    },
+    {
+        "question": "¿Se pueden usar las plaquetas devueltas?",
+        "answers": [
+            "Siempre, si no hay reclamación.",
+            "Nunca después de más de dos horas fuera del ST.",
+            "Solo si se enfrían.",
+            "Siempre."
+        ],
+        "correctAnswers": "Nunca después de más de dos horas fuera del ST."
+    },
+    {
+        "question": "En lactantes menores de 4 meses, la compatibilidad se prueba con:",
+        "answers": [
+            "Sólo sangre materna.",
+            "Suero de madre o del niño.",
+            "Sangre de plantilla.",
+            "No es necesario."
+        ],
+        "correctAnswers": "Suero de madre o del niño."
+    },
+    {
+        "question": "El principal riesgo en mujeres en edad fértil con transfusión es:",
+        "answers": [
+            "Hemorragia.",
+            "Isinmunización y complicaciones materno-fetales.",
+            "Trombosis.",
+            "Ninguno."
+        ],
+        "correctAnswers": "Isinmunización y complicaciones materno-fetales."
+    },
+    {
+        "question": "¿Qué es una reacción transfusional?",
+        "answers": [
+            "Cualquier alteración positiva en el paciente.",
+            "Efecto indeseable durante o tras transfusión.",
+            "Acumulación de hierro.",
+            "Mejora del hematocrito."
+        ],
+        "correctAnswers": "Efecto indeseable durante o tras transfusión."
+    },
+    {
+        "question": "Las reacciones alérgicas leves producen:",
+        "answers": [
+            "Urticaria/prurito.",
+            "Hemólisis aguda.",
+            "Edema cerebral.",
+            "Parálisis facial."
+        ],
+        "correctAnswers": "Urticaria/prurito."
+    },
+    {
+        "question": "¿TRALI corresponde a?",
+        "answers": [
+            "Transfusión por vía arterial lenta.",
+            "Edema pulmonar no cardiogénico relacionado con anticuerpos del donante.",
+            "Infección bacteriana.",
+            "Reacción renal."
+        ],
+        "correctAnswers": "Edema pulmonar no cardiogénico relacionado con anticuerpos del donante."
+    },
+    {
+        "question": "Las reacciones hemolíticas retardadas suelen presentarse por:",
+        "answers": [
+            "Exposición previa e inmunización no detectada.",
+            "Error de grupo.",
+            "Mal manejo de muestras.",
+            "Bajos niveles de hierro."
+        ],
+        "correctAnswers": "Exposición previa e inmunización no detectada."
+    },
+    {
+        "question": "La hemovigilancia en España se organiza en:",
+        "answers": [
+            "Tres niveles (hospital, centro de transfusión, estatal).",
+            "Dos niveles solo.",
+            "Nivel hospitalario, autonómico y estatal.",
+            "Ninguna."
+        ],
+        "correctAnswers": "Nivel hospitalario, autonómico y estatal."
+    },
+    {
+        "question": "El objetivo de la hemovigilancia es:",
+        "answers": [
+            "Detectar, registrar y analizar efectos adversos de la transfusión.",
+            "Monitorizar el nivel de glucosa.",
+            "Evaluar solo los donantes.",
+            "Destruir el plasma sobrante."
+        ],
+        "correctAnswers": "Detectar, registrar y analizar efectos adversos de la transfusión."
+    },
+    {
+        "question": "La bioseguridad en laboratorio implica:",
+        "answers": [
+            "Permitir acceso libre.",
+            "Reducir riesgos con procedimientos descritos.",
+            "Solo usar guantes.",
+            "NingunaAquí tienes 50 preguntas tipo test en el formato que has pedido, todas basadas en el manual proporcionado:"
+        ],
+        "correctAnswers": "Reducir riesgos con procedimientos descritos."
+    },
+    {
+        "question": "¿Cuál es el objetivo principal del programa de formación del personal del ST?",
+        "answers": [
+            "Formación teórica básica en medicina transfusional.",
+            "Mejorar la limpieza del servicio.",
+            "Solo aprender informática."
+        ],
+        "correctAnswers": "Formación teórica básica en medicina transfusional."
+    },
+    {
+        "question": "¿Quién debe dirigir operativamente el Servicio de Transfusión (ST)?",
+        "answers": [
+            "Un especialista en Hematología y Hemoterapia.",
+            "El gerente del hospital.",
+            "Un enfermero jefe."
+        ],
+        "correctAnswers": "Un especialista en Hematología y Hemoterapia."
+    },
+    {
+        "question": "¿Cada cuánto debe reevaluarse la capacitación del personal del ST?",
+        "answers": [
+            "Anualmente.",
+            "Cada 10 años.",
+            "Nunca."
+        ],
+        "correctAnswers": "Anualmente."
+    },
+    {
+        "question": "¿Qué incluye el dosier de formación del empleado del ST?",
+        "answers": [
+            "Ficha personal, formación inicial, evaluación periódica y de eficacia.",
+            "Contrato laboral únicamente.",
+            "Calendario de vacaciones."
+        ],
+        "correctAnswers": "Ficha personal, formación inicial, evaluación periódica y de eficacia."
+    },
+    {
+        "question": "¿Qué ocurre si en una petición de transfusión falta el nombre del médico prescriptor?",
+        "answers": [
+            "El personal del ST puede no aceptarla y devolverla.",
+            "Se admite igualmente.",
+            "Se realiza consulta telefónica."
+        ],
+        "correctAnswers": "El personal del ST puede no aceptarla y devolverla."
+    },
+    {
+        "question": "¿Qué documento legal regula el contenido de la petición de transfusión?",
+        "answers": [
+            "Ley de transfusión.",
+            "Real Decreto 1088/2005.",
+            "Código civil."
+        ],
+        "correctAnswers": "Real Decreto 1088/2005."
+    },
+    {
+        "question": "La petición de transfusión puede ser en:",
+        "answers": [
+            "Sólo papel.",
+            "Formato electrónico o papel.",
+            "Mensaje oral."
+        ],
+        "correctAnswers": "Formato electrónico o papel."
+    },
+    {
+        "question": "Para procedimientos rutinarios programados, ¿cuánto tiempo puede tomar entregar sangre en caso de petición urgente?",
+        "answers": [
+            "1 día.",
+            "2 horas.",
+            "Una semana."
+        ],
+        "correctAnswers": "2 horas."
+    },
+    {
+        "question": "En situación de extrema urgencia, los receptores con grupo ABO desconocido reciben:",
+        "answers": [
+            "Células del grupo O, Rh negativo.",
+            "Plasma de grupo AB.",
+            "Células del grupo A, Rh positivo."
+        ],
+        "correctAnswers": "Células del grupo O, Rh negativo."
+    },
+    {
+        "question": "¿Es obligatorio pedir la cifra de hemoglobina para solicitar un concentrado de hematíes?",
+        "answers": [
+            "Sí, siempre.",
+            "Si es posible, debe indicarse.",
+            "Nunca es necesario."
+        ],
+        "correctAnswers": "Si es posible, debe indicarse."
+    },
+    {
+        "question": "¿Cuánto tiempo se deben conservar las peticiones de transfusión?",
+        "answers": [
+            "1 año.",
+            "30 años como mínimo.",
+            "1 mes."
+        ],
+        "correctAnswers": "30 años como mínimo."
+    },
+    {
+        "question": "¿Qué debe hacerse si la muestra está mal identificada?",
+        "answers": [
+            "Desechar y pedir una nueva.",
+            "Utilizar igualmente.",
+            "Repetir la prueba en el mismo tubo."
+        ],
+        "correctAnswers": "Desechar y pedir una nueva."
+    },
+    {
+        "question": "El tubo de EDTA para muestras debe contener:",
+        "answers": [
+            "Sangre sin coagular.",
+            "Agua destilada.",
+            "Glucosa adicional."
+        ],
+        "correctAnswers": "Sangre sin coagular."
+    },
+    {
+        "question": "¿Es válido aceptar muestras hemolizadas?",
+        "answers": [
+            "Siempre.",
+            "No deben aceptarse.",
+            "Si el médico firma."
+        ],
+        "correctAnswers": "No deben aceptarse."
+    },
+    {
+        "question": "¿Qué es un antígeno público?",
+        "answers": [
+            "Aparece en pocas personas.",
+            "Presente en gran parte de la población.",
+            "Se encuentra sólo en sangre AB."
+        ],
+        "correctAnswers": "Presente en gran parte de la población."
+    },
+    {
+        "question": "¿Cuántos tipos de inmunoglobulinas hay en suero según el manual?",
+        "answers": [
+            "Cinco.",
+            "Tres.",
+            "Dos."
+        ],
+        "correctAnswers": "Cinco."
+    },
+    {
+        "question": "¿Cuáles son importantes en Inmunohematología?",
+        "answers": [
+            "IgA e IgE.",
+            "IgM e IgG.",
+            "Solo IgE."
+        ],
+        "correctAnswers": "IgM e IgG."
+    },
+    {
+        "question": "¿Qué son los anticuerpos naturales según el manual?",
+        "answers": [
+            "Siempre peligrosos.",
+            "Se presentan sin contacto previo con el antígeno.",
+            "Producto de transfusiones previas."
+        ],
+        "correctAnswers": "Se presentan sin contacto previo con el antígeno."
+    },
+    {
+        "question": "¿Qué detecta la prueba de antiglobulina (Coombs)?",
+        "answers": [
+            "Células madre.",
+            "Anticuerpos anti-eritrocitarios.",
+            "Glucosa en plasma."
+        ],
+        "correctAnswers": "Anticuerpos anti-eritrocitarios."
+    },
+    {
+        "question": "La prueba de Coombs directa detecta:",
+        "answers": [
+            "Azúcares.",
+            "Hematíes recubiertos de anticuerpos.",
+            "Hemoglobina baja."
+        ],
+        "correctAnswers": "Hematíes recubiertos de anticuerpos."
+    },
+    {
+        "question": "La indirecta sirve para:",
+        "answers": [
+            "Detectar sodio.",
+            "Detectar anticuerpos en suero.",
+            "Detectar infecciones."
+        ],
+        "correctAnswers": "Detectar anticuerpos en suero."
+    },
+    {
+        "question": "En el sistema ABO, los grupos principales son:",
+        "answers": [
+            "Cinco.",
+            "Dos.",
+            "Cuatro."
+        ],
+        "correctAnswers": "Cuatro."
+    },
+    {
+        "question": "Un sujeto AO tiene fenotipo:",
+        "answers": [
+            "AB.",
+            "O.",
+            "A."
+        ],
+        "correctAnswers": "A."
+    },
+    {
+        "question": "Los anticuerpos “regulares” de un grupo O son:",
+        "answers": [
+            "Anti-A.",
+            "Anti-B.",
+            "Anti-A y Anti-B."
+        ],
+        "correctAnswers": "Anti-A y Anti-B."
+    },
+    {
+        "question": "Fenotipo AB se caracteriza por tener:",
+        "answers": [
+            "Anti-A.",
+            "Anti-B.",
+            "Ningún anticuerpo regular."
+        ],
+        "correctAnswers": "Ningún anticuerpo regular."
+    },
+    {
+        "question": "La compatibilidad ABO se evalúa usando:",
+        "answers": [
+            "Solo grupo hemático.",
+            "Grupo hemático y grupo sérico.",
+            "Test de coágulos."
+        ],
+        "correctAnswers": "Grupo hemático y grupo sérico."
+    },
+    {
+        "question": "Un falso negativo de tipificación ABO puede ser por:",
+        "answers": [
+            "Siempre ocurre.",
+            "Mal centrifugado.",
+            "Sólo si falta reactivo."
+        ],
+        "correctAnswers": "Mal centrifugado."
+    },
+    {
+        "question": "El sistema Rh se basa en:",
+        "answers": [
+            "Antígeno M.",
+            "Análisis de presencia de antígeno D.",
+            "Niveles de sodio."
+        ],
+        "correctAnswers": "Análisis de presencia de antígeno D."
+    },
+    {
+        "question": "El antígeno D débil requiere:",
+        "answers": [
+            "Pruebas adicionales para tipificarlo.",
+            "No atención especial.",
+            "Transfusión directa."
+        ],
+        "correctAnswers": "Pruebas adicionales para tipificarlo."
+    },
+    {
+        "question": "¿Existen anticuerpos naturales contra el sistema Rh?",
+        "answers": [
+            "Siempre.",
+            "No existen, solo por inmunización previa.",
+            "En las mujeres embarazadas."
+        ],
+        "correctAnswers": "No existen, solo por inmunización previa."
+    },
+    {
+        "question": "Los sistemas Kell, Duffy y Kidd son:",
+        "answers": [
+            "Otros sistemas antigénicos importantes.",
+            "Tipos de transfusión pediátrica.",
+            "Riesgos microbiológicos."
+        ],
+        "correctAnswers": "Otros sistemas antigénicos importantes."
+    },
+    {
+        "question": "¿Los anticuerpos anti-D pueden atravesar la placenta?",
+        "answers": [
+            "Nunca.",
+            "Sí, y afectar al feto.",
+            "Solo si la madre tiene grupo O."
+        ],
+        "correctAnswers": "Sí, y afectar al feto."
+    },
+    {
+        "question": "¿La prueba de compatibilidad incluye el escrutinio de anticuerpos irregulares?",
+        "answers": [
+            "Sí.",
+            "No.",
+            "Solo si es urgente."
+        ],
+        "correctAnswers": "Sí."
+    },
+    {
+        "question": "¿Qué sucede si la prueba cruzada sale positiva y el escrutinio es negativo?",
+        "answers": [
+            "Recuperar la muestra.",
+            "Puede deberse a anticuerpos contra antígenos de baja frecuencia.",
+            "Volver a incidir en el error."
+        ],
+        "correctAnswers": "Puede deberse a anticuerpos contra antígenos de baja frecuencia."
+    },
+    {
+        "question": "Si el paciente no tiene anticuerpos irregulares, se seleccionan:",
+        "answers": [
+            "Isogrupo ABO/Rh.",
+            "Solo plasma.",
+            "Plaquetas."
+        ],
+        "correctAnswers": "Isogrupo ABO/Rh."
+    },
+    {
+        "question": "¿Se puede utilizar plasma fresco descongelado después de 30 horas desde su descongelación?",
+        "answers": [
+            "Sí.",
+            "No.",
+            "Solo si está a -30°C."
+        ],
+        "correctAnswers": "No."
+    },
+    {
+        "question": "¿Qué es un pool de plaquetas leucodeplecionadas?",
+        "answers": [
+            "Plaquetas filtradas con menos de 1x10^6 leucocitos.",
+            "Mezcla sin filtrar.",
+            "Solo células madre."
+        ],
+        "correctAnswers": "Plaquetas filtradas con menos de 1x10^6 leucocitos."
+    },
+    {
+        "question": "¿Cuánto dura el plasma fresco jugando a -30 °C?",
+        "answers": [
+            "3 años.",
+            "3 meses.",
+            "3 días."
+        ],
+        "correctAnswers": "3 años."
+    },
+    {
+        "question": "¿Para qué pacientes está indicada la autotransfusión?",
+        "answers": [
+            "Pacientes sanos.",
+            "Pacientes con riesgo quirúrgico o incompatibilidades complejas.",
+            "Solo menores de 4 años."
+        ],
+        "correctAnswers": "Pacientes con riesgo quirúrgico o incompatibilidades complejas."
+    },
+    {
+        "question": "Para devolución de componentes sanguíneos, se acepta si:",
+        "answers": [
+            "La bolsa fue perforada.",
+            "No pasan 30–60 minutos y la bolsa está intacta.",
+            "Se mantiene a 22°C."
+        ],
+        "correctAnswers": "No pasan 30–60 minutos y la bolsa está intacta."
+    },
+    {
+        "question": "¿Las plaquetas pueden conservarse cuánto tiempo tras la devolución?",
+        "answers": [
+            "Siempre 24 horas.",
+            "Hasta 2 horas, luego se desechan.",
+            "No hay restricción."
+        ],
+        "correctAnswers": "Hasta 2 horas, luego se desechan."
+    },
+    {
+        "question": "La ficha del equipo de laboratorio debe contener:",
+        "answers": [
+            "Solo el precio.",
+            "Descripción, identificación, ubicación y fechas de mantenimiento.",
+            "La marca del fabricante solamente."
+        ],
+        "correctAnswers": "Descripción, identificación, ubicación y fechas de mantenimiento."
+    },
+    {
+        "question": "En menores de 4 meses, ¿cómo se evalúa la compatibilidad?",
+        "answers": [
+            "Con suero de la madre o del niño.",
+            "No hay control.",
+            "Solo con grupo ABO."
+        ],
+        "correctAnswers": "Con suero de la madre o del niño."
+    },
+    {
+        "question": "En mujeres en edad fértil, ¿qué recomendación hay para la transfusión?",
+        "answers": [
+            "Nunca transfundir salvo necesidad y buscar Rh y Kell compatibles.",
+            "Siempre transfundir grupo O.",
+            "No importa el fenotipo."
+        ],
+        "correctAnswers": "Nunca transfundir salvo necesidad y buscar Rh y Kell compatibles."
+    },
+    {
+        "question": "Una reacción transfusional es:",
+        "answers": [
+            "Efecto indeseable durante o tras la transfusión.",
+            "Siempre inmediata.",
+            "Un efecto positivo."
+        ],
+        "correctAnswers": "Efecto indeseable durante o tras la transfusión."
+    },
+    {
+        "question": "Las reacciones febriles son:",
+        "answers": [
+            "Escalofríos y fiebre.",
+            "Always produce shock.",
+            "Cefaleas severas sin fiebre."
+        ],
+        "correctAnswers": "Escalofríos y fiebre."
+    },
+    {
+        "question": "En los receptores sin IgA pueden aparecer reacciones:",
+        "answers": [
+            "Anemias leves.",
+            "Anafilácticas graves.",
+            "Hemólisis retardadas."
+        ],
+        "correctAnswers": "Anafilácticas graves."
+    },
+    {
+        "question": "El TRALI corresponde a:",
+        "answers": [
+            "Edema renal.",
+            "Edema pulmonar no cardiogénico vinculado a anticuerpos del donante.",
+            "Icictericia instantánea."
+        ],
+        "correctAnswers": "Edema pulmonar no cardiogénico vinculado a anticuerpos del donante."
+    },
+    {
+        "question": "Si un paciente queda inmunizado por transfusión, puede presentar:",
+        "answers": [
+            "Reacciones hemolíticas retardadas.",
+            "Sólo prurito.",
+            "Fiebre aislada."
+        ],
+        "correctAnswers": "Reacciones hemolíticas retardadas."
+    },
+    {
+        "question": "La hemovigilancia debe:",
+        "answers": [
+            "Focalizar solo en donantes.",
+            "Detectar, registrar y analizar reacciones adversas.",
+            "Analizar solo residuos."
+        ],
+        "correctAnswers": "Detectar, registrar y analizar reacciones adversas."
+    },
+    {
+        "question": "El sistema nacional de hemovigilancia:",
+        "answers": [
+            "Solo es estatal.",
+            "Funciona a tres niveles: hospitalario, autonómico, estatal.",
+            "Solo es para plasmaféresis."
+        ],
+        "correctAnswers": "Funciona a tres niveles: hospitalario, autonómico, estatal."
+    },
+    {
+        "question": "La bioseguridad en laboratorio necesita:",
+        "answers": [
+            "Solo limpieza de superficie.",
+            "Un procedimiento para minimizar riesgos.",
+            "No manipular muestras."
+        ],
+        "correctAnswers": "Un procedimiento para minimizar riesgos."
+    }
+]
